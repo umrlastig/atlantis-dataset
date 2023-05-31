@@ -1,0 +1,93 @@
+T1	geogFeat 15 18	DST
+T2	geogFeat 39 42	DST
+T3	geogFeat 46 49	Pas
+T4	geogFeat 235 238	Pas
+T5	geogFeat 264 267	DST
+T6	geogFeat 301 304	DST
+T7	geogFeat 343 348	route
+T8	geogFeat 401 414	voie d’entrée
+T9	geogFeat 437 440	DST
+T10	geogFeat 486 490	côte
+T11	geogFeat 537 541	amer
+T12	geogFeat 551 555	tour
+T13	geogFeat 593 598	phare
+T14	geogFeat 604 607	île
+T15	geogFeat 718 724	ROUTES
+T16	geogFeat 754 759	Phare
+T17	geogFeat 765 768	Île
+T18	geogFeat 860 865	côtes
+T19	geogFeat 939 942	DST
+T20	geogFeat 1025 1029	zone
+T21	geogFeat 1065 1068	cap
+T22	geogFeat 1146 1153	passage
+T23	geogFeat 1157 1160	Raz
+T24	geogFeat 1252 1256	îles
+T25	geogName 1347 1399	ports de Le Havre-Antifer, Le Havre, Rouen 😄😍et Caen
+T26	geogFeat 1467 1470	DST
+T27	geogFeat 1511 1516	route
+T28	geogFeat 1568 1574	entrée
+T29	geogFeat 1581 1585	voie
+T30	geogFeat 1615 1618	Pas
+T31	geogFeat 1608 1611	DST
+T32	geogFeat 1642 1652	itinéraire
+T33	geogFeat 1681 1697	zone d’exercices
+T34	geogFeat 1781 1784	DST
+T35	geogFeat 1788 1791	Pas
+T36	geogFeat 1837 1842	bancs
+T37	geogFeat 1958 1965	détroit
+T38	geogFeat 1982 1987	amers
+T39	geogFeat 1994 1998	côte
+T40	name 21 29	Ouessant
+T41	name 53 59	Calais
+T42	name 242 248	Calais
+T43	name 272 280	Casquets
+T44	name 307 315	Ouessant
+T45	name 445 453	Casquets
+T46	name 608 614	Vierge
+T47	name 769 775	Vierge
+T48	name 840 849	Guernesey
+T49	name 910 918	Casquets
+T50	name 1072 1080	la Hague
+T51	name 1161 1170	Blanchard
+T52	name 1257 1272	Anglo-Normandes
+T53	name 1356 1372	Le Havre-Antifer
+T54	name 1374 1382	Le Havre
+T55	name 1384 1389	Rouen
+T56	name 1395 1399	Caen
+T57	name 1475 1483	Casquets
+T58	name 1622 1628	Calais
+T59	name 1795 1801	Calais
+T60	name 1843 1853	Bassurelle
+T61	name 1898 1906	Vergoyer
+T62	geogName 15 29	DST d’Ouessant
+T63	geogName 46 59	Pas de Calais
+T64	geogName 39 59	DST du Pas de Calais
+T65	geogName 235 248	Pas de Calais
+T66	geogName 264 280	DST des Casquets
+T67	geogName 301 315	DST d’Ouessant
+T68	geogName 437 453	DST des Casquets
+T69	geogName 604 614	île Vierge
+T70	geogName 593 614	phare de l’île Vierge
+T71	geogName 765 775	Île Vierge
+T72	geogName 754 775	Phare de l’Île Vierge
+T73	geogName 840 849	Guernesey
+T74	geogName 910 918	Casquets
+T75	geogName 1065 1080	cap de la Hague
+T76	geogName 1157 1170	Raz Blanchard
+T77	geogName 1146 1170	passage du Raz Blanchard
+T78	geogName 1252 1272	îles Anglo-Normandes
+T83	geogName 1467 1483	DST des Casquets
+T84	geogName 1615 1628	Pas de Calais
+T85	geogName 1608 1628	DST du Pas de Calais
+T86	geogName 1788 1801	Pas de Calais
+T87	geogName 1781 1801	DST du Pas de Calais
+T88	geogName 1837 1853	bancs Bassurelle
+T89	geogName 1898 1906	Vergoyer
+R2	ElementOf Arg1:T12 Arg2:T70	
+R5	ElementOf Arg1:T18 Arg2:T73	
+R7	ElementOf Arg1:T28 Arg2:T29	
+R8	ElementOf Arg1:T33 Arg2:T32	
+R10	ElementOf Arg1:T38 Arg2:T39	
+T90	name 1999 2008	française
+T91	geogName 1994 2008	côte française
+T92	geogFeat 1347 1352	ports

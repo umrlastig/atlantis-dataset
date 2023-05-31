@@ -1,0 +1,30 @@
+T1	geogFeat 29 32	bec
+T2	geogFeat 67 73	entrée
+T3	geogFeat 84 98	feu à secteurs
+T4	geogFeat 107 111	tour
+T5	geogFeat 129 135	sommet
+T6	geogFeat 182 189	secteur
+T7	geogFeat 202 205	feu
+T9	geogFeat 266 272	entrée
+T10	geogFeat 293 315	bouée latérale tribord
+T11	geogFeat 329 335	balise
+T12	geogFeat 370 378	panneaux
+T13	geogFeat 422 428	entrée
+T14	geogFeat 432 436	port
+T15	geogFeat 445 452	secteur
+T16	geogFeat 488 491	feu
+T8	geogFeat 243 258	chenal 😍d’accès
+T17	name 36 44	l’Époids
+T18	name 338 347	La Perche
+T19	geogName 29 44	bec de l’Époids
+T20	geogName 329 349	balise « La Perche »
+T21	geogFeat 236 239	axe
+R1	ElementOf Arg1:T3 Arg2:T4	
+R2	ElementOf Arg1:T5 Arg2:T4	
+R4	ElementOf Arg1:T21 Arg2:T8	
+R5	ElementOf Arg1:T9 Arg2:T8	
+R6	MarkedBy Arg1:T9 Arg2:T10	
+R7	MarkedBy Arg1:T9 Arg2:T20	
+R8	ElementOf Arg1:T12 Arg2:T20	
+R9	ElementOf Arg1:T13 Arg2:T14	
+R3	ElementOf Arg1:T3 Arg2:T19	

@@ -1,0 +1,78 @@
+T1	geogFeat 115 119	baie
+T2	geogFeat 158 169	PORT PUBLIC
+T3	geogFeat 206 230	Installations portuaires
+T4	geogFeat 309 319	PRESQU’ÎLE
+T5	geogFeat 332 335	CAP
+T6	geogFeat 346 350	ÎLES
+T7	geogFeat 361 371	PORT PRIVÉ
+T8	geogFeat 427 431	port
+T9	geogFeat 460 464	port
+T10	geogFeat 489 500	port public
+T11	geogFeat 518 524	places
+T12	geogFeat 582 587	ports
+T13	geogFeat 589 600	PORT PUBLIC
+T14	geogFeat 615 625	PORT PRIVÉ
+T15	geogFeat 640 666	Zone de mouillage organisé
+T16	geogFeat 684 690	places
+T17	geogFeat 747 761	cale de halage
+T19	geogFeat 820 832	appontements
+T20	geogFeat 834 853	Poste de carburants
+T21	geogFeat 877 882	ports
+T22	geogFeat 952 963	PORT PUBLIC
+T23	geogFeat 988 995	commune
+T24	geogFeat 1018 1039	Bureau du port public
+T25	geogFeat 1172 1182	PORT PRIVÉ
+T26	geogFeat 1224 1244	Bureau du port privé
+T27	geogFeat 1414 1428	quai d’attente
+T28	geogFeat 1440 1461	bureau du port public
+T29	geogFeat 1525 1541	Poste de secours
+T31	geogFeat 1605 1621	Poste de secours
+T32	geogFeat 1688 1699	Gendarmerie
+T33	geogFeat 1777 1786	Gare SNCF
+T34	geogFeat 1807 1815	Aéroport
+T35	geogFeat 1844 1849	Ville
+T36	geogFeat 1851 1857	Mairie
+T37	geogFeat 1895 1899	Port
+T38	geogFeat 2058 2061	CAP
+T39	geogFeat 2071 2074	CAP
+T40	name 323 328	GIENS
+T41	name 336 343	CAMARAT
+T42	name 353 359	HYÈRES
+T43	name 999 1016	Cavalaire-sur-Mer
+T44	name 1497 1503	Toulon
+T45	name 1517 1523	Toulon
+T46	name 1789 1795	Hyères
+T47	name 1799 1805	Toulon
+T48	name 1819 1841	Hyères - Le Palyvestre
+T50	name 1903 1912	Cavalaire
+T51	name 2062 2067	BÉNAT
+T52	name 2075 2082	CAMARAT
+T53	geogName 309 328	PRESQU’ÎLE DE GIENS
+T54	geogName 332 343	CAP CAMARAT
+T55	geogName 346 359	ÎLES D’HYÈRES
+T56	geogName 988 1016	commune de Cavalaire-sur-Mer
+T57	geogName 1497 1503	Toulon
+T58	geogName 1517 1523	Toulon
+T59	name 1625 1633	Pardigon
+T60	geogName 1605 1633	Poste de secours de Pardigon
+T61	name 1545 1549	Parc
+T30	geogName 1525 1549	Poste de secours du Parc
+T62	geogFeat 1702 1705	Rue
+T63	geogName 1789 1795	Hyères
+T64	geogName 1799 1805	Toulon
+T65	geogName 1807 1841	Aéroport de Hyères - Le Palyvestre
+T66	geogName 1895 1912	Port de Cavalaire
+R1	ElementOf Arg1:T33 Arg2:T63	
+R2	ElementOf Arg1:T33 Arg2:T64	
+T67	name 452 459	nouveau
+T68	geogName 452 464	nouveau port
+T18	name 1706 1715	A. Daudet
+T69	geogName 1702 1715	Rue A. Daudet
+T49	geogFeat 408 423	Infrastructures
+T70	geogFeat 858 861	épi
+R3	ElementOf Arg1:T16 Arg2:T15	
+R4	ElementOf Arg1:T20 Arg2:T70	
+R5	ElementOf Arg1:T32 Arg2:T69	
+T71	geogName 2058 2067	CAP BÉNAT
+T72	geogName 2071 2082	CAP CAMARAT
+R6	ElementOf Arg1:T11 Arg2:T12	

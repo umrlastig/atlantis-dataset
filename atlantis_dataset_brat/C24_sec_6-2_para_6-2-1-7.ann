@@ -1,0 +1,71 @@
+T1	geogFeat 31 43	VOIE D’ACCÈS
+T2	geogFeat 63 75	voie d’accès
+T3	geogFeat 316 333	chenal d’approche
+T4	geogFeat 377 383	lignes
+T5	geogFeat 423 426	feu
+T6	geogFeat 433 438	digue
+T7	geogFeat 462 468	chenal
+T8	geogFeat 485 488	feu
+T9	geogFeat 495 500	digue
+T10	geogFeat 557 560	feu
+T11	geogFeat 569 583	zone d’attente
+T12	geogFeat 616 621	ligne
+T13	geogFeat 650 663	château d’eau
+T14	geogFeat 691 696	ligne
+T15	geogFeat 727 730	feu
+T16	geogFeat 737 742	digue
+T17	geogFeat 817 830	trait de côte
+T18	geogFeat 867 884	chenal d’approche
+T19	geogFeat 1028 1037	FRONTIÈRE
+T20	geogFeat 1162 1166	port
+T21	geogFeat 1235 1241	entrée
+T22	geogFeat 1269 1275	sortie
+T23	geogFeat 1522 1534	capitainerie
+T24	geogFeat 1719 1731	capitainerie
+T25	geogFeat 1782 1788	chenal
+T26	geogFeat 1984 1990	entrée
+T27	geogFeat 2065 2072	rivière
+T28	geogFeat 2210 2219	mouillage
+T29	geogFeat 2342 2352	embouchure
+T30	geogFeat 2712 2722	embouchure
+T31	geogFeat 2768 2784	poste d’amarrage
+T32	geogFeat 2932 2936	pont
+T33	geogFeat 2970 2980	embouchure
+T34	geogFeat 2880 2886	entrée
+T35	geogFeat 2902 2908	sortie
+T36	name 296 306	Atlantique
+T37	name 666 672	Ondres
+T38	name 1017 1022	ADOUR
+T39	name 1038 1047	ESPAGNOLE
+T40	name 1996 2001	Adour
+T41	name 2728 2733	Adour
+T42	name 2937 2949	Henri Grenet
+T43	geogName 296 306	Atlantique
+T44	geogName 650 672	château d’eau d’Ondres
+T45	geogName 1017 1022	ADOUR
+T46	geogName 1028 1047	FRONTIÈRE ESPAGNOLE
+T47	geogName 1996 2001	Adour
+T49	geogName 2932 2949	pont Henri Grenet
+T50	name 439 443	Nord
+T51	name 501 505	Nord
+T52	geogName 433 443	digue Nord
+T53	geogName 495 505	digue Nord
+T54	name 743 747	Nord
+T55	geogName 737 747	digue Nord
+R4	ElementOf Arg1:T44 Arg2:T12	
+R5	ElementOf Arg1:T62 Arg2:T14	
+R6	NorthOf Arg1:T12 Arg2:T11	
+R7	SouthOf Arg1:T14 Arg2:T11	
+R8	ElementOf Arg1:T26 Arg2:T47	
+T56	geogFeat 1409 1421	capitainerie
+T57	geogFeat 2154 2166	capitainerie
+T58	name 2986 2991	Adour
+T59	geogName 2986 2991	Adour
+R9	NorthOf Arg1:T4 Arg2:T3	
+R10	SouthOf Arg1:T4 Arg2:T3	
+T48	geogName 2728 2733	Adour
+R11	ElementOf Arg1:T30 Arg2:T48	
+R12	ElementOf Arg1:T33 Arg2:T59	
+T60	geogName 423 443	feu de la digue Nord
+T61	geogName 485 505	feu de la digue Nord
+T62	geogName 727 747	feu de la digue Nord

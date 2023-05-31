@@ -1,0 +1,28 @@
+T1	geogFeat 29 48	alignement lumineux
+T2	geogFeat 66 73	pylônes
+T3	geogFeat 96 102	sommet
+T4	geogFeat 125 131	voyant
+T5	geogFeat 315 332	balises latérales
+T6	geogFeat 338 344	entrée
+T7	geogFeat 348 362	chenal d’accès
+T8	geogFeat 373 379	entrée
+T9	geogFeat 423 429	chenal
+T10	geogFeat 469 476	perches
+T11	geogFeat 482 485	feu
+T12	geogFeat 499 503	abri
+T13	geogFeat 569 573	rive
+T14	geogFeat 584 589	étier
+T15	geogFeat 607 613	entrée
+T16	geogFeat 617 621	port
+R1	ElementOf Arg1:T3 Arg2:T2	
+R2	ElementOf Arg1:T4 Arg2:T2	
+R3	ElementOf Arg1:T6 Arg2:T7	
+R4	MarkedBy Arg1:T6 Arg2:T5	
+R5	MarkedBy Arg1:T9 Arg2:T10	
+R6	ElementOf Arg1:T11 Arg2:T12	
+R7	ElementOf Arg1:T12 Arg2:T18	
+R9	ElementOf Arg1:T15 Arg2:T16	
+T17	name 574 578	Nord
+T18	geogName 569 578	rive Nord
+R8	ElementOf Arg1:T2 Arg2:T1	
+R10	NorthOf Arg1:T18 Arg2:T14	

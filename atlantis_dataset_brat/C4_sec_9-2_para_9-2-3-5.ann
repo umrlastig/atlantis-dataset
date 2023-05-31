@@ -1,0 +1,41 @@
+T1	geogFeat 254 258	rade
+T2	geogFeat 377 381	port
+T3	geogFeat 524 527	CAP
+T4	geogFeat 538 544	POINTE
+T5	geogFeat 552 556	BAIE
+T6	geogFeat 574 587	voie 😄d’accès
+T7	geogFeat 593 597	port
+T8	geogFeat 633 640	minaret
+T9	geogFeat 658 665	Mosquée
+T10	geogFeat 732 744	capitainerie
+T11	geogFeat 763 767	tour
+T12	geogFeat 816 824	cheminée
+T13	geogFeat 831 850	centrale électrique
+T14	geogFeat 930 937	mosquée
+T15	geogFeat 951 958	minaret
+T16	geogFeat 965 973	cheminée
+T17	geogFeat 996 1018	feux d’obstacle aérien
+T18	geogFeat 1041 1048	pylônes
+T19	geogFeat 1110 1114	Port
+T20	geogFeat 1181 1188	mosquée
+T21	name 528 532	VERT
+T22	name 545 550	ROUGE
+T23	name 560 565	GORÉE
+T24	name 650 656	Grande
+T25	name 1118 1123	Dakar
+T26	name 1174 1180	Grande
+T27	geogName 524 532	CAP VERT
+T28	geogName 538 550	POINTE ROUGE
+T29	geogName 552 565	BAIE DE GORÉE
+T30	geogName 650 665	Grande 😄Mosquée
+T31	geogName 1110 1123	Port de Dakar
+T32	geogName 1174 1188	Grande mosquée
+T33	geogFeat 508 513	quais
+T34	geogFeat 1125 1137	Voie d’accès
+R1	ElementOf Arg1:T8 Arg2:T30	
+R2	WestNorthWestOf Arg1:T30 Arg2:T10	
+R3	ElementOf Arg1:T11 Arg2:T30	
+R4	ElementOf Arg1:T12 Arg2:T13	
+R5	NorthEastOf Arg1:T12 Arg2:T14	
+R6	MarkedBy Arg1:T15 Arg2:T17	
+R7	MarkedBy Arg1:T16 Arg2:T17	

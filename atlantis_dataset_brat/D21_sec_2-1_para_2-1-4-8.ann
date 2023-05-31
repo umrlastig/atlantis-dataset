@@ -1,0 +1,19 @@
+T1	geogFeat 12 34	Conduites sous-marines
+T2	geogFeat 353 358	zones
+T5	geogFeat 230 236	Phares
+T6	geogFeat 240 247	Balises
+T7	geogFeat 317 335	zones réglementées
+T8	name 156 168	Méditerranée
+T9	name 408 415	Cerbère
+T10	name 449 464	Banyuls-sur-Mer
+T11	name 498 510	Port-Vendres
+T12	name 544 553	Collioure
+T13	name 587 602	Argelès-sur-Mer
+T14	name 636 647	Grau-d’Agde
+T15	geogName 156 168	Méditerranée
+T16	geogName 408 415	Cerbère
+T17	geogName 449 464	Banyuls-sur-Mer
+T18	geogName 498 510	Port-Vendres
+T19	geogName 544 553	Collioure
+T20	geogName 587 602	Argelès-sur-Mer
+T21	geogName 636 647	Grau-d’Agde

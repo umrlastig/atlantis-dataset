@@ -1,0 +1,17 @@
+T1	geogFeat 12 16	Baie
+T2	geogFeat 31 35	baie
+T3	geogFeat 64 69	passe
+T4	geogFeat 173 179	coffre
+T5	geogFeat 241 245	baie
+T6	geogFeat 228 234	ouvert
+T7	geogFeat 302 306	port
+T8	name 17 23	Haavai
+T9	name 36 42	Haavai
+T10	name 70 77	Avapehi
+T11	name 310 314	Fare
+T12	geogName 12 23	Baie Haavai
+T13	geogName 31 42	baie Haavai
+T14	geogName 64 77	passe Avapehi
+T15	geogName 302 314	port de Fare
+R1	ElementOf Arg1:T4 Arg2:T6	
+R2	ElementOf Arg1:T6 Arg2:T5	

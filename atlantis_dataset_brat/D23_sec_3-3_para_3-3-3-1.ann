@@ -1,0 +1,10 @@
+T1	geogFeat 31 48	port de plaisance
+T2	geogFeat 77 81	anse
+T3	geogFeat 92 99	village
+T4	geogFeat 118 121	île
+T5	geogFeat 185 190	jetée
+T6	name 52 59	Cavallo
+T7	name 82 88	Marine
+T8	geogName 31 59	port de plaisance de Cavallo
+T9	geogName 77 88	anse Marine
+R1	ElementOf Arg1:T8 Arg2:T9	

@@ -1,0 +1,30 @@
+T1	geogFeat 25 39	chenal d’accès
+T2	geogFeat 43 47	port
+T3	geogFeat 78 83	digue
+T4	geogFeat 91 108	port de plaisance
+T5	geogFeat 115 121	pointe
+T6	geogFeat 159 186	bouées latérales lumineuses
+T7	geogFeat 196 202	bouées
+T8	geogFeat 210 227	perches latérales
+T9	geogFeat 282 286	port
+T10	geogFeat 264 278	passe d’entrée
+T11	geogFeat 368 373	pieux
+T12	geogFeat 399 403	feux
+T13	geogFeat 420 450	pieu de marque latérale bâbord
+T14	geogFeat 456 461	pieux
+T15	geogFeat 523 529	digues
+T16	name 51 60	Gourmalon
+T17	name 125 134	Gourmalon
+T18	name 290 304	La Noëveillard
+T19	geogName 43 60	port de Gourmalon
+T20	geogName 115 134	pointe de Gourmalon
+T21	geogName 282 304	port de La Noëveillard
+R1	MarkedBy Arg1:T1 Arg2:T6	
+R2	MarkedBy Arg1:T1 Arg2:T7	
+R3	MarkedBy Arg1:T1 Arg2:T8	
+R4	MarkedBy Arg1:T10 Arg2:T11	
+R5	MarkedBy Arg1:T10 Arg2:T13	
+R6	ElementOf Arg1:T12 Arg2:T11	
+T22	name 84 87	Est
+T23	geogName 78 87	digue Est
+R7	ElementOf Arg1:T23 Arg2:T4	

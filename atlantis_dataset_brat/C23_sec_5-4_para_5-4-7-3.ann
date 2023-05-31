@@ -1,0 +1,45 @@
+T1	geogFeat 121 126	étier
+T2	geogFeat 320 332	appontements
+T3	geogFeat 360 366	perrés
+T4	geogFeat 370 375	canal
+T5	geogFeat 434 439	cales
+T6	geogFeat 501 505	Port
+T7	geogFeat 597 601	port
+T8	geogFeat 677 686	boulevard
+T9	geogFeat 811 820	boulevard
+T10	geogFeat 978 982	pont
+T11	geogFeat 1037 1042	Ville
+T12	geogFeat 1051 1058	commune
+T13	geogFeat 1105 1109	Port
+T14	geogFeat 85 97	Appontements
+T15	name 133 140	Louippe
+T16	name 552 558	Vendée
+T17	name 666 672	Nantes
+T18	name 687 702	Gaston Serpette
+T19	name 801 807	Nantes
+T20	name 824 830	Verdun
+T21	name 962 968	Nantes
+T22	name 986 999	Saint-Nazaire
+T23	name 1009 1025	La Roche-sur-Yon
+T24	name 1044 1049	Bouin
+T25	name 1062 1068	Vendée
+T26	name 1114 1122	Brochets
+T27	geogName 121 140	étier de la Louippe
+T28	geogName 552 558	Vendée
+T29	geogName 666 672	Nantes
+T30	geogName 677 702	boulevard Gaston Serpette
+T31	geogName 801 807	Nantes
+T32	geogName 811 830	boulevard de Verdun
+T33	geogName 962 968	Nantes
+T34	geogName 978 999	pont de Saint-Nazaire
+T35	geogName 1009 1025	La Roche-sur-Yon
+T36	geogName 1051 1068	commune de Vendée
+T37	geogName 1037 1049	Ville 😍Bouin
+T38	geogName 1105 1122	Port des Brochets
+R1	ElementOf Arg1:T14 Arg2:T27	
+R2	ElementOf Arg1:T3 Arg2:T4	
+R3	ElementOf Arg1:T37 Arg2:T36	
+R4	ElementOf Arg1:T32 Arg2:T31	
+R5	ElementOf Arg1:T30 Arg2:T29	
+T39	geogFeat 143 167	Installations portuaires
+T40	geogFeat 184 199	Infrastructures

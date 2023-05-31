@@ -1,0 +1,147 @@
+T2	geogFeat 189 195	entrée
+T6	geogFeat 403 409	jetées
+T7	geogFeat 433 436	feu
+T8	geogFeat 503 510	rivière
+T1	geogFeat 474 486	enrochements
+T9	geogFeat 515 520	passe
+T11	geogFeat 591 597	jetées
+T12	geogFeat 631 642	brise-lames
+T13	geogFeat 658 683	balisage latéral lumineux
+T14	geogFeat 706 711	passe
+T15	geogFeat 722 732	alignement
+T16	geogFeat 738 748	alignement
+T17	geogFeat 775 779	feux
+T18	geogFeat 797 804	pylônes
+T19	geogFeat 826 832	sommet
+T20	geogFeat 855 872	pylône postérieur
+T21	geogFeat 882 889	panneau
+T22	geogFeat 922 938	pylône antérieur
+T23	geogFeat 942 949	panneau
+T24	geogFeat 1006 1016	alignement
+T25	geogFeat 1034 1038	feux
+T26	geogFeat 1064 1077	feu antérieur
+T27	geogFeat 1095 1103	mâtereau
+T28	geogFeat 1204 1218	feu postérieur
+T29	geogFeat 1227 1231	tour
+T30	geogFeat 1256 1283	bâtiment de la capitainerie
+T31	geogFeat 1317 1323	jetées
+T32	geogFeat 1339 1355	tour des signaux
+T33	geogFeat 1386 1393	rivière
+T34	geogFeat 1402 1412	alignement
+T35	geogFeat 1433 1436	axe
+T36	geogFeat 1442 1448	chenal
+T37	geogFeat 1460 1464	rive
+T38	geogFeat 1481 1486	blocs
+T39	geogFeat 1501 1509	vestiges
+T40	geogFeat 1525 1536	appontement
+T41	geogFeat 1551 1556	digue
+T42	geogFeat 1564 1581	port de plaisance
+T43	geogFeat 1612 1629	digue submersible
+T44	geogFeat 1646 1649	feu
+T45	geogFeat 1660 1683	balise latérale tribord
+T46	geogFeat 1716 1722	balise
+T47	geogFeat 1736 1742	ponton
+T48	geogFeat 1788 1792	port
+T49	geogFeat 1823 1826	axe
+T50	geogFeat 1830 1836	chenal
+T51	geogFeat 1905 1924	alignement lumineux
+T52	geogFeat 1938 1942	feux
+T53	geogFeat 2006 2014	panneaux
+T54	geogFeat 2082 2101	alignement lumineux
+T55	geogFeat 2115 2119	feux
+T56	geogFeat 2226 2233	secteur
+T57	geogFeat 2244 2258	feu de guidage
+T58	geogFeat 2363 2369	chenal
+T59	geogFeat 2389 2395	bouées
+T60	geogFeat 2399 2416	balises latérales
+T61	geogFeat 2488 2494	chenal
+T62	geogFeat 2523 2533	embouchure
+T63	geogFeat 2551 2563	base 😄navale
+T64	geogFeat 2577 2583	épaves
+T65	geogFeat 2603 2609	chenal
+T66	geogFeat 2688 2702	zone d’évitage
+T67	geogFeat 2764 2769	bouée
+T68	geogFeat 2842 2859	port de plaisance
+T69	geogFeat 2877 2883	siphon
+T70	geogFeat 2902 2928	canalisations sous-marines
+T71	geogFeat 2968 2972	pont
+T72	geogFeat 3009 3015	siphon
+T73	geogFeat 3111 3115	pont
+T74	geogFeat 3177 3181	quai
+T75	geogFeat 3298 3304	chenal
+T76	name 201 206	Adour
+T79	name 372 377	Adour
+T80	name 752 758	Boucau
+T81	name 1584 1590	Anglet
+T82	name 1946 1958	Saint-Gobain
+T83	name 2124 2130	Forges
+T84	name 2187 2194	Bayonne
+T85	geogFeat 2291 2295	pont
+T86	name 2301 2308	Aveugle
+T87	name 2862 2868	Anglet
+T88	name 2945 2950	Adour
+T89	name 2978 2985	Aveugle
+T90	name 3116 3128	Henri Grenet
+T91	name 3182 3192	Edmond Foy
+T92	geogName 201 206	Adour
+T3	geogName 372 377	Adour
+T4	geogName 738 758	alignement du Boucau
+T77	geogName 1564 1590	port de plaisance d’Anglet
+T78	geogName 1938 1958	feux de Saint-Gobain
+T93	geogName 2187 2194	Bayonne
+T94	geogName 2291 2308	pont de l’Aveugle
+T95	geogName 2842 2868	port de plaisance d’Anglet
+T96	geogName 2945 2950	Adour
+T97	geogName 2968 2985	pont de l’Aveugle
+T98	geogName 3111 3128	pont Henri Grenet
+T99	geogName 3177 3192	quai Edmond Foy
+R1	ElementOf Arg1:T2 Arg2:T92	
+R2	ElementOf Arg1:T13 Arg2:T12	
+R3	ElementOf Arg1:T7 Arg2:T6	
+R4	ElementOf Arg1:T17 Arg2:T18	
+R5	ElementOf Arg1:T19 Arg2:T18	
+R6	ElementOf Arg1:T21 Arg2:T20	
+R7	ElementOf Arg1:T23 Arg2:T22	
+R8	ElementOf Arg1:T26 Arg2:T27	
+R9	ElementOf Arg1:T28 Arg2:T29	
+R10	ElementOf Arg1:T29 Arg2:T30	
+R11	ElementOf Arg1:T35 Arg2:T36	
+T5	name 1686 1687	9
+R12	MarkedBy Arg1:T43 Arg2:T44	
+R13	MarkedBy Arg1:T43 Arg2:T106	
+R15	ElementOf Arg1:T49 Arg2:T50	
+T100	geogName 2115 2130	feux des Forges
+R17	ElementOf Arg1:T57 Arg2:T94	
+R18	MarkedBy Arg1:T58 Arg2:T59	
+R19	MarkedBy Arg1:T58 Arg2:T60	
+T101	name 2772 2773	2
+T102	geogName 2764 2775	bouée « 2 »
+R20	ElementOf Arg1:T70 Arg2:T69	
+R21	ElementOf Arg1:T69 Arg2:T96	
+T103	geogFeat 1123 1128	cadre
+R22	ElementOf Arg1:T103 Arg2:T27	
+T104	name 1466 1472	gauche
+T105	geogName 1460 1472	rive 😄gauche
+T106	geogName 1660 1689	balise latérale tribord « 9 »
+T107	geogFeat 120 137	tour des 😍signaux
+T108	geogFeat 26 42	signaux lumineux
+T109	geogFeat 240 256	signal portuaire
+T10	name 1557 1560	Est
+T110	geogName 1551 1560	digue Est
+T111	geogFeat 2346 2358	base 😍navale
+T112	name 2337 2345	ancienne
+T113	geogName 2337 2358	ancienne base 😍navale
+T114	name 2541 2549	ancienne
+T115	geogName 2541 2563	ancienne 😄base 😄navale
+R16	ElementOf Arg1:T108 Arg2:T107	
+T122	geogFeat 358 364	entrée
+R23	ElementOf Arg1:T122 Arg2:T3	
+R24	ElementOf Arg1:T17 Arg2:T15	
+R25	ElementOf Arg1:T25 Arg2:T24	
+R26	NorthOf Arg1:T31 Arg2:T32	
+R28	ElementOf Arg1:T38 Arg2:T105	
+R29	ElementOf Arg1:T110 Arg2:T77	
+R14	ElementOf Arg1:T78 Arg2:T51	
+R30	ElementOf Arg1:T100 Arg2:T54	
+R31	ElementOf Arg1:T97 Arg2:T96	
+R27	SouthOf Arg1:T107 Arg2:T2	

@@ -1,0 +1,24 @@
+T1	geogFeat 12 17	Passe
+T2	geogFeat 35 40	passe
+T3	geogFeat 274 280	bassin
+T4	geogFeat 321 328	dangers
+T5	geogFeat 342 347	passe
+T6	geogFeat 448 468	zone d’eau décolorée
+T7	geogFeat 535 540	lagon
+T8	geogFeat 620 626	entrée
+T9	geogFeat 633 638	passe
+T10	geogFeat 651 657	entrée
+T11	geogFeat 664 669	passe
+T12	geogFeat 771 774	axe
+T13	geogFeat 778 784	chenal
+T14	geogFeat 832 837	passe
+T15	name 18 27	Sud-Ouest
+T16	name 41 50	Sud-Ouest
+T17	name 838 847	Sud-Ouest
+T18	geogName 12 27	Passe Sud-Ouest
+T19	geogName 35 50	passe Sud-Ouest
+T20	geogName 832 847	passe Sud-Ouest
+R1	ElementOf Arg1:T4 Arg2:T3	
+R2	ElementOf Arg1:T8 Arg2:T9	
+R3	ElementOf Arg1:T10 Arg2:T11	
+R4	ElementOf Arg1:T12 Arg2:T13	

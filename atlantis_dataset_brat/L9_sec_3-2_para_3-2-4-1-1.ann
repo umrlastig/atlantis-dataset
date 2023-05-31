@@ -1,0 +1,10 @@
+T1	geogFeat 14 18	Îles
+T2	geogFeat 20 25	bancs
+T3	geogFeat 27 34	dangers
+T4	geogFeat 63 69	récifs
+T5	geogFeat 96 100	côte
+T6	geogFeat 130 135	atoll
+T7	geogFeat 189 194	bancs
+T8	name 101 104	Est
+T9	geogName 96 104	côte Est
+R1	ElementOf Arg1:T9 Arg2:T6	

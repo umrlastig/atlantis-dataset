@@ -1,0 +1,45 @@
+T1	geogFeat 151 167	zone de pilotage
+T2	geogFeat 297 302	ports
+T3	geogFeat 342 346	port
+T4	geogFeat 376 392	zone de pilotage
+T5	geogFeat 450 459	parallèle
+T6	geogFeat 492 511	ligne de séparation
+T7	geogFeat 533 551	eaux territoriales
+T8	geogFeat 580 585	ports
+T10	geogFeat 649 654	ports
+T11	geogFeat 658 663	rades
+T12	geogFeat 752 768	tour des signaux
+T13	geogFeat 834 854	bouée d’atterrissage
+T15	geogFeat 1216 1232	zone de pilotage
+T16	geogFeat 2570 2574	port
+T17	name 82 100	Nouvelle-Aquitaine
+T18	geogFeat 75 81	région
+T19	name 306 313	Bayonne
+T20	name 317 324	Hendaye
+T21	name 350 367	Saint-Jean-de-Luz
+T22	name 624 632	Biarritz
+T23	name 600 607	Bayonne
+T24	name 589 598	Capbreton
+T25	name 667 684	Saint-Jean-de-Luz
+T26	name 686 691	Socoa
+T27	name 695 702	Hendaye
+T29	name 1090 1095	Adour
+T30	name 1659 1664	Adour
+T31	name 2578 2585	Bayonne
+T32	name 2716 2721	ADOUR
+T33	geogName 75 100	région Nouvelle-Aquitaine
+T34	geogName 342 367	port de Saint-Jean-de-Luz
+T36	name 857 859	BA
+T37	geogName 834 861	bouée d’atterrissage « BA »
+T38	geogName 1090 1095	Adour
+T39	geogName 1659 1664	Adour
+T40	geogName 2570 2585	port de Bayonne
+T41	geogName 2716 2721	ADOUR
+T43	geogName 580 632	ports de Capbreton, Bayonne et ses annexes, Biarritz
+T45	geogName 649 702	ports et rades de Saint-Jean-de-Luz, Socoa et Hendaye
+T48	geogName 297 324	ports de Bayonne et Hendaye
+T9	geogFeat 1499 1528	lieu d’embarquement du pilote
+T14	geogFeat 615 622	annexes
+T28	geogName 600 622	Bayonne et ses annexes
+R1	NorthOf Arg1:T5 Arg2:T4	
+R2	SouthOf Arg1:T6 Arg2:T4	

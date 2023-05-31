@@ -1,0 +1,38 @@
+T1	geogFeat 12 16	Motu
+T2	geogFeat 48 53	atoll
+T3	geogFeat 74 78	Motu
+T4	geogFeat 151 155	îlot
+T5	geogFeat 190 195	îlots
+T6	geogFeat 206 211	récif
+T7	geogFeat 246 251	passe
+T8	geogFeat 309 314	atoll
+T9	geogFeat 356 366	mouillages
+T10	geogFeat 569 576	platier
+T11	geogFeat 625 630	récif
+T12	geogFeat 654 658	côte
+T13	geogFeat 693 697	îlot
+T14	geogFeat 714 718	motu
+T15	geogFeat 731 751	réserve territoriale
+T16	geogFeat 1013 1020	réserve
+T17	geogFeat 947 970	périmètre de protection
+T18	name 17 20	One
+T19	name 22 36	Bellingshausen
+T20	name 79 82	One
+T21	name 84 98	Bellingshausen
+T22	geogFeat 169 173	côte
+T23	name 174 177	Est
+T24	name 755 761	Scilly
+T25	name 765 779	Bellingshausen
+T26	geogName 12 20	Motu One
+T27	geogName 22 36	Bellingshausen
+T28	geogName 74 82	Motu One
+T29	geogName 84 98	Bellingshausen
+T30	geogName 169 177	côte Est
+T31	geogName 731 779	réserve territoriale de Scilly et Bellingshausen
+T32	name 659 661	NW
+T33	geogName 654 661	côte NW
+T35	geogName 714 721	motu NW
+T34	name 719 721	NW
+R1	ElementOf Arg1:T4 Arg2:T28	
+R2	ElementOf Arg1:T5 Arg2:T28	
+T36	geogFeat 671 684	anfractuosité

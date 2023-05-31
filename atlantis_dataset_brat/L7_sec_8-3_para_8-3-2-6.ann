@@ -1,0 +1,89 @@
+T1	geogFeat 44 49	Passe
+T2	geogFeat 187 192	phare
+T3	geogFeat 198 201	Île
+T4	geogFeat 243 253	alignement
+T5	geogFeat 266 271	phare
+T6	geogFeat 289 294	phare
+T7	geogFeat 339 346	dangers
+T8	geogFeat 357 361	port
+T9	geogFeat 371 381	alignement
+T10	geogFeat 446 451	phare
+T11	geogFeat 508 513	phare
+T12	geogFeat 598 603	bouée
+T13	geogFeat 744 749	phare
+T14	geogFeat 755 758	Île
+T15	geogFeat 777 787	alignement
+T16	geogFeat 798 811	château d’eau
+T17	geogFeat 822 829	Plateau
+T18	geogFeat 848 854	Pointe
+T19	geogFeat 882 889	Plateau
+T20	geogFeat 904 914	alignement
+T21	geogFeat 935 942	dangers
+T22	geogFeat 973 983	alignement
+T23	geogFeat 1000 1005	Passe
+T24	geogFeat 1066 1072	phares
+T25	geogFeat 1080 1090	alignement
+T26	geogFeat 1098 1108	alignement
+T27	geogFeat 1126 1132	entrée
+T28	geogFeat 1138 1142	Port
+T29	geogFeat 1184 1190	postes
+T30	geogFeat 1241 1248	pylônes
+T31	geogFeat 1260 1263	feu
+T32	geogFeat 1271 1275	banc
+T33	geogFeat 1304 1321	pylône postérieur
+T34	geogFeat 1412 1432	pylône de télémétrie
+T35	geogFeat 1458 1465	maisons
+T36	geogFeat 1470 1486	pylône antérieur
+T37	geogFeat 1564 1574	Alignement
+T38	name 50 54	Nord
+T39	geogFeat 106 110	Raʼs
+T40	name 111 114	Bir
+T41	name 202 208	Moucha
+T42	name 274 281	Ayabelé
+T43	name 297 304	Ambouli
+T44	name 454 463	Hayyâbleï
+T45	name 516 523	Ambouli
+T46	name 606 607	2
+T47	name 759 766	Maskali
+T48	name 833 840	Serpent
+T49	name 858 863	Héron
+T50	name 893 898	Héron
+T51	name 1006 1010	Nord
+T52	name 1148 1153	Héron
+T53	name 1195 1197	13
+T54	name 1208 1210	15
+T55	name 1279 1284	Héron
+T56	geogName 44 54	Passe Nord
+T57	geogName 106 114	Raʼs Bir
+T58	geogName 198 208	Île Moucha
+T59	geogName 187 208	phare de l’Île Moucha
+T60	geogName 266 281	phare d’Ayabelé
+T61	geogName 289 304	phare d’Ambouli
+T62	geogName 508 523	phare d’Ambouli
+T63	geogName 446 463	phare d’Hayyâbleï
+T64	geogName 755 766	Île Maskali
+T65	geogName 822 840	Plateau du Serpent
+T66	geogName 848 863	Pointe du Héron
+T67	geogName 882 898	Plateau du Héron
+T68	geogName 1000 1010	Passe Nord
+T69	geogName 1138 1153	Port 😄du 😄Héron
+T70	geogName 1271 1284	banc du Héron
+T71	geogName 598 609	bouée « 2 »
+T72	geogName 744 766	phare de l’Île Maskali
+T73	geogName 1184 1213	postes 😄« 😄13 😄» 😄à 😄« 😄15 😄»
+R1	ElementOf Arg1:T60 Arg2:T4	
+R2	ElementOf Arg1:T61 Arg2:T4	
+R3	ElementOf Arg1:T16 Arg2:T15	
+R4	ElementOf Arg1:T16 Arg2:T65	
+R5	ElementOf Arg1:T66 Arg2:T15	
+R6	ElementOf Arg1:T27 Arg2:T69	
+R7	ElementOf Arg1:T30 Arg2:T26	
+R8	ElementOf Arg1:T31 Arg2:T30	
+R9	ElementOf Arg1:T30 Arg2:T70	
+R10	SouthWestOf Arg1:T33 Arg2:T34	
+R11	ElementOf Arg1:T24 Arg2:T25	
+R12	ElementOf Arg1:T27 Arg2:T26	
+T74	geogFeat 865 871	pointe
+T75	name 872 877	Ouest
+T76	geogName 865 877	pointe Ouest
+R13	ElementOf Arg1:T76 Arg2:T67	

@@ -1,0 +1,324 @@
+T1	geogFeat 305 309	rade
+T2	geogFeat 316 320	port
+T3	geogFeat 344 348	rade
+T4	geogFeat 547 552	quais
+T5	geogFeat 654 672	Station de signaux
+T6	geogFeat 674 679	Môles
+T7	geogFeat 729 737	pavillon
+T8	geogFeat 761 764	feu
+T9	geogFeat 773 793	Station de sauvetage
+T10	geogFeat 1234 1238	PORT
+T11	geogFeat 1243 1248	môles
+T12	geogFeat 1308 1315	bassins
+T13	geogFeat 1343 1347	slip
+T14	geogFeat 1353 1364	embarcadère
+T15	geogFeat 1373 1379	bassin
+T16	geogFeat 1387 1394	ARSENAL
+T17	geogFeat 1397 1403	Bassin
+T18	geogFeat 1421 1425	Quai
+T19	geogFeat 1474 1479	wharf
+T20	geogFeat 1518 1523	wharf
+T21	geogFeat 1558 1562	Quai
+T22	geogFeat 1607 1623	bassin de radoub
+T23	geogFeat 1592 1605	Dock flottant
+T24	geogFeat 1640 1644	PORT
+T25	geogFeat 1647 1651	MÔLE
+T26	geogFeat 1655 1659	Quai
+T27	geogFeat 1677 1683	postes
+T28	geogFeat 1758 1762	Quai
+T29	geogFeat 1779 1783	Quai
+T30	geogFeat 1840 1844	MÔLE
+T31	geogFeat 1769 1774	poste
+T32	geogFeat 1792 1797	poste
+T33	geogFeat 1848 1852	Quai
+T34	geogFeat 1859 1864	poste
+T35	geogFeat 1928 1932	Quai
+T36	geogFeat 1941 1946	poste
+T37	geogFeat 2005 2009	MÔLE
+T38	geogFeat 2013 2018	Quais
+T39	geogFeat 2024 2030	postes
+T40	geogFeat 2089 2093	Quai
+T41	geogFeat 2066 2087	Terminal à conteneurs
+T42	geogFeat 2099 2104	poste
+T43	geogFeat 2158 2162	MÔLE
+T44	geogFeat 2166 2170	Quai
+T45	geogFeat 2176 2182	postes
+T46	geogFeat 2247 2251	Quai
+T47	geogFeat 2258 2263	poste
+T48	geogFeat 2315 2319	MÔLE
+T49	geogFeat 2325 2329	Quai
+T50	geogFeat 2338 2344	postes
+T51	geogFeat 2390 2405	Wharf pétrolier
+T52	geogFeat 2409 2413	Quai
+T53	geogFeat 2420 2426	postes
+T54	geogFeat 2472 2487	Wharf pétrolier
+T55	geogFeat 2489 2494	Jetée
+T56	geogFeat 2502 2508	postes
+T57	geogFeat 2577 2584	bassins
+T58	geogFeat 2586 2593	bassins
+T59	geogFeat 2621 2627	BASSIN
+T60	geogFeat 2642 2646	Quai
+T61	geogFeat 2667 2672	poste
+T62	geogFeat 2721 2725	Quai
+T63	geogFeat 2743 2748	poste
+T64	geogFeat 2777 2781	Quai
+T65	geogFeat 2800 2805	poste
+T66	geogFeat 2834 2838	MÔLE
+T67	geogFeat 2843 2847	Quai
+T68	geogFeat 2853 2858	poste
+T69	geogFeat 2903 2907	Quai
+T70	geogFeat 2915 2920	poste
+T71	geogFeat 2951 2955	Quai
+T72	geogFeat 2962 2967	poste
+T73	geogFeat 3008 3012	Quai
+T74	geogFeat 3018 3023	poste
+T75	geogFeat 3064 3068	Quai
+T76	geogFeat 3077 3082	poste
+T77	geogFeat 3124 3128	Quai
+T78	geogFeat 3135 3140	poste
+T79	geogFeat 3326 3329	CAP
+T80	geogFeat 3340 3346	POINTE
+T81	geogFeat 3354 3358	BAIE
+T82	geogFeat 3475 3480	MÔLES
+T83	geogFeat 3566 3570	MÔLE
+T84	geogFeat 3632 3636	MÔLE
+T85	geogFeat 3805 3809	MÔLE
+T86	geogFeat 3906 3910	MÔLE
+T87	geogFeat 3990 3995	poste
+T88	geogFeat 4014 4019	poste
+T89	geogFeat 4064 4080	bassin de radoub
+T90	geogFeat 4084 4097	dock flottant
+T92	geogFeat 4253 4269	bassin de radoub
+T93	geogFeat 4400 4405	quais
+T94	geogFeat 4477 4482	quais
+T95	geogFeat 3747 3756	réservoir
+T96	geogFeat 4609 4622	Port Autonome
+T97	geogFeat 4628 4630	Bd
+T98	geogFeat 4885 4892	Hôpital
+T99	geogFeat 4916 4922	avenue
+T100	geogFeat 5018 5021	rue
+T101	geogFeat 5090 5099	Ambassade
+T102	geogFeat 5114 5117	rue
+T103	geogFeat 5325 5328	rue
+T104	geogFeat 5530 5535	ports
+T105	geogFeat 5586 5591	voies
+T106	geogFeat 5612 5634	Aéroport international
+T107	geogFeat 5652 5657	Ville
+T108	geogFeat 5666 5674	Capitale
+T109	geogFeat 5730 5734	Port
+T111	name 829 836	Sénégal
+T112	name 1296 1300	Mali
+T113	name 1316 1321	Ouest
+T114	name 1323 1329	médian
+T115	name 1333 1336	Est
+T116	name 1380 1385	Ouest
+T117	name 1249 1250	1
+T118	name 1252 1253	2
+T119	name 1257 1258	3
+T120	name 1468 1473	Grand
+T121	name 1512 1517	Petit
+T122	name 1563 1565	NW
+T123	name 1652 1653	4
+T124	name 1660 1674	Maurice Pillot
+T125	name 1693 1695	43
+T126	name 1684 1686	41
+T127	name 1687 1689	42
+T128	name 1763 1766	Sud
+T129	name 1775 1777	44
+T130	name 1798 1800	45
+T131	name 1784 1789	Ouest
+T132	name 1845 1846	5
+T133	name 1853 1856	Est
+T134	name 1865 1867	51
+T135	name 1933 1938	Ouest
+T136	name 1947 1949	52
+T137	name 2010 2011	6
+T138	name 2019 2021	SW
+T139	name 2031 2033	62
+T140	name 2037 2039	63
+T141	name 2094 2096	NW
+T142	name 2105 2107	64
+T143	name 2163 2164	8
+T144	name 2171 2173	SE
+T145	name 2183 2185	81
+T146	name 2189 2191	82
+T147	name 2252 2255	Sud
+T148	name 2264 2266	83
+T149	name 2320 2321	9
+T150	name 2330 2335	Ouest
+T151	name 2345 2352	92 Nord
+T152	name 2356 2362	92 Sud
+T153	name 2414 2417	Est
+T154	name 2427 2434	91 Nord
+T155	name 2438 2444	91 Sud
+T156	name 2495 2499	Nord
+T157	name 2509 2510	1
+T158	name 2514 2515	2
+T159	name 2653 2664	pêche Ouest
+T160	name 2634 2639	PÊCHE
+T161	name 2673 2676	109
+T162	name 2749 2752	108
+T163	name 2732 2740	pêche SW
+T164	name 2788 2797	pêche Sud
+T165	name 2806 2809	101
+T166	name 2848 2850	NW
+T167	name 2839 2841	10
+T168	name 2859 2862	102
+T169	name 2908 2912	Nord
+T170	name 2921 2924	103
+T171	name 2956 2959	Est
+T172	name 2968 2971	104
+T173	name 3013 3015	SE
+T174	name 3024 3027	105
+T175	name 3069 3074	Ouest
+T176	name 3083 3086	106
+T177	name 3129 3132	Sud
+T178	name 3141 3144	107
+T179	name 3330 3334	VERT
+T180	name 3347 3352	ROUGE
+T181	name 3362 3367	GORÉE
+T182	name 3481 3482	1
+T183	name 3484 3485	2
+T184	name 3489 3490	3
+T185	name 3571 3572	4
+T186	name 3637 3638	5
+T187	name 3810 3811	6
+T188	name 3911 3912	9
+T189	name 3996 3998	91
+T190	name 4020 4022	92
+T191	name 4300 4309	Gibraltar
+T110	name 4313 4322	Cape Town
+T192	name 4326 4341	Afrique du 😍Sud
+T193	name 4637 4647	Libération
+T194	name 4658 4663	Dakar
+T195	name 4906 4911	Dakar
+T196	name 4923 4937	Nelson Mandéla
+T197	name 5022 5033	Jean Mermoz
+T198	geogFeat 5044 5050	avenue
+T199	geogFeat 5066 5072	avenue
+T200	name 5078 5088	Ambassades
+T201	name 5103 5109	France
+T202	name 5118 5145	El Hadj Amadou Assane Ndoye
+T203	name 5156 5161	Dakar
+T204	name 5329 5356	El Hadj Amadou Assane Ndoye
+T205	name 5538 5544	Europe
+T206	name 5559 5570	Saint-Louis
+T207	name 5574 5581	Sénégal
+T208	name 5638 5642	Yoff
+T209	name 5659 5664	Dakar
+T210	name 5678 5685	Sénégal
+T211	name 5738 5743	Dakar
+T212	geogName 822 836	SRR du Sénégal
+T213	geogName 1296 1300	Mali
+T214	geogName 1373 1385	bassin Ouest
+T215	geogName 1468 1479	Grand wharf
+T216	geogName 1512 1523	Petit wharf
+T217	geogName 1558 1565	Quai NW
+T218	geogName 1647 1653	MÔLE 4
+T219	geogName 1655 1674	Quai Maurice Pillot
+T220	geogName 1758 1766	Quai Sud
+T221	geogName 1769 1777	poste 44
+T222	geogName 1779 1789	Quai Ouest
+T223	geogName 1792 1800	poste 45
+T224	geogName 1840 1846	MÔLE 5
+T225	geogName 1848 1856	Quai Est
+T226	geogName 1859 1867	poste 51
+T227	geogName 1928 1938	Quai Ouest
+T228	geogName 1941 1949	poste 52
+T229	geogName 2005 2011	MÔLE 6
+T230	geogName 2013 2021	Quais SW
+T231	geogName 2089 2096	Quai NW
+T232	geogName 2099 2107	poste 64
+T233	geogName 2158 2164	MÔLE 8
+T234	geogName 2166 2173	Quai SE
+T235	geogName 2247 2255	Quai Sud
+T236	geogName 2258 2266	poste 83
+T237	geogName 2315 2321	MÔLE 9
+T238	geogName 2325 2335	Quai Ouest
+T239	geogName 2409 2417	Quai Est
+T240	geogName 2489 2499	Jetée Nord
+T241	geogName 2621 2639	BASSIN DE LA PÊCHE
+T242	geogName 2642 2664	Quai de la pêche Ouest
+T243	geogName 2721 2740	Quai de la pêche SW
+T244	geogName 2667 2676	poste 109
+T245	geogName 2743 2752	poste 108
+T246	geogName 2777 2797	Quai de la pêche Sud
+T247	geogName 2800 2809	poste 101
+T248	geogName 2834 2841	MÔLE 10
+T249	geogName 2843 2850	Quai NW
+T250	geogName 2853 2862	poste 102
+T251	geogName 2903 2912	Quai Nord
+T252	geogName 2915 2924	poste 103
+T253	geogName 2951 2959	Quai Est
+T254	geogName 2962 2971	poste 104
+T255	geogName 3008 3015	Quai SE
+T256	geogName 3018 3027	poste 105
+T257	geogName 3064 3074	Quai Ouest
+T258	geogName 3077 3086	poste 106
+T259	geogName 3124 3132	Quai Sud
+T260	geogName 3135 3144	poste 107
+T261	geogName 3326 3334	CAP VERT
+T262	geogName 3340 3352	POINTE ROUGE
+T263	geogName 3354 3367	BAIE DE GORÉE
+T264	geogName 3566 3572	MÔLE 4
+T265	geogName 3632 3638	MÔLE 5
+T266	geogName 3805 3811	MÔLE 6
+T267	geogName 3906 3912	MÔLE 9
+T268	geogName 3990 3998	poste 91
+T269	geogName 4014 4022	poste 92
+T270	geogName 4300 4309	Gibraltar
+T271	geogName 4313 4322	Cape Town
+T272	geogName 4326 4341	Afrique du 😍Sud
+T273	geogName 4628 4647	Bd de la Libération
+T274	geogName 4658 4663	Dakar
+T275	geogName 4885 4911	Hôpital principal de Dakar
+T276	geogName 4916 4937	avenue Nelson Mandéla
+T277	geogName 5018 5033	rue Jean Mermoz
+T278	geogName 5090 5109	Ambassade de France
+T279	geogName 5114 5145	rue El Hadj Amadou Assane Ndoye
+T280	geogName 5156 5161	Dakar
+T281	geogName 5325 5356	rue El Hadj Amadou Assane Ndoye
+T282	geogName 5530 5544	ports d’Europe
+T283	geogName 5559 5570	Saint-Louis
+T284	geogName 5574 5581	Sénégal
+T285	geogName 5612 5642	Aéroport international de Yoff
+T286	geogName 5652 5664	Ville 😍Dakar
+T287	geogName 5678 5685	Sénégal
+T288	geogName 5730 5743	Port de Dakar
+T289	geogName 2024 2039	postes 62 et 63
+T290	name 1408 1419	torpilleurs
+T291	name 1430 1441	réparations
+T292	geogName 1421 1441	Quai des réparations
+T293	geogName 1397 1419	Bassin des torpilleurs
+T294	geogName 1243 1258	môles 1, 2 et 3
+T295	geogFeat 999 1023	Installations portuaires
+T296	geogFeat 822 825	SRR
+T297	geogName 1308 1336	bassins Ouest, médian et Est
+T298	geogName 1677 1695	postes 41,42 et 43
+T299	geogName 2176 2191	postes 81 et 82
+T300	geogName 2338 2362	postes 92 Nord et 92 Sud
+T301	geogName 2420 2444	postes 91 Nord et 91 Sud
+T302	geogName 2502 2515	postes 1 et 2
+T303	name 2598 2607	arachides
+T304	name 2609 2618	pétrolier
+T305	geogName 2586 2618	bassins des arachides, pétrolier
+T306	geogName 3475 3490	MÔLES 1, 2 ET 3
+T307	geogFeat 3786 3794	conduite
+T91	geogFeat 4690 4697	Guichet
+T308	name 5051 5052	C
+T309	geogName 5044 5052	avenue C
+T310	geogName 5066 5088	avenue 😍des Ambassades
+T311	name 5366 5371	Dakar
+T312	geogName 5366 5371	Dakar
+T313	geogFeat 1203 1218	Infrastructures
+R1	MarkedBy Arg1:T6 Arg2:T7	
+R2	MarkedBy Arg1:T6 Arg2:T8	
+R3	ElementOf Arg1:T14 Arg2:T214	
+R4	ElementOf Arg1:T273 Arg2:T274	
+R5	ElementOf Arg1:T278 Arg2:T279	
+R6	ElementOf Arg1:T279 Arg2:T280	
+R7	ElementOf Arg1:T281 Arg2:T312	
+R8	ElementOf Arg1:T283 Arg2:T284	
+R9	ElementOf Arg1:T108 Arg2:T287	
+R10	ElementOf Arg1:T271 Arg2:T272	
+R11	ElementOf Arg1:T275 Arg2:T276	

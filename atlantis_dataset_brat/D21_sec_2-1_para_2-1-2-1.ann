@@ -1,0 +1,17 @@
+T2	geogFeat 67 71	zone
+T3	geogFeat 102 105	cap
+T4	geogFeat 228 232	côte
+T6	geogFeat 324 327	cap
+T7	geogFeat 357 360	cap
+T8	geogFeat 85 89	Cabo
+T9	geogFeat 275 279	Cabo
+T10	name 90 95	Creus
+T11	name 106 110	Béar
+T12	name 280 285	Creus
+T13	name 328 335	Cerbère
+T14	name 361 365	Béar
+T15	geogName 85 95	Cabo Creus
+T16	geogName 102 110	cap Béar
+T17	geogName 275 285	Cabo Creus
+T18	geogName 324 335	cap Cerbère
+T19	geogName 357 365	cap Béar

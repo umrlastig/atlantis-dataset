@@ -1,0 +1,63 @@
+T1	geogFeat 66 70	côte
+T2	geogFeat 165 171	sommet
+T3	geogFeat 185 192	colline
+T4	geogFeat 261 265	amer
+T5	geogFeat 387 397	alignement
+T6	geogFeat 428 432	port
+T7	geogFeat 449 456	colline
+T8	geogFeat 503 508	phare
+T9	geogFeat 522 526	tour
+T10	geogFeat 592 598	pylône
+T11	geogFeat 635 640	phare
+T12	geogFeat 689 693	tour
+T13	geogFeat 768 772	feux
+T14	geogFeat 778 788	alignement
+T15	geogFeat 824 828	feux
+T16	geogFeat 920 925	ville
+T17	geogFeat 931 935	feux
+T18	geogFeat 1016 1023	maisons
+T19	geogFeat 1039 1044	ville
+T20	geogFeat 1068 1073	ville
+T21	geogFeat 1122 1129	Plateau
+T22	geogFeat 1154 1166	pylône radio
+T23	geogFeat 1188 1194	pylône
+T24	geogFeat 1211 1218	pylônes
+T25	geogFeat 1252 1275	feux d’obstacle aériens
+T26	geogFeat 1283 1297	châteaux d’eau
+T27	geogFeat 1347 1354	Plateau
+T28	name 53 61	Djibouti
+T29	name 193 199	Guissi
+T30	geogFeat 201 205	Mont
+T31	name 206 215	Direction
+T32	name 361 369	DJIBOUTI
+T33	name 373 380	BERBERA
+T34	name 511 520	Hayyâbleï
+T35	name 644 651	Ambouli
+T36	name 1133 1138	Héron
+T37	name 1358 1365	Serpent
+T38	geogName 53 61	Djibouti
+T39	geogName 185 199	colline Guissi
+T40	geogName 201 215	Mont Direction
+T41	geogName 361 369	DJIBOUTI
+T42	geogName 373 380	BERBERA
+T43	geogName 503 520	phare d’Hayyâbleï
+T44	geogName 635 651	phare 😄d’Ambouli
+T45	geogName 1122 1138	Plateau du Héron
+T46	geogName 1347 1365	Plateau du Serpent
+T47	geogFeat 156 160	port
+R1	SouthOf Arg1:T2 Arg2:T47	
+R2	ElementOf Arg1:T2 Arg2:T39	
+R3	ElementOf Arg1:T10 Arg2:T9	
+R4	ElementOf Arg1:T43 Arg2:T5	
+R5	ElementOf Arg1:T44 Arg2:T5	
+R6	ElementOf Arg1:T13 Arg2:T14	
+R7	ElementOf Arg1:T18 Arg2:T19	
+R8	ElementOf Arg1:T22 Arg2:T45	
+R9	SouthOf Arg1:T24 Arg2:T23	
+R10	ElementOf Arg1:T25 Arg2:T24	
+R11	ElementOf Arg1:T26 Arg2:T46	
+T48	geogFeat 419 424	accès
+R12	WestOf Arg1:T1 Arg2:T38	
+R13	EastOf Arg1:T1 Arg2:T38	
+R14	ElementOf Arg1:T48 Arg2:T6	
+R15	ElementOf Arg1:T7 Arg2:T5	

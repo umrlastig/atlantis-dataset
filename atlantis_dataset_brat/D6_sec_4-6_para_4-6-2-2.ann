@@ -1,0 +1,29 @@
+T1	geogFeat 33 36	Ras
+T2	geogFeat 74 77	Kef
+T3	geogFeat 90 101	escarpement
+T4	geogFeat 130 140	embouchure
+T5	geogFeat 146 150	oued
+T6	geogFeat 249 252	Kef
+T7	geogFeat 262 265	Ras
+T8	geogFeat 308 315	falaise
+T9	geogFeat 396 399	Ras
+T10	geogFeat 412 417	plage
+T11	name 37 44	Magroua
+T12	name 81 85	Aoua
+T13	name 153 160	Roumane
+T14	name 256 260	Aoua
+T15	name 266 272	Kramis
+T16	name 400 406	Kramis
+T17	geogFeat 18 22	Mina
+T18	name 23 29	Saghir
+T19	geogName 18 29	Mina Saghir
+T20	geogName 33 44	Ras Magroua
+T21	geogName 74 85	Kef el Aoua
+T22	geogName 146 160	oued 😄😍Roumane
+T23	geogName 249 260	Kef el Aoua
+T24	geogName 262 272	Ras Kramis
+T25	geogName 396 406	Ras Kramis
+R1	EastNorthEastOf Arg1:T3 Arg2:T21	
+R2	NorthEastOf Arg1:T24 Arg2:T23	
+R3	EastOf Arg1:T10 Arg2:T25	
+R4	ElementOf Arg1:T4 Arg2:T22	

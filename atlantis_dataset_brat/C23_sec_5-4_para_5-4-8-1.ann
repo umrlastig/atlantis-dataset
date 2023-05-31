@@ -1,0 +1,12 @@
+T1	geogFeat 39 43	Port
+T2	geogFeat 30 35	étier
+T3	geogFeat 85 90	étier
+T4	geogFeat 154 159	digue
+T5	geogFeat 163 171	littoral
+T6	name 48 54	Champs
+T7	name 97 104	Louippe
+T8	geogName 39 54	Port des Champs
+T9	geogName 30 54	étier de Port des Champs
+T10	geogName 85 104	étier de la Louippe
+R1	SouthOf Arg1:T9 Arg2:T10	
+R2	ElementOf Arg1:T4 Arg2:T5	

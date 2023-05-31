@@ -1,0 +1,35 @@
+T1	geogFeat 152 155	île
+T2	geogFeat 183 187	îles
+T3	geogFeat 262 269	détroit
+T4	geogFeat 310 317	passage
+T5	geogFeat 346 350	pont
+T6	geogFeat 372 375	Île
+T7	geogFeat 477 481	côte
+T8	geogFeat 496 501	récif
+T9	geogFeat 523 528	îlots
+T10	geogFeat 572 577	récif
+T11	geogFeat 587 591	côte
+T12	geogFeat 625 630	lagon
+T13	geogFeat 664 670	passes
+T14	geogFeat 736 745	mouillage
+T15	geogFeat 765 772	village
+T16	geogFeat 778 781	île
+T17	name 44 50	Tahiti
+T18	name 52 59	Huahine
+T19	name 202 213	Huahine Nui
+T20	name 225 236	Huahine Iti
+T21	name 318 325	Honoava
+T22	name 749 753	Fare
+T23	geogName 44 50	Tahiti
+T24	geogName 52 59	Huahine
+T25	geogName 202 213	Huahine Nui
+T26	geogName 225 236	Huahine Iti
+T27	geogName 310 325	passage Honoava
+T28	geogName 736 753	mouillage de Fare
+T29	name 483 487	Nord
+T30	geogName 477 487	côte 😍Nord
+R1	NorthWestOf Arg1:T24 Arg2:T23	
+R2	ElementOf Arg1:T30 Arg2:T6	
+R3	ElementOf Arg1:T8 Arg2:T30	
+R4	ElementOf Arg1:T9 Arg2:T8	
+R5	ElementOf Arg1:T15 Arg2:T16	

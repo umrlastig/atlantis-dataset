@@ -1,0 +1,7 @@
+T1	geogFeat 36 43	perches
+T2	geogFeat 56 70	chenal d’accès
+T3	geogFeat 77 81	abri
+T4	geogFeat 92 98	goulet
+T5	name 102 112	Fromentine
+T6	geogName 92 112	goulet de Fromentine
+R1	MarkedBy Arg1:T2 Arg2:T1	

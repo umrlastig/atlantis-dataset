@@ -1,0 +1,97 @@
+T1	geogFeat 222 228	places
+T2	geogFeat 304 311	bassins
+T3	geogFeat 323 327	port
+T4	geogFeat 340 344	port
+T5	geogFeat 351 357	bassin
+T6	geogFeat 422 434	appontements
+T7	geogFeat 410 414	môle
+T8	geogFeat 400 405	quais
+T9	geogFeat 361 378	Postes d’amarrage
+T10	geogFeat 436 440	Quai
+T11	geogFeat 485 489	môle
+T12	geogFeat 473 477	quai
+T13	geogFeat 533 537	îles
+T14	geogFeat 632 635	CAP
+T15	geogFeat 645 648	CAP
+T16	geogFeat 687 694	bassins
+T17	geogFeat 758 772	cale de halage
+T18	geogFeat 993 1003	Sanitaires
+T19	geogFeat 1035 1041	entrée
+T20	geogFeat 1053 1059	bassin
+T21	geogFeat 1114 1121	commune
+T22	geogFeat 1144 1148	port
+T23	geogFeat 1151 1155	quai
+T24	geogFeat 1321 1335	Quai d’accueil
+T25	geogFeat 1340 1346	entrée
+T26	geogFeat 1358 1364	bassin
+T27	geogFeat 1408 1412	port
+T28	name 1468 1474	Toulon
+T29	geogFeat 1533 1539	avenue
+T30	geogFeat 1613 1622	Gare SNCF
+T31	geogFeat 1651 1659	Aéroport
+T32	geogFeat 1694 1699	Ville
+T33	geogFeat 1717 1729	front de mer
+T34	geogFeat 1767 1771	Port
+T35	geogFeat 1926 1936	PRESQU’ÎLE
+T36	geogFeat 1949 1952	CAP
+T37	geogFeat 1963 1967	ÎLES
+T38	name 445 453	Vedettes
+T39	name 478 481	Sud
+T40	name 540 546	Hyères
+T41	name 636 641	BÉNAT
+T42	name 649 656	CAMARAT
+T43	name 1125 1133	Lavandou
+T44	name 1159 1173	Ravitaillement
+T45	name 1448 1454	Toulon
+T46	name 1540 1551	Paul Valéry
+T47	name 1625 1631	Hyères
+T48	name 1635 1641	Toulon
+T49	name 1663 1683	Hyères-Le Palyvestre
+T50	geogFeat 1701 1707	Mairie
+T51	name 1775 1783	Lavandou
+T52	name 1940 1945	GIENS
+T53	name 1953 1960	CAMARAT
+T54	name 1970 1976	HYÈRES
+T55	geogName 436 453	Quai des Vedettes
+T56	geogName 473 481	quai Sud
+T57	geogName 533 546	îles d’Hyères
+T58	geogName 632 641	CAP BÉNAT
+T59	geogName 645 656	CAP CAMARAT
+T60	geogName 1114 1133	commune du Lavandou
+T61	geogName 1151 1173	quai du Ravitaillement
+T62	geogName 1448 1454	Toulon
+T63	geogName 1468 1474	Toulon
+T64	geogName 1533 1551	avenue Paul Valéry
+T65	geogName 1625 1631	Hyères
+T66	geogName 1635 1641	Toulon
+T67	geogName 1651 1683	Aéroport de Hyères-Le Palyvestre
+T68	geogName 1767 1783	Port du Lavandou
+T69	geogName 1926 1945	PRESQU’ÎLE DE GIENS
+T70	geogName 1949 1960	CAP CAMARAT
+T71	geogName 1963 1976	ÎLES D’HYÈRES
+T72	name 316 322	ancien
+T73	geogName 316 327	ancien port
+T74	name 332 339	nouveau
+T75	geogName 332 344	nouveau port
+T76	name 358 359	3
+T77	geogName 351 359	bassin 3
+T79	geogFeat 258 264	places
+T80	geogFeat 980 985	quais
+T81	name 1045 1052	nouveau
+T82	geogName 1045 1059	nouveau bassin
+R1	ElementOf Arg1:T9 Arg2:T8	
+R2	ElementOf Arg1:T9 Arg2:T7	
+R3	ElementOf Arg1:T9 Arg2:T6	
+R4	ElementOf Arg1:T56 Arg2:T11	
+R5	ElementOf Arg1:T19 Arg2:T82	
+R6	ElementOf Arg1:T24 Arg2:T25	
+R7	ElementOf Arg1:T25 Arg2:T84	
+R8	ElementOf Arg1:T30 Arg2:T65	
+R9	ElementOf Arg1:T30 Arg2:T66	
+R10	ElementOf Arg1:T50 Arg2:T33	
+T83	geogFeat 173 197	Installations portuaires
+T78	name 1350 1357	nouveau
+T84	geogName 1350 1364	nouveau bassin
+T85	geogFeat 1519 1530	Gendarmerie
+T86	geogFeat 199 214	Infrastructures
+R11	ElementOf Arg1:T85 Arg2:T64	

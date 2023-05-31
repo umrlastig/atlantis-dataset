@@ -1,0 +1,97 @@
+T1	geogFeat 209 233	Installations portuaires
+T2	geogFeat 256 262	places
+T3	geogFeat 375 396	talus de soubassement
+T4	geogFeat 438 442	quai
+T5	geogFeat 449 454	jetée
+T6	geogFeat 465 482	postes d’amarrage
+T7	geogFeat 592 595	CAP
+T8	geogFeat 605 608	CAP
+T11	geogFeat 731 745	Zone technique
+T12	geogFeat 762 766	Anse
+T13	geogFeat 756 760	port
+T14	geogFeat 789 803	zone technique
+T15	geogFeat 863 879	jetée extérieure
+T16	geogFeat 897 902	quais
+T17	geogFeat 909 923	zone technique
+T18	geogFeat 944 960	Aire de carénage
+T19	geogFeat 991 1025	Poste de distribution de carburant
+T20	geogFeat 1067 1073	entrée
+T23	geogFeat 1173 1183	Sanitaires
+T24	geogFeat 1201 1208	Laverie
+T25	geogFeat 1272 1276	Quai
+T26	geogFeat 1334 1338	port
+T27	geogFeat 1370 1384	Bureau du port
+T21	geogFeat 1555 1569	quai d’accueil
+T22	geogFeat 1571 1577	ponton
+T28	geogFeat 1589 1603	bureau du port
+T29	geogFeat 1629 1645	poste d’amarrage
+T30	geogFeat 1647 1658	Port public
+T31	geogFeat 1765 1772	pontons
+T32	geogFeat 1830 1834	quai
+T33	geogFeat 1925 1936	Gendarmerie
+T34	geogFeat 1988 1997	Gare SNCF
+T35	geogFeat 2034 2042	Aéroport
+T36	geogFeat 2077 2082	Ville
+T37	geogFeat 2084 2090	Mairie
+T38	geogFeat 2116 2131	Bureau de poste
+T39	geogFeat 2156 2169	Boîte postale
+T40	geogFeat 2193 2197	Port
+T41	geogFeat 2362 2372	PRESQU’ÎLE
+T42	geogFeat 2385 2388	CAP
+T43	geogFeat 2399 2403	ÎLES
+T44	geogFeat 1210 1217	Station
+T45	name 596 601	BÉNAT
+T46	name 609 616	CAMARAT
+T47	name 1277 1281	Nord
+T48	name 1342 1360	Bormes-les-Mimosas
+T49	name 1897 1903	Toulon
+T50	name 1917 1923	Toulon
+T51	name 1942 1950	Lavandou
+T52	name 1773 1774	B
+T53	name 1778 1780	B’
+T54	name 1578 1579	B
+T55	name 2000 2006	Hyères
+T56	name 2018 2024	Toulon
+T57	name 2046 2066	Hyères-Le Palyvestre
+T58	name 2136 2154	Bormes-les-Mimosas
+T59	name 2201 2219	Bormes-les-Mimosas
+T60	name 2376 2381	GIENS
+T61	name 2389 2396	CAMARAT
+T62	name 2406 2412	HYÈRES
+T63	geogName 592 601	CAP BÉNAT
+T64	geogName 605 616	CAP CAMARAT
+T65	geogName 1272 1281	Quai Nord
+T66	geogName 1334 1360	port de Bormes-les-Mimosas
+T67	geogName 1571 1579	ponton B
+T68	geogName 1897 1903	Toulon
+T69	geogName 1917 1923	Toulon
+T70	geogName 1942 1950	Lavandou
+T71	geogName 2018 2024	Toulon
+T72	geogName 2000 2006	Hyères
+T73	geogName 2034 2066	Aéroport de Hyères-Le Palyvestre
+T74	geogName 2136 2154	Bormes-les-Mimosas
+T75	geogName 2193 2219	Port de Bormes-les-Mimosas
+T76	geogName 2362 2381	PRESQU’ÎLE DE GIENS
+T77	geogName 2385 2396	CAP CAMARAT
+T78	geogName 2399 2412	ÎLES D’HYÈRES
+R1	ElementOf Arg1:T4 Arg2:T5	
+R2	SouthOf Arg1:T11 Arg2:T13	
+R3	SouthOf Arg1:T12 Arg2:T14	
+R4	ElementOf Arg1:T16 Arg2:T17	
+T79	name 1220 1225	bleue
+T80	geogName 1210 1227	Station « bleue »
+R5	ElementOf Arg1:T80 Arg2:T65	
+T9	geogFeat 1083 1098	bureau 😍de port
+T10	geogFeat 1713 1717	port
+T81	geogName 1765 1780	pontons B et B’
+T82	name 1836 1840	Nord
+T83	geogName 1830 1840	quai 😍Nord
+T84	geogFeat 235 250	Infrastructures
+T85	geogFeat 1039 1043	tête
+T86	geogFeat 1055 1058	épi
+R6	ElementOf Arg1:T19 Arg2:T85	
+R7	ElementOf Arg1:T85 Arg2:T86	
+R8	ElementOf Arg1:T34 Arg2:T72	
+R9	ElementOf Arg1:T34 Arg2:T71	
+R10	ElementOf Arg1:T38 Arg2:T74	
+T87	geogFeat 1755 1760	accès

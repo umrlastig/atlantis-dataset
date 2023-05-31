@@ -1,0 +1,18 @@
+T1	geogFeat 319 326	station
+T2	geogFeat 362 371	terminaux
+T3	geogFeat 398 403	ports
+T4	geogFeat 448 478	point d’embarquement du pilote
+T5	geogFeat 537 540	feu
+T6	geogFeat 546 549	île
+T7	name 375 379	Mbaw
+T8	name 407 417	Ziguinchor
+T9	name 421 428	Kaolack
+T10	name 555 560	Gorée
+T11	geogName 362 379	terminaux de Mbaw
+T12	geogName 398 428	ports de Ziguinchor et Kaolack
+T13	geogName 546 560	île de 😄😍Gorée
+T14	geogFeat 93 98	Océan
+T15	name 99 109	Atlantique
+T16	geogName 93 109	Océan Atlantique
+T17	geogName 537 560	feu de l’île de 😄😍Gorée
+R1	NorthEastOf Arg1:T4 Arg2:T17	

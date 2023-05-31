@@ -1,0 +1,70 @@
+T1	geogFeat 13 16	cap
+T2	geogFeat 28 34	pointe
+T3	geogFeat 71 74	cap
+T4	geogFeat 97 102	récif
+T5	geogFeat 138 149	hauts-fonds
+T6	geogFeat 157 176	roches découvrantes
+T7	geogFeat 229 236	secteur
+T8	geogFeat 246 251	phare
+T9	geogFeat 255 258	cap
+T10	geogFeat 298 313	bouée cardinale
+T11	geogFeat 384 389	récif
+T12	geogFeat 396 400	côte
+T13	geogFeat 424 427	cap
+T14	geogFeat 450 459	haut-fond
+T15	geogFeat 561 567	pointe
+T16	geogFeat 593 599	pylône
+T17	geogFeat 722 728	isthme
+T18	geogFeat 900 906	pointe
+T19	geogFeat 926 931	phare
+T20	geogFeat 934 938	tour
+T21	geogFeat 952 960	lanterne
+T22	geogFeat 1052 1056	anse
+T23	geogFeat 1087 1093	pointe
+T24	geogFeat 1106 1109	cap
+T25	geogFeat 1125 1134	mouillage
+T26	geogFeat 1238 1243	Phare
+T27	geogFeat 1250 1256	pointe
+T28	geogFeat 882 890	chaussée
+T29	name 17 22	Blanc
+T30	name 38 43	Ouest
+T31	name 75 80	Blanc
+T32	name 107 119	Veaux Marins
+T33	name 260 265	Blanc
+T34	name 316 336	SPM-Les Veaux Marins
+T35	name 428 433	Blanc
+T36	name 460 466	Briand
+T37	name 573 579	Jument
+T38	name 732 740	Langlade
+T39	name 908 913	Plate
+T40	name 1060 1069	Sud-Ouest
+T41	name 1094 1099	Plate
+T42	name 1110 1114	Bleu
+T43	name 1257 1262	Plate
+T44	geogName 13 22	cap Blanc
+T45	geogName 28 43	pointe du Ouest
+T46	geogName 71 80	cap Blanc
+T47	geogName 97 119	récif des Veaux Marins
+T48	geogName 255 265	cap 😍Blanc
+T49	geogName 298 338	bouée cardinale « SPM-Les Veaux Marins »
+T50	geogName 424 433	cap Blanc
+T51	geogName 450 466	haut-fond Briand
+T52	geogName 561 579	pointe à la Jument
+T53	geogName 722 740	isthme de Langlade
+T54	geogName 900 913	pointe 😄Plate
+T55	geogName 1052 1069	anse du Sud-Ouest
+T56	geogName 1087 1099	pointe Plate
+T57	geogName 1106 1114	cap Bleu
+T58	geogName 1250 1262	pointe Plate
+T59	geogName 1238 1262	Phare de la pointe Plate
+T60	geogName 246 265	phare du cap 😍Blanc
+R1	SouthWestOf Arg1:T47 Arg2:T46	
+R2	ElementOf Arg1:T5 Arg2:T47	
+R3	ElementOf Arg1:T6 Arg2:T47	
+R4	WestOf Arg1:T49 Arg2:T47	
+R5	MarkedBy Arg1:T47 Arg2:T49	
+R6	SouthSouthWestOf Arg1:T51 Arg2:T50	
+R7	ElementOf Arg1:T19 Arg2:T54	
+R8	ElementOf Arg1:T20 Arg2:T19	
+R9	ElementOf Arg1:T21 Arg2:T20	
+R10	MarkedBy Arg1:T47 Arg2:T7	

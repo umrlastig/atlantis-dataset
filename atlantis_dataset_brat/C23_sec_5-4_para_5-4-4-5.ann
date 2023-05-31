@@ -1,0 +1,183 @@
+T1	geogFeat 85 89	PORT
+T2	geogFeat 221 225	PORT
+T3	geogFeat 355 359	quai
+T4	geogFeat 426 430	quai
+T5	geogFeat 459 463	rive
+T6	geogFeat 610 614	PORT
+T7	geogFeat 802 806	port
+T8	geogFeat 792 798	entrée
+T9	geogFeat 859 872	PORT DE PÊCHE
+T10	geogFeat 919 923	port
+T11	geogFeat 1018 1022	môle
+T12	geogFeat 1035 1039	quai
+T13	geogFeat 1113 1118	étier
+T14	geogFeat 249 255	Posées
+T15	geogFeat 396 400	port
+T16	geogFeat 402 406	rive
+T17	geogFeat 886 902	échelle de marée
+T18	geogFeat 932 939	vannage
+T19	geogFeat 3899 3905	POINTE
+T20	geogFeat 3921 3924	ÎLE
+T21	geogFeat 1241 1245	BAIE
+T22	geogFeat 1301 1305	PORT
+T23	geogFeat 1376 1389	PORT DE PÊCHE
+T24	geogFeat 1478 1482	PORT
+T25	geogFeat 1585 1589	PORT
+T26	geogFeat 1617 1634	places sur bouées
+T27	geogFeat 1668 1686	ponton d’accostage
+T28	geogFeat 1689 1702	PORT DE PÊCHE
+T29	geogFeat 1716 1722	bassin
+T30	geogFeat 1764 1770	Entrée
+T31	geogFeat 1774 1780	bassin
+T32	geogFeat 1795 1801	pointe
+T33	geogFeat 1817 1821	PORT
+T34	geogFeat 1845 1851	places
+T35	geogFeat 1859 1866	pontons
+T36	geogFeat 1870 1877	catways
+T37	geogFeat 1923 1929	bassin
+T38	geogFeat 1973 1977	PORT
+T39	geogFeat 2003 2023	cale de mise à l’eau
+T40	geogFeat 2026 2039	PORT DE PÊCHE
+T41	geogFeat 2053 2073	cale de mise à l’eau
+T42	geogFeat 2076 2080	PORT
+T43	geogFeat 2102 2111	élévateur
+T44	geogFeat 2123 2144	cales de mise à l’eau
+T45	geogFeat 2163 2179	Blocs sanitaires
+T46	geogFeat 2228 2232	quai
+T47	geogFeat 2254 2261	pontons
+T48	geogFeat 2276 2294	stations carburant
+T49	geogFeat 2452 2457	Ports
+T50	geogFeat 2488 2492	PORT
+T51	geogFeat 2516 2530	Bureau du port
+T52	geogFeat 2594 2617	Bureau du port de pêche
+T53	geogFeat 2569 2582	PORT DE PÊCHE
+T54	geogFeat 2644 2648	PORT
+T55	geogFeat 2745 2751	Bureau
+T56	geogFeat 2985 2989	PORT
+T57	geogFeat 3012 3018	ponton
+T58	geogFeat 3051 3060	boulevard
+T59	geogFeat 3185 3194	boulevard
+T60	geogFeat 3315 3320	place
+T61	geogFeat 3435 3439	pont
+T62	geogFeat 3499 3508	gare SNCF
+T63	geogFeat 3527 3535	Aéroport
+T64	geogFeat 3599 3602	île
+T65	name 93 107	LA NOËVEILLARD
+T66	name 229 235	PORNIC
+T67	name 237 246	GOURMALON
+T68	name 363 372	Gourmalon
+T69	name 436 442	Écluse
+T70	name 618 632	LA NOËVEILLARD
+T71	name 876 882	PORNIC
+T72	name 1045 1051	Écluse
+T73	name 1122 1134	Haute-Perche
+T74	name 1249 1258	BOURGNEUF
+T75	name 1309 1315	PORNIC
+T76	name 1317 1326	GOURMALON
+T77	name 1393 1399	PORNIC
+T78	name 1486 1500	LA NOËVEILLARD
+T79	name 1593 1599	PORNIC
+T80	name 1601 1610	GOURMALON
+T81	name 1706 1712	PORNIC
+T82	name 1805 1814	Gourmalon
+T83	name 1825 1839	LA NOËVEILLARD
+T84	name 1981 1987	PORNIC
+T85	name 1989 1998	GOURMALON
+T86	name 2043 2049	PORNIC
+T87	name 2084 2098	LA NOËVEILLARD
+T88	name 2379 2395	Loire-Atlantique
+T89	name 2461 2477	Loire-Atlantique
+T90	name 2480 2486	Nantes
+T91	name 2496 2502	PORNIC
+T92	name 2504 2513	GOURMALON
+T93	name 2534 2543	Gourmalon
+T94	name 2586 2592	PORNIC
+T95	name 2652 2666	LA NOËVEILLARD
+T96	name 2730 2736	Pornic
+T97	name 2762 2776	La Noëveillard
+T98	name 2993 3007	LA NOËVEILLARD
+T99	name 3040 3046	Nantes
+T100	name 3061 3076	Gaston Serpette
+T101	name 3198 3204	Verdun
+T102	name 3321 3329	Rellinet
+T103	name 3443 3456	Saint-Nazaire
+T104	name 3467 3473	Nantes
+T105	name 3512 3525	Saint-Nazaire
+T106	name 3539 3556	Nantes-Atlantique
+T107	name 3606 3617	Noirmoutier
+T108	name 3631 3637	Pornic
+T109	name 3641 3655	La Noëveillard
+T110	name 3909 3916	CROISIC
+T111	name 3928 3939	NOIRMOUTIER
+T112	geogName 85 107	PORT DE LA NOËVEILLARD
+T113	geogName 221 235	PORT DE PORNIC
+T114	geogName 237 246	GOURMALON
+T115	geogName 355 372	quai de Gourmalon
+T116	geogName 426 442	quai de l’Écluse
+T117	geogName 610 632	PORT DE LA NOËVEILLARD
+T118	geogName 859 882	PORT DE PÊCHE DE PORNIC
+T119	geogName 1035 1051	quai de l’Écluse
+T120	geogName 1113 1134	étier de Haute-Perche
+T121	name 1023 1028	Leray
+T122	geogName 1018 1028	môle Leray
+T123	geogName 1241 1258	BAIE DE BOURGNEUF
+T124	geogName 1301 1315	PORT DE PORNIC
+T125	geogName 1317 1326	GOURMALON
+T126	geogName 1376 1399	PORT DE PÊCHE DE PORNIC
+T127	geogName 1478 1500	PORT DE LA NOËVEILLARD
+T128	geogName 1585 1599	PORT DE PORNIC
+T129	geogName 1601 1610	GOURMALON
+T130	geogName 1689 1712	PORT DE PÊCHE DE PORNIC
+T131	geogName 1795 1814	pointe de Gourmalon
+R1	ElementOf Arg1:T8 Arg2:T7	
+R2	ElementOf Arg1:T17 Arg2:T10	
+R6	ElementOf Arg1:T30 Arg2:T31	
+T132	geogName 1817 1839	PORT DE LA NOËVEILLARD
+T133	geogName 1973 1987	PORT DE PORNIC
+T134	geogName 1989 1998	GOURMALON
+T135	geogName 2026 2049	PORT DE PÊCHE DE PORNIC
+T136	geogName 2076 2098	PORT DE LA NOËVEILLARD
+T137	geogName 2379 2395	Loire-Atlantique
+T138	geogName 2488 2502	PORT DE PORNIC
+T139	geogName 2504 2513	GOURMALON
+T140	geogName 2516 2543	Bureau du port de Gourmalon
+T141	geogName 2569 2592	PORT DE PÊCHE DE PORNIC
+T142	geogName 2644 2666	PORT DE LA NOËVEILLARD
+T143	geogName 2730 2736	Pornic
+T144	geogName 2762 2776	La Noëveillard
+T145	geogName 2985 3007	PORT DE LA NOËVEILLARD
+T146	geogName 2461 2477	Loire-Atlantique
+T147	geogName 2480 2486	Nantes
+T148	geogName 3040 3046	Nantes
+T149	geogName 3051 3076	boulevard Gaston Serpette
+T150	geogName 3185 3204	boulevard de Verdun
+T151	geogName 3315 3329	place Rellinet
+T152	geogName 3435 3456	pont de Saint-Nazaire
+T153	geogName 3467 3473	Nantes
+T154	geogName 3499 3525	gare SNCF de Saint-Nazaire
+T155	geogName 3527 3556	Aéroport de Nantes-Atlantique
+T156	geogName 3599 3617	île de Noirmoutier
+T157	geogName 3631 3637	Pornic
+T158	geogName 3641 3655	La Noëveillard
+T159	geogName 3899 3916	POINTE DU CROISIC
+T160	geogName 3921 3939	ÎLE DE NOIRMOUTIER
+T161	name 407 410	Sud
+T162	geogName 402 410	rive Sud
+T163	name 464 468	Nord
+T164	geogName 459 468	rive Nord
+T165	name 3019 3020	G
+T166	geogName 3012 3020	ponton G
+T167	name 3175 3181	Nantes
+T168	geogName 3175 3181	Nantes
+T169	name 3305 3311	Nantes
+T170	geogName 3305 3311	Nantes
+T171	geogFeat 1260 1284	Installations portuaires
+T172	geogFeat 1568 1583	Infrastructures
+R12	ElementOf Arg1:T115 Arg2:T15	
+R13	ElementOf Arg1:T34 Arg2:T35	
+R14	ElementOf Arg1:T34 Arg2:T36	
+R16	ElementOf Arg1:T149 Arg2:T148	
+R17	ElementOf Arg1:T150 Arg2:T168	
+R18	ElementOf Arg1:T151 Arg2:T170	
+R20	ElementOf Arg1:T115 Arg2:T162	
+R21	ElementOf Arg1:T116 Arg2:T164	

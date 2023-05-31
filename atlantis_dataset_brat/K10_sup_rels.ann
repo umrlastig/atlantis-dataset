@@ -1,0 +1,712 @@
+T1	geogFeat 6 11	récif
+T2	geogFeat 18 23	récif
+T3	geogFeat 74 78	îlot
+T4	geogFeat 124 139	coffre lumineux
+T5	geogFeat 168 172	tour
+T6	geogFeat 183 189	sommet
+T7	geogFeat 225 228	feu
+T8	geogFeat 237 244	secteur
+T9	geogFeat 275 280	récif
+T10	geogFeat 288 293	récif
+T11	geogFeat 312 317	récif
+T12	geogFeat 343 355	obstructions
+T13	geogFeat 418 422	baie
+T14	geogFeat 448 454	droite
+T15	geogFeat 467 473	pointe
+T16	geogFeat 485 491	pointe
+T17	geogFeat 583 587	baie
+T18	geogFeat 633 637	îlot
+T19	geogFeat 656 661	îlots
+T20	geogFeat 709 715	pointe
+T21	geogFeat 742 752	alignement
+T22	geogFeat 766 772	pointe
+T23	geogFeat 789 796	village
+T24	geogFeat 865 872	village
+T25	geogFeat 892 896	baie
+T26	geogFeat 906 910	baie
+T27	geogFeat 954 957	cap
+T28	geogFeat 1017 1021	baie
+T29	geogFeat 1118 1125	rivière
+T31	geogFeat 1142 1151	haut-fond
+T32	geogFeat 1205 1223	point de mouillage
+T33	geogFeat 1241 1252	appontement
+T34	geogFeat 1281 1287	rocher
+T35	name 1291 1295	Tour
+T36	geogFeat 1333 1348	pâtés de corail
+T37	geogFeat 1369 1373	zone
+T38	geogFeat 1406 1434	balise espar latérale bâbord
+T39	geogFeat 1457 1470	route d’accès
+T40	geogFeat 1501 1515	tête de corail
+T41	geogFeat 1559 1564	phare
+T42	geogFeat 1577 1580	pic
+T43	geogFeat 1591 1596	piton
+T44	geogFeat 1634 1640	sommet
+T45	geogFeat 1654 1657	cap
+T46	geogFeat 1691 1694	île
+T47	geogFeat 1741 1746	amers
+T48	geogFeat 1760 1764	îlot
+T49	geogFeat 1778 1781	île
+T50	geogFeat 1788 1791	île
+T51	geogFeat 1803 1807	îlot
+T52	geogFeat 1874 1879	passe
+T53	geogFeat 1893 1902	haut-fond
+T54	geogFeat 1962 1965	île
+T55	geogFeat 1980 1984	îles
+T56	geogFeat 2002 2008	Island
+T57	geogFeat 2099 2110	hauts-fonds
+T58	geogFeat 2160 2166	récifs
+T59	geogFeat 2197 2201	banc
+T60	geogFeat 2213 2217	Bank
+T61	geogFeat 2242 2251	haut-fond
+T62	geogFeat 2296 2302	récifs
+T63	geogFeat 2308 2312	banc
+T64	geogFeat 2326 2330	Bank
+T65	geogFeat 2369 2378	haut-fond
+T66	geogFeat 2408 2412	banc
+T67	geogFeat 2426 2430	Bank
+T68	geogFeat 2499 2508	haut-fond
+T69	geogFeat 2562 2566	port
+T70	geogFeat 2601 2611	embouchure
+T71	geogFeat 2626 2637	appontement
+T72	geogFeat 2659 2663	îlot
+T73	geogFeat 2687 2691	îlot
+T74	geogFeat 2769 2772	cap
+T75	geogFeat 2835 2839	mont
+T76	geogFeat 2854 2860	sommet
+T77	geogFeat 2926 2929	cap
+T78	geogFeat 2947 2952	amers
+T79	geogFeat 2797 2801	dent
+T80	geogFeat 2963 2967	banc
+T81	geogFeat 3025 3028	île
+T82	geogFeat 3042 3046	banc
+T83	geogFeat 3089 3110	bouée latérale bâbord
+T84	geogFeat 3174 3177	île
+T85	geogFeat 3202 3218	bouée d’amarrage
+T86	geogFeat 3289 3295	pointe
+T87	geogFeat 3301 3306	roche
+T88	geogFeat 3341 3376	bouée espar, marque de danger isolé
+T89	geogFeat 3398 3404	pointe
+T90	geogFeat 3416 3422	entrée
+T91	geogFeat 3429 3433	baie
+T92	geogFeat 3441 3444	cap
+T93	geogFeat 3470 3473	cap
+T94	geogFeat 3494 3502	falaises
+T95	geogFeat 3550 3556	rocher
+T96	geogFeat 3640 3645	passe
+T97	geogFeat 3677 3683	passes
+T98	geogFeat 3721 3728	dangers
+T99	geogFeat 3732 3737	canal
+T100	geogFeat 3757 3763	entrée
+T101	geogFeat 3773 3784	hauts-fonds
+T102	geogFeat 3895 3900	phare
+T103	geogFeat 3910 3914	Anse
+T104	geogFeat 3935 3940	récif
+T105	geogFeat 3994 4000	pointe
+T106	geogFeat 4030 4036	entrée
+T107	geogFeat 4043 4047	baie
+T108	geogFeat 4075 4080	récif
+T109	geogFeat 4096 4101	jetée
+T110	geogFeat 4214 4217	feu
+T111	geogFeat 4253 4258	passe
+T112	geogFeat 4272 4275	axe
+T113	geogFeat 4282 4298	voie recommandée
+T114	geogFeat 4313 4336	balise latérale tribord
+T115	geogFeat 4364 4369	récif
+T116	geogFeat 4414 4417	île
+T117	geogFeat 4487 4491	anse
+T118	geogFeat 4543 4547	banc
+T119	geogFeat 4570 4574	baie
+T120	geogFeat 4593 4597	zone
+T121	geogFeat 4639 4645	pointe
+T122	geogFeat 4669 4680	hauts-fonds
+T123	geogFeat 4737 4740	île
+T124	geogFeat 4768 4772	baie
+T125	geogFeat 4847 4853	pointe
+T126	geogFeat 4864 4867	île
+T127	geogFeat 4872 4881	haut-fond
+T128	geogFeat 4967 4975	monument
+T129	geogFeat 4982 4987	épave
+T130	geogFeat 5050 5055	récif
+T131	geogFeat 5078 5082	îlot
+T132	geogFeat 5131 5135	îlot
+T133	geogFeat 5146 5150	îlot
+T134	geogFeat 5204 5209	lagon
+T135	geogFeat 5219 5224	amers
+T136	geogFeat 5229 5238	mouillage
+T137	geogFeat 5305 5310	récif
+T138	geogFeat 5323 5328	passe
+T139	geogFeat 5407 5421	récif-barrière
+T140	geogFeat 5427 5441	récif-barrière
+T141	geogFeat 5511 5516	récif
+T142	geogFeat 5598 5601	île
+T143	geogFeat 5623 5626	île
+T30	geogFeat 5664 5668	côte
+T144	geogFeat 5686 5690	baie
+T145	geogFeat 5705 5708	cap
+T146	geogFeat 5718 5724	pointe
+T147	geogFeat 5767 5771	côte
+T148	geogFeat 5827 5832	plage
+T149	geogFeat 5915 5919	baie
+T150	geogFeat 6058 6063	récif
+T151	geogFeat 6125 6135	presqu’île
+T152	geogFeat 6236 6240	côte
+T153	geogFeat 6256 6260	baie
+T154	geogFeat 6334 6338	baie
+T155	geogFeat 6409 6412	île
+T156	geogFeat 6478 6484	rocher
+T157	geogFeat 6497 6500	île
+T158	geogFeat 6545 6550	îlots
+T159	geogFeat 6554 6558	îles
+T160	geogFeat 6573 6587	récif-barrière
+T161	geogFeat 6611 6616	passe
+T162	geogFeat 6664 6668	îlot
+T163	geogFeat 6696 6703	dangers
+T164	geogFeat 6725 6730	basse
+T165	geogFeat 6780 6789	mouillage
+T166	geogFeat 6845 6852	plateau
+T167	geogFeat 6868 6887	poste de chargement
+T168	geogFeat 6892 6896	rade
+T169	geogFeat 6953 6963	mouillages
+T170	geogFeat 7086 7092	sommet
+T171	geogFeat 7098 7101	île
+T172	geogFeat 7128 7139	alignements
+T173	geogFeat 7158 7173	balises privées
+T174	geogFeat 7192 7197	flanc
+T175	geogFeat 7202 7210	collines
+T176	geogFeat 7225 7229	baie
+T177	geogFeat 7234 7239	wharf
+T178	geogFeat 7345 7350	épave
+T179	geogFeat 7453 7471	point de mouillage
+T180	geogFeat 7573 7578	piton
+T181	geogFeat 7657 7661	baie
+T182	geogFeat 7691 7700	mouillage
+T183	geogFeat 7733 7739	rocher
+T184	geogFeat 7786 7790	côte
+T185	geogFeat 7811 7814	cap
+T186	geogFeat 7828 7832	côte
+T187	geogFeat 7842 7846	baie
+T188	geogFeat 7860 7870	embouchure
+T189	geogFeat 7877 7884	rivière
+T190	geogFeat 7937 7942	plage
+T191	geogFeat 7963 7967	banc
+T192	geogFeat 7999 8020	bouée latérale bâbord
+T193	geogFeat 8043 8048	récif
+T194	geogFeat 8104 8108	îles
+T195	geogFeat 8124 8129	passe
+T196	geogFeat 8170 8182	fausse passe
+T197	geogFeat 8211 8215	îlot
+T198	geogFeat 8246 8252	passes
+T199	geogFeat 8284 8288	îlot
+T200	geogFeat 8363 8367	baie
+T201	geogFeat 8428 8431	île
+T202	geogFeat 8445 8448	île
+T203	geogFeat 8461 8465	îles
+T204	geogFeat 8513 8518	passe
+T205	geogFeat 8537 8542	récif
+T206	geogFeat 8592 8601	haut-fond
+T207	geogFeat 8653 8698	balise à flotteur latérale tribord, lumineuse
+T208	geogFeat 8739 8744	récif
+T209	geogFeat 8762 8767	canal
+T210	geogFeat 8796 8809	route d’accès
+T211	geogFeat 8815 8819	baie
+T212	geogFeat 8859 8865	pointe
+T213	geogFeat 8875 8879	îlot
+T214	geogFeat 8911 8915	îlot
+T215	geogFeat 8951 8954	île
+T216	geogFeat 9015 9021	pointe
+T217	geogFeat 9030 9033	Île
+T218	geogFeat 9060 9067	village
+T219	geogFeat 9077 9092	bureau de poste
+T220	geogFeat 9094 9105	gendarmerie
+T221	geogFeat 9140 9146	pointe
+T222	geogFeat 9162 9167	route
+T223	geogFeat 9283 9290	sommets
+T224	geogFeat 9294 9298	mont
+T225	geogFeat 9333 9338	ville
+T226	geogFeat 9343 9349	chaîne
+T227	geogFeat 9354 9359	monts
+T228	geogFeat 9383 9387	mont
+T229	geogFeat 9421 9425	côte
+T230	geogFeat 9430 9438	monument
+T232	geogFeat 9488 9492	baie
+T233	geogFeat 9505 9509	amer
+T234	geogFeat 9523 9529	rocher
+T235	name 9533 9537	Tour
+T236	geogFeat 9563 9569	rivage
+T237	geogFeat 9573 9579	église
+T238	geogFeat 9582 9586	toit
+T239	geogFeat 9611 9617	pointe
+T240	geogFeat 9634 9640	temple
+T241	geogFeat 9643 9647	toit
+T242	geogFeat 9702 9715	agglomération
+T243	geogFeat 9737 9740	île
+T244	geogFeat 9760 9763	île
+T245	geogFeat 9775 9778	île
+T246	geogFeat 9831 9837	ponton
+T247	geogFeat 9843 9847	Îlot
+T248	geogFeat 9869 9880	plate-forme
+T249	geogFeat 9980 9989	haut-fond
+T250	geogFeat 10009 10017	brisants
+T251	geogFeat 10036 10041	récif
+T252	geogFeat 10085 10089	banc
+T253	geogFeat 10183 10190	plateau
+T254	geogFeat 10236 10239	île
+T255	geogFeat 10349 10352	île
+T256	geogFeat 10408 10412	abri
+T257	geogFeat 10422 10426	anse
+T258	geogFeat 10448 10459	hauts-fonds
+T259	geogFeat 10489 10495	récifs
+T260	geogFeat 10511 10516	passe
+T261	geogFeat 10598 10603	récif
+T262	geogFeat 10633 10658	centre agricole et minier
+T263	geogFeat 10688 10694	pointe
+T264	geogFeat 10716 10731	bureau de poste
+T265	geogFeat 10742 10745	épi
+T266	geogFeat 10775 10780	récif
+T267	geogFeat 10810 10814	îlot
+T268	geogFeat 10915 10925	PRESQU’ÎLE
+T269	geogFeat 10883 10890	RÉSERVE
+T270	geogFeat 10955 10972	zone de mouillage
+T271	geogFeat 10986 10995	haut-fond
+T272	geogFeat 11031 11035	îlot
+T273	name 12 16	Tabu
+T274	name 24 29	Tabou
+T275	geogName 6 16	récif Tabu
+T276	geogName 18 29	récif Tabou
+T277	name 79 85	Amédée
+T278	geogName 74 85	îlot Amédée
+T279	name 281 283	To
+T280	geogName 275 283	récif To
+T281	name 294 305	Le Sournois
+T282	name 318 324	Toombo
+T283	geogName 288 305	récif Le Sournois
+T284	geogName 312 324	récif Toombo
+T285	name 426 433	Bourail
+T286	geogName 418 433	baie de Bourail
+T287	name 474 479	Akaïa
+T288	name 492 500	Ponjaoua
+T289	geogName 467 479	pointe Akaïa
+T290	geogName 485 500	pointe Ponjaoua
+T291	name 662 678	Les Trois Frères
+T292	geogName 656 678	îlots Les Trois Frères
+T293	name 719 729	Babouillat
+T294	geogName 709 729	pointe de Babouillat
+T295	name 800 812	Tchambouenne
+T296	geogName 789 812	village de Tchambouenne
+T297	name 876 884	Oubatche
+T298	geogName 865 884	village de Oubatche
+T299	name 900 904	Nord
+T300	name 914 919	Waeko
+T301	name 958 964	Machau
+T302	geogName 892 904	baie du Nord
+T303	geogName 906 919	baie de Waeko
+T304	geogName 954 964	cap Machau
+T305	name 1025 1031	Nakéty
+T306	geogName 1017 1031	baie de Nakéty
+T308	name 1126 1137	Ouen Nakéty
+T310	geogName 1118 1137	rivière Ouen Nakéty
+T311	geogName 1281 1295	rocher la Tour
+T312	name 1568 1572	Goro
+T313	geogName 1559 1572	phare de Goro
+T314	name 1581 1589	Karikaté
+T315	geogName 1577 1589	pic Karikaté
+T316	name 1597 1605	Karikaté
+T317	geogName 1591 1605	piton Karikaté
+T318	name 1641 1647	Titéma
+T319	name 1658 1660	Ka
+T320	geogName 1634 1647	sommet Titéma
+T321	geogName 1654 1660	cap Ka
+T322	name 1695 1702	Mathieu
+T323	geogName 1691 1702	île Mathieu
+T324	geogFeat 1704 1707	île
+T325	name 1711 1713	Ka
+T326	geogName 1704 1713	île de Ka
+T327	name 1765 1769	M’ba
+T328	name 1771 1777	Grande
+T329	geogName 1760 1769	îlot M’ba
+T330	geogName 1771 1781	Grande île
+T331	name 1792 1801	Goldfield
+T332	name 1808 1813	M’boa
+T333	name 1883 1888	Uitoé
+T334	geogName 1788 1801	île Goldfield
+T335	geogName 1803 1813	îlot M’boa
+T336	geogName 1874 1888	passe de Uitoé
+T337	name 1985 1992	Loyauté
+T338	name 1996 2001	Éfaté
+T339	name 2010 2017	Vanuatu
+T340	geogName 1980 1992	îles Loyauté
+T341	geogName 1996 2008	Éfaté Island
+T342	geogName 2010 2017	Vanuatu
+T343	name 2167 2178	Bellona Sud
+T344	geogName 2160 2178	récifs Bellona Sud
+T345	name 2202 2206	Nova
+T346	name 2208 2212	Nova
+T347	geogName 2197 2206	banc Nova
+T348	geogName 2208 2217	Nova Bank
+T349	name 2313 2318	Kelso
+T350	name 2320 2325	Kelso
+T351	name 2413 2418	Capel
+T352	name 2420 2425	Capel
+T353	geogName 2308 2318	banc Kelso
+T354	geogName 2320 2330	Kelso Bank
+T355	geogName 2408 2418	banc Capel
+T356	geogName 2420 2430	Capel Bank
+T357	name 2664 2678	Champignon Est
+T358	name 2692 2708	Champignon Ouest
+T359	geogName 2659 2678	îlot Champignon Est
+T360	geogName 2687 2708	îlot Champignon Ouest
+T361	name 2773 2775	Ka
+T362	geogName 2769 2775	cap Ka
+T363	name 2805 2818	Saint Vincent
+T364	name 2840 2842	Do
+T365	name 2930 2932	Ka
+T366	name 3053 3060	Meurthe
+T367	name 3029 3034	Némou
+T368	name 2971 2979	Kersaint
+T369	geogName 2797 2818	dent de Saint Vincent
+T370	geogName 2835 2842	mont Do
+T371	geogName 2926 2932	cap Ka
+T372	geogName 2963 2979	banc du Kersaint
+T373	geogName 3025 3034	île Némou
+T374	geogName 3042 3060	banc de la Meurthe
+T375	name 3181 3190	Freycinet
+T376	geogName 3174 3190	île de Freycinet
+T377	name 3405 3410	Ouest
+T378	geogName 3398 3410	pointe Ouest
+T379	name 3445 3449	Koua
+T380	geogName 3441 3449	cap Koua
+T381	name 3474 3479	Bégat
+T382	geogName 3470 3479	cap Bégat
+T383	name 3648 3657	Ongomboua
+T384	geogName 3640 3657	passe d’Ongomboua
+T385	name 3687 3689	NE
+T386	geogName 3677 3689	passes du NE
+T387	name 3738 3744	Woodin
+T388	geogName 3732 3744	canal Woodin
+T389	name 3764 3767	Est
+T390	geogName 3757 3767	entrée Est
+T391	geogName 3904 3914	Bonne Anse
+T392	name 3904 3909	Bonne
+T393	geogName 3895 3914	phare de Bonne Anse
+T394	name 3941 3948	Moziman
+T395	name 4005 4009	Pins
+T396	name 4051 4056	Prony
+T397	geogName 3935 3948	récif Moziman
+T398	geogName 3994 4009	pointe des Pins
+T399	geogName 4043 4056	baie de Prony
+T400	name 4418 4424	Lebris
+T401	geogName 4414 4424	île Lebris
+T402	name 4492 4498	Paddon
+T403	name 4552 4560	Japonais
+T404	name 4575 4580	Numbo
+T405	name 4646 4654	Destelle
+T406	geogName 4487 4498	anse Paddon
+T407	geogName 4543 4560	banc des Japonais
+T408	geogName 4570 4580	baie Numbo
+T409	geogName 4639 4654	pointe Destelle
+T410	name 4741 4745	Néba
+T411	geogName 4737 4745	île Néba
+T412	name 4854 4858	Nord
+T413	geogName 4847 4858	pointe Nord
+T414	name 5044 5049	Grand
+T415	name 5056 5061	Abore
+T416	name 5083 5089	Amédée
+T417	name 5136 5142	Amédée
+T418	name 5151 5155	Mato
+T419	geogName 5044 5061	Grand récif Abore
+T420	geogName 5078 5089	îlot Amédée
+T421	geogName 5131 5142	îlot Amédée
+T422	geogName 5146 5155	îlot Mato
+T423	name 5517 5527	Desmazures
+T424	geogName 5511 5527	récif Desmazures
+T425	name 5606 5610	Pins
+T426	name 5627 5631	Ouen
+T427	geogName 5598 5610	île des Pins
+T428	geogName 5623 5631	île Ouen
+T307	name 5669 5672	Sud
+T309	geogName 5664 5672	côte Sud
+T429	name 5694 5698	Nord
+T430	name 5709 5716	Roussin
+T431	name 5725 5739	Dua I Rekabeco
+T432	geogName 5686 5698	baie du Nord
+T433	geogName 5705 5716	cap Roussin
+T434	geogName 5718 5739	pointe Dua I Rekabeco
+T435	name 6264 6275	Vieux-Touho
+T436	geogName 6256 6275	baie du Vieux-Touho
+T437	name 6342 6347	Touho
+T438	geogName 6334 6347	baie de Touho
+T439	name 6413 6418	Haute
+T440	name 6485 6491	Dolmen
+T441	name 6505 6512	Jumeaux
+T442	name 6620 6627	Taureau
+T443	geogName 6409 6418	île Haute
+T444	geogName 6478 6491	rocher Dolmen
+T445	geogName 6497 6512	île les Jumeaux
+T446	geogName 6611 6627	passe du Taureau
+T447	name 6731 6741	Prévoyante
+T448	geogName 6725 6741	basse Prévoyante
+T449	name 6853 6860	Central
+T450	geogName 6845 6860	plateau Central
+T451	name 7102 7106	Nani
+T452	geogName 7098 7106	île Nani
+T453	name 7243 7250	Wadrila
+T454	geogName 7234 7250	wharf de Wadrila
+T455	name 7579 7582	Pea
+T456	geogName 7573 7582	piton Pea
+T457	geogFeat 7522 7526	cône
+T458	name 7530 7535	Méléo
+T459	geogName 7522 7535	cône de Méléo
+T460	name 7665 7672	Gaatcha
+T461	name 7815 7820	Mandé
+T462	geogName 7811 7820	cap Mandé
+T463	geogName 7657 7672	baie de Gaatcha
+T464	name 7850 7854	Poro
+T465	name 7885 7893	Houaïlou
+T466	geogName 7842 7854	baie de Poro
+T467	geogName 7877 7893	rivière Houaïlou
+T468	name 7971 7978	Curieux
+T469	geogName 7963 7978	banc du Curieux
+T470	name 8052 8058	Milieu
+T471	geogName 8043 8058	récif du Milieu
+T472	name 8109 8116	Testard
+T473	geogName 8104 8116	îles Testard
+T474	name 8132 8141	Ongomboua
+T475	name 8216 8225	Ongomboua
+T476	geogName 8124 8141	passe d’Ongomboua
+T477	geogName 8211 8225	îlot Ongomboua
+T478	name 8371 8380	Pritzbuer
+T479	name 8432 8441	Leprédour
+T480	name 8449 8453	Puen
+T481	name 8466 8473	Testard
+T482	name 8519 8532	Saint-Vincent
+T483	geogName 8363 8380	baie de Pritzbuer
+T484	geogName 8428 8441	île Leprédour
+T485	geogName 8445 8453	île Puen
+T486	geogName 8461 8473	îles Testard
+T487	geogName 8513 8532	passe Saint-Vincent
+T488	name 8543 8558	Oundiao-Oupoura
+T489	geogName 8537 8558	récif Oundiao-Oupoura
+T490	name 8768 8774	Woodin
+T491	geogName 8762 8774	canal Woodin
+T492	name 8823 8827	Kuto
+T493	geogName 8815 8827	baie de Kuto
+T494	name 8866 8869	SSW
+T495	name 8880 8884	Moro
+T496	name 8916 8926	Bayonnaise
+T497	geogName 8859 8869	pointe SSW
+T498	geogName 8875 8884	îlot Moro
+T499	geogName 8911 8926	îlot Bayonnaise
+T500	name 8955 8961	Longue
+T501	name 9022 9024	NW
+T502	name 9034 9040	Longue
+T503	geogName 8951 8961	île Longue
+T504	geogName 9015 9024	pointe NW
+T505	geogName 9030 9040	Île Longue
+T506	name 9071 9075	Poum
+T507	name 9170 9176	Koumac
+T508	geogName 9060 9075	village de Poum
+T509	geogName 9170 9176	Koumac
+T510	name 9299 9302	Mou
+T511	geogName 9294 9302	mont Mou
+T512	name 9360 9366	Koghis
+T513	geogName 9354 9366	monts Koghis
+T514	geogName 9343 9366	chaîne des monts Koghis
+T515	name 9388 9392	Dore
+T516	geogName 9383 9392	mont Dore
+T517	geogName 9523 9537	rocher la Tour
+T518	name 9621 9626	Eacho
+T519	geogName 9611 9626	pointe de Eacho
+T520	name 9764 9769	Fabre
+T521	name 9779 9789	Le Leizour
+T522	geogName 9760 9769	île Fabre
+T523	geogName 9775 9789	île Le Leizour
+T524	name 9848 9854	Maître
+T525	geogName 9843 9854	Îlot Maître
+T526	name 10042 10060	Bellona Nord Ouest
+T527	geogName 10036 10060	récif Bellona Nord Ouest
+T528	name 10090 10094	Noël
+T529	geogName 10085 10094	banc Noël
+T530	name 10195 10202	Bellona
+T531	geogName 10183 10202	plateau des Bellona
+T532	name 10246 10254	Surprise
+T533	geogName 10236 10254	île de la Surprise
+T534	name 10427 10434	Ammoian
+T535	name 10695 10701	Gatope
+T536	name 10815 10819	Mato
+T537	name 10894 10899	OUANO
+T538	name 10929 10934	OUANO
+T539	geogName 10688 10701	pointe Gatope
+T540	geogName 10810 10819	îlot Mato
+T541	geogName 10883 10899	RÉSERVE DE OUANO
+T542	geogName 10915 10934	PRESQU’ÎLE DE OUANO
+T543	name 11036 11042	Kouaré
+T544	geogName 11031 11042	îlot Kouaré
+R1	WestNorthWestOf Arg1:T71 Arg2:T70	
+R2	ElementOf Arg1:T188 Arg2:T467	
+R3	WestSouthWestOf Arg1:T275 Arg2:T278	
+R4	MarkedBy Arg1:T275 Arg2:T4	
+R5	MarkedBy Arg1:T275 Arg2:T5	
+R6	WestOf Arg1:T4 Arg2:T275	
+R7	EastOf Arg1:T5 Arg2:T275	
+R8	ElementOf Arg1:T6 Arg2:T5	
+R9	ElementOf Arg1:T7 Arg2:T5	
+R10	ElementOf Arg1:T280 Arg2:T8	
+R11	ElementOf Arg1:T283 Arg2:T8	
+R12	ElementOf Arg1:T284 Arg2:T8	
+R13	ElementOf Arg1:T12 Arg2:T286	
+R14	ElementOf Arg1:T289 Arg2:T14	
+R15	ElementOf Arg1:T290 Arg2:T14	
+R16	NorthOf Arg1:T12 Arg2:T14	
+R17	WestNorthWestOf Arg1:T290 Arg2:T289	
+R18	ElementOf Arg1:T18 Arg2:T292	
+R19	NorthNorthEastOf Arg1:T292 Arg2:T294	
+R20	ElementOf Arg1:T22 Arg2:T21	
+R21	NorthEastOf Arg1:T22 Arg2:T296	
+R22	EastSouthEastOf Arg1:T302 Arg2:T304	
+T545	geogFeat 977 987	cul-de-sac
+R23	ElementOf Arg1:T545 Arg2:T306	
+T546	geogFeat 1106 1111	barre
+R24	ElementOf Arg1:T546 Arg2:T310	
+R25	EastSouthEastOf Arg1:T31 Arg2:T32	
+R26	WestNorthWestOf Arg1:T33 Arg2:T311	
+R27	ElementOf Arg1:T36 Arg2:T37	
+R28	MarkedBy Arg1:T36 Arg2:T38	
+R29	WestNorthWestOf Arg1:T40 Arg2:T313	
+R30	WestNorthWestOf Arg1:T315 Arg2:T320	
+R31	ElementOf Arg1:T321 Arg2:T323	
+R32	ElementOf Arg1:T321 Arg2:T47	
+R33	ElementOf Arg1:T315 Arg2:T47	
+R34	SouthEastOf Arg1:T329 Arg2:T336	
+R35	EastNorthEastOf Arg1:T334 Arg2:T336	
+R36	EastNorthEastOf Arg1:T53 Arg2:T54	
+R37	SouthOf Arg1:T57 Arg2:T344	
+R38	ElementOf Arg1:T61 Arg2:T347	
+R39	ElementOf Arg1:T65 Arg2:T353	
+R40	ElementOf Arg1:T68 Arg2:T355	
+R41	ElementOf Arg1:T61 Arg2:T57	
+R42	ElementOf Arg1:T65 Arg2:T57	
+R43	ElementOf Arg1:T68 Arg2:T57	
+R44	SouthSouthWestOf Arg1:T61 Arg2:T62	
+R45	SouthSouthWestOf Arg1:T359 Arg2:T362	
+R46	WestSouthWestOf Arg1:T360 Arg2:T362	
+R47	NorthNorthEastOf Arg1:T369 Arg2:T371	
+R48	NorthNorthWestOf Arg1:T370 Arg2:T371	
+R49	ElementOf Arg1:T369 Arg2:T78	
+R50	ElementOf Arg1:T370 Arg2:T78	
+R51	ElementOf Arg1:T76 Arg2:T370	
+R52	WestSouthWestOf Arg1:T372 Arg2:T373	
+R53	MarkedBy Arg1:T374 Arg2:T83	
+R54	MarkedBy Arg1:T372 Arg2:T83	
+R55	EastSouthEastOf Arg1:T85 Arg2:T86	
+R56	MarkedBy Arg1:T87 Arg2:T88	
+R57	ElementOf Arg1:T90 Arg2:T91	
+R58	NorthNorthWestOf Arg1:T88 Arg2:T378	
+R59	WestNorthWestOf Arg1:T380 Arg2:T382	
+R60	ElementOf Arg1:T94 Arg2:T380	
+R61	ElementOf Arg1:T95 Arg2:T380	
+R62	NorthNorthWestOf Arg1:T386 Arg2:T384	
+R63	ElementOf Arg1:T98 Arg2:T388	
+R64	ElementOf Arg1:T390 Arg2:T388	
+R65	ElementOf Arg1:T101 Arg2:T98	
+R66	SouthOf Arg1:T101 Arg2:T393	
+R67	WestSouthWestOf Arg1:T101 Arg2:T393	
+R68	ElementOf Arg1:T397 Arg2:T98	
+R69	EastSouthEastOf Arg1:T397 Arg2:T398	
+R70	ElementOf Arg1:T106 Arg2:T399	
+R71	WestOf Arg1:T398 Arg2:T106	
+R72	ElementOf Arg1:T110 Arg2:T109	
+R73	ElementOf Arg1:T112 Arg2:T113	
+R74	MarkedBy Arg1:T115 Arg2:T114	
+R75	SouthSouthWestOf Arg1:T115 Arg2:T401	
+R76	WestSouthWestOf Arg1:T406 Arg2:T407	
+R77	NorthEastOf Arg1:T120 Arg2:T409	
+R78	NorthNorthEastOf Arg1:T122 Arg2:T411	
+R79	OffTheCoastOf Arg1:T411 Arg2:T124	
+R80	ElementOf Arg1:T413 Arg2:T126	
+R81	SouthSouthWestOf Arg1:T127 Arg2:T128	
+R82	ElementOf Arg1:T129 Arg2:T419	
+R83	ElementOf Arg1:T135 Arg2:T134	
+R84	ElementOf Arg1:T129 Arg2:T135	
+R85	ElementOf Arg1:T420 Arg2:T135	
+R86	ElementOf Arg1:T422 Arg2:T135	
+R87	EastSouthEastOf Arg1:T422 Arg2:T421	
+R88	WestOf Arg1:T138 Arg2:T137	
+R89	WestOf Arg1:T139 Arg2:T138	
+R90	EastNorthEastOf Arg1:T433 Arg2:T432	
+T547	name 5923 5927	Nord
+T548	geogName 5915 5927	baie du Nord
+T549	name 6049 6056	Daubabu
+T550	geogName 6049 6056	Daubabu
+R91	WestSouthWestOf Arg1:T550 Arg2:T151	
+T551	geogFeat 6144 6149	route
+R92	WestNorthWestOf Arg1:T436 Arg2:T438	
+R93	ElementOf Arg1:T159 Arg2:T160	
+R94	ElementOf Arg1:T158 Arg2:T160	
+R95	WestSouthWestOf Arg1:T448 Arg2:T162	
+R96	ElementOf Arg1:T448 Arg2:T163	
+R97	SouthSouthWestOf Arg1:T165 Arg2:T450	
+R98	SouthSouthEastOf Arg1:T169 Arg2:T170	
+R99	ElementOf Arg1:T170 Arg2:T452	
+R100	ElementOf Arg1:T173 Arg2:T172	
+R101	ElementOf Arg1:T173 Arg2:T174	
+R102	ElementOf Arg1:T174 Arg2:T175	
+R103	EastOf Arg1:T175 Arg2:T176	
+R104	SouthSouthWestOf Arg1:T178 Arg2:T179	
+R105	EastSouthEastOf Arg1:T456 Arg2:T459	
+R106	EastNorthEastOf Arg1:T183 Arg2:T462	
+R107	WestNorthWestOf Arg1:T188 Arg2:T466	
+R108	MarkedBy Arg1:T469 Arg2:T192	
+R109	WestOf Arg1:T192 Arg2:T471	
+R110	NorthWestOf Arg1:T192 Arg2:T473	
+T552	name 8163 8169	grande
+T553	geogName 8163 8182	grande fausse passe
+R111	NorthNorthWestOf Arg1:T476 Arg2:T553	
+R112	ElementOf Arg1:T477 Arg2:T476	
+R113	NorthNorthEastOf Arg1:T483 Arg2:T487	
+R114	MarkedBy Arg1:T206 Arg2:T207	
+R115	SouthSouthWestOf Arg1:T207 Arg2:T206	
+R116	SouthEastOf Arg1:T207 Arg2:T208	
+R117	ElementOf Arg1:T497 Arg2:T498	
+R118	NorthWestOf Arg1:T497 Arg2:T499	
+R119	ElementOf Arg1:T504 Arg2:T505	
+R120	ElementOf Arg1:T219 Arg2:T508	
+R121	ElementOf Arg1:T220 Arg2:T508	
+R122	WestSouthWestOf Arg1:T508 Arg2:T221	
+T554	name 9256 9262	Nouméa
+T555	geogName 9256 9262	Nouméa
+R123	ElementOf Arg1:T223 Arg2:T511	
+R124	NorthNorthWestOf Arg1:T511 Arg2:T225	
+R125	NorthEastOf Arg1:T556 Arg2:T232	
+T231	name 9439 9459	aux morts du village
+T556	geogName 9430 9459	monument aux morts du village
+R126	ElementOf Arg1:T556 Arg2:T233	
+R127	ElementOf Arg1:T517 Arg2:T233	
+R128	ElementOf Arg1:T238 Arg2:T237	
+R129	NorthNorthEastOf Arg1:T237 Arg2:T519	
+R130	ElementOf Arg1:T241 Arg2:T240	
+R131	ElementOf Arg1:T237 Arg2:T233	
+R132	ElementOf Arg1:T240 Arg2:T233	
+R133	ElementOf Arg1:T240 Arg2:T242	
+R134	NorthNorthWestOf Arg1:T523 Arg2:T522	
+R135	WestSouthWestOf Arg1:T248 Arg2:T246	
+R136	MarkedBy Arg1:T249 Arg2:T250	
+R137	NorthNorthWestOf Arg1:T250 Arg2:T527	
+R138	NorthEastOf Arg1:T529 Arg2:T249	
+R139	ElementOf Arg1:T529 Arg2:T531	
+T557	geogName 10422 10434	anse Ammoian
+R140	SouthOf Arg1:T258 Arg2:T259	
+R141	ElementOf Arg1:T259 Arg2:T260	
+R142	SouthSouthWestOf Arg1:T258 Arg2:T261	
+T558	name 10628 10631	Voh
+T559	geogName 10628 10631	Voh
+R143	EastNorthEastOf Arg1:T262 Arg2:T539	
+R144	ElementOf Arg1:T264 Arg2:T559	
+R145	NorthNorthEastOf Arg1:T266 Arg2:T540	
+R146	WestSouthWestOf Arg1:T541 Arg2:T542	
+R147	WestNorthWestOf Arg1:T271 Arg2:T544	
+R148	ElementOf Arg1:T40 Arg2:T39	
+R149	ElementOf Arg1:T329 Arg2:T47	
+R150	WestOf Arg1:T378 Arg2:T90	
+R151	ElementOf Arg1:T101 Arg2:T390	
+R152	ElementOf Arg1:T550 Arg2:T551	
+R153	ElementOf Arg1:T198 Arg2:T476	

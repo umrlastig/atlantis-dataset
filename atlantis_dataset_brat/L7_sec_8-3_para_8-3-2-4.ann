@@ -1,0 +1,35 @@
+T1	geogFeat 128 132	zone
+T2	geogFeat 464 468	Port
+T3	geogFeat 646 651	phare
+T4	geogFeat 657 660	Île
+T5	geogFeat 710 714	port
+T6	geogFeat 784 787	Mer
+T7	geogFeat 803 809	Océans
+T8	geogFeat 907 911	port
+T9	geogFeat 937 942	bouée
+T10	geogFeat 1004 1013	Terminaux
+T11	geogFeat 1025 1037	oil terminal
+T12	geogFeat 1053 1071	container terminal
+T13	geogFeat 1127 1131	Banc
+T14	geogName 455 463	Djibouti
+T15	name 661 668	Maskali
+T16	name 788 800	Méditerranée
+T17	name 810 816	Indien
+T18	name 818 827	Pacifique
+T19	name 831 838	Austral
+T20	name 945 946	1
+T21	name 1017 1024	Doraleh
+T22	name 1045 1052	Doraleh
+T23	name 1081 1101	Doraleh multipurpose
+T24	name 1135 1139	Hadj
+T26	geogName 657 668	Île Maskali
+T27	geogName 784 800	Mer Méditerranée
+T28	geogName 803 838	Océans Indien, Pacifique et Austral
+T31	geogName 937 948	bouée « 1 »
+T32	geogName 1017 1037	Doraleh oil terminal
+T33	geogName 1045 1071	Doraleh container terminal
+T34	geogName 1081 1101	Doraleh multipurpose
+T35	geogName 1127 1139	Banc El Hadj
+T36	geogFeat 503 536	position dʼembarquement du pilote
+T25	name 455 463	Djibouti
+T37	geogName 646 668	phare de l’Île Maskali

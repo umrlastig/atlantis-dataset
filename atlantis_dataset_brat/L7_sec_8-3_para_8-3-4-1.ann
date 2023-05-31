@@ -1,0 +1,25 @@
+T1	geogFeat 31 35	rade
+T2	geogFeat 64 69	ville
+T3	geogFeat 113 122	mouillage
+T4	geogFeat 251 255	CÔTE
+T5	geogFeat 263 268	GOLFE
+T6	geogFeat 279 283	CÔTE
+T7	geogFeat 300 303	MER
+T8	geogFeat 314 324	RÉPUBLIQUE
+T9	name 73 79	Saylac
+T10	name 256 259	SUD
+T11	name 271 275	ADEN
+T12	name 284 293	AFRICAINE
+T13	name 306 312	ARABIE
+T14	name 328 336	DJIBOUTI
+T15	name 338 345	SOMALIE
+T16	geogName 64 79	ville de Saylac
+T17	geogName 251 259	CÔTE SUD
+T18	geogName 263 275	GOLFE D'ADEN
+T19	geogName 279 293	CÔTE AFRICAINE
+T20	geogName 300 312	MER D'ARABIE
+T21	geogName 314 336	RÉPUBLIQUE DE DJIBOUTI
+T22	geogName 338 345	SOMALIE
+R1	NorthOf Arg1:T1 Arg2:T16	
+R2	ElementOf Arg1:T3 Arg2:T1	
+R3	SouthOf Arg1:T17 Arg2:T18	

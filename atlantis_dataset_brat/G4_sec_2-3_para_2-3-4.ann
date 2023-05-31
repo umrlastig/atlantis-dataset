@@ -1,0 +1,55 @@
+T1	geogFeat 13 16	cap
+T2	geogFeat 35 38	cap
+T3	geogFeat 52 55	cap
+T4	geogFeat 115 125	presqu’île
+T5	geogFeat 180 183	île
+T6	geogFeat 202 208	isthme
+T7	geogFeat 221 225	côte
+T8	geogFeat 256 259	cap
+T9	geogFeat 278 281	cap
+T10	geogFeat 297 303	pointe
+T11	geogFeat 321 327	pointe
+T12	geogFeat 346 349	cap
+T13	geogFeat 375 380	anses
+T14	geogFeat 390 396	plages
+T15	geogFeat 414 418	anse
+T16	geogFeat 545 548	ÎLE
+T17	geogFeat 571 575	anse
+T18	geogFeat 631 635	anse
+T19	geogFeat 692 702	presqu’île
+T20	geogFeat 707 710	cap
+T21	geogFeat 755 760	phare
+T22	geogFeat 767 773	pylône
+T23	name 20 33	Nid à l’Aigle
+T24	name 39 47	Miquelon
+T25	name 56 61	Blanc
+T26	name 89 104	Grande Miquelon
+T27	name 134 140	Le Cap
+T28	name 263 276	Nid à l’Aigle
+T29	name 282 290	Miquelon
+T30	name 308 312	Abbé
+T31	name 332 336	Abbé
+T32	name 350 355	Blanc
+T33	name 423 428	Warys
+T34	name 549 557	MIQUELON
+T35	name 581 586	Ouest
+T36	name 639 644	Phare
+T37	name 711 716	Blanc
+T38	geogName 13 33	cap du Nid à l’Aigle
+T39	geogName 35 47	cap Miquelon
+T40	geogName 52 61	cap Blanc
+T41	geogName 89 104	Grande Miquelon
+T42	geogName 134 140	Le Cap
+T43	geogName 256 276	cap du Nid à l’Aigle
+T44	geogName 278 290	cap Miquelon
+T45	geogName 297 312	pointe à l’Abbé
+T46	geogName 321 336	pointe à l’Abbé
+T47	geogName 346 355	cap Blanc
+T48	geogName 414 428	anse aux Warys
+T49	geogName 545 557	ÎLE MIQUELON
+T50	geogName 571 586	anse de l’Ouest
+T51	geogName 631 644	anse du Phare
+T52	geogName 707 716	cap Blanc
+R1	SouthWestOf Arg1:T52 Arg2:T19	
+R2	ElementOf Arg1:T21 Arg2:T52	
+R3	ElementOf Arg1:T22 Arg2:T52	

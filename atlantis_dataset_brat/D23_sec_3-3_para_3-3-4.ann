@@ -1,0 +1,181 @@
+T1	geogFeat 10 13	Île
+T2	geogFeat 36 39	Île
+T3	geogFeat 75 80	Punta
+T4	geogFeat 95 98	île
+T5	geogFeat 126 131	masse
+T6	geogFeat 170 175	îlots
+T7	geogFeat 180 186	roches
+T8	geogFeat 190 197	rochers
+T9	geogFeat 221 226	passe
+T10	geogFeat 242 249	bouches
+T11	geogFeat 299 304	phare
+T12	geogFeat 307 311	tour
+T13	geogFeat 409 415	rocher
+T14	geogFeat 422 428	pointe
+T15	geogFeat 437 440	île
+T16	geogFeat 457 465	pyramide
+T17	geogFeat 536 546	MOUILLAGES
+T18	geogFeat 268 272	Capu
+T19	geogFeat 554 559	anses
+T20	geogFeat 578 583	côtes
+T21	geogFeat 589 592	île
+T22	geogFeat 664 674	mouillages
+T23	geogFeat 784 788	Cala
+T24	geogFeat 873 877	côte
+T25	geogFeat 906 913	rochers
+T26	geogFeat 929 933	banc
+T27	geogFeat 1001 1007	entrée
+T28	geogFeat 1041 1045	Cala
+T29	geogFeat 1207 1213	roches
+T30	geogFeat 1273 1279	entrée
+T31	geogFeat 1285 1289	Cala
+T32	geogFeat 1412 1418	roches
+T33	geogFeat 1427 1436	haut-fond
+T34	geogFeat 1477 1481	Cala
+T35	geogFeat 1545 1549	abri
+T36	geogFeat 1640 1646	roches
+T37	geogFeat 1693 1703	mouillages
+T38	geogFeat 1915 1933	zones de mouillage
+T39	geogFeat 2059 2079	postes de mouillages
+T40	geogFeat 2224 2229	zones
+T41	geogFeat 2330 2348	zones de mouillage
+T42	geogFeat 2406 2409	île
+T43	geogFeat 2417 2422	Punta
+T44	geogFeat 2441 2445	îles
+T45	geogFeat 2456 2460	Cala
+T46	geogFeat 2475 2478	Île
+T47	geogFeat 2486 2491	Punta
+T48	geogFeat 2504 2508	zone
+T49	geogFeat 2651 2655	Îles
+T50	geogFeat 2665 2669	Cala
+T51	geogFeat 2680 2684	zone
+T52	geogFeat 2730 2734	ÎLES
+T53	geogFeat 2901 2907	ÉCUEIL
+T54	geogFeat 2938 2943	phare
+T55	geogFeat 2958 2964	écueil
+T56	geogFeat 2995 3032	tourelle 😄😍de danger isolé, lumineuse
+T58	geogFeat 3083 3089	écueil
+T59	geogFeat 3109 3116	secteur
+T60	geogFeat 3126 3131	phare
+T61	geogFeat 3164 3168	Capu
+T62	geogFeat 3188 3205	balise à flotteur
+T63	geogFeat 3258 3265	plateau
+T64	geogFeat 3340 3344	îles
+T65	geogFeat 3358 3365	PASSAGE
+T66	geogFeat 3374 3377	ÎLE
+T67	geogFeat 3391 3397	ÉCUEIL
+T68	geogFeat 3415 3422	passage
+T69	geogFeat 3437 3442	route
+T70	geogFeat 3550 3557	passage
+T71	geogFeat 3579 3584	phare
+T72	geogFeat 3588 3592	Capu
+T73	geogFeat 3613 3621	tourelle
+T74	geogFeat 3627 3633	écueil
+T75	geogFeat 3702 3709	passage
+T76	geogFeat 3723 3728	phare
+T77	geogFeat 3734 3739	Isola
+T78	geogFeat 3804 3811	secteur
+T79	geogFeat 3833 3836	feu
+T80	geogFeat 3840 3844	Capu
+T81	name 14 21	Lavezzi
+T82	name 40 47	Lavezzi
+T83	name 84 91	Sperono
+T84	name 99 106	Lavezzi
+T85	name 253 262	Bonifacio
+T86	name 281 286	Beccu
+T87	name 593 600	Lavezzi
+T88	name 789 797	Lazarina
+T89	name 1049 1056	Ghiuncu
+T90	name 1295 1300	Grecu
+T91	name 1488 1494	Chiesa
+T92	name 1766 1778	Méditerranée
+T93	name 1799 1804	Corse
+T94	name 1814 1826	Corse du Sud
+T95	name 2304 2316	Méditerranée
+T96	name 2410 2415	Piana
+T97	name 2426 2433	Sperone
+T98	name 2446 2453	Lavezzi
+T99	name 2464 2469	Grecu
+T100	name 2479 2484	Piana
+T101	name 2495 2502	Sperone
+T102	name 2656 2663	Lavezzi
+T103	name 2673 2678	Grecu
+T104	name 2735 2742	LAVEZZI
+T105	name 2911 2918	LAVEZZI
+T106	name 2947 2954	Lavezzi
+T107	name 2968 2975	Lavezzi
+T108	name 3140 3147	Razzoli
+T109	geogFeat 3134 3139	Isola
+T110	name 3174 3179	Beccu
+T111	name 3208 3219	Sud Lavezzi
+T112	name 3378 3385	LAVEZZI
+T113	name 3401 3408	LAVEZZI
+T114	name 3598 3603	Beccu
+T115	name 3741 3748	Razzoli
+T116	name 3850 3855	Beccu
+T117	geogName 2901 2918	ÉCUEIL DE LAVEZZI
+T118	geogName 10 21	Île Lavezzi
+T119	geogName 36 47	Île Lavezzi
+T120	geogName 75 91	Punta de Sperono
+T121	geogName 95 106	île Lavezzi
+T122	geogName 242 262	bouches de Bonifacio
+T123	geogName 268 286	Capu 😄di 😄u 😄Beccu
+T124	geogName 589 600	île Lavezzi
+T125	geogName 784 797	Cala Lazarina
+T126	geogName 1041 1056	Cala di Ghiuncu
+T127	geogName 1285 1300	Cala di u Grecu
+T128	geogName 1477 1494	Cala della Chiesa
+T129	geogName 1766 1778	Méditerranée
+T130	geogName 1799 1804	Corse
+T131	geogName 1814 1826	Corse du Sud
+T132	geogName 2304 2316	Méditerranée
+T133	geogName 2406 2415	île Piana
+T134	geogName 2417 2433	Punta de Sperone
+T135	geogName 2441 2453	îles Lavezzi
+T136	geogName 2456 2469	Cala di Grecu
+T137	geogName 2475 2484	Île Piana
+T138	geogName 2486 2502	Punta de Sperone
+T139	geogName 2651 2663	Îles Lavezzi
+T140	geogName 2665 2678	Cala di Grecu
+T141	geogName 2730 2742	ÎLES LAVEZZI
+T142	geogName 2938 2954	phare de Lavezzi
+T143	geogName 2958 2975	écueil de Lavezzi
+T144	geogName 3134 3147	Isola Razzoli
+T145	geogName 3164 3179	Capu di u Beccu
+T146	geogName 3374 3385	ÎLE LAVEZZI
+T147	geogName 3391 3408	ÉCUEIL DE LAVEZZI
+T148	geogName 3588 3603	Capu di u Beccu
+T149	geogName 3579 3603	phare de Capu di u Beccu
+T150	geogName 3734 3748	Isola 😄Razzoli
+T151	geogName 3723 3748	phare 😄de 😄Isola 😄Razzoli
+T152	geogName 3840 3855	Capu di u Beccu
+T153	geogName 3833 3855	feu de Capu di u Beccu
+T154	geogName 3188 3221	balise à flotteur « Sud Lavezzi »
+R1	SouthEastOf Arg1:T121 Arg2:T120	
+R2	ElementOf Arg1:T11 Arg2:T123	
+R3	ElementOf Arg1:T12 Arg2:T11	
+R4	ElementOf Arg1:T13 Arg2:T14	
+R5	ElementOf Arg1:T14 Arg2:T15	
+R6	ElementOf Arg1:T16 Arg2:T13	
+R7	ElementOf Arg1:T20 Arg2:T124	
+R8	ElementOf Arg1:T22 Arg2:T19	
+R9	ElementOf Arg1:T160 Arg2:T125	
+T155	geogFeat 1674 1683	mouillage
+R10	SouthOf Arg1:T143 Arg2:T142	
+R11	MarkedBy Arg1:T143 Arg2:T56	
+R13	ElementOf Arg1:T58 Arg2:T59	
+T156	geogName 3126 3147	phare d’Isola Razzoli
+R15	MarkedBy Arg1:T63 Arg2:T154	
+T157	name 3345 3352	Lavezzi
+T158	geogName 3340 3352	îles Lavezzi
+R16	SouthOf Arg1:T63 Arg2:T158	
+R17	ElementOf Arg1:T73 Arg2:T74	
+T57	geogFeat 3039 3044	Racon
+R12	NorthOf Arg1:T121 Arg2:T9	
+T159	name 878 883	Ouest
+T160	geogName 873 883	côte Ouest
+R14	EastOf Arg1:T126 Arg2:T125	
+R18	ElementOf Arg1:T57 Arg2:T56	
+T161	geogFeat 1665 1670	accès
+T162	geogFeat 326 332	maison
+R19	ElementOf Arg1:T12 Arg2:T162	

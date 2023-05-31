@@ -1,0 +1,59 @@
+T1	geogFeat 13 16	cap
+T2	geogFeat 28 34	pointe
+T3	geogFeat 62 65	cap
+T4	geogFeat 78 84	pointe
+T5	geogFeat 128 131	cap
+T6	geogFeat 142 146	côte
+T7	geogFeat 174 179	anses
+T8	geogFeat 198 205	pointes
+T9	geogFeat 236 240	rade
+T10	geogFeat 269 272	cap
+T11	geogFeat 297 301	rade
+T12	geogFeat 323 329	rocher
+T13	geogFeat 351 383	marque lumineuse de danger isolé
+T14	geogFeat 418 423	socle
+T15	geogFeat 447 453	danger
+T16	geogFeat 473 480	secteur
+T17	geogFeat 489 492	feu
+T18	geogFeat 523 534	brise-lames
+T19	geogFeat 560 564	rade
+T20	geogFeat 670 676	forêts
+T21	geogFeat 777 787	PRESQU’ÎLE
+T22	geogFeat 800 803	CAP
+T23	geogFeat 814 818	ÎLES
+T24	name 17 22	Bénat
+T25	name 41 44	Ris
+T26	name 66 71	Bénat
+T27	name 88 95	Cristau
+T28	name 132 137	Bénat
+T29	name 244 250	Bormes
+T30	name 273 278	Bénat
+T31	name 306 315	Fourmigue
+T32	name 542 550	Lavandou
+T33	name 570 576	Bormes
+T34	name 791 796	GIENS
+T35	name 804 811	CAMARAT
+T36	name 821 827	HYÈRES
+T37	geogName 13 22	cap Bénat
+T38	geogName 28 44	pointe de la Ris
+T39	geogName 62 71	cap Bénat
+T40	geogName 78 95	pointe du Cristau
+T41	geogName 128 137	cap Bénat
+T42	geogName 236 250	rade de Bormes
+T43	geogName 269 278	cap Bénat
+T44	geogName 306 315	Fourmigue
+T45	geogName 523 550	brise-lames Sud du Lavandou
+T46	geogName 560 576	rade 😄de 😄Bormes
+T47	geogName 777 796	PRESQU’ÎLE DE GIENS
+T48	geogName 800 811	CAP CAMARAT
+T49	geogName 814 827	ÎLES D’HYÈRES
+R1	NorthNorthEastOf Arg1:T42 Arg2:T43	
+R2	NorthOf Arg1:T6 Arg2:T41	
+T50	geogFeat 284 290	ouvert
+R4	ElementOf Arg1:T50 Arg2:T11	
+R3	ElementOf Arg1:T13 Arg2:T14	
+R5	ElementOf Arg1:T13 Arg2:T12	
+R7	ElementOf Arg1:T15 Arg2:T16	
+R8	ElementOf Arg1:T17 Arg2:T52	
+T51	name 535 538	Sud
+T52	geogName 523 538	brise-lames Sud

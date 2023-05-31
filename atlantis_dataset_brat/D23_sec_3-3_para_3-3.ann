@@ -1,0 +1,86 @@
+T1	geogFeat 8 12	Îles
+T2	geogFeat 29 33	îles
+T3	geogFeat 59 63	îles
+T4	geogFeat 125 133	chaussée
+T5	geogFeat 187 192	îlots
+T6	geogFeat 194 201	rochers
+T7	geogFeat 203 210	écueils
+T8	geogFeat 214 220	roches
+T9	geogFeat 228 234	écueil
+T10	geogFeat 252 256	îles
+T11	geogFeat 276 279	île
+T12	geogFeat 293 296	île
+T13	geogFeat 312 322	satellites
+T14	geogFeat 344 348	îles
+T15	geogFeat 366 370	amas
+T16	geogFeat 402 408	chenal
+T17	geogFeat 420 427	passage
+T18	geogFeat 459 463	côte
+T19	geogFeat 531 535	zone
+T20	geogFeat 557 574	réserve naturelle
+T21	geogFeat 591 594	île
+T22	geogFeat 608 631	zone de non prélèvement
+T23	geogFeat 677 703	bouées de 😍marque spéciale
+T24	geogFeat 708 713	bouée
+T25	geogFeat 735 739	zone
+T26	geogFeat 766 770	zone
+T27	geogFeat 816 823	passage
+T28	geogFeat 919 923	feux
+T29	geogFeat 933 937	îles
+T30	geogFeat 974 980	écueil
+T31	geogFeat 1014 1040	amplificateur d’écho radar
+T32	geogFeat 1151 1155	abri
+T33	geogFeat 1192 1197	anses
+T34	geogFeat 1234 1239	côtes
+T35	geogFeat 1244 1248	îles
+T36	name 13 20	Lavezzi
+T37	name 34 41	Lavezzi
+T38	name 77 84	Lavezzi
+T39	name 88 95	Cavallo
+T40	name 238 245	Lavezzi
+T41	name 257 262	Piana
+T42	name 266 272	Ratino
+T43	name 280 289	Porraggia
+T44	name 297 304	Perduto
+T45	name 349 356	Gavetti
+T46	name 434 445	Piantarella
+T47	name 595 602	Lavezzi
+T48	name 830 837	Lavezzi
+T49	name 841 848	Cavallo
+T50	name 863 870	Perduto
+T51	name 938 945	Lavezzi
+T52	name 949 956	Cavallo
+T53	name 984 991	Perduto
+T54	name 1249 1256	Cavallo
+T55	name 1261 1268	Lavezzi
+T56	geogName 8 20	Îles Lavezzi
+T57	geogName 29 41	îles Lavezzi
+T58	geogName 77 84	Lavezzi
+T59	geogName 88 95	Cavallo
+T60	geogName 228 245	écueil de Lavezzi
+T61	geogName 276 289	île Porraggia
+T62	geogName 293 304	île Perduto
+T63	geogName 344 356	îles Gavetti
+T64	geogName 420 445	passage de la Piantarella
+T65	geogName 591 602	île Lavezzi
+T66	geogName 830 837	Lavezzi
+T67	geogName 841 848	Cavallo
+T68	geogName 863 870	Perduto
+T69	geogName 974 991	écueil de Perduto
+T70	geogName 1244 1268	îles Cavallo et 😍Lavezzi
+T72	geogName 933 956	îles Lavezzi et Cavallo
+T74	geogName 252 272	îles Piana et Ratino
+R1	ElementOf Arg1:T58 Arg2:T3	
+R2	ElementOf Arg1:T59 Arg2:T3	
+R3	SouthWestOf Arg1:T22 Arg2:T65	
+R4	MarkedBy Arg1:T22 Arg2:T23	
+R5	WestSouthWestOf Arg1:T24 Arg2:T25	
+R6	WestOf Arg1:T66 Arg2:T27	
+R7	WestOf Arg1:T67 Arg2:T27	
+R8	EastOf Arg1:T68 Arg2:T27	
+R9	ElementOf Arg1:T28 Arg2:T72	
+R11	ElementOf Arg1:T28 Arg2:T69	
+R12	ElementOf Arg1:T31 Arg2:T69	
+R10	ElementOf Arg1:T32 Arg2:T33	
+R13	ElementOf Arg1:T34 Arg2:T70	
+R14	ElementOf Arg1:T3 Arg2:T57	

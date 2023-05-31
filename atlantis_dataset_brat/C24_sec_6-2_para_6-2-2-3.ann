@@ -1,0 +1,98 @@
+T1	geogFeat 77 94	PORT DE PLAISANCE
+T2	geogFeat 154 164	PORT ADHOC
+T3	geogFeat 173 189	Port à sec privé
+T4	geogFeat 243 260	PORT DE PLAISANCE
+T5	geogFeat 266 272	places
+T6	geogFeat 312 317	zones
+T7	geogFeat 347 358	terre-plein
+T8	geogFeat 368 375	Pontons
+T9	geogFeat 391 402	passerelles
+T10	geogFeat 408 412	rive
+T11	geogFeat 423 429	perrés
+T12	geogFeat 460 470	PORT ADHOC
+T13	geogFeat 479 489	Port à sec
+T14	geogFeat 495 510	places sur rack
+T15	geogFeat 517 530	places au sol
+T18	geogFeat 591 605	cale de halage
+T19	geogFeat 653 661	Ateliers
+T20	geogFeat 697 711	zone technique
+T21	geogFeat 761 768	pontons
+T22	geogFeat 771 781	sanitaires
+T24	geogFeat 885 893	Magasins
+T25	geogFeat 952 969	Port de plaisance
+T26	geogFeat 1070 1084	Bureau du port
+T27	geogFeat 1086 1092	avenue
+T28	geogFeat 1204 1214	Port Adhoc
+T29	geogFeat 1293 1299	ponton
+T30	geogFeat 1311 1325	bureau du port
+T31	geogFeat 1435 1445	autoroutes
+T32	geogFeat 1525 1534	autoroute
+T34	geogFeat 1651 1674	aéroport 😍international
+T35	geogFeat 1727 1732	ville
+T36	geogFeat 1931 1940	FRONTIÈRE
+T37	name 165 171	ANGLET
+T38	name 471 477	ANGLET
+T39	name 973 983	Brise Lame
+T40	name 1098 1103	Adour
+T41	name 1106 1112	Anglet
+T42	name 1215 1221	Anglet
+T43	name 1373 1379	Italie
+T44	name 1383 1390	Espagne
+T45	name 1395 1403	Portugal
+T46	name 1410 1420	Atlantique
+T47	name 1457 1462	Paris
+T48	name 1466 1472	Bilbao
+T49	name 1474 1481	Espagne
+T50	name 1494 1502	Toulouse
+T51	name 1510 1522	Méditerranée
+T52	name 1538 1545	Bayonne
+T53	name 1548 1557	Barcelone
+T54	name 1559 1566	Espagne
+T55	name 1678 1701	Biarritz-Bayonne-Anglet
+T58	name 1746 1752	Anglet
+T59	name 1920 1925	ADOUR
+T60	name 1941 1950	ESPAGNOLE
+T61	geogName 154 171	PORT ADHOC ANGLET
+T62	geogName 460 477	PORT ADHOC ANGLET
+T63	geogName 952 983	Port de plaisance du Brise Lame
+T64	geogName 1086 1103	avenue de l’Adour
+T65	geogName 1106 1112	Anglet
+T66	geogName 1204 1221	Port Adhoc Anglet
+T67	geogName 1373 1379	Italie
+T68	geogName 1383 1390	Espagne
+T69	geogName 1395 1403	Portugal
+T70	geogName 1410 1420	Atlantique
+T71	geogName 1457 1462	Paris
+T72	geogName 1466 1472	Bilbao
+T73	geogName 1474 1481	Espagne
+T74	geogName 1494 1502	Toulouse
+T75	geogName 1510 1522	Méditerranée
+T76	geogName 1538 1545	Bayonne
+T77	geogName 1548 1557	Barcelone
+T78	geogName 1559 1566	Espagne
+T79	geogName 1746 1752	Anglet
+T80	geogName 1651 1701	aéroport 😍international de Biarritz-Bayonne-Anglet
+T81	geogName 1920 1925	ADOUR
+T82	geogName 1931 1950	FRONTIÈRE ESPAGNOLE
+R1	ElementOf Arg1:T26 Arg2:T64	
+R2	ElementOf Arg1:T64 Arg2:T65	
+T83	name 1448 1451	A63
+T84	geogName 1448 1451	A63
+R3	ElementOf Arg1:T72 Arg2:T73	
+R4	ElementOf Arg1:T77 Arg2:T78	
+R5	SouthWestOf Arg1:T80 Arg2:T35	
+T85	name 1025 1036	Pays Basque
+T86	name 1039 1046	Bayonne
+T87	geogName 1025 1036	Pays Basque
+T88	geogName 1039 1046	Bayonne
+T89	geogFeat 36 60	Installations portuaires
+T90	name 318 321	Est
+T91	name 325 330	Ouest
+T92	geogName 312 330	zones Est et Ouest
+T16	geogName 1485 1488	A64
+T17	name 1485 1488	A64
+T23	name 1619 1629	françaises
+T93	name 1633 1644	européennes
+T33	geogFeat 1612 1618	villes
+T94	geogName 1612 1644	villes françaises et européennes
+T56	geogFeat 226 241	Infrastructures

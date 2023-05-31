@@ -1,0 +1,97 @@
+T1	geogFeat 30 34	rade
+T2	geogFeat 49 53	rade
+T3	geogFeat 84 87	île
+T4	geogFeat 98 108	presqu’île
+T5	geogFeat 193 199	entrée
+T6	geogFeat 228 234	pointe
+T7	geogFeat 290 293	île
+T8	geogFeat 305 311	pointe
+T9	geogFeat 379 389	presqu’île
+T10	geogFeat 480 483	île
+T11	geogFeat 496 502	pointe
+T12	geogFeat 516 521	phare
+T13	geogFeat 550 553	île
+T14	geogFeat 603 609	pointe
+T15	geogFeat 627 630	épi
+T16	geogFeat 668 674	pointe
+T17	geogFeat 711 715	banc
+T18	geogFeat 740 784	balise à flotteur latérale bâbord, lumineuse
+T19	geogFeat 849 855	pointe
+T20	geogFeat 799 803	tête
+T21	geogFeat 873 878	route
+T22	geogFeat 896 912	feu directionnel
+T23	geogFeat 948 957	sémaphore
+T24	geogFeat 929 935	sommet
+T25	geogFeat 993 997	banc
+T26	geogFeat 1053 1057	anse
+T27	geogFeat 1088 1092	rade
+T28	geogFeat 1097 1105	bâtiment
+T29	geogFeat 1115 1118	feu
+T30	geogFeat 1153 1159	chenal
+T31	geogFeat 1219 1222	feu
+T32	geogFeat 1277 1280	axe
+T33	geogFeat 1322 1325	feu
+T34	geogFeat 1334 1350	voie recommandée
+T35	geogFeat 1386 1390	Quai
+T36	geogFeat 1397 1403	pointe
+T37	geogFeat 1447 1451	rade
+T38	name 23 29	Grande
+T39	name 42 48	Grande
+T40	name 88 91	Nou
+T41	name 109 114	Ducos
+T42	name 235 241	Kongou
+T43	name 294 297	Nou
+T44	name 312 320	Destelle
+T45	name 390 395	Ducos
+T46	name 484 487	Nou
+T47	name 503 505	NW
+T48	name 557 566	Freycinet
+T49	name 610 618	Destelle
+T50	name 675 681	Kongou
+T51	name 856 864	Destelle
+T52	name 961 967	Nouméa
+T53	name 1002 1010	Japonais
+T54	name 1061 1064	Tir
+T55	name 1080 1086	Grande
+T56	name 1380 1385	Grand
+T57	name 1404 1411	Lambert
+T58	name 1440 1446	Grande
+T59	geogName 23 34	Grande rade
+T60	geogName 42 53	Grande rade
+T61	geogName 84 91	île Nou
+T62	geogName 98 114	presqu’île Ducos
+T63	geogName 228 241	pointe Kongou
+T64	geogName 290 297	île Nou
+T65	geogName 305 320	pointe Destelle
+T66	geogName 379 395	presqu’île Ducos
+T67	geogName 480 487	île Nou
+T68	geogName 496 505	pointe NW
+T69	geogName 550 566	île de Freycinet
+T70	geogName 603 618	pointe Destelle
+T71	geogName 668 681	pointe Kongou
+T72	geogName 849 864	pointe Destelle
+T73	geogName 941 957	ancien sémaphore
+T74	geogName 993 1010	banc des Japonais
+T75	geogName 1053 1064	anse du Tir
+T76	geogName 1380 1390	Grand Quai
+T77	geogName 1397 1411	pointe Lambert
+T78	geogName 1440 1451	Grande rade
+T79	name 941 947	ancien
+T80	geogName 941 967	ancien sémaphore de Nouméa
+T81	geogName 1080 1092	Grande 😍rade
+R1	ElementOf Arg1:T63 Arg2:T64	
+R2	ElementOf Arg1:T65 Arg2:T66	
+R3	ElementOf Arg1:T68 Arg2:T67	
+R4	ElementOf Arg1:T12 Arg2:T68	
+R5	MarkedBy Arg1:T17 Arg2:T18	
+R6	SouthOf Arg1:T18 Arg2:T17	
+R7	ElementOf Arg1:T20 Arg2:T17	
+R8	SouthWestOf Arg1:T20 Arg2:T72	
+R9	ElementOf Arg1:T22 Arg2:T24	
+R10	ElementOf Arg1:T24 Arg2:T80	
+R11	ElementOf Arg1:T29 Arg2:T28	
+R12	NorthOf Arg1:T21 Arg2:T74	
+R15	ElementOf Arg1:T76 Arg2:T77	
+T82	geogFeat 1429 1434	Accès
+T83	geogFeat 12 17	Accès
+R16	ElementOf Arg1:T75 Arg2:T81	

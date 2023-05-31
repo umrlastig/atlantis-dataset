@@ -1,0 +1,195 @@
+T1	geogFeat 122 127	épave
+T2	geogFeat 150 154	banc
+T3	geogFeat 187 192	bouée
+T4	geogFeat 259 263	zone
+T5	geogFeat 316 320	quai
+T6	geogFeat 947 952	poste
+T7	geogFeat 1216 1240	Installations portuaires
+T8	geogFeat 1392 1397	quais
+T9	geogFeat 1510 1514	Quai
+T10	geogFeat 1573 1577	Quai
+T11	geogFeat 1644 1648	Quai
+T12	geogFeat 1706 1710	Quai
+T13	geogFeat 1765 1769	Quai
+T14	geogFeat 1819 1824	Poste
+T15	geogFeat 1873 1878	Poste
+T16	geogFeat 1946 1951	Poste
+T17	geogFeat 1994 1999	Poste
+T18	geogFeat 2072 2087	Poste d’attente
+T19	geogFeat 2145 2149	Quai
+T20	geogFeat 2205 2210	Ro-Ro
+T21	geogFeat 2278 2293	ponton flottant
+T22	geogFeat 1933 1944	ducs-d’Albe
+T23	geogFeat 1630 1636	postes
+T24	geogFeat 1981 1992	poste privé
+T25	geogFeat 2132 2143	ducs-d’Albe
+T26	geogFeat 2262 2273	ducs-d’Albe
+T27	geogFeat 2323 2329	postes
+T28	geogFeat 2331 2336	Ro-Ro
+T29	geogFeat 2389 2400	ducs-d’Albe
+T30	geogFeat 2402 2407	Poste
+T32	geogFeat 2541 2545	Quai
+T33	geogFeat 2649 2664	Forme de radoub
+T34	geogFeat 2744 2748	Quai
+T35	geogFeat 2807 2818	ducs-d’Albe
+T36	geogFeat 2820 2824	Quai
+T37	geogFeat 2863 2874	ducs-d’Albe
+T38	geogFeat 2939 2943	Quai
+T39	geogFeat 2973 2978	Poste
+T40	geogFeat 2954 2960	postes
+T41	geogFeat 3184 3189	Poste
+T42	geogFeat 3262 3267	Poste
+T43	geogFeat 3327 3331	Quai
+T44	geogFeat 3374 3379	Quais
+T45	geogFeat 3461 3465	Quai
+T46	geogFeat 3608 3612	Quai
+T47	geogFeat 3732 3737	Poste
+T48	geogFeat 3794 3799	Quais
+T49	geogFeat 3953 3958	Quais
+T50	geogFeat 4252 4261	FRONTIÈRE
+T51	geogFeat 4273 4277	Quai
+T52	geogFeat 4472 4477	quais
+T53	geogFeat 4569 4573	Port
+T54	geogFeat 4875 4887	Capitainerie
+T55	geogFeat 4891 4895	port
+T56	geogFeat 4908 4914	avenue
+T57	geogFeat 5208 5224	tour des Signaux
+T58	geogFeat 5563 5570	Hôpital
+T59	geogFeat 5626 5632	avenue
+T60	geogFeat 5841 5850	FRONTIÈRE
+T61	geogFeat 5387 5391	rive
+T62	geogFeat 213 219	Débris
+T63	geogFeat 2579 2586	souille
+T65	geogFeat 2877 2884	souille
+T67	geogFeat 3149 3163	conduite 😍fixe
+T82	geogFeat 3704 3712	conduite
+T90	geogFeat 5604 5624	Gendarmerie maritime
+T91	name 155 168	Saint-Bernard
+T92	name 200 211	BLANCPIGNON
+T93	name 195 196	2
+T94	name 321 335	Édouard Castel
+T95	name 420 425	ADOUR
+T96	name 472 478	Boucau
+T97	name 528 534	Boucau
+T98	name 647 653	Boucau
+T99	name 679 684	Adour
+T100	name 1135 1146	BLANCPIGNON
+T101	name 1366 1379	BOUCAU-TARNOS
+T102	name 2000 2012	Saint-Gobain
+T103	name 1952 1957	Shell
+T104	name 1879 1886	Maïsica
+T105	name 1825 1831	Carnot
+T106	name 1770 1776	Delure
+T107	name 1649 1663	Marcel Forgues
+T108	name 1711 1722	Léon Tramut
+T109	name 2057 2070	SAINT-BERNARD
+T110	name 2150 2163	Saint-Bernard
+T111	name 2408 2420	Pierre Leroy
+T112	name 2525 2539	ALLÉES MARINES
+T113	name 2546 2556	Edmond Foy
+T114	name 2636 2647	BLANCPIGNON
+T115	name 2749 2762	Armand Gommès
+T116	name 2825 2839	Édourad Castel
+T117	name 2944 2952	Européen
+T118	name 3332 3345	Armand Gommès
+T119	name 3380 3386	Tarnos
+T120	geogFeat 3395 3405	zone mixte
+T121	name 3466 3479	Saint-Bernard
+T122	name 3613 3627	Édouard Castel
+T123	name 3738 3745	Maïsica
+T124	name 3800 3814	Marcel Forgues
+T125	name 3816 3827	Léon Tramut
+T126	name 3831 3837	Delure
+T127	name 3959 3965	Tarnos
+T128	name 4241 4246	ADOUR
+T129	name 4262 4271	ESPAGNOLE
+T130	name 4278 4291	Armand Gommès
+T133	name 4899 4906	Bayonne
+T134	name 4920 4925	Adour
+T135	name 4928 4934	Anglet
+T136	name 5201 5206	Adour
+T137	name 5227 5233	Anglet
+T138	name 5379 5385	Tarnos
+T139	name 5430 5436	Anglet
+T140	name 5501 5508	Bayonne
+T141	name 5638 5643	Adour
+T142	name 5646 5652	Anglet
+T143	name 5719 5726	Bayonne
+T144	name 5829 5834	ADOUR
+T145	name 5851 5860	ESPAGNOLE
+T146	geogName 150 168	banc Saint-Bernard
+T147	geogName 187 198	bouée « 2 »
+T148	geogName 200 211	BLANCPIGNON
+T149	geogName 316 335	quai Édouard Castel
+T150	geogName 420 425	ADOUR
+T151	geogName 472 478	Boucau
+T152	geogName 528 534	Boucau
+T153	geogName 647 653	Boucau
+T154	geogName 679 684	Adour
+T155	geogName 1135 1146	BLANCPIGNON
+T156	geogName 1366 1379	BOUCAU-TARNOS
+T157	geogName 1644 1663	Quai Marcel Forgues
+T158	geogName 1706 1722	Quai Léon Tramut
+T159	geogName 1573 1586	Quai européen
+T160	name 1578 1586	européen
+T161	geogName 1765 1776	Quai Delure
+T162	geogName 1819 1831	Poste Carnot
+T163	geogName 1873 1886	Poste Maïsica
+T164	geogName 1946 1957	Poste Shell
+T165	geogName 1994 2012	Poste Saint-Gobain
+T166	geogName 2057 2070	SAINT-BERNARD
+T167	geogName 2145 2163	Quai Saint-Bernard
+T168	geogName 2402 2420	Poste Pierre Leroy
+T169	geogName 2525 2539	ALLÉES MARINES
+T170	geogName 2541 2556	Quai Edmond Foy
+T171	geogName 2636 2647	BLANCPIGNON
+T172	geogName 2744 2762	Quai Armand Gommès
+T173	geogName 2820 2839	Quai Édourad Castel
+T174	geogName 2939 2952	Quai Européen
+T175	geogName 3327 3345	Quai Armand Gommès
+T176	geogName 3374 3386	Quais Tarnos
+T177	geogName 3461 3479	Quai Saint-Bernard
+T178	geogName 3608 3627	Quai Édouard Castel
+T179	geogName 3732 3745	Poste Maïsica
+T180	geogName 3953 3965	Quais Tarnos
+T181	geogName 4241 4246	ADOUR
+T182	geogName 4252 4271	FRONTIÈRE ESPAGNOLE
+T183	geogName 4273 4291	Quai Armand Gommès
+T186	geogName 4891 4906	port de Bayonne
+T187	geogName 4875 4906	Capitainerie du port de Bayonne
+T188	geogName 4908 4925	avenue de l’Adour
+T189	geogName 4928 4934	Anglet
+T190	geogName 5201 5206	Adour
+T191	geogName 5379 5385	Tarnos
+T192	geogName 5430 5436	Anglet
+T193	geogName 5501 5508	Bayonne
+T194	geogName 5626 5643	avenue de l’Adour
+T195	geogName 5646 5652	Anglet
+T196	geogName 5227 5233	Anglet
+T197	geogName 5719 5726	Bayonne
+T198	geogName 5829 5834	ADOUR
+T199	geogName 5841 5860	FRONTIÈRE ESPAGNOLE
+R1	NorthOf Arg1:T1 Arg2:T146	
+R2	EastOf Arg1:T1 Arg2:T147	
+R3	ElementOf Arg1:T62 Arg2:T4	
+T200	geogName 3794 3837	Quais Marcel Forgues, Léon Tramut et Delure
+T203	name 1637 1638	1
+T204	name 1641 1642	3
+T205	geogName 1630 1642	postes 1 à 3
+T206	geogFeat 2492 2504	ducs-😍d’Albe
+T64	name 2979 2980	1
+T207	geogName 2973 2980	Poste 1
+T66	name 3190 3191	2
+T68	geogName 3184 3191	Poste 2
+T69	name 3268 3269	3
+T70	geogName 3262 3269	Poste 3
+T71	geogFeat 3111 3124	conduite fixe
+T72	geogFeat 4480 4499	conduites publiques
+T73	name 5392 5398	droite
+T74	geogName 5387 5398	rive droite
+T75	geogFeat 1338 1353	Infrastructures
+R4	ElementOf Arg1:T187 Arg2:T188	
+R5	ElementOf Arg1:T188 Arg2:T189	
+R6	ElementOf Arg1:T57 Arg2:T196	
+R7	ElementOf Arg1:T90 Arg2:T194	
+R8	ElementOf Arg1:T194 Arg2:T195	

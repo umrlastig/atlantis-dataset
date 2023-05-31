@@ -1,0 +1,89 @@
+T1	geogFeat 34 38	côte
+T2	geogFeat 47 50	île
+T3	geogFeat 64 70	Island
+T4	geogFeat 158 164	pointe
+T5	geogFeat 256 261	plage
+T6	geogFeat 333 336	île
+T7	geogFeat 357 374	mât 😄de 😄pavillon
+T8	geogFeat 424 427	île
+T9	geogFeat 445 450	lagon
+T10	geogFeat 526 531	récif
+T11	geogFeat 556 571	lagon intérieur
+T12	geogFeat 599 604	lagon
+T13	geogFeat 716 731	têtes de corail
+T14	geogFeat 740 745	passe
+T15	geogFeat 782 787	Passe
+T16	geogFeat 851 856	récif
+T17	geogFeat 869 872	île
+T18	geogFeat 888 892	îlot
+T19	geogFeat 903 906	île
+T20	geogFeat 997 1002	dunes
+T21	geogFeat 1099 1102	île
+T22	geogFeat 1134 1137	Île
+T23	geogFeat 1189 1195	Pointe
+T24	geogFeat 1236 1242	pointe
+T25	geogFeat 1266 1271	Espar
+T26	geogFeat 1307 1310	Île
+T27	geogFeat 1360 1363	Île
+T28	geogFeat 1554 1559	dunes
+T29	geogFeat 1671 1674	Île
+T30	geogFeat 1732 1735	Île
+T31	geogFeat 1816 1819	Île
+T32	name 39 41	NW
+T33	name 51 56	Menai
+T34	name 58 63	Menai
+T35	geogFeat 411 415	côte
+T36	name 416 418	SE
+T37	name 746 755	Sud-Ouest
+T38	name 775 781	Grande
+T39	name 873 882	Sud-Ouest
+T40	name 893 899	Pagode
+T41	name 907 916	Sud-Ouest
+T42	name 1138 1147	Moustique
+T43	name 1196 1205	Cimetière
+T44	name 1311 1318	Macaque
+T45	name 1364 1370	L’Anse
+T46	name 1444 1453	Monticule
+T47	name 1503 1515	Grand Polype
+T48	name 1664 1670	Grande
+T49	name 1739 1743	Nord
+T50	name 1820 1828	Nord-Est
+T51	geogName 34 41	côte NW
+T52	geogName 47 56	île Menai
+T53	geogName 58 70	Menai Island
+T54	geogName 411 418	côte SE
+T55	geogName 740 755	passe Sud-Ouest
+T56	geogName 775 787	Grande Passe
+T57	geogName 869 882	île Sud-Ouest
+T58	geogName 888 899	îlot Pagode
+T59	geogName 903 916	île Sud-Ouest
+T60	geogName 1134 1147	Île Moustique
+T61	geogName 1189 1205	Pointe Cimetière
+T62	geogName 1307 1318	Île Macaque
+T63	geogName 1360 1370	Île L’Anse
+T64	geogName 1444 1453	Monticule
+T65	geogName 1503 1515	Grand Polype
+T66	geogName 1664 1674	Grande Île
+T67	geogName 1732 1743	Île du Nord
+T68	geogName 1816 1828	Île Nord-Est
+T69	geogFeat 478 486	mangrove
+T70	geogFeat 1040 1056	abri de pêcheurs
+T71	geogFeat 134 141	poin😍te
+T72	name 142 151	Cimetière
+T73	geogName 134 151	poin😍te Cimetière
+T74	geogFeat 988 993	ligne
+R1	ElementOf Arg1:T51 Arg2:T52	
+T75	geogFeat 312 325	établissement
+R2	ElementOf Arg1:T54 Arg2:T8	
+R3	ElementOf Arg1:T69 Arg2:T54	
+R4	WestOf Arg1:T55 Arg2:T16	
+R5	EastOf Arg1:T56 Arg2:T16	
+R6	ElementOf Arg1:T57 Arg2:T16	
+R7	ElementOf Arg1:T58 Arg2:T16	
+R8	ElementOf Arg1:T20 Arg2:T74	
+R9	WestOf Arg1:T70 Arg2:T21	
+R10	SouthOf Arg1:T64 Arg2:T65	
+R11	NorthOf Arg1:T28 Arg2:T66	
+R12	SouthOf Arg1:T28 Arg2:T66	
+R13	ElementOf Arg1:T75 Arg2:T6	
+R14	MarkedBy Arg1:T75 Arg2:T7	

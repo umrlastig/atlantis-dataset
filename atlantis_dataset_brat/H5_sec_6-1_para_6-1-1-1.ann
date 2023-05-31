@@ -1,0 +1,57 @@
+T1	geogFeat 12 16	Îles
+T2	geogFeat 18 23	bancs
+T3	geogFeat 25 32	dangers
+T4	geogFeat 50 55	côtes
+T5	geogFeat 135 139	Cabo
+T6	geogFeat 177 186	frontière
+T7	geogFeat 225 230	Punta
+T8	geogFeat 296 300	côte
+T10	geogFeat 391 401	embouchure
+T11	geogFeat 418 426	rivières
+T12	geogFeat 431 442	banc côtier
+T13	geogFeat 543 549	région
+T14	geogFeat 589 593	côte
+T16	geogFeat 701 705	côte
+T17	geogFeat 725 730	bancs
+T18	geogFeat 818 828	embouchure
+T19	geogFeat 833 841	rivières
+T20	geogFeat 857 870	trait de côte
+T21	geogFeat 932 937	épave
+T22	geogFeat 1015 1021	Pointe
+T23	geogFeat 1067 1077	embouchure
+T24	geogFeat 1081 1087	fleuve
+T25	geogFeat 1103 1112	haut-fond
+T26	geogFeat 1228 1232	côte
+T27	geogFeat 1252 1258	épaves
+T29	geogFeat 637 644	plateau
+T30	name 64 79	Amérique du Sud
+T31	name 56 58	NE
+T32	name 140 146	Orange
+T33	name 196 202	Guyane
+T34	name 209 215	Brésil
+T35	name 231 240	Bombeador
+T36	name 276 284	Trinidad
+T9	name 1023 1032	Française
+T37	name 1088 1094	Maroni
+T38	geogName 50 58	côtes NE
+T39	geogName 64 79	Amérique du Sud
+T40	geogName 135 146	Cabo Orange
+T41	geogName 196 202	Guyane
+T42	geogName 209 215	Brésil
+T43	geogName 225 240	Punta Bombeador
+T44	geogName 276 284	Trinidad
+T45	geogName 1015 1032	Pointe 😄Française
+T46	geogName 1081 1094	fleuve Maroni
+T47	geogFeat 341 349	mangrove
+T15	name 645 656	continental
+T48	geogName 637 656	plateau continental
+T49	geogFeat 1310 1315	bande
+R1	ElementOf Arg1:T38 Arg2:T39	
+R2	SouthOf Arg1:T43 Arg2:T44	
+R3	NorthOf Arg1:T21 Arg2:T45	
+R4	ElementOf Arg1:T21 Arg2:T23	
+R5	NorthOf Arg1:T25 Arg2:T26	
+R6	ElementOf Arg1:T27 Arg2:T49	
+R7	ElementOf Arg1:T18 Arg2:T19	
+R8	ElementOf Arg1:T10 Arg2:T11	
+R9	ElementOf Arg1:T23 Arg2:T46	

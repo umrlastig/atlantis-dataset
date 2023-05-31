@@ -1,0 +1,20 @@
+T1	geogFeat 25 39	passe d’entrée
+T2	geogFeat 52 56	port
+T3	geogFeat 158 162	port
+T4	geogFeat 262 277	panne flottante
+T5	geogFeat 330 335	digue
+T6	geogFeat 354 358	banc
+T7	geogFeat 389 395	entrée
+T8	geogFeat 408 412	port
+R1	ElementOf Arg1:T7 Arg2:T12	
+R2	ElementOf Arg1:T6 Arg2:T7	
+T9	name 45 51	ancien
+T10	geogName 45 56	ancien port
+T11	name 401 407	ancien
+T12	geogName 401 412	ancien port
+T13	geogFeat 311 323	face interne
+T14	name 336 339	Sud
+T15	geogName 330 339	digue Sud
+T16	name 150 157	nouveau
+T17	geogName 150 162	nouveau port
+R3	ElementOf Arg1:T13 Arg2:T15	

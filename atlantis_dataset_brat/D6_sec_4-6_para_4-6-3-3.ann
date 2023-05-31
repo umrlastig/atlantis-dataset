@@ -1,0 +1,51 @@
+T1	geogFeat 24 29	phare
+T2	geogFeat 49 55	entrée
+T3	geogFeat 59 63	port
+T4	geogFeat 86 91	phare
+T5	geogFeat 104 107	Ras
+T6	geogFeat 135 139	côte
+T7	geogFeat 192 203	hauts-fonds
+T8	geogFeat 281 286	phare
+T9	geogFeat 300 313	port de pêche
+T10	geogFeat 389 396	village
+T11	geogFeat 414 420	pointe
+T12	geogFeat 455 461	pointe
+T13	geogFeat 469 472	Ras
+T14	geogFeat 513 516	cap
+T15	geogFeat 525 536	hauts-fonds
+T16	geogFeat 586 597	hauts-fonds
+T17	geogFeat 612 619	rochers
+T18	geogFeat 670 676	rivage
+T19	geogFeat 688 691	Ras
+T20	geogFeat 701 704	Ras
+T21	geogFeat 747 751	baie
+T22	geogFeat 796 800	port
+T23	name 33 38	Nadji
+T24	name 67 72	Ténès
+T25	name 95 100	Nadji
+T26	name 108 113	Kalah
+T27	name 290 295	Nadji
+T28	name 317 334	Sidi Abderrahmane
+T29	name 400 412	Soug el Bgar
+T30	name 421 426	Rouge
+T31	name 462 467	Rouge
+T32	name 473 478	Kalah
+T33	name 705 710	Ténès
+T34	name 692 697	Kalah
+T35	name 804 809	Ténès
+T36	geogName 24 38	phare de Nadji
+T37	geogName 59 72	port de Ténès
+T38	geogName 86 100	phare de Nadji
+T39	geogName 104 113	Ras Kalah
+T40	geogName 281 295	phare de Nadji
+T41	geogName 300 334	port de pêche de Sidi Abderrahmane
+T42	geogName 389 412	village de Soug el Bgar
+T43	geogName 414 426	pointe Rouge
+T44	geogName 455 467	pointe Rouge
+T45	geogName 469 478	Ras Kalah
+T46	geogName 688 697	Ras Kalah
+T47	geogName 701 710	Ras Ténès
+T48	geogName 796 809	port de Ténès
+R1	ElementOf Arg1:T2 Arg2:T37	
+R2	EastNorthEastOf Arg1:T41 Arg2:T40	
+R3	EastNorthEastOf Arg1:T45 Arg2:T44	

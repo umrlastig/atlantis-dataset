@@ -1,0 +1,13 @@
+T1	geogFeat 14 18	Zone
+T2	geogFeat 43 49	région
+T3	geogFeat 54 58	îles
+T4	geogFeat 75 78	île
+T5	geogFeat 192 198	région
+T6	geogFeat 405 409	zone
+T7	geogFeat 522 526	zone
+T8	name 59 66	Aldabra
+T9	name 79 89	Assomption
+T10	geogName 54 66	îles Aldabra
+T11	geogName 75 89	île Assomption
+R1	ElementOf Arg1:T10 Arg2:T2	
+R2	ElementOf Arg1:T11 Arg2:T2	

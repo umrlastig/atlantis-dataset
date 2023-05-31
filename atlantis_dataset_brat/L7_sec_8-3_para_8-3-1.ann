@@ -1,0 +1,55 @@
+T1	geogFeat 457 461	amer
+T2	geogFeat 52 59	plateau
+T4	geogFeat 103 107	Îles
+T3	geogFeat 144 148	rade
+T5	geogFeat 216 227	hauts-fonds
+T6	geogFeat 256 267	promontoire
+T7	geogFeat 297 302	ville
+T8	geogFeat 304 312	capitale
+T9	geogFeat 319 329	République
+T10	geogFeat 374 378	port
+T11	geogFeat 420 424	côte
+T12	geogFeat 495 500	ville
+T13	geogFeat 578 582	côte
+T14	geogFeat 593 602	montagnes
+T15	geogFeat 643 647	pays
+T16	geogFeat 666 670	côte
+T17	geogFeat 698 702	baie
+T18	geogFeat 741 750	frontière
+T19	geogFeat 760 770	République
+T20	geogFeat 808 814	rivage
+T21	geogFeat 832 839	village
+T22	name 108 114	Moucha
+T23	name 152 160	Djibouti
+T24	name 333 341	Djibouti
+T25	name 353 361	Djibouti
+T26	name 365 372	Berbera
+T27	name 487 493	Saylac
+T28	name 536 544	Djibouti
+T29	name 774 782	Djibouti
+T30	name 789 796	Somalie
+T31	name 843 849	Loyada
+T32	name 874 882	Djibouti
+T33	geogName 103 114	Îles Moucha
+T34	geogName 144 160	rade de Djibouti
+T35	geogName 319 341	République de Djibouti
+T36	geogName 353 361	Djibouti
+T37	geogName 365 372	Berbera
+T38	geogName 487 493	Saylac
+T39	geogName 536 544	Djibouti
+T40	geogName 760 782	République de Djibouti
+T41	geogName 789 796	Somalie
+T42	geogName 832 849	village de Loyada
+T43	geogName 874 882	Djibouti
+T44	geogFeat 63 69	récifs
+R1	ElementOf Arg1:T44 Arg2:T2	
+R2	WestOf Arg1:T5 Arg2:T34	
+R3	EastOf Arg1:T6 Arg2:T34	
+R4	NorthEastOf Arg1:T6 Arg2:T34	
+R5	ElementOf Arg1:T7 Arg2:T6	
+R6	ElementOf Arg1:T8 Arg2:T35	
+R7	SouthSouthWestOf Arg1:T34 Arg2:T2	
+R8	SouthEastOf Arg1:T38 Arg2:T39	
+R9	EastOf Arg1:T18 Arg2:T42	
+R10	SouthEastOf Arg1:T42 Arg2:T43	
+R11	ElementOf Arg1:T33 Arg2:T2	

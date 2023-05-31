@@ -1,0 +1,66 @@
+T1	geogFeat 19 23	port
+T2	geogFeat 39 48	frontière
+T3	geogFeat 97 102	ville
+T4	geogFeat 152 156	Port
+T5	geogFeat 232 237	ville
+T6	geogFeat 310 327	mâts 😍de pavillon
+T7	geogFeat 334 343	bâtiments
+T8	geogFeat 399 404	ville
+T9	geogFeat 437 443	église
+T10	geogFeat 469 476	clocher
+T11	geogFeat 489 493	tour
+T12	geogFeat 540 549	bâtiments
+T13	geogFeat 641 646	ville
+T14	geogFeat 660 667	hôpital
+T15	geogFeat 700 705	route
+T16	geogFeat 717 728	voie ferrée
+T17	geogFeat 761 770	mouillage
+T18	geogFeat 888 895	maisons
+T19	geogFeat 903 908	plage
+T20	geogFeat 942 948	balise
+T21	geogFeat 964 969	plage
+T22	geogFeat 981 990	frontière
+T23	geogFeat 276 297	comptoirs commerciaux
+T24	name 27 32	Kpémé
+T25	name 57 62	Bénin
+T26	name 105 111	Anécho
+T27	name 160 165	Kpémé
+T28	name 567 571	LOMÉ
+T29	name 573 577	TOGO
+T30	name 581 588	COTONOU
+T31	name 590 595	BÉNIN
+T32	name 626 632	Anécho
+T33	name 687 691	Lomé
+T34	name 741 746	Aného
+T35	name 930 936	Anécho
+T36	name 1000 1004	Togo
+T37	name 1011 1016	Bénin
+T38	geogName 19 32	port de Kpémé
+T39	geogName 57 62	Bénin
+T40	geogName 97 111	ville d’Anécho
+T41	geogName 152 165	Port de Kpémé
+T42	geogName 567 571	LOMÉ
+T43	geogName 573 577	TOGO
+T44	geogName 581 588	COTONOU
+T45	geogName 590 595	BÉNIN
+T46	geogName 626 632	Anécho
+T47	geogName 687 691	Lomé
+T48	geogName 741 746	Aného
+T49	geogName 930 936	Anécho
+T50	geogName 1000 1004	Togo
+T51	geogName 1011 1016	Bénin
+T52	geogFeat 174 191	centre commercial
+R1	EastOf Arg1:T40 Arg2:T41	
+R2	ElementOf Arg1:T23 Arg2:T5	
+R3	ElementOf Arg1:T6 Arg2:T23	
+R4	ElementOf Arg1:T9 Arg2:T8	
+R5	ElementOf Arg1:T10 Arg2:T9	
+R6	ElementOf Arg1:T12 Arg2:T8	
+R7	ElementOf Arg1:T14 Arg2:T13	
+R8	SouthOf Arg1:T17 Arg2:T18	
+R9	ElementOf Arg1:T18 Arg2:T19	
+R10	EastOf Arg1:T20 Arg2:T49	
+R11	ElementOf Arg1:T20 Arg2:T21	
+R12	MarkedBy Arg1:T22 Arg2:T20	
+R13	ElementOf Arg1:T42 Arg2:T43	
+R14	ElementOf Arg1:T44 Arg2:T45	

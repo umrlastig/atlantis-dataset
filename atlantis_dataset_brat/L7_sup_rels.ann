@@ -1,0 +1,309 @@
+T1	geogFeat 4 9	épave
+T2	geogFeat 46 52	musoir
+T3	geogFeat 73 82	mouillage
+T4	geogFeat 158 167	haut-fond
+T5	geogFeat 217 221	côte
+T6	geogFeat 234 239	Jetée
+T7	geogFeat 348 372	espar lumineux de bâbord
+T8	geogFeat 395 400	pieux
+T9	geogFeat 430 435	espar
+T10	geogFeat 443 448	Passe
+T11	geogFeat 507 517	alignement
+T12	geogFeat 538 547	haut-fond
+T13	geogFeat 551 555	Banc
+T14	geogFeat 614 625	pénitencier
+T15	geogFeat 659 663	tour
+T16	geogFeat 701 708	mosquée
+T17	geogFeat 756 759	feu
+T18	geogFeat 814 821	plateau
+T19	geogFeat 838 843	phare
+T20	geogFeat 845 849	tour
+T21	geogFeat 927 932	amers
+T22	geogFeat 943 962	alignement d’entrée
+T23	geogFeat 983 987	côte
+T24	geogFeat 1050 1057	village
+T25	geogFeat 1112 1121	mouillage
+T26	geogFeat 1213 1217	Îlot
+T27	geogFeat 1238 1242	côte
+T28	geogFeat 1250 1255	Jetée
+T29	geogFeat 1320 1331	promontoire
+T30	geogFeat 1372 1376	côte
+T31	geogFeat 1390 1395	passe
+T32	geogFeat 1414 1419	Passe
+T33	geogFeat 1453 1457	Banc
+T34	geogFeat 1497 1501	Banc
+T35	geogFeat 1525 1531	sommet
+T36	geogFeat 1537 1540	île
+T37	geogFeat 1545 1550	récif
+T38	geogFeat 1571 1580	haut-fond
+T39	geogFeat 1620 1624	côte
+T40	geogFeat 1636 1639	île
+T41	geogFeat 1675 1680	plage
+T42	geogFeat 1695 1699	Anse
+T43	geogFeat 1755 1761	Pointe
+T44	geogFeat 1779 1785	Pointe
+T45	geogFeat 1852 1856	baie
+T46	geogFeat 1863 1870	rochers
+T47	geogFeat 1890 1899	haut-fond
+T48	geogFeat 1913 1919	pointe
+T49	geogFeat 1926 1931	îlots
+T50	geogFeat 1935 1939	Îlot
+T51	geogFeat 1950 1954	Îlot
+T52	geogFeat 1979 1991	récif côtier
+T53	geogFeat 2043 2046	Cap
+T54	geogFeat 2074 2078	Raʼs
+T55	geogFeat 2099 2103	Raʼs
+T56	geogFeat 2141 2152	promontoire
+T57	geogFeat 2217 2221	Raʼs
+T58	geogFeat 2237 2242	ville
+T59	geogFeat 2297 2304	colline
+T60	geogFeat 2320 2325	plage
+T61	geogFeat 2349 2353	baie
+T62	geogFeat 2383 2387	amer
+T63	geogFeat 2395 2402	colline
+T64	geogFeat 2512 2518	pointe
+T65	geogFeat 2553 2557	Îlot
+T66	geogFeat 2581 2585	Raʼs
+T67	geogFeat 2618 2624	pointe
+T68	geogFeat 2662 2666	côte
+T69	geogFeat 2696 2705	haut-fond
+T70	geogFeat 2778 2782	côte
+T71	geogFeat 2841 2850	haut-fond
+T72	geogFeat 2947 2951	îlot
+T73	geogFeat 2969 2981	récif côtier
+T74	geogFeat 2999 3005	entrée
+T75	geogFeat 3037 3043	Pointe
+T76	geogFeat 3155 3161	pointe
+T77	geogFeat 3182 3188	entrée
+T78	geogFeat 3211 3214	Cap
+T79	geogFeat 3261 3268	village
+T80	geogFeat 3327 3331	côte
+T81	geogFeat 3345 3354	péninsule
+T82	geogFeat 3445 3449	îlot
+T83	geogFeat 3502 3511	péninsule
+T84	geogFeat 3517 3521	îlot
+T85	geogFeat 3573 3576	Île
+T86	geogFeat 3621 3624	île
+T87	geogFeat 3693 3699	sommet
+T88	geogFeat 3731 3736	golfe
+T89	geogFeat 3818 3824	bassin
+T90	geogFeat 3849 3857	falaises
+T91	geogFeat 3890 3893	Cap
+T92	geogFeat 3904 3908	Banc
+T93	geogFeat 3963 3968	phare
+T94	geogFeat 3970 3974	tour
+T95	geogFeat 4054 4060	Pointe
+T96	geogFeat 4106 4110	baie
+T97	geogFeat 4128 4132	côte
+T98	geogFeat 4141 4146	golfe
+T99	geogFeat 4187 4191	Raʼs
+T100	geogFeat 4200 4204	Port
+T101	geogFeat 4237 4241	côte
+T102	geogFeat 4250 4254	Anse
+T103	geogFeat 4267 4270	Cap
+T104	geogFeat 4327 4333	récifs
+T105	geogFeat 4391 4395	côte
+T106	geogFeat 4459 4464	Passe
+T107	geogFeat 4473 4476	mur
+T108	geogFeat 4503 4511	falaises
+T109	geogFeat 4591 4598	rochers
+T110	geogFeat 4652 4683	bouée cardinale lumineuse Ouest
+T111	geogFeat 4765 4776	hauts-fonds
+T112	geogFeat 4810 4813	Île
+T113	geogFeat 4831 4848	coffre d’amarrage
+T114	geogFeat 4867 4886	alignement d’entrée
+T115	geogFeat 4913 4931	point de mouillage
+T116	geogFeat 4971 4977	Pointe
+T117	geogFeat 4994 4998	Baie
+T118	geogFeat 5014 5019	rives
+T119	geogFeat 5043 5050	mosquée
+T120	geogFeat 5071 5075	côte
+T121	geogFeat 5090 5094	tour
+T122	name 145 153	Tadjoura
+T123	geogName 145 153	Tadjoura
+T124	name 452 455	Sud
+T125	geogName 443 455	Passe du Sud
+T126	name 559 566	Surcouf
+T127	geogName 551 566	Banc du Surcouf
+T128	geogName 538 566	haut-fond du Banc du Surcouf
+T129	name 692 700	ancienne
+T130	geogName 692 708	ancienne mosquée
+T131	name 826 833	Sources
+T132	geogName 814 833	plateau des Sources
+T133	name 1006 1014	Tadjoura
+T134	name 1061 1068	Ambabbo
+T135	geogName 1006 1014	Tadjoura
+T136	geogName 1050 1068	village de Ambabbo
+T137	name 1218 1222	Nord
+T138	name 1256 1259	Sud
+T139	geogName 1213 1222	Îlot Nord
+T140	geogName 1250 1259	Jetée Sud
+T141	name 1423 1426	Sud
+T142	name 1461 1474	Laclocheterie
+T143	name 1505 1512	Surcouf
+T144	geogName 1414 1426	Passe du Sud
+T145	geogName 1453 1474	Banc du Laclocheterie
+T146	geogName 1497 1512	Banc du Surcouf
+T147	name 1625 1630	Ouest
+T148	geogName 1620 1630	côte Ouest
+T149	geogName 1695 1705	Anse Buret
+T150	name 1700 1705	Buret
+T151	name 1762 1774	Sher Mahamat
+T152	name 1786 1792	Agaraf
+T153	geogName 1755 1774	Pointe Sher Mahamat
+T154	geogName 1779 1792	Pointe Agaraf
+T155	name 1940 1944	Nord
+T156	name 1955 1958	Sud
+T157	geogName 1935 1944	Îlot Nord
+T158	geogName 1950 1958	Îlot Sud
+T159	name 2047 2052	Obock
+T160	geogName 2043 2052	Cap Obock
+T161	name 2079 2085	Korali
+T162	geogName 2087 2097	Daba Libah
+T163	name 2104 2108	Eiro
+T164	geogName 2074 2085	Raʼs Korali
+T165	name 2087 2097	Daba Libah
+T166	geogName 2099 2108	Raʼs Eiro
+T167	name 2222 2225	Ali
+T168	name 2246 2254	Tadjoura
+T169	geogName 2217 2225	Raʼs Ali
+T170	geogName 2237 2254	ville de Tadjoura
+T171	name 2403 2417	Oreilles d’Âne
+T172	geogName 2395 2417	colline Oreilles d’Âne
+T173	geogName 2481 2492	Khôr-Ambâdo
+T174	name 2481 2492	Khôr-Ambâdo
+T175	name 2562 2569	Boutres
+T176	name 2586 2592	Korali
+T177	geogName 2581 2592	Raʼs Korali
+T178	geogName 2553 2569	Îlot des Boutres
+T179	name 2934 2942	Tadjoura
+T180	geogName 2934 2942	Tadjoura
+T181	geogFeat 2760 2764	Khôr
+T182	name 2765 2773	Raïssâli
+T183	geogName 2760 2773	Khôr Raïssâli
+T184	name 3049 3055	Étoile
+T185	geogName 3037 3055	Pointe de l’Étoile
+T186	name 3215 3220	Obock
+T187	name 3222 3229	Dalleyi
+T188	geogName 3211 3220	Cap Obock
+T189	geogName 3222 3229	Dalleyi
+T190	name 3580 3586	Diable
+T191	name 3566 3572	Grande
+T192	geogName 3566 3586	Grande Île du Diable
+T193	name 3540 3551	Bonnet Turc
+T194	name 3553 3564	Guinni Koma
+T195	geogName 3540 3551	Bonnet Turc
+T196	geogName 3553 3564	Guinni Koma
+T197	name 3740 3748	Tadjoura
+T198	geogName 3731 3748	golfe de Tadjoura
+T199	geogFeat 3750 3758	Ghoubbet
+T200	geogFeat 3767 3775	Ghoubbet
+T201	name 3759 3765	Kharāb
+T202	name 3776 3785	El Kharāb
+T203	geogName 3750 3765	Ghoubbet Kharāb
+T204	geogName 3767 3785	Ghoubbet El Kharāb
+T205	name 3894 3899	Obock
+T206	name 3912 3925	Laclocheterie
+T207	geogName 3890 3899	Cap Obock
+T208	geogName 3904 3925	Banc du Laclocheterie
+T209	geogFeat 4036 4040	Khôr
+T210	name 4041 4049	Raïssâli
+T211	name 4061 4073	Sher Mahamat
+T212	geogName 4036 4049	Khôr Raïssâli
+T213	geogName 4054 4073	Pointe Sher Mahamat
+T214	name 4133 4137	Nord
+T215	name 4150 4158	Tadjoura
+T216	name 4192 4195	Bir
+T217	name 4205 4212	d’Obock
+T218	name 4255 4260	Buret
+T219	name 4271 4276	Obock
+T220	geogName 4128 4137	côte Nord
+T221	geogName 4141 4158	golfe de Tadjoura
+T222	geogName 4187 4195	Raʼs Bir
+T223	geogName 4200 4212	Port d’Obock
+T224	geogName 4250 4260	Anse Buret
+T225	geogName 4267 4276	Cap Obock
+T226	name 4396 4400	Nord
+T227	geogName 4391 4400	côte Nord
+T228	geogFeat 4404 4412	Ghoubbet
+T229	name 4413 4422	El Kharâb
+T230	geogName 4404 4422	Ghoubbet El Kharâb
+T231	name 4452 4458	Petite
+T232	geogName 4452 4464	Petite Passe
+T233	name 4803 4809	Grande
+T234	name 4817 4823	Diable
+T235	geogName 4803 4823	Grande Île du Diable
+T236	name 4983 4989	Étoile
+T237	geogName 4971 4989	Pointe de l’Étoile
+T238	name 4999 5007	Blondeau
+T239	geogName 4994 5007	Baie Blondeau
+T240	name 5054 5058	Cadi
+T241	geogName 5043 5058	mosquée du Cadi
+T242	name 5101 5110	Résidence
+T243	geogName 5090 5110	tour de la Résidence
+R1	SouthSouthEastOf Arg1:T1 Arg2:T2	
+R2	SouthSouthWestOf Arg1:T4 Arg2:T5	
+T244	name 240 244	en L
+T245	geogName 234 244	Jetée en L
+R3	MarkedBy Arg1:T245 Arg2:T7	
+R4	NorthWestOf Arg1:T15 Arg2:T14	
+R5	ElementOf Arg1:T15 Arg2:T130	
+R6	ElementOf Arg1:T17 Arg2:T15	
+R7	NorthNorthWestOf Arg1:T19 Arg2:T15	
+R8	ElementOf Arg1:T19 Arg2:T132	
+R9	ElementOf Arg1:T20 Arg2:T19	
+R10	ElementOf Arg1:T15 Arg2:T21	
+R11	ElementOf Arg1:T19 Arg2:T21	
+R12	ElementOf Arg1:T21 Arg2:T22	
+R13	WestSouthWestOf Arg1:T136 Arg2:T135	
+T246	geogFeat 1336 1342	rocher
+R14	EastSouthEastOf Arg1:T246 Arg2:T29	
+R15	EastOf Arg1:T144 Arg2:T145	
+R16	WestSouthWestOf Arg1:T144 Arg2:T146	
+R17	ElementOf Arg1:T35 Arg2:T36	
+R18	WestNorthWestOf Arg1:T37 Arg2:T35	
+R19	WestOf Arg1:T38 Arg2:T148	
+R20	ElementOf Arg1:T148 Arg2:T40	
+R21	WestNorthWestOf Arg1:T154 Arg2:T153	
+R22	WestOf Arg1:T154 Arg2:T45	
+R23	ElementOf Arg1:T46 Arg2:T47	
+R24	ElementOf Arg1:T157 Arg2:T49	
+R25	ElementOf Arg1:T158 Arg2:T49	
+R26	ElementOf Arg1:T49 Arg2:T52	
+R27	NorthEastOf Arg1:T157 Arg2:T160	
+R28	EastNorthEastOf Arg1:T158 Arg2:T160	
+R29	EastNorthEastOf Arg1:T162 Arg2:T164	
+R30	WestNorthWestOf Arg1:T170 Arg2:T169	
+R31	ElementOf Arg1:T172 Arg2:T62	
+R32	SouthSouthWestOf Arg1:T172 Arg2:T173	
+R33	EastNorthEastOf Arg1:T64 Arg2:T178	
+R34	EastNorthEastOf Arg1:T67 Arg2:T64	
+R35	WestNorthWestOf Arg1:T70 Arg2:T183	
+R36	ElementOf Arg1:T72 Arg2:T73	
+R37	EastOf Arg1:T73 Arg2:T74	
+R38	EastNorthEastOf Arg1:T72 Arg2:T185	
+R39	EastOf Arg1:T76 Arg2:T77	
+R40	WestSouthWestOf Arg1:T189 Arg2:T188	
+R41	SouthWestOf Arg1:T82 Arg2:T81	
+R42	EastSouthEastOf Arg1:T196 Arg2:T195	
+R43	ElementOf Arg1:T87 Arg2:T86	
+T247	geogFeat 3672 3679	cratère
+R44	SouthEastOf Arg1:T247 Arg2:T87	
+R45	SouthSouthWestOf Arg1:T203 Arg2:T198	
+R46	EastSouthEastOf Arg1:T208 Arg2:T207	
+R47	ElementOf Arg1:T93 Arg2:T208	
+R48	ElementOf Arg1:T94 Arg2:T93	
+R49	WestNorthWestOf Arg1:T213 Arg2:T212	
+R50	EastOf Arg1:T213 Arg2:T96	
+R51	NorthOf Arg1:T220 Arg2:T221	
+R52	WestOf Arg1:T223 Arg2:T222	
+R53	WestSouthWestOf Arg1:T225 Arg2:T224	
+R54	NorthOf Arg1:T227 Arg2:T230	
+R55	ElementOf Arg1:T108 Arg2:T107	
+R56	WestNorthWestOf Arg1:T227 Arg2:T232	
+R57	MarkedBy Arg1:T111 Arg2:T110	
+R58	WestNorthWestOf Arg1:T111 Arg2:T235	
+R59	ElementOf Arg1:T113 Arg2:T114	
+R60	NorthNorthWestOf Arg1:T113 Arg2:T115	
+R61	WestNorthWestOf Arg1:T239 Arg2:T237	
+R62	SouthSouthWestOf Arg1:T241 Arg2:T243	

@@ -1,0 +1,63 @@
+T1	geogFeat 12 36	Réserve naturelle marine
+T2	geogFeat 66 92	RÉSERVE 😄NATURELLE 😄MARINE
+T3	geogFeat 352 359	réserve
+T4	geogFeat 374 379	zones
+T5	geogFeat 389 401	zone globale
+T6	geogFeat 533 561	zone de protection renforcée
+T7	geogFeat 661 697	bouées de marque spéciale lumineuses
+T8	geogFeat 485 523	bouées 😄😍de marque spéciale lumineuses
+T9	geogFeat 744 751	réserve
+T10	geogFeat 1002 1005	RNM
+T11	geogFeat 1176 1180	ZMEL
+T12	geogFeat 1197 1204	réserve
+T13	geogFeat 1218 1246	zone de protection renforcée
+T14	geogFeat 1613 1630	réserve naturelle
+T15	geogFeat 1931 1953	dispositifs d’amarrage
+T16	geogFeat 2022 2041	bouées 😄de 😄surface
+T17	geogFeat 2050 2056	bouées
+T18	geogFeat 2137 2143	bouées
+T19	geogFeat 2277 2282	place
+T20	geogFeat 38 41	RNM
+T21	geogFeat 838 845	réserve
+T22	geogFeat 1292 1312	MOUILLAGES ORGANISÉS
+T23	geogFeat 1505 1532	zone de mouillage organisée
+T24	geogFeat 1537 1543	postes
+T25	geogFeat 1673 1701	zone de mouillage sur bouées
+T26	geogFeat 1724 1727	cap
+T27	geogFeat 2471 2491	flotteurs en surface
+T28	name 46 61	Cerbère-Banyuls
+T29	name 271 283	Méditerranée
+T30	name 1009 1024	Cerbère-Banyuls
+T31	name 1429 1448	Pyrénées-Orientales
+T32	name 1399 1411	Méditerranée
+T33	name 1634 1649	Cerbère-Banyuls
+T34	name 1730 1737	Abeille
+T35	geogName 12 61	Réserve naturelle marine (RNM) de Cerbère-Banyuls
+T36	geogName 271 283	Méditerranée
+T37	geogName 1002 1024	RNM de Cerbère-Banyuls
+T38	geogName 1399 1411	Méditerranée
+T39	geogName 1429 1448	Pyrénées-Orientales
+T40	geogName 1613 1649	réserve naturelle de Cerbère-Banyuls
+T41	geogName 1724 1737	cap l’Abeille
+R1	ElementOf Arg1:T4 Arg2:T3	
+R2	ElementOf Arg1:T5 Arg2:T4	
+R3	ElementOf Arg1:T6 Arg2:T5	
+R4	MarkedBy Arg1:T5 Arg2:T8	
+R5	MarkedBy Arg1:T6 Arg2:T7	
+R6	ElementOf Arg1:T24 Arg2:T23	
+R7	ElementOf Arg1:T23 Arg2:T40	
+R8	ElementOf Arg1:T17 Arg2:T16	
+R9	ElementOf Arg1:T18 Arg2:T16	
+T42	geogFeat 2445 2457	dis😍positifs
+T43	geogFeat 2517 2528	dispositifs
+T44	name 2529 2533	nº 1
+T45	name 2535 2536	2
+T46	name 2538 2539	7
+T47	name 2541 2543	11
+T48	name 2547 2549	18
+T49	geogName 2517 2549	dispositifs nº 1, 2, 7, 11 et 18
+T50	geogFeat 1070 1110	herbiers de posidonies et autres espèces
+R10	NorthEastOf Arg1:T8 Arg2:T5	
+R11	SouthEastOf Arg1:T8 Arg2:T5	
+R12	NorthEastOf Arg1:T7 Arg2:T6	
+R13	SouthEastOf Arg1:T7 Arg2:T6	

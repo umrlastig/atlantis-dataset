@@ -1,0 +1,77 @@
+T1	geogFeat 10 13	Île
+T2	geogFeat 52 58	Écueil
+T3	geogFeat 77 80	île
+T4	geogFeat 116 121	phare
+T5	geogFeat 125 129	Capu
+T6	geogFeat 157 164	rochers
+T7	geogFeat 193 199	écueil
+T8	geogFeat 218 224	rocher
+T9	geogFeat 252 255	île
+T10	geogFeat 265 272	dangers
+T11	geogFeat 293 298	bouée
+T12	geogFeat 350 353	île
+T13	geogFeat 366 399	balise 😄cardinale 😄Est 😄lumineuse
+T14	geogFeat 408 436	amplificateur 😄d’écho 😄radar
+T15	geogFeat 457 463	écueil
+T16	geogFeat 512 519	PASSAGE
+T17	geogFeat 551 558	passage
+T18	geogFeat 717 721	îles
+T19	geogFeat 802 806	îles
+T20	geogFeat 879 884	ligne
+T21	geogFeat 922 927	Punta
+T22	geogFeat 957 964	dangers
+T23	geogFeat 970 973	île
+T24	geogFeat 1024 1027	CAP
+T25	geogFeat 1039 1044	GOLFE
+T26	geogFeat 1061 1068	BOUCHES
+T27	geogFeat 897 903	pointe
+T28	name 14 21	Perduto
+T29	name 62 69	Perduto
+T30	name 81 88	Perduto
+T31	name 90 98	Sperduto
+T32	name 135 140	Beccu
+T33	name 203 210	Perduto
+T34	name 301 308	Perduto
+T35	name 469 476	Perduto
+T36	name 526 533	PERDUTO
+T37	name 537 544	CAVALLO
+T38	name 608 613	Corse
+T39	name 807 814	Cavallo
+T40	name 818 825	Perduto
+T41	name 911 918	Cavallo
+T42	name 931 940	Rondinara
+T43	name 975 984	Porraggia
+T44	name 1031 1035	FENO
+T45	name 1048 1059	SANT’AMANZA
+T46	name 1072 1081	BONIFACIO
+T47	geogName 10 21	Île Perduto
+T48	geogName 52 69	Écueil de Perduto
+T49	geogName 77 88	île Perduto
+T50	geogName 90 98	Sperduto
+T51	geogName 125 140	Capu di u Beccu
+T52	geogName 116 140	phare de Capu di u Beccu
+T53	geogName 193 210	écueil de Perduto
+T54	geogName 293 310	bouée « Perduto »
+T55	geogName 457 476	écueil 😄de 😄Perduto
+T56	geogName 526 533	PERDUTO
+T57	geogName 537 544	CAVALLO
+T58	geogName 608 613	Corse
+T60	geogName 802 825	îles Cavallo et Perduto
+T61	geogName 922 940	Punta di Rondinara
+T62	geogName 897 918	pointe Est de Cavallo
+T63	geogName 970 984	île 😍Porraggia
+T64	geogName 1024 1035	CAP DE FENO
+T65	geogName 1039 1059	GOLFE DE SANT’AMANZA
+T66	geogName 1061 1081	BOUCHES DE BONIFACIO
+R1	NorthEastOf Arg1:T49 Arg2:T52	
+R2	EastSouthEastOf Arg1:T53 Arg2:T9	
+R3	MarkedBy Arg1:T10 Arg2:T54	
+R4	NorthNorthWestOf Arg1:T54 Arg2:T12	
+R5	MarkedBy Arg1:T10 Arg2:T13	
+R6	ElementOf Arg1:T14 Arg2:T13	
+R7	ElementOf Arg1:T13 Arg2:T55	
+R8	ElementOf Arg1:T61 Arg2:T20	
+R9	ElementOf Arg1:T62 Arg2:T20	
+T67	geogFeat 171 184	hauts- 😍fonds
+T59	name 904 907	Est
+T68	geogName 897 907	pointe Est

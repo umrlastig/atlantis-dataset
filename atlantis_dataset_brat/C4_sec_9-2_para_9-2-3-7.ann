@@ -1,0 +1,13 @@
+T1	geogFeat 85 89	zone
+T2	geogFeat 118 129	terre-plein
+T3	geogFeat 145 150	jetée
+T4	geogFeat 196 199	CAP
+T5	geogFeat 214 217	CAP
+T6	name 200 204	VERT
+T7	name 218 223	VERGA
+T8	geogName 196 204	CAP VERT
+T9	geogName 214 223	CAP VERGA
+T10	name 130 138	Nord-Est
+T11	name 151 155	Nord
+T12	geogName 118 138	terre-plein Nord-Est
+T13	geogName 145 155	jetée Nord

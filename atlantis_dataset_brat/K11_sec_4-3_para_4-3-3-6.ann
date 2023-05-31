@@ -1,0 +1,160 @@
+T1	geogFeat 62 71	mouillage
+T2	geogFeat 94 98	Îles
+T3	geogFeat 120 125	ville
+T4	geogFeat 170 176	rivage
+T5	geogFeat 187 193	pointe
+T6	geogFeat 211 217	pointe
+T7	geogFeat 252 258	temple
+T8	geogFeat 269 275	maison
+T9	geogFeat 306 311	ville
+T10	geogFeat 324 331	clocher
+T11	geogFeat 347 351	amer
+T12	geogFeat 401 408	hôpital
+T13	geogFeat 416 424	immeuble
+T14	geogFeat 462 468	pointe
+T15	geogFeat 487 499	centre-ville
+T16	geogFeat 508 512	port
+T17	geogFeat 534 544	plan d’eau
+T18	geogFeat 590 596	pointe
+T19	geogFeat 609 615	pointe
+T20	geogFeat 747 752	piste
+T21	geogFeat 758 767	aérodrome
+T22	geogFeat 788 817	postes de mouillage d’attente
+T23	geogFeat 840 844	port
+T24	geogFeat 890 895	poste
+T25	geogFeat 1064 1068	port
+T26	geogFeat 1305 1309	Quai
+T27	geogFeat 1341 1347	pointe
+T28	geogFeat 1402 1410	bollards
+T29	geogFeat 1441 1445	quai
+T30	geogFeat 1582 1595	Gare maritime
+T31	geogFeat 1606 1610	quai
+T32	geogFeat 1622 1626	Quai
+T33	geogFeat 1648 1652	quai
+T34	geogFeat 1720 1724	quai
+T35	geogFeat 1726 1731	Darse
+T36	geogFeat 1756 1760	quai
+T37	geogFeat 1772 1776	Quai
+T38	geogFeat 1814 1820	entrée
+T39	geogFeat 1830 1835	darse
+T40	geogFeat 1905 1918	port autonome
+T41	geogFeat 1965 1977	Capitainerie
+T42	geogFeat 2009 2021	Poste à quai
+T43	geogFeat 2131 2150	Station de pilotage
+T44	geogFeat 2176 2193	Centre commercial
+T45	geogFeat 2202 2215	gare maritime
+T46	geogFeat 2234 2242	Aéroport
+T47	geogFeat 2258 2263	Ville
+T48	geogFeat 2274 2297	chef lieu administratif
+T49	geogFeat 2302 2306	îles
+T50	geogFeat 2349 2353	Port
+T51	geogFeat 2469 2476	panneau
+T52	geogFeat 2481 2487	entrée
+T53	geogFeat 2494 2500	marina
+T54	geogFeat 2598 2602	ÎLES
+T55	geogFeat 2613 2617	ÎLES
+T56	geogFeat 2633 2637	ÎLES
+T57	geogFeat 2768 2772	Quai
+T58	geogFeat 2813 2830	pontons flottants
+T59	geogFeat 2869 2874	digue
+T60	geogFeat 2880 2900	Cale de mise à l’eau
+T61	geogFeat 2904 2915	corps-morts
+T62	geogFeat 2929 2942	places à quai
+T63	geogFeat 3139 3147	Aéroport
+T64	geogFeat 3207 3212	Ville
+T65	geogFeat 3223 3246	chef lieu administratif
+T66	geogFeat 3251 3255	îles
+T67	geogFeat 3298 3304	Marina
+T68	name 12 18	Uturoa
+T69	name 23 29	Uturoa
+T70	name 99 111	Sous-le-Vent
+T71	name 194 199	Tonoi
+T72	name 218 226	Faretara
+T73	name 392 397	Tahaa
+T74	name 472 483	Roi Tamatoa
+T75	name 597 602	Tonoi
+T76	name 621 632	Roi Tamatoa
+T77	name 770 776	Uturoa
+T78	name 848 854	Uturoa
+T79	name 1071 1077	Uturoa
+T80	name 1351 1362	Roi Tamatoa
+T81	name 1781 1790	bonitiers
+T82	name 1921 1927	Uturoa
+T83	name 2307 2312	Tahaa
+T84	name 2316 2323	Raiatea
+T85	name 2339 2346	Raiatea
+T86	name 2356 2362	Uturoa
+T87	name 2606 2610	VENT
+T88	name 2618 2630	SOUS-LE-VENT
+T89	name 2638 2647	AUSTRALES
+T91	name 3214 3220	Uturoa
+T92	name 3256 3261	Tahaa
+T93	name 3265 3272	Raiatea
+T94	name 3288 3295	Raiatea
+T95	name 3307 3313	Uturoa
+T96	geogName 12 18	Uturoa
+T97	geogName 23 29	Uturoa
+T98	geogName 94 111	Îles Sous-le-Vent
+T99	geogName 187 199	pointe Tonoi
+T100	geogName 211 226	pointe Faretara
+T101	geogName 392 397	Tahaa
+T102	geogName 462 483	pointe du Roi Tamatoa
+T103	geogName 590 602	pointe Tonoi
+T104	geogName 609 632	pointe 😄😍du Roi Tamatoa
+T105	geogName 758 776	aérodrome d’Uturoa
+T106	geogName 840 854	port de Uturoa
+T107	geogName 1064 1077	port d’Uturoa
+T108	geogName 1341 1362	pointe du Roi Tamatoa
+T109	geogName 1772 1790	Quai des bonitiers
+T110	geogName 1905 1927	port autonome d’Uturoa
+T111	geogName 2302 2323	îles Tahaa et Raiatea
+T113	geogName 2349 2362	Port d’Uturoa
+T114	geogName 2339 2346	Raiatea
+T115	geogName 2598 2610	ÎLES DU VENT
+T116	geogName 2613 2630	ÎLES SOUS-LE-VENT
+T117	geogName 2633 2647	ÎLES AUSTRALES
+T118	geogName 3214 3220	Uturoa
+T119	geogName 3251 3272	îles Tahaa et Raiatea
+T121	geogName 3288 3295	Raiatea
+T122	geogName 3298 3313	Marina d’Uturoa
+T123	geogFeat 2649 2673	Installations portuaires
+T124	geogFeat 1127 1151	Installations portuaires
+T125	name 2151 2162	Te 😍Ara Tai
+T126	geogName 2131 2162	Station de pilotage Te 😍Ara Tai
+T127	name 2773 2782	principal
+T128	geogName 2768 2782	Quai principal
+T129	name 1310 1319	principal
+T130	geogName 1305 1319	Quai principal
+T131	name 1761 1770	principal
+T132	geogName 1756 1770	quai principal
+T133	name 1611 1620	principal
+T134	geogName 1606 1620	quai principal
+T135	name 1627 1637	secondaire
+T136	geogName 1622 1637	Quai secondaire
+T137	name 1653 1662	principal
+T138	geogName 1648 1662	quai principal
+T139	geogFeat 2751 2766	Infrastructures
+T140	geogFeat 1168 1183	Infrastructures
+T141	geogFeat 1298 1302	quai
+T142	name 2265 2271	Uturoa
+T143	geogName 2265 2271	Uturoa
+T144	geogFeat 638 647	Mouillage
+R1	ElementOf Arg1:T7 Arg2:T9	
+R2	ElementOf Arg1:T10 Arg2:T7	
+R4	ElementOf Arg1:T12 Arg2:T102	
+R5	ElementOf Arg1:T12 Arg2:T15	
+R6	ElementOf Arg1:T17 Arg2:T16	
+R7	ElementOf Arg1:T20 Arg2:T105	
+R8	SouthEastOf Arg1:T130 Arg2:T108	
+R9	SouthEastOf Arg1:T136 Arg2:T138	
+R10	NorthWestOf Arg1:T35 Arg2:T132	
+R11	NorthOf Arg1:T109 Arg2:T38	
+R12	ElementOf Arg1:T38 Arg2:T39	
+R13	ElementOf Arg1:T44 Arg2:T45	
+R14	ElementOf Arg1:T48 Arg2:T111	
+R15	ElementOf Arg1:T51 Arg2:T52	
+R16	ElementOf Arg1:T52 Arg2:T53	
+T90	name 2875 2878	Est
+T112	geogName 2869 2878	digue Est
+R3	NorthNorthWestOf Arg1:T144 Arg2:T20	
+R17	ElementOf Arg1:T65 Arg2:T119	

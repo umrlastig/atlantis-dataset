@@ -1,0 +1,95 @@
+T1	geogFeat 39 46	pointes
+T2	geogFeat 54 58	îles
+T3	geogFeat 75 79	port
+T4	geogFeat 161 164	île
+T5	geogFeat 182 186	mont
+T6	geogFeat 197 213	phare postérieur
+T7	geogFeat 272 276	rade
+T8	geogFeat 219 229	alignement
+T9	geogFeat 282 297	phare antérieur
+T10	geogFeat 305 315	alignement
+T11	geogFeat 330 336	pointe
+T12	geogFeat 375 380	ville
+T13	geogFeat 355 359	mont
+T14	geogFeat 445 455	presqu’île
+T15	geogFeat 513 519	pointe
+T16	geogFeat 535 539	mont
+T17	geogFeat 578 583	amers
+T18	geogFeat 598 602	mont
+T19	geogFeat 628 643	antennes 😄radio
+T20	geogFeat 655 661	pylône
+T21	geogFeat 691 716	feux 😄d’obstacle 😄😍aérien
+T22	geogFeat 725 730	phare
+T23	geogFeat 743 752	sémaphore
+T24	geogFeat 764 768	tour
+T25	geogFeat 798 805	colline
+T26	geogFeat 841 846	ville
+T27	geogFeat 855 865	cathédrale
+T28	geogFeat 901 916	phare-sémaphore
+T29	geogFeat 926 938	construction
+T30	geogFeat 964 969	tours
+T31	geogFeat 995 1008	feu antérieur
+T32	geogFeat 1014 1033	alignement d’entrée
+T34	geogFeat 1047 1051	rade
+T35	geogFeat 1074 1089	phare-sémaphore
+T36	geogFeat 1095 1099	tour
+T37	geogFeat 1127 1149	feux d’obstacle aérien
+T38	geogFeat 1170 1174	mont
+T39	geogFeat 1251 1256	ville
+T40	geogFeat 1284 1291	pylônes
+T41	geogFeat 1325 1347	feux d’obstacle aérien
+T42	geogFeat 1407 1412	passe
+T43	geogFeat 1225 1234	éminences
+T44	name 165 168	Nou
+T45	name 187 193	Ducros
+T46	name 263 269	Petite
+T47	name 360 366	Ducros
+T48	name 384 390	Nouméa
+T49	name 540 549	Ouen Toro
+T50	name 604 614	Ouen 😄Toro
+T51	name 756 762	Nouméa
+T52	name 1040 1046	Petite
+T53	name 1175 1184	Montravel
+T54	name 1363 1369	Nouméa
+T55	name 1400 1406	Petite
+T56	geogName 161 168	île Nou
+T57	geogName 182 193	mont Ducros
+T58	geogName 355 366	mont Ducros
+T59	geogName 375 390	ville de Nouméa
+T60	geogName 535 549	mont Ouen Toro
+T61	geogName 598 614	mont 😄Ouen 😄Toro
+T63	geogName 1040 1051	Petite rade
+T64	geogName 1170 1184	mont Montravel
+T65	geogName 1363 1369	Nouméa
+T66	geogName 1400 1412	Petite passe
+T67	geogName 263 276	Petite 😄😍rade
+T68	name 736 742	ancien
+T69	geogName 736 752	ancien sémaphore
+T70	geogName 725 762	phare de l’ancien sémaphore de Nouméa
+T33	geogName 736 762	ancien sémaphore de Nouméa
+R1	ElementOf Arg1:T57 Arg2:T56	
+R2	ElementOf Arg1:T6 Arg2:T57	
+R3	ElementOf Arg1:T6 Arg2:T8	
+R4	ElementOf Arg1:T9 Arg2:T10	
+R5	ElementOf Arg1:T9 Arg2:T11	
+R6	SouthOf Arg1:T11 Arg2:T58	
+R7	ElementOf Arg1:T59 Arg2:T14	
+R8	ElementOf Arg1:T15 Arg2:T14	
+R10	ElementOf Arg1:T19 Arg2:T61	
+R11	ElementOf Arg1:T20 Arg2:T19	
+R12	ElementOf Arg1:T21 Arg2:T20	
+R13	ElementOf Arg1:T24 Arg2:T25	
+R15	SouthOf Arg1:T27 Arg2:T28	
+R17	ElementOf Arg1:T30 Arg2:T29	
+R18	ElementOf Arg1:T31 Arg2:T30	
+R19	ElementOf Arg1:T31 Arg2:T32	
+R20	NorthEastOf Arg1:T36 Arg2:T35	
+R21	ElementOf Arg1:T37 Arg2:T36	
+R22	ElementOf Arg1:T36 Arg2:T64	
+R23	ElementOf Arg1:T43 Arg2:T39	
+R24	ElementOf Arg1:T40 Arg2:T43	
+R25	MarkedBy Arg1:T40 Arg2:T41	
+R9	ElementOf Arg1:T61 Arg2:T17	
+R26	ElementOf Arg1:T70 Arg2:T17	
+R27	ElementOf Arg1:T27 Arg2:T17	
+R14	ElementOf Arg1:T36 Arg2:T17	

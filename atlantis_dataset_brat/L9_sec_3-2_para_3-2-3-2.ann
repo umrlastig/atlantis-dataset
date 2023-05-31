@@ -1,0 +1,51 @@
+T1	geogFeat 19 24	Passe
+T2	geogFeat 39 44	Passe
+T3	geogFeat 91 96	récif
+T4	geogFeat 109 113	îlot
+T5	geogFeat 167 172	récif
+T6	geogFeat 193 196	Île
+T7	geogFeat 260 264	ÎLES
+T8	geogFeat 268 275	DANGERS
+T9	geogFeat 327 333	récifs
+T10	geogFeat 473 479	chenal
+T11	geogFeat 640 645	passe
+T12	geogFeat 887 892	passe
+T13	geogFeat 920 928	brisants
+T14	geogFeat 933 943	plan d’eau
+T15	geogFeat 1048 1065	chenal 😄principal
+T16	geogFeat 1163 1183	récifs 😄😍découvrants
+T17	geogFeat 1199 1204	récif
+T18	geogFeat 1286 1291	passe
+T19	geogFeat 1296 1313	chenal secondaire
+T20	geogFeat 1386 1391	récif
+T21	geogFeat 1404 1408	îlot
+T22	name 12 18	Grande
+T23	name 32 38	Grande
+T24	name 114 120	Pagode
+T25	name 186 192	Grande
+T26	name 306 316	MADAGASCAR
+T27	name 775 781	Grande
+T28	geogFeat 782 787	Passe
+T29	name 1409 1415	Pagode
+T30	geogName 12 24	Grande Passe
+T31	geogName 32 44	Grande Passe
+T32	geogName 109 120	îlot Pagode
+T33	geogName 186 196	Grande Île
+T34	geogName 306 316	MADAGASCAR
+T35	geogName 775 787	Grande Passe
+T36	geogName 1404 1415	îlot Pagode
+T37	geogFeat 874 880	ouvert
+T38	geogFeat 911 916	ligne
+T39	geogFeat 1151 1157	lignes
+R1	ElementOf Arg1:T32 Arg2:T3	
+R2	ElementOf Arg1:T33 Arg2:T5	
+R3	WestOf Arg1:T3 Arg2:T31	
+R4	EastOf Arg1:T5 Arg2:T31	
+R5	NorthWestOf Arg1:T8 Arg2:T34	
+R6	NorthWestOf Arg1:T7 Arg2:T34	
+R7	WestOf Arg1:T7 Arg2:T34	
+R8	WestOf Arg1:T8 Arg2:T34	
+R9	ElementOf Arg1:T37 Arg2:T12	
+R10	ElementOf Arg1:T13 Arg2:T38	
+R11	ElementOf Arg1:T16 Arg2:T39	
+R12	ElementOf Arg1:T36 Arg2:T20	

@@ -1,0 +1,78 @@
+T1	geogFeat 19 24	Passe
+T2	geogFeat 28 33	lagon
+T3	geogFeat 48 53	Passe
+T4	geogFeat 92 95	île
+T5	geogFeat 137 142	lagon
+T6	geogFeat 180 186	chenal
+T7	geogFeat 229 247	récifs découvrants
+T8	geogFeat 282 288	entrée
+T9	geogFeat 296 301	passe
+T10	geogFeat 337 342	passe
+T11	geogFeat 356 361	récif
+T12	geogFeat 372 378	chenal
+T14	geogFeat 474 481	branche
+T15	geogFeat 539 542	île
+T16	geogFeat 610 615	lagon
+T17	geogFeat 624 639	lagon intérieur
+T18	geogFeat 685 700	têtes de corail
+T19	geogFeat 718 725	rivages
+T20	geogFeat 829 834	LAGON
+T21	geogFeat 846 852	chenal
+T22	geogFeat 866 871	Passe
+T23	geogFeat 936 942	entrée
+T24	geogFeat 949 954	passe
+T25	geogFeat 988 991	Île
+T26	geogFeat 1070 1079	mouillage
+T27	geogFeat 1193 1198	récif
+T28	geogFeat 1217 1223	chenal
+T29	geogFeat 1335 1339	ÎLES
+T30	geogFeat 1343 1350	DANGERS
+T31	geogFeat 1368 1371	CAP
+T32	geogFeat 1387 1396	mouillage
+T33	geogFeat 1665 1670	Passe
+T34	geogFeat 1793 1798	passe
+T35	geogFeat 1882 1886	banc
+T36	geogFeat 1945 1951	entrée
+T37	geogFeat 1970 1973	axe
+T38	geogFeat 1977 1983	chenal
+T39	geogFeat 1989 1995	récifs
+T40	geogFeat 2055 2061	chenal
+T41	geogFeat 2109 2115	récifs
+T42	geogFeat 2153 2158	îlots
+T43	name 12 18	Grande
+T44	name 41 47	Grande
+T45	name 96 102	Picard
+T46	name 106 114	Polymnie
+T47	name 543 549	Esprit
+T48	name 859 865	Grande
+T49	name 992 998	Picard
+T50	name 1374 1379	AMBRE
+T51	name 1658 1664	Grande
+T52	geogName 12 24	Grande Passe
+T53	geogName 41 53	Grande Passe
+T54	geogName 92 102	île Picard
+T55	geogName 106 114	Polymnie
+T56	geogName 539 549	île Esprit
+T57	geogName 859 871	Grande Passe
+T58	geogName 988 998	Île Picard
+T59	geogName 1368 1379	CAP D’AMBRE
+T60	geogName 1658 1670	Grande Passe
+T61	geogFeat 749 757	mangrove
+T13	geogFeat 387 395	branches
+T62	name 482 484	SW
+T63	geogName 474 484	branche SW
+T64	name 1829 1837	Polymnie
+T65	geogName 1829 1837	Polymnie
+R1	ElementOf Arg1:T8 Arg2:T9	
+R2	ElementOf Arg1:T13 Arg2:T12	
+R3	ElementOf Arg1:T56 Arg2:T16	
+R4	ElementOf Arg1:T18 Arg2:T17	
+R5	ElementOf Arg1:T61 Arg2:T19	
+R6	ElementOf Arg1:T21 Arg2:T57	
+R7	ElementOf Arg1:T23 Arg2:T24	
+R8	NorthWestOf Arg1:T29 Arg2:T59	
+R9	NorthWestOf Arg1:T30 Arg2:T59	
+R10	ElementOf Arg1:T37 Arg2:T38	
+R11	ElementOf Arg1:T42 Arg2:T41	
+T66	geogFeat 128 133	accès
+R12	ElementOf Arg1:T66 Arg2:T5	

@@ -1,0 +1,340 @@
+T1	geogFeat 514 530	chenal intérieur
+T2	geogFeat 5658 5674	chenal intérieur
+T3	geogFeat 12 17	Côtes
+T4	geogFeat 49 53	côte
+T5	geogFeat 76 82	passes
+T6	geogFeat 91 98	marinas
+T7	geogFeat 107 112	passe
+T8	geogFeat 213 216	île
+T9	geogFeat 248 258	alignement
+T10	geogFeat 302 309	balises
+T11	geogFeat 332 336	feux
+T12	geogFeat 371 377	pointe
+T13	geogFeat 447 452	passe
+T14	geogFeat 481 484	île
+T15	geogFeat 553 559	pointe
+T16	geogFeat 590 596	pointe
+T17	geogFeat 620 626	marina
+T18	geogFeat 647 663	chantier 😄😍naval
+T19	geogFeat 742 749	panneau
+T20	geogFeat 754 760	entrée
+T21	geogFeat 767 773	marina
+T22	geogFeat 894 898	Quai
+T23	geogFeat 939 956	pontons flottants
+T24	geogFeat 995 1000	digue
+T25	geogFeat 1006 1026	Cale de mise à l’eau
+T26	geogFeat 1030 1041	corps-morts
+T27	geogFeat 1055 1068	places à quai
+T29	geogFeat 1265 1273	Aéroport
+T28	geogFeat 1413 1417	ÎLES
+T30	geogFeat 1428 1432	ÎLES
+T31	geogFeat 1448 1452	ÎLES
+T32	geogFeat 1464 1469	Ville
+T33	geogFeat 1480 1503	chef lieu administratif
+T34	geogFeat 1508 1512	îles
+T35	geogFeat 1555 1561	Marina
+T36	geogFeat 1624 1630	pointe
+T37	geogFeat 1643 1649	pointe
+T38	geogFeat 1680 1684	baie
+T39	geogFeat 1704 1710	marina
+T40	geogFeat 1838 1851	places à quai
+T41	geogFeat 1855 1866	corps-morts
+T42	geogFeat 1871 1900	places de stationnement à sec
+T43	geogFeat 1902 1918	Cale de carénage
+T44	geogFeat 2144 2150	Marina
+T45	geogFeat 2164 2168	port
+T46	geogFeat 2179 2195	Cale de carénage
+T47	geogFeat 2291 2303	Capitainerie
+T48	geogFeat 2403 2411	Aéroport
+T49	geogFeat 2421 2426	Ville
+T50	geogFeat 2467 2473	Marina
+T51	geogFeat 2230 2244	Chantier Naval
+T53	geogFeat 2539 2544	passe
+T54	geogFeat 2566 2572	pointe
+T55	geogFeat 2588 2593	darse
+T56	geogFeat 2643 2648	récif
+T57	geogFeat 2672 2678	pointe
+T58	geogFeat 2697 2702	darse
+T59	geogFeat 2724 2728	zone
+T60	geogFeat 2756 2763	village
+T61	geogFeat 2790 2796	pointe
+T62	geogFeat 2811 2817	chenal
+T63	geogFeat 2878 2885	cuvette
+T64	geogFeat 2901 2907	pointe
+T65	geogFeat 2940 2945	passe
+T66	geogFeat 2960 2965	passe
+T67	geogFeat 2988 2993	îlots
+T68	geogFeat 3115 3119	baie
+T69	geogFeat 3133 3139	chenal
+T70	geogFeat 3196 3200	baie
+T71	geogFeat 3224 3229	passe
+T72	geogFeat 3340 3350	alignement
+T73	geogFeat 3381 3388	falaise
+T74	geogFeat 3416 3422	sommet
+T75	geogFeat 3452 3456	côte
+T76	geogFeat 3555 3559	ÎLES
+T77	geogFeat 3601 3606	Passe
+T78	geogFeat 3626 3631	passe
+T79	geogFeat 3663 3667	baie
+T80	geogFeat 3709 3715	récifs
+T81	geogFeat 3752 3756	baie
+T82	geogFeat 3802 3820	chenaux intérieurs
+T83	geogFeat 3824 3829	lagon
+T84	geogFeat 3851 3858	village
+T85	geogFeat 3891 3895	quai
+T86	geogFeat 3930 3934	cale
+T87	geogFeat 4012 4019	Village
+T88	geogFeat 4055 4060	passe
+T89	geogFeat 4136 4146	alignement
+T90	geogFeat 4178 4182	mont
+T91	geogFeat 4226 4233	colline
+T92	geogFeat 4248 4254	vallée
+T93	geogFeat 4283 4289	bassin
+T94	geogFeat 4314 4329	pâtés de corail
+T95	geogFeat 4403 4407	ÎLES
+T96	geogFeat 4418 4422	ÎLES
+T97	geogFeat 4438 4442	ÎLES
+T98	geogFeat 4481 4486	Passe
+T99	geogFeat 4509 4515	chenal
+T100	geogFeat 4601 4606	passe
+T101	geogFeat 4623 4637	pâté de corail
+T102	geogFeat 4678 4684	pointe
+T103	geogFeat 4718 4723	passe
+T104	geogFeat 4774 4777	île
+T105	geogFeat 4866 4871	passe
+T106	geogFeat 4915 4925	alignement
+T107	geogFeat 4939 4942	col
+T108	geogFeat 4965 4970	crête
+T109	geogFeat 4994 4999	piton
+T110	geogFeat 5022 5025	île
+T111	geogFeat 5058 5078	balise cardinale Sud
+T112	geogFeat 5096 5099	île
+T113	geogFeat 5129 5134	Passe
+T114	geogFeat 5156 5160	baie
+T115	geogFeat 5185 5188	île
+T116	geogFeat 5208 5217	mouillage
+T117	geogFeat 5296 5307	appontement
+T118	geogFeat 5351 5378	conduite d’eau sous-😍marine
+T119	geogFeat 5418 5422	motu
+T120	geogFeat 5487 5495	conduite
+T121	geogFeat 5504 5508	baie
+T122	geogFeat 5530 5533	île
+T123	geogFeat 5564 5574	mouillages
+T124	geogFeat 5684 5689	passe
+T125	geogFeat 5702 5707	passe
+T126	geogFeat 5725 5729	côte
+T127	geogFeat 5941 5945	ÎLES
+T128	name 18 23	Ouest
+T129	name 27 30	Sud
+T130	name 34 41	Raiatea
+T131	name 54 59	Ouest
+T132	name 113 122	Rautoanui
+T133	name 217 225	Tahunaoe
+T134	name 378 386	Mirimiri
+T135	name 433 439	Uturoa
+T136	name 453 462	Rautoanui
+T137	name 485 492	Raiatea
+T138	name 560 567	Farepoe
+T139	name 597 605	Mirimiri
+T140	name 629 638	Uturaerae
+T142	name 1421 1425	VENT
+T143	name 1433 1445	SOUS-LE-VENT
+T144	name 1453 1462	AUSTRALES
+T145	name 1471 1477	Uturoa
+T146	name 1513 1518	Tahaa
+T147	name 1522 1529	Raiatea
+T148	name 1545 1552	Raiatea
+T149	name 1564 1573	Uturaerae
+T150	name 1631 1638	Farepoe
+T151	name 1650 1655	Oporo
+T152	name 1687 1694	Apooiti
+T153	name 2171 2177	Uturoa
+T154	name 2249 2266	Iles-Sous-le-Vent
+T155	name 2428 2434	Uturoa
+T156	name 2457 2464	Raiatea
+T157	name 2476 2483	Apooiti
+T158	name 2545 2554	Rautoanui
+T159	name 2573 2582	Outumaoro
+T160	name 2679 2685	Tainuu
+T161	name 2767 2775	Tevaitoa
+T162	name 2800 2806	Tainuu
+T163	name 2908 2915	Tumuore
+T164	name 2946 2955	Rautoanui
+T165	name 2966 2976	Tetuatiare
+T166	name 3001 3006	Horea
+T167	name 3010 3015	Tiano
+T168	name 3120 3128	Tetooroa
+T169	name 3201 3208	Vaiaeho
+T170	name 3230 3237	Toamaro
+T171	name 3389 3400	Tearaitaitu
+T172	name 3423 3428	Movai
+T173	name 3560 3572	SOUS-LE-VENT
+T174	name 3591 3598	Raiatea
+T175	name 3607 3614	Toamaro
+T176	name 3668 3675	Vaiaeho
+T177	name 3757 3763	Vaiaau
+T178	geogFeat 3774 3778	côte
+T179	name 3779 3782	Sud
+T180	name 3786 3793	Raiatea
+T181	name 3860 3866	Vaiaau
+T182	name 4020 4026	Vaiaau
+T183	name 4003 4010	Raiatea
+T184	name 4061 4069	Punaeroa
+T185	name 4183 4190	Oropiro
+T186	name 4255 4262	Vaihuti
+T187	name 4411 4415	VENT
+T188	name 4423 4435	SOUS-LE-VENT
+T189	name 4443 4452	AUSTRALES
+T190	name 4471 4478	Raiatea
+T191	name 4487 4495	Punaeroa
+T192	name 4610 4616	Naonao
+T193	name 4685 4691	Tuanai
+T194	name 4724 4730	Naonao
+T195	name 4778 4784	Naonao
+T196	name 4971 4978	Aahinui
+T197	name 5026 5030	Haio
+T198	name 5119 5126	Raiatea
+T199	name 5135 5141	Naonao
+T200	name 5161 5167	Tuatau
+T201	name 5189 5193	Haio
+T202	name 5423 5429	Naonao
+T203	name 5509 5516	Faatemu
+T204	name 5534 5538	Haio
+T205	name 5690 5696	Naonao
+T206	name 5708 5716	Teavamoa
+T207	name 5737 5744	Raiatea
+T208	name 5730 5733	Est
+T209	name 5946 5958	SOUS-LE-VENT
+T210	geogName 12 30	Côtes Ouest et Sud
+T211	geogName 34 41	Raiatea
+T212	geogName 49 59	côte Ouest
+T213	geogName 107 122	passe Rautoanui
+T214	geogName 213 225	île Tahunaoe
+T215	geogName 371 386	pointe Mirimiri
+T216	geogName 433 439	Uturoa
+T217	geogName 447 462	passe Rautoanui
+T218	geogName 481 492	île Raiatea
+T219	geogName 553 567	pointe Farepoe
+T220	geogName 590 605	pointe Mirimiri
+T221	geogName 620 638	marina d’Uturaerae
+T222	geogName 1413 1425	ÎLES DU VENT
+T223	geogName 1428 1445	ÎLES SOUS-LE-VENT
+T224	geogName 1448 1462	ÎLES AUSTRALES
+T225	geogName 1471 1477	Uturoa
+T226	geogName 1508 1529	îles Tahaa et Raiatea
+T228	geogName 1545 1552	Raiatea
+T229	geogName 1555 1573	Marina d’Uturaerae
+T230	geogName 1624 1638	pointe Farepoe
+T231	geogName 1643 1655	pointe Oporo
+T232	geogName 1680 1694	baie d’Apooiti
+T233	geogName 2164 2177	port d’Uturoa
+T234	geogName 2249 2266	Iles-Sous-le-Vent
+T235	geogName 2428 2434	Uturoa
+T236	geogName 2457 2464	Raiatea
+T237	geogName 2467 2483	Marina d’Apooiti
+T238	geogName 2539 2554	passe Rautoanui
+T239	geogName 2566 2582	pointe Outumaoro
+T240	geogName 2672 2685	pointe Tainuu
+T241	geogName 2756 2775	village de Tevaitoa
+T242	geogName 2790 2806	pointe de Tainuu
+T243	geogName 2901 2915	pointe Tumuore
+T244	geogName 2940 2955	passe Rautoanui
+T245	geogName 2960 2976	passe Tetuatiare
+T246	geogName 3001 3006	Horea
+T247	geogName 3010 3015	Tiano
+T248	geogName 3115 3128	baie Tetooroa
+T249	geogName 3196 3208	baie Vaiaeho
+T250	geogName 3224 3237	passe Toamaro
+T251	geogName 3381 3400	falaise Tearaitaitu
+T252	geogName 3416 3428	sommet Movai
+T253	geogName 3555 3572	ÎLES SOUS-LE-VENT
+T254	geogName 3601 3614	Passe Toamaro
+T255	geogName 3591 3598	Raiatea
+T256	geogName 3663 3675	baie Vaiaeho
+T257	geogName 3752 3763	baie Vaiaau
+T258	geogName 3774 3782	côte Sud
+T259	geogName 3786 3793	Raiatea
+T260	geogName 3851 3866	village 😄Vaiaau
+T261	geogName 4003 4010	Raiatea
+T262	geogName 4012 4026	Village Vaiaau
+T263	geogName 4055 4069	passe Punaeroa
+T264	geogName 4178 4190	mont Oropiro
+T265	geogName 4248 4262	vallée Vaihuti
+T266	geogName 4403 4415	ÎLES DU VENT
+T267	geogName 4418 4435	ÎLES SOUS-LE-VENT
+T268	geogName 4438 4452	ÎLES AUSTRALES
+T269	geogName 4471 4478	Raiatea
+T270	geogName 4481 4495	Passe Punaeroa
+T271	geogName 4601 4616	passe de Naonao
+T272	geogName 4678 4691	pointe Tuanai
+T273	geogName 4718 4730	passe Naonao
+T274	geogName 4774 4784	île Naonao
+T275	geogName 4965 4978	crête Aahinui
+T276	geogName 5022 5030	île Haio
+T277	geogName 5119 5126	Raiatea
+T278	geogName 5129 5141	Passe Naonao
+T279	geogName 5156 5167	baie Tuatau
+T280	geogName 5185 5193	île Haio
+T281	geogName 5418 5429	motu Naonao
+T282	geogName 5504 5516	baie Faatemu
+T283	geogName 5530 5538	île Haio
+T284	geogName 5684 5696	passe Naonao
+T285	geogName 5702 5716	passe Teavamoa
+T286	geogName 5725 5733	côte Est
+T287	geogName 5737 5744	Raiatea
+T288	geogName 5941 5958	ÎLES SOUS-LE-VENT
+T289	geogFeat 776 800	Installations portuaires
+T290	geogFeat 776 800	Installations portuaires
+T291	name 899 908	principal
+T292	geogName 894 908	Quai principal
+T293	geogFeat 877 892	Infrastructures
+T294	geogFeat 1818 1833	Infrastructures
+T227	geogFeat 1718 1742	Installations portuaires
+R1	OffTheCoastOf Arg1:T63 Arg2:T243	
+R2	ElementOf Arg1:T210 Arg2:T211	
+R3	ElementOf Arg1:T11 Arg2:T10	
+R4	ElementOf Arg1:T10 Arg2:T215	
+R5	ElementOf Arg1:T10 Arg2:T9	
+R6	NorthNorthEastOf Arg1:T219 Arg2:T220	
+R7	ElementOf Arg1:T18 Arg2:T221	
+R8	ElementOf Arg1:T19 Arg2:T20	
+R9	ElementOf Arg1:T20 Arg2:T21	
+R10	ElementOf Arg1:T33 Arg2:T226	
+R11	ElementOf Arg1:T39 Arg2:T232	
+R12	ElementOf Arg1:T40 Arg2:T294	
+R13	ElementOf Arg1:T41 Arg2:T294	
+R14	ElementOf Arg1:T42 Arg2:T294	
+R15	SouthOf Arg1:T55 Arg2:T238	
+R16	ElementOf Arg1:T58 Arg2:T59	
+R17	SouthOf Arg1:T62 Arg2:T242	
+R18	SouthOf Arg1:T245 Arg2:T244	
+R21	ElementOf Arg1:T300 Arg2:T72	
+R22	ElementOf Arg1:T252 Arg2:T72	
+R23	ElementOf Arg1:T80 Arg2:T256	
+R24	ElementOf Arg1:T258 Arg2:T259	
+R25	ElementOf Arg1:T82 Arg2:T83	
+R26	ElementOf Arg1:T264 Arg2:T89	
+T295	geogFeat 4205 4215	épaulement
+R27	ElementOf Arg1:T297 Arg2:T91	
+R28	ElementOf Arg1:T297 Arg2:T89	
+R29	ElementOf Arg1:T94 Arg2:T93	
+R30	EastOf Arg1:T273 Arg2:T274	
+R31	ElementOf Arg1:T107 Arg2:T106	
+R32	ElementOf Arg1:T109 Arg2:T106	
+R33	ElementOf Arg1:T107 Arg2:T275	
+R34	ElementOf Arg1:T109 Arg2:T276	
+R35	SouthOf Arg1:T111 Arg2:T112	
+R36	WestOf Arg1:T279 Arg2:T280	
+R37	ElementOf Arg1:T116 Arg2:T279	
+R38	NorthEastOf Arg1:T282 Arg2:T283	
+R39	ElementOf Arg1:T123 Arg2:T282	
+R40	ElementOf Arg1:T286 Arg2:T287	
+T296	name 4216 4219	Sud
+T297	geogName 4205 4219	épaulement Sud
+T298	geogFeat 3364 3370	tombée
+T299	name 3371 3374	Sud
+T300	geogName 3364 3374	tombée Sud
+R41	ElementOf Arg1:T300 Arg2:T251	
+R42	NorthEastOf Arg1:T231 Arg2:T232	
+T52	name 1001 1004	Est
+T141	geogName 995 1004	digue Est

@@ -1,0 +1,18 @@
+T1	geogFeat 13 42	Zone de cantonnement de pêche
+T2	geogFeat 80 87	commune
+T3	geogFeat 91 94	Cap
+T4	geogFeat 116 119	Roc
+T5	geogFeat 135 164	zone de cantonnement de pêche
+T6	geogFeat 518 522	zone
+T7	geogFeat 46 49	Roc
+T8	name 53 60	Brescou
+T9	name 97 101	Agde
+T10	name 123 130	Brescou
+T11	name 497 509	Méditerranée
+T12	geogName 46 60	Roc du Brescou
+T13	geogName 91 101	Cap d’Agde
+T14	geogName 80 101	commune du Cap d’Agde
+T15	geogName 116 130	Roc du Brescou
+T16	geogName 497 509	Méditerranée
+R1	ElementOf Arg1:T5 Arg2:T15	
+T17	geogName 13 60	Zone de cantonnement de pêche du Roc du Brescou

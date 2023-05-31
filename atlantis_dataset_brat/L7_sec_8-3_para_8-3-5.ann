@@ -1,0 +1,48 @@
+T1	geogFeat 50 56	Shaʻab
+T2	geogFeat 99 105	récifs
+T3	geogFeat 157 163	Shaʻab
+T4	geogFeat 180 186	Shaʻab
+T5	geogFeat 260 266	Shaʻab
+T6	geogFeat 341 347	Shaʻab
+T7	geogFeat 389 393	côte
+T8	geogFeat 436 442	danger
+T9	geogFeat 468 472	zone
+T10	geogFeat 479 483	côte
+T11	geogFeat 584 588	zone
+T12	geogFeat 637 641	côte
+T13	geogFeat 706 710	côte
+T14	geogFeat 857 866	mouillage
+T15	geogFeat 806 815	Résidence
+T16	name 16 22	Saylac
+T17	name 26 33	Berbera
+T18	name 41 47	Saylac
+T19	name 57 67	Galangaret
+T20	name 85 91	Saylac
+T21	name 164 176	Shaykh Yakab
+T22	name 187 197	Galangaret
+T23	name 267 273	Salbal
+T24	name 348 358	Galangaret
+T25	name 362 369	Berbera
+T26	name 649 657	Dagarita
+T27	name 718 728	Saba Wanak
+T28	name 875 881	Bulhar
+T29	geogName 16 22	Saylac
+T30	geogName 26 33	Berbera
+T31	geogName 41 47	Saylac
+T32	geogName 50 67	Shaʻab Galangaret
+T33	geogName 85 91	Saylac
+T34	geogName 157 176	Shaʻab Shaykh Yakab
+T35	geogName 180 197	Shaʻab Galangaret
+T36	geogName 260 273	Shaʻab Salbal
+T37	geogName 341 358	Shaʻab Galangaret
+T38	geogName 362 369	Berbera
+T39	geogName 649 657	Dagarita
+T40	geogName 718 728	Saba Wanak
+T41	geogName 875 881	Bulhar
+T42	geogFeat 150 154	côte
+T43	name 797 805	ancienne
+T44	geogName 797 815	ancienne Résidence
+R1	SouthEastOf Arg1:T2 Arg2:T33	
+R2	ElementOf Arg1:T34 Arg2:T2	
+R3	ElementOf Arg1:T35 Arg2:T2	
+R4	ElementOf Arg1:T36 Arg2:T2	

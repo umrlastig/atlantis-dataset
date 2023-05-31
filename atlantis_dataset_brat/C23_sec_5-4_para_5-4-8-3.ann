@@ -1,0 +1,17 @@
+T1	geogFeat 34 38	port
+T2	geogFeat 24 30	entrée
+T3	geogFeat 59 82	balise latérale tribord
+T4	geogFeat 85 93	panneaux
+T5	geogFeat 113 117	rive
+T6	geogFeat 145 156	hauts-fonds
+T7	geogFeat 186 190	rive
+T8	geogFeat 225 231	chenal
+R1	ElementOf Arg1:T2 Arg2:T1	
+R2	MarkedBy Arg1:T2 Arg2:T3	
+R3	ElementOf Arg1:T4 Arg2:T3	
+T9	name 118 121	Sud
+T10	geogName 113 121	rive Sud
+T11	name 191 195	Nord
+T12	geogName 186 195	rive Nord
+T13	geogFeat 218 221	axe
+R4	ElementOf Arg1:T13 Arg2:T8	

@@ -1,0 +1,40 @@
+T3	geogFeat 214 224	presqu’île
+T4	geogFeat 252 255	île
+T6	geogFeat 608 615	passage
+T7	geogFeat 785 790	route
+T8	geogFeat 1001 1004	Mer
+T9	geogFeat 1048 1053	golfe
+T10	geogFeat 422 425	Raz
+T12	name 198 204	Manche
+T13	name 228 236	Cotentin
+T14	name 240 246	France
+T15	name 259 264	Wight
+T16	name 268 278	Angleterre
+T17	name 426 435	Blanchard
+T18	name 619 627	Fromveur
+T19	name 718 724	Manche
+T20	name 855 861	Manche
+T21	name 939 945	Manche
+T22	name 949 958	Dunkerque
+T23	name 961 966	Brest
+T24	name 1007 1013	Iroise
+T25	name 1054 1068	normand-breton
+T26	name 1103 1116	Bretagne Nord
+T27	geogName 214 236	presqu’île du Cotentin
+T28	geogName 252 264	île de Wight
+T29	geogName 422 435	Raz Blanchard
+T30	geogName 608 627	passage du Fromveur
+T31	geogName 718 724	Manche
+T32	geogName 855 861	Manche
+T33	geogName 939 945	Manche
+T34	geogName 949 958	Dunkerque
+T35	geogName 961 966	Brest
+T36	geogName 1001 1013	Mer d’Iroise
+T37	geogName 1048 1068	golfe normand-breton
+T39	geogName 198 204	Manche
+T40	geogName 268 278	Angleterre
+R2	ElementOf Arg1:T28 Arg2:T40	
+T41	geogName 240 246	France
+R1	ElementOf Arg1:T27 Arg2:T41	
+T1	geogName 1103 1116	Bretagne Nord
+T2	geogFeat 819 824	côtes

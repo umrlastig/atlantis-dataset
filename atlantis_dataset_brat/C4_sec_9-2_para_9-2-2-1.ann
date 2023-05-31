@@ -1,0 +1,156 @@
+T1	geogFeat 21 24	cap
+T2	geogFeat 38 44	pointe
+T3	geogFeat 55 58	Île
+T4	geogFeat 74 78	anse
+T5	geogFeat 103 109	Palais
+T6	geogFeat 144 150	pointe
+T7	geogFeat 197 203	pointe
+T8	geogFeat 243 246	île
+T9	geogFeat 281 284	cap
+T10	geogFeat 315 321	pointe
+T11	geogFeat 422 425	île
+T12	geogFeat 442 449	falaise
+T13	geogFeat 505 514	murailles
+T14	geogFeat 533 542	citadelle
+T15	geogFeat 601 609	monument
+T16	geogFeat 622 636	mât de signaux
+T17	geogFeat 689 692	île
+T18	geogFeat 702 707	phare
+T19	geogFeat 741 749	tourelle
+T20	geogFeat 803 807	fort
+T21	geogFeat 876 879	île
+T22	geogFeat 904 908	fort
+T23	geogFeat 932 936	port
+T24	geogFeat 953 959	jetées
+T25	geogFeat 970 973	CAP
+T26	geogFeat 988 991	CAP
+T27	geogFeat 1016 1019	île
+T28	geogFeat 1086 1089	île
+T29	geogFeat 1096 1102	pointe
+T30	geogFeat 1138 1150	obstructions
+T31	geogFeat 1130 1135	ligne
+T32	geogFeat 1200 1203	île
+T33	geogFeat 1220 1232	obstructions
+T34	geogFeat 1254 1261	secteur
+T35	geogFeat 1285 1300	feu 😍auxiliaire
+T36	geogFeat 1304 1307	cap
+T37	geogFeat 1318 1321	île
+T38	geogFeat 1332 1337	phare
+T39	geogFeat 1350 1354	feux
+T40	geogFeat 1369 1376	secteur
+T41	geogFeat 1423 1426	île
+T42	geogFeat 1442 1448	pointe
+T43	geogFeat 1487 1494	secteur
+T44	geogFeat 1519 1522	feu
+T45	geogFeat 1529 1535	pointe
+T46	geogFeat 1545 1548	île
+T47	geogFeat 1559 1582	bouées latérales bâbord
+T48	geogFeat 1711 1718	secteur
+T49	geogFeat 1728 1731	île
+T50	geogFeat 1739 1742	cap
+T51	geogFeat 1765 1786	bouée latérale bâbord
+T52	geogFeat 1845 1851	bouées
+T53	geogFeat 1891 1896	épave
+T54	geogFeat 1956 1959	cap
+T55	geogFeat 1974 1979	épave
+T56	geogFeat 2039 2045	pointe
+T57	geogFeat 2056 2059	île
+T58	geogFeat 2089 2120	bouée latérale bâbord lumineuse
+T59	geogFeat 2244 2250	pointe
+T60	geogFeat 2273 2288	bouée lumineuse
+T61	geogFeat 2298 2320	marque de danger isolé
+T62	geogFeat 2361 2365	port
+T63	geogFeat 2413 2419	jetées
+T64	geogFeat 2453 2456	île
+T65	geogFeat 2501 2504	île
+T66	name 25 31	Manuel
+T67	name 48 53	Dakar
+T68	name 62 67	Gorée
+T69	name 79 86	Bernard
+T70	name 113 125	Gouvernement
+T71	name 151 158	Bernard
+T72	name 207 212	Dakar
+T73	name 250 255	Gorée
+T74	name 285 291	Manuel
+T75	name 325 330	Dakar
+T76	name 553 559	Castel
+T77	geogFeat 672 678	pointe
+T78	name 974 978	VERT
+T79	name 992 997	VERGA
+T80	name 679 682	Sud
+T81	name 1023 1028	Gorée
+T82	name 1106 1111	Dakar
+T83	name 1207 1212	Gorée
+T84	name 1308 1314	Manuel
+T85	name 1430 1435	Gorée
+T86	name 1452 1457	Dakar
+T87	name 1536 1539	Sud
+T88	name 1743 1749	Manuel
+T89	name 1960 1966	Manuel
+T90	name 2063 2068	Gorée
+T91	name 2046 2050	Nord
+T92	name 2123 2129	Tacoma
+T93	geogFeat 2168 2177	haut-fond
+T94	name 1585 1586	4
+T95	geogName 1559 1630	bouées latérales bâbord « 4 » (14° 39,198′ N — 17° 25,247′ W) 😍et « 8 »
+T96	name 1854 1855	4
+T97	name 1863 1864	8
+T98	geogName 1845 1866	bouées « 4 » et « 8 »
+T99	geogName 21 31	cap Manuel
+T100	geogName 38 53	pointe de Dakar
+T101	geogName 55 67	Île de Gorée
+T102	geogName 74 86	anse Bernard
+T103	geogName 103 125	Palais du Gouvernement
+T104	geogName 144 158	pointe Bernard
+T105	geogName 197 212	pointe de Dakar
+T106	geogName 243 255	île de Gorée
+T107	geogName 281 291	cap Manuel
+T108	geogName 315 330	pointe de Dakar
+T109	geogName 553 559	Castel
+T110	geogName 672 682	pointe Sud
+T111	geogName 970 978	CAP VERT
+T112	geogName 988 997	CAP VERGA
+T113	geogName 1016 1028	île de Gorée
+T114	geogName 1096 1111	pointe de Dakar
+T115	geogName 1200 1212	île de Gorée
+T116	geogName 1304 1314	cap Manuel
+T117	geogName 1423 1435	île de Gorée
+T118	geogName 1442 1457	pointe de Dakar
+T119	geogName 1529 1539	pointe Sud
+T120	geogName 1739 1749	cap Manuel
+T121	geogName 1956 1966	cap Manuel
+T122	geogName 2039 2050	pointe Nord
+T123	geogName 2056 2068	île de Gorée
+T124	geogName 2089 2131	bouée latérale bâbord lumineuse « Tacoma »
+T125	name 2291 2293	12
+T126	geogName 2273 2295	bouée lumineuse « 12 »
+T127	name 523 531	ancienne
+T128	geogName 523 542	ancienne 😄citadelle
+T129	geogFeat 767 771	haut
+T130	name 1627 1628	8
+R1	EastNorthEastOf Arg1:T106 Arg2:T107	
+R2	EastOf Arg1:T106 Arg2:T108	
+R3	ElementOf Arg1:T12 Arg2:T11	
+R4	ElementOf Arg1:T13 Arg2:T128	
+R5	ElementOf Arg1:T110 Arg2:T17	
+R6	ElementOf Arg1:T18 Arg2:T110	
+R7	ElementOf Arg1:T129 Arg2:T19	
+R8	MarkedBy Arg1:T21 Arg2:T20	
+R9	ElementOf Arg1:T15 Arg2:T128	
+R10	ElementOf Arg1:T16 Arg2:T128	
+R11	ElementOf Arg1:T24 Arg2:T23	
+R12	SouthOf Arg1:T23 Arg2:T22	
+R13	ElementOf Arg1:T30 Arg2:T31	
+R14	ElementOf Arg1:T115 Arg2:T34	
+R15	ElementOf Arg1:T33 Arg2:T34	
+R16	ElementOf Arg1:T35 Arg2:T116	
+R17	ElementOf Arg1:T39 Arg2:T38	
+R19	ElementOf Arg1:T119 Arg2:T46	
+R20	EastNorthEastOf Arg1:T53 Arg2:T121	
+R21	MarkedBy Arg1:T53 Arg2:T51	
+R22	NorthEastOf Arg1:T55 Arg2:T122	
+R23	ElementOf Arg1:T122 Arg2:T123	
+R24	MarkedBy Arg1:T55 Arg2:T124	
+R25	NorthEastOf Arg1:T93 Arg2:T59	
+R26	MarkedBy Arg1:T93 Arg2:T126	
+R18	ElementOf Arg1:T44 Arg2:T119	

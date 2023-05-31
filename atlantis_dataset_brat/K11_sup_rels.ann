@@ -1,0 +1,573 @@
+T1	geogFeat 106 110	banc
+T2	geogFeat 166 169	île
+T3	geogFeat 233 237	Isla
+T4	geogFeat 249 253	Isla
+T5	geogFeat 298 302	îlot
+T6	geogFeat 373 385	promontoires
+T7	geogFeat 389 396	rochers
+T8	geogFeat 424 430	isthme
+T9	geogFeat 519 525	groupe
+T10	geogFeat 544 548	îlot
+T11	geogFeat 598 602	Motu
+T12	geogFeat 653 657	site
+T13	geogFeat 693 698	Passe
+T14	geogFeat 779 785	pointe
+T15	geogFeat 745 755	léproserie
+T16	name 505 514	Nuku Hiva
+T17	geogName 505 514	Nuku Hiva
+T18	geogName 588 596	Hatu Iti
+T19	name 588 596	Hatu Iti
+T20	name 603 606	Iti
+T21	geogName 598 606	Motu Iti
+T22	geogFeat 822 826	port
+T23	geogFeat 982 987	passe
+T24	geogFeat 1016 1020	îles
+T25	geogFeat 1203 1207	Bank
+T26	geogFeat 1312 1321	haut-fond
+T27	geogFeat 1368 1372	baie
+T28	geogFeat 1388 1392	côte
+T29	geogFeat 1418 1422	Mont
+T30	geogFeat 1443 1447	abri
+T31	geogFeat 1535 1540	roche
+T32	geogFeat 1584 1588	mont
+T33	geogFeat 1628 1632	baie
+T34	geogFeat 1636 1646	alignement
+T35	geogFeat 1716 1722	rocher
+T36	geogFeat 1746 1752	Église
+T37	geogFeat 1779 1783	banc
+T38	geogFeat 1840 1849	haut-fond
+T39	geogFeat 1870 1875	passe
+T40	geogFeat 1893 1898	Passe
+T41	geogFeat 1938 1942	côte
+T42	geogFeat 1950 1954	port
+T43	geogFeat 1974 1978	côte
+T44	geogFeat 1989 1993	baie
+T45	geogFeat 2034 2039	digue
+T46	geogFeat 2058 2061	feu
+T47	geogFeat 2106 2110	côte
+T48	geogFeat 2172 2179	dangers
+T49	geogFeat 2188 2193	digue
+T50	geogFeat 2232 2235	feu
+T51	geogFeat 2270 2281	appontement
+T52	geogFeat 2326 2329	île
+T53	geogFeat 2470 2475	atoll
+T54	geogFeat 2521 2525	îles
+T55	geogFeat 2715 2722	passage
+T56	geogFeat 2740 2746	récifs
+T57	geogFeat 2763 2791	balises latérales lumineuses
+T58	geogFeat 2809 2818	Mouillage
+T60	geogFeat 2885 2895	cathédrale
+T59	geogFeat 2923 2928	passe
+T61	geogFeat 2960 2970	embouchure
+T62	geogFeat 2977 2984	rivière
+T63	geogFeat 3003 3008	passe
+T64	geogFeat 3044 3050	pointe
+T65	geogFeat 3075 3085	plan d’eau
+T66	geogFeat 3110 3115	bancs
+T67	geogFeat 3121 3128	plateau
+T68	geogFeat 3200 3206	pointe
+T69	geogFeat 3356 3362	passes
+T70	geogFeat 3398 3402	Cabo
+T71	geogFeat 3446 3451	Punta
+T72	geogFeat 3477 3481	côte
+T73	geogFeat 3499 3506	falaise
+T74	geogFeat 3550 3555	îlots
+T75	geogFeat 3574 3578	Motu
+T76	geogFeat 3591 3595	banc
+T77	geogFeat 3662 3665	Île
+T78	geogFeat 3763 3766	île
+T79	geogFeat 3814 3822	panneaux
+T80	geogFeat 3846 3851	dépôt
+T81	geogFeat 3688 3693	dépôt
+T82	geogFeat 3924 3929	poste
+T83	geogFeat 3945 3964	mouillage d’attente
+T84	geogFeat 4053 4057	Quai
+T85	geogFeat 4116 4123	Rivière
+T86	geogFeat 4159 4170	hauts-fonds
+T87	geogFeat 4223 4229	rocher
+T88	geogFeat 4284 4290	rivage
+T89	geogFeat 4307 4326	alignement d’entrée
+T90	geogFeat 4359 4377	balises lumineuses
+T91	geogFeat 4425 4431	rivage
+T92	geogFeat 4449 4456	village
+T93	geogFeat 4491 4494	Île
+T94	geogFeat 4499 4503	baie
+T95	geogFeat 4569 4587	tourelle lumineuse
+T96	geogFeat 4620 4625	Punta
+T97	geogFeat 4644 4665	point de débarquement
+T98	geogFeat 4673 4682	haut-fond
+T99	geogFeat 4723 4727	banc
+T100	geogFeat 4841 4845	côte
+T101	geogFeat 4887 4892	récif
+T102	geogFeat 4910 4915	plage
+T103	geogFeat 4930 4935	roche
+T104	geogFeat 4956 4965	mouillage
+T105	geogFeat 5004 5010	Pointe
+T106	geogFeat 5040 5065	balises latérales tribord
+T107	geogFeat 5079 5094	pâtés de coraux
+T108	geogFeat 5138 5149	hauts-fonds
+T109	geogFeat 5215 5223	littoral
+T110	geogFeat 5225 5231	GROUPE
+T111	geogFeat 5241 5245	îles
+T112	geogFeat 5294 5298	îles
+T113	geogFeat 5347 5350	Île
+T114	geogFeat 5463 5471	secteurs
+T115	geogFeat 5542 5546	axes
+T116	geogFeat 5604 5608	zone
+T117	geogFeat 5656 5660	zone
+T118	geogFeat 5736 5747	atoll privé
+T119	geogFeat 5808 5813	îlots
+T120	geogFeat 5783 5788	passe
+T121	geogFeat 5854 5859	passe
+T122	geogFeat 6038 6043	quais
+T123	geogFeat 6091 6094	île
+T124	geogFeat 6175 6180	canal
+T125	geogFeat 6196 6200	baie
+T126	geogFeat 6251 6258	village
+T127	geogFeat 6287 6291	Baie
+T128	geogFeat 6372 6390	poste de mouillage
+T129	geogFeat 6445 6451	Pointe
+T130	geogFeat 6502 6511	haut-fond
+T131	geogFeat 6514 6520	sommet
+T132	geogFeat 6622 6635	route côtière
+T133	geogFeat 6647 6654	village
+T134	geogFeat 6683 6690	village
+T135	geogFeat 6742 6748	chenal
+T136	geogFeat 6764 6768	côte
+T137	geogFeat 6783 6787	port
+T138	geogFeat 6840 6850	mouillages
+T139	geogFeat 6941 6947	pointe
+T140	geogFeat 6961 6971	cathédrale
+T141	geogFeat 6984 6988	toit
+T142	geogFeat 7065 7071	pointe
+T143	geogFeat 7078 7084	pointe
+T144	geogFeat 7111 7114	île
+T145	geogFeat 7123 7130	village
+T146	geogFeat 7207 7218	atoll privé
+T147	geogFeat 7260 7265	lagon
+T148	geogFeat 7291 7308	réserve naturelle
+T149	geogFeat 7325 7330	récif
+T150	geogFeat 7378 7383	Shoal
+T151	geogFeat 7401 7407	pointe
+T152	geogFeat 7434 7438	banc
+T153	geogFeat 7541 7549	archipel
+T154	geogFeat 7554 7558	îles
+T155	geogFeat 7570 7578	archipel
+T156	geogFeat 7601 7605	îles
+T157	geogFeat 7717 7725	Archipel
+T158	geogFeat 7834 7838	îles
+T159	geogFeat 7869 7875	chenal
+T160	geogFeat 7894 7899	Passe
+T161	geogFeat 7944 7955	hauts-fonds
+T162	geogFeat 8039 8045	Pointe
+T163	geogFeat 8165 8169	Bank
+T164	geogFeat 8195 8199	Bank
+T165	geogFeat 8205 8213	brisants
+T166	geogFeat 8225 8229	Reef
+T167	geogFeat 8332 8336	Reef
+T168	geogFeat 8377 8383	volcan
+T169	geogFeat 8400 8411	hauts-fonds
+T170	geogFeat 8496 8502	Island
+T171	geogFeat 8528 8532	banc
+T172	geogFeat 8512 8520	Seamount
+T173	geogFeat 8593 8602	haut-fond
+T174	geogFeat 8631 8635	mont
+T175	geogFeat 8686 8689	île
+T176	geogFeat 8704 8709	passe
+T177	geogFeat 8743 8748	passe
+T178	geogFeat 8786 8791	récif
+T179	geogFeat 8828 8834	rocher
+T180	geogFeat 8862 8869	village
+T181	geogFeat 8885 8903	plateau sous-marin
+T182	geogFeat 8954 8960	Island
+T183	geogFeat 9034 9039	îlots
+T184	geogFeat 9133 9140	rochers
+T185	geogFeat 9153 9159	Marina
+T186	geogFeat 9194 9201	clocher
+T187	geogFeat 9207 9213	église
+T188	geogFeat 9216 9221	darse
+T189	geogFeat 9276 9282	groupe
+T190	geogFeat 9298 9304	Island
+T191	geogFeat 9315 9321	Island
+T192	geogFeat 9333 9339	Island
+T193	geogFeat 9349 9355	Island
+T194	geogFeat 9418 9422	Isla
+T195	geogFeat 9436 9440	Isla
+T196	geogFeat 9473 9479	groupe
+T197	geogFeat 9507 9512	côtes
+T198	geogFeat 9590 9595	atoll
+T199	geogFeat 9685 9691	Island
+T200	geogFeat 9724 9729	atoll
+T201	geogFeat 9742 9747	passe
+T202	geogFeat 9789 9794	récif
+T203	geogFeat 9897 9901	Fort
+T204	geogFeat 9923 9932	Mouillage
+T205	geogFeat 9943 9950	village
+T206	geogFeat 10006 10011	Passe
+T207	geogFeat 10052 10056	zone
+T208	geogFeat 10100 10110	structures
+T209	geogFeat 10189 10194	atoll
+T210	geogFeat 10231 10245	fausses passes
+T211	name 111 118	Neilson
+T212	name 173 177	Rapa
+T213	name 241 247	Pascua
+T214	name 254 266	Sala y Gomez
+T215	geogName 106 118	banc Neilson
+T216	geogName 166 177	île de Rapa
+T217	geogName 233 247	Isla de Pascua
+T218	geogName 249 266	Isla Sala y Gomez
+T219	name 702 710	Mahahonu
+T220	name 758 765	Orofara
+T221	name 786 792	Tapahi
+T222	geogName 693 710	Passe de Mahahonu
+T223	geogName 745 765	léproserie d’Orofara
+T224	geogName 779 792	pointe Tapahi
+T225	name 830 837	Papeete
+T226	geogName 822 837	port de Papeete
+T227	name 1021 1029	Marquise
+T228	geogName 1016 1029	îles Marquise
+T229	name 1322 1329	Rotumah
+T230	geogName 1312 1329	haut-fond Rotumah
+T231	name 1192 1202	Bayonnaise
+T232	geogName 1192 1207	Bayonnaise Bank
+T233	name 1373 1379	Anarua
+T234	name 1393 1398	Ouest
+T235	name 1423 1428	Perau
+T236	name 1589 1601	Pukutaketake
+T237	geogName 1368 1379	baie Anarua
+T238	geogName 1388 1398	côte Ouest
+T239	geogName 1418 1428	Mont Perau
+T240	geogName 1584 1601	mont Pukutaketake
+T241	name 1753 1765	Saint-Michel
+T242	geogName 1746 1765	Église Saint-Michel
+T243	name 1789 1797	Artémise
+T244	name 1799 1806	Te Fana
+T245	name 1879 1886	Mahaena
+T246	name 1901 1908	Onoheha
+T247	geogName 1779 1797	banc de l’Artémise
+T248	geogName 1799 1806	Te Fana
+T249	geogName 1870 1886	passe de Mahaena
+T250	geogName 1893 1908	Passe d’Onoheha
+T251	name 1979 1982	Est
+T252	name 1958 1965	Tahauku
+T253	geogName 1950 1965	port de Tahauku
+T254	geogName 1974 1982	côte Est
+T255	name 2526 2535	Marquises
+T256	geogName 2521 2535	îles Marquises
+T257	name 2822 2830	Mata Utu
+T258	geogName 2809 2830	Mouillage de Mata Utu
+T259	name 2896 2906	Notre-Dame
+T260	geogName 2885 2906	cathédrale Notre-Dame
+T261	name 2910 2918	Mata Utu
+T262	geogName 2885 2918	cathédrale Notre-Dame de Mata Utu
+T263	name 2932 2939	Papenoo
+T264	name 3012 3020	Mahahonu
+T265	name 3051 3056	Vénus
+T266	name 3210 3217	Papenoo
+T267	geogName 2923 2939	passe de Papenoo
+T268	geogName 3003 3020	passe de Mahahonu
+T269	geogName 3044 3056	pointe Vénus
+T270	geogName 3200 3217	pointe de Papenoo
+T271	name 3403 3408	Norte
+T272	geogName 3398 3408	Cabo Norte
+T273	name 3452 3456	Cook
+T274	name 3579 3586	Tautara
+T275	geogName 3446 3456	Punta Cook
+T276	geogName 3574 3586	Motu Tautara
+T277	name 3666 3670	Eiao
+T278	geogName 3662 3670	Île Eiao
+T279	name 3596 3604	Hinakura
+T280	geogName 3591 3604	banc Hinakura
+T281	name 4061 4071	Long-Cours
+T282	geogName 4053 4071	Quai au Long-Cours
+T283	name 4124 4131	Punaruu
+T284	name 4230 4237	Taipari
+T285	geogName 4116 4131	Rivière Punaruu
+T286	geogName 4223 4237	rocher Taipari
+T287	name 4460 4467	Mataura
+T288	geogName 4449 4467	village de Mataura
+T289	name 4506 4511	Aneou
+T290	geogName 4499 4511	baie d’Aneou
+T291	name 4626 4630	Yama
+T292	geogName 4620 4630	Punta Yama
+T293	name 4683 4690	Rotumah
+T294	geogName 4673 4690	haut-fond Rotumah
+T295	name 4969 4981	Bougainville
+T296	name 5011 5019	Mataorio
+T297	geogName 4956 4981	mouillage de Bougainville
+T298	geogName 5004 5019	Pointe Mataorio
+T299	name 5232 5236	NORD
+T300	geogName 5225 5236	GROUPE NORD
+T301	name 5259 5268	Nuku-Hiva
+T302	name 5270 5277	Ua-Huka
+T303	name 5281 5287	Ua-Pou
+T304	geogName 5259 5268	Nuku-Hiva
+T305	geogName 5270 5277	Ua-Huka
+T306	geogName 5281 5287	Ua-Pou
+T307	name 5354 5362	Tetiaroa
+T308	name 5382 5389	Papeete
+T309	name 5609 5612	D21
+T310	name 5661 5664	D22
+T311	geogName 5347 5362	Île de Tetiaroa
+T312	geogName 5382 5389	Papeete
+T313	geogName 5604 5612	zone D21
+T314	geogName 5656 5664	zone D22
+T315	name 5686 5697	Anuanurunga
+T316	name 5699 5709	Nukutepipi
+T317	geogName 5686 5697	Anuanurunga
+T318	geogName 5699 5709	Nukutepipi
+T319	name 5860 5865	Rotéa
+T320	geogName 5854 5865	passe Rotéa
+T321	name 6095 6102	Tahuata
+T322	geogName 6091 6102	île Tahuata
+T323	name 6184 6189	Borde
+T324	geogName 6175 6189	canal du Borde
+T325	name 6262 6266	Taku
+T326	geogName 6251 6266	village de Taku
+T327	name 6204 6208	Taku
+T328	name 6230 6239	Mangareva
+T329	geogName 6196 6208	baie de Taku
+T330	geogName 6230 6239	Mangareva
+T331	name 6295 6299	Cook
+T332	geogName 6287 6299	Baie de Cook
+T333	name 6393 6397	MO 2
+T334	geogName 6372 6399	poste de mouillage « MO 2 »
+T335	name 6452 6457	Nuura
+T336	geogName 6445 6457	Pointe Nuura
+T337	name 6490 6500	Guyot Tupa
+T338	geogName 6490 6500	Guyot Tupa
+T339	name 6580 6587	Ua-Huka
+T340	geogName 6580 6587	Ua-Huka
+T341	geogName 6607 6616	Nuku-Hiva
+T342	name 6607 6616	Nuku-Hiva
+T343	name 6657 6664	Hakamai
+T344	name 6693 6702	Hakahetau
+T345	geogName 6647 6664	village d’Hakamai
+T346	geogName 6683 6702	village d’Hakahetau
+T347	name 6791 6796	Pihaa
+T348	geogName 6783 6796	port de Pihaa
+T349	name 6951 6956	Pihaa
+T350	geogName 6941 6956	pointe de Pihaa
+T351	name 7072 7076	Vele
+T352	name 7085 7089	Siku
+T353	name 7134 7137	Poi
+T354	geogName 7065 7076	pointe Vele
+T355	geogName 7078 7089	pointe Siku
+T356	geogName 7123 7137	village de Poi
+T357	name 7160 7166	Kauehi
+T358	name 7168 7174	Taiaro
+T359	geogName 7160 7166	Kauehi
+T360	geogName 7168 7174	Taiaro
+T361	name 7359 7377	Sophie Christenson
+T362	geogName 7359 7383	Sophie Christenson Shoal
+T363	name 7408 7412	Nord
+T364	geogName 7401 7412	pointe Nord
+T365	name 7439 7455	Président Thiers
+T366	geogName 7434 7455	banc Président Thiers
+T367	name 7501 7509	Raivavae
+T368	geogName 7501 7509	Raivavae
+T369	name 7559 7568	Australes
+T370	name 7579 7585	Tubuai
+T371	name 7607 7612	Maria
+T372	name 7614 7622	Rimatara
+T373	name 7624 7630	Rurutu
+T374	name 7632 7638	Tubuai
+T375	name 7642 7650	Raivavae
+T376	name 7729 7733	Cook
+T377	geogName 7554 7568	îles Australes
+T378	geogName 7541 7568	archipel des îles Australes
+T379	geogName 7570 7585	archipel Tubuai
+T380	geogName 7607 7612	Maria
+T381	geogName 7614 7622	Rimatara
+T382	geogName 7624 7630	Rurutu
+T383	geogName 7632 7638	Tubuai
+T384	geogName 7642 7650	Raivavae
+T385	geogName 7717 7733	Archipel de Cook
+T386	name 7766 7772	Tubuai
+T387	geogName 7766 7772	Tubuai
+T388	name 7774 7782	Raivavae
+T389	geogName 7774 7782	Raivavae
+T390	name 7839 7848	Australes
+T391	geogName 7834 7848	îles Australes
+T392	name 7879 7888	Motuovini
+T393	name 7900 7907	Otiaroa
+T394	name 8046 8055	Motuovini
+T395	geogName 7869 7888	chenal de Motuovini
+T396	geogName 7894 7907	Passe Otiaroa
+T397	geogName 8039 8055	Pointe Motuovini
+T398	name 8154 8164	Bayonnaise
+T399	geogName 8154 8169	Bayonnaise Bank
+T400	name 8190 8194	Hera
+T401	geogName 8190 8199	Hera Bank
+T402	name 8215 8224	Wachusett
+T403	geogName 8215 8229	Wachusett Reef
+T404	name 8317 8331	Ernest Legouvé
+T405	geogName 8317 8336	Ernest Legouvé Reef
+T406	name 8489 8495	Rotuma
+T407	geogName 8489 8502	Rotuma Island
+T408	name 8504 8511	Hat Puk
+T409	geogName 8504 8520	Hat Puk Seamount
+T410	name 8636 8641	Arago
+T411	name 8690 8696	Rurutu
+T412	geogName 8631 8641	mont Arago
+T413	geogName 8686 8696	île Rurutu
+T414	name 8710 8719	Hotumatuu
+T415	name 8752 8761	Temarauri
+T416	name 8835 8843	Tetareva
+T417	name 8873 8877	Paui
+T418	geogName 8704 8719	passe Hotumatuu
+T419	geogName 8743 8761	passe de Temarauri
+T420	geogName 8828 8843	rocher Tetareva
+T421	geogName 8862 8877	village de Paui
+T422	name 8947 8953	Rotuma
+T423	geogName 8947 8960	Rotuma Island
+T424	name 9040 9047	Hofliua
+T425	geogName 9034 9076	îlots Hofliua (58 m), Hatana (18 m) et Uea
+T426	name 9073 9076	Uea
+T427	name 9056 9062	Hatana
+T428	name 9162 9169	Avatoru
+T429	geogName 9153 9169	Marina d’Avatoru
+T430	name 9293 9297	Oeno
+T431	name 9306 9314	Pitcairn
+T432	name 9323 9332	Henderson
+T433	name 9343 9348	Ducie
+T434	name 9426 9432	Pascua
+T435	name 9396 9403	Gambier
+T436	name 9441 9453	Sala y Gomez
+T437	name 9516 9521	Chili
+T438	geogName 9293 9304	Oeno Island
+T439	geogName 9306 9321	Pitcairn Island
+T440	geogName 9323 9339	Henderson Island
+T441	geogName 9343 9355	Ducie Island
+T442	geogName 9396 9403	Gambier
+T443	geogName 9418 9432	Isla de Pascua
+T444	geogName 9436 9453	Isla Sala y Gomez
+T445	geogName 9507 9521	côtes du Chili
+T446	name 9543 9549	Paraoa
+T447	name 9551 9557	Ahunui
+T448	geogName 9543 9549	Paraoa
+T449	geogName 9551 9557	Ahunui
+T450	name 9673 9678	Temoe
+T451	name 9680 9684	Oeno
+T452	geogName 9673 9678	Temoe
+T453	geogName 9680 9691	Oeno Island
+T454	name 9902 9908	Collet
+T455	geogName 9897 9908	Fort Collet
+T456	name 10012 10017	Otugi
+T457	geogName 10006 10017	Passe Otugi
+T458	name 10145 10153	Tenararo
+T459	name 10155 10162	Vahanga
+T460	geogName 10145 10153	Tenararo
+T461	geogName 10155 10162	Vahanga
+R1	ElementOf Arg1:T61 Arg2:T62	
+R2	WestNorthWestOf Arg1:T215 Arg2:T216	
+R3	EastNorthEastOf Arg1:T218 Arg2:T217	
+R4	ElementOf Arg1:T7 Arg2:T6	
+R5	ElementOf Arg1:T10 Arg2:T9	
+R6	WestNorthWestOf Arg1:T9 Arg2:T17	
+R7	SouthSouthWestOf Arg1:T223 Arg2:T224	
+R8	NorthNorthWestOf Arg1:T232 Arg2:T230	
+R9	SouthSouthWestOf Arg1:T237 Arg2:T239	
+R10	ElementOf Arg1:T30 Arg2:T237	
+R11	WestNorthWestOf Arg1:T35 Arg2:T242	
+R12	ElementOf Arg1:T35 Arg2:T34	
+R13	NorthNorthWestOf Arg1:T250 Arg2:T249	
+R14	ElementOf Arg1:T46 Arg2:T45	
+R15	SouthSouthWestOf Arg1:T45 Arg2:T253	
+R16	EastOf Arg1:T254 Arg2:T44	
+R17	ElementOf Arg1:T50 Arg2:T49	
+R18	MarkedBy Arg1:T56 Arg2:T57	
+R19	SouthSouthWestOf Arg1:T55 Arg2:T258	
+T462	geogFeat 2858 2868	relèvement
+R20	ElementOf Arg1:T262 Arg2:T462	
+R21	NorthEastOf Arg1:T267 Arg2:T61	
+R23	EastOf Arg1:T268 Arg2:T269	
+R22	NorthNorthEastOf Arg1:T67 Arg2:T270	
+R24	SouthSouthWestOf Arg1:T275 Arg2:T272	
+R25	ElementOf Arg1:T73 Arg2:T72	
+R26	WestNorthWestOf Arg1:T280 Arg2:T278	
+R27	ElementOf Arg1:T81 Arg2:T78	
+R28	WestSouthWestOf Arg1:T86 Arg2:T286	
+R29	ElementOf Arg1:T90 Arg2:T89	
+R30	ElementOf Arg1:T90 Arg2:T91	
+R31	WestSouthWestOf Arg1:T90 Arg2:T288	
+R32	NorthNorthWestOf Arg1:T290 Arg2:T93	
+R33	NorthNorthWestOf Arg1:T95 Arg2:T292	
+R34	SouthOf Arg1:T95 Arg2:T97	
+R35	SouthSouthEastOf Arg1:T297 Arg2:T298	
+R36	MarkedBy Arg1:T107 Arg2:T106	
+R37	ElementOf Arg1:T304 Arg2:T111	
+R38	ElementOf Arg1:T305 Arg2:T111	
+R39	ElementOf Arg1:T306 Arg2:T111	
+R40	NorthNorthWestOf Arg1:T112 Arg2:T111	
+R41	ElementOf Arg1:T111 Arg2:T300	
+R42	ElementOf Arg1:T112 Arg2:T300	
+R43	NorthNorthWestOf Arg1:T114 Arg2:T312	
+R44	WestOf Arg1:T114 Arg2:T311	
+R45	EastSouthEastOf Arg1:T318 Arg2:T317	
+R46	ElementOf Arg1:T119 Arg2:T118	
+T463	name 6144 6151	Hiva-Oa
+T464	geogName 6144 6151	Hiva-Oa
+R47	SouthSouthWestOf Arg1:T322 Arg2:T464	
+R48	NorthNorthWestOf Arg1:T329 Arg2:T330	
+R49	ElementOf Arg1:T334 Arg2:T332	
+R50	EastNorthEastOf Arg1:T334 Arg2:T336	
+R51	ElementOf Arg1:T131 Arg2:T130	
+R52	NorthWestOf Arg1:T338 Arg2:T340	
+R53	EastNorthEastOf Arg1:T338 Arg2:T341	
+R54	EastSouthEastOf Arg1:T138 Arg2:T350	
+R55	ElementOf Arg1:T141 Arg2:T140	
+R56	WestNorthWestOf Arg1:T140 Arg2:T354	
+R57	ElementOf Arg1:T354 Arg2:T144	
+R58	ElementOf Arg1:T140 Arg2:T356	
+R59	ElementOf Arg1:T356 Arg2:T144	
+R60	EastNorthEastOf Arg1:T360 Arg2:T359	
+R61	ElementOf Arg1:T147 Arg2:T146	
+R62	NorthNorthWestOf Arg1:T149 Arg2:T362	
+R63	EastSouthEastOf Arg1:T366 Arg2:T368	
+R64	ElementOf Arg1:T156 Arg2:T378	
+R65	ElementOf Arg1:T380 Arg2:T156	
+R66	ElementOf Arg1:T381 Arg2:T156	
+R67	ElementOf Arg1:T382 Arg2:T156	
+R68	ElementOf Arg1:T383 Arg2:T156	
+R69	ElementOf Arg1:T384 Arg2:T156	
+R70	EastSouthEastOf Arg1:T389 Arg2:T387	
+R71	ElementOf Arg1:T389 Arg2:T391	
+R72	WestSouthWestOf Arg1:T161 Arg2:T397	
+R73	NorthNorthWestOf Arg1:T165 Arg2:T405	
+T465	geogName 8459 8468	Nuku Hiva
+T466	name 8464 8468	Hiva
+T467	geogFeat 8459 8463	Nuku
+R74	WestSouthWestOf Arg1:T169 Arg2:T465	
+R75	SouthEastOf Arg1:T409 Arg2:T407	
+R76	SouthSouthEastOf Arg1:T173 Arg2:T413	
+R77	EastNorthEastOf Arg1:T418 Arg2:T419	
+R78	NorthOf Arg1:T181 Arg2:T423	
+R79	WestOf Arg1:T181 Arg2:T423	
+R80	ElementOf Arg1:T425 Arg2:T181	
+R81	ElementOf Arg1:T186 Arg2:T187	
+R82	EastSouthEastOf Arg1:T429 Arg2:T186	
+R83	ElementOf Arg1:T438 Arg2:T189	
+R84	ElementOf Arg1:T439 Arg2:T189	
+R85	ElementOf Arg1:T440 Arg2:T189	
+R86	ElementOf Arg1:T441 Arg2:T189	
+R87	EastSouthEastOf Arg1:T441 Arg2:T442	
+R88	EastSouthEastOf Arg1:T440 Arg2:T442	
+R89	EastSouthEastOf Arg1:T439 Arg2:T442	
+R90	EastSouthEastOf Arg1:T438 Arg2:T442	
+R91	EastSouthEastOf Arg1:T443 Arg2:T196	
+R92	EastSouthEastOf Arg1:T444 Arg2:T196	
+R93	SouthSouthEastOf Arg1:T449 Arg2:T448	
+R94	EastSouthEastOf Arg1:T453 Arg2:T452	
+T468	name 9976 9983	Maragai
+T469	geogName 9976 9983	Maragai
+R95	NorthNorthWestOf Arg1:T204 Arg2:T457	
+R96	ElementOf Arg1:T204 Arg2:T207	
+R97	EastSouthEastOf Arg1:T461 Arg2:T460	
+R98	SouthWestOf Arg1:T210 Arg2:T209	
+R99	ElementOf Arg1:T6 Arg2:T218	
+T470	name 4846 4848	NE
+T471	geogName 4841 4848	côte NE
+R100	ElementOf Arg1:T138 Arg2:T348	
+T472	geogFeat 8356 8364	cratères
+R101	ElementOf Arg1:T472 Arg2:T168	

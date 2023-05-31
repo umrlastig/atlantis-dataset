@@ -1,0 +1,79 @@
+T1	geogFeat 32 35	île
+T2	geogFeat 95 98	île
+T3	geogFeat 156 161	atoll
+T4	geogFeat 201 207	pointe
+T5	geogFeat 250 254	côte
+T6	geogFeat 407 411	côte
+T7	geogFeat 435 440	crête
+T8	geogFeat 534 537	île
+T9	geogFeat 615 620	lagon
+T10	geogFeat 635 643	Channels
+T11	geogFeat 698 701	île
+T12	geogFeat 719 726	chenaux
+T13	geogFeat 795 800	îlots
+T14	geogFeat 815 819	îlot
+T15	geogFeat 826 830	îlot
+T16	geogFeat 840 844	îlot
+T17	geogFeat 865 869	îlot
+T18	geogFeat 878 881	île
+T19	geogFeat 892 895	île
+T20	geogFeat 912 916	îles
+T21	geogFeat 957 960	île
+T22	geogFeat 1002 1005	île
+T23	geogFeat 1095 1100	lagon
+T24	geogFeat 1143 1147	banc
+T25	geogFeat 1174 1180	Pointe
+T26	geogFeat 1272 1278	rivage
+T27	geogFeat 1318 1335	zone de mouillage
+T28	name 15 27	Grande Terre
+T29	name 36 42	Picard
+T30	name 47 59	Grande Terre
+T31	name 208 214	Hodoul
+T32	name 255 258	Sud
+T33	name 262 274	Grande Terre
+T34	name 412 415	Sud
+T35	name 538 544	Michel
+T36	name 596 608	Grande Terre
+T37	name 630 634	West
+T38	name 680 692	Grande Terre
+T39	name 702 708	Picard
+T40	name 820 824	Parc
+T41	name 831 836	Emile
+T42	name 845 851	Yangue
+T43	name 870 876	Dubois
+T44	name 882 888	Magnan
+T45	name 896 902	Lanier
+T46	name 961 967	Esprit
+T47	name 917 924	Chaland
+T48	name 1006 1016	Moustiques
+T49	name 1074 1086	Grande Terre
+T50	name 1181 1187	Hodoul
+T51	geogName 15 27	Grande Terre
+T52	geogName 32 42	île Picard
+T53	geogName 47 59	Grande Terre
+T54	geogName 201 214	pointe Hodoul
+T55	geogName 250 258	côte Sud
+T56	geogName 262 274	Grande Terre
+T57	geogName 407 415	côte Sud
+T58	geogName 534 544	île Michel
+T59	geogName 596 608	Grande Terre
+T60	geogName 630 643	West Channels
+T61	geogName 680 692	Grande Terre
+T62	geogName 698 708	île Picard
+T63	geogName 815 824	îlot Parc
+T64	geogName 826 836	îlot Emile
+T65	geogName 840 851	îlot Yangue
+T66	geogName 865 876	îlot Dubois
+T67	geogName 878 888	île Magnan
+T68	geogName 892 902	île Lanier
+T69	geogName 912 924	îles Chaland
+T70	geogName 957 967	île Esprit
+T71	geogName 1002 1016	île Moustiques
+T72	geogName 1074 1086	Grande Terre
+T73	geogName 1174 1187	Pointe Hodoul
+R1	ElementOf Arg1:T55 Arg2:T56	
+R2	EastOf Arg1:T58 Arg2:T59	
+R3	WestOf Arg1:T71 Arg2:T72	
+R4	WestOf Arg1:T70 Arg2:T72	
+R5	WestOf Arg1:T69 Arg2:T72	
+R6	ElementOf Arg1:T2 Arg2:T3	

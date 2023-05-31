@@ -1,0 +1,64 @@
+T1	geogFeat 1863 1868	CÔTES
+T2	geogFeat 117 136	station de pilotage
+T3	geogFeat 142 148	passes
+T4	name 152 159	Boulari
+T5	geogFeat 186 191	canal
+T6	name 198 206	Havannah
+T7	geogFeat 440 443	mât
+T8	geogFeat 591 597	passes
+T9	name 601 608	Boulari
+T10	geogFeat 640 646	passes
+T11	geogFeat 653 663	alignement
+T12	geogFeat 675 681	phares
+T13	geogFeat 687 690	île
+T14	name 691 697	Amédée
+T15	geogFeat 788 793	canal
+T16	name 803 811	Havannah
+T17	geogFeat 844 854	alignement
+T18	geogFeat 869 876	balises
+T19	geogFeat 882 885	cap
+T20	name 887 892	Ndoua
+T21	geogFeat 929 934	phare
+T22	name 938 942	Goro
+T24	name 985 995	Port-Boisé
+T25	geogFeat 1011 1021	alignement
+T26	geogFeat 1027 1034	balises
+T27	geogFeat 1038 1041	cap
+T28	name 1042 1047	Ndoua
+T29	geogFeat 1268 1274	passes
+T30	name 1280 1287	Boulari
+T31	geogFeat 1306 1311	passe
+T32	name 1317 1323	Dumbéa
+T33	geogFeat 1347 1365	terminal pétrolier
+T34	name 1372 1378	Grande
+T35	geogFeat 1379 1383	rade
+T36	name 1437 1441	Goro
+T38	name 1598 1608	Port-Boisé
+T39	name 1843 1861	NOUVELLE-CALÉDONIE
+T40	name 1869 1872	SUD
+T41	name 1876 1881	OUEST
+T42	geogName 142 159	passes de Boulari
+T43	geogName 186 206	canal de la Havannah
+T44	geogName 591 608	passes de Boulari
+T45	geogName 687 697	île Amédée
+T46	geogName 788 811	canal 😄de 😄la 😄Havannah
+T47	geogName 882 892	cap 😄Ndoua
+T48	geogName 929 942	phare de Goro
+T49	geogName 985 995	Port-Boisé
+T50	geogName 1038 1047	cap Ndoua
+T51	geogName 1268 1287	passes 😄de 😄Boulari
+T52	geogName 1306 1323	passe 😄de 😄Dumbéa
+T53	geogName 1372 1383	Grande rade
+T54	geogName 1598 1608	Port-Boisé
+T55	geogName 1437 1441	Goro
+T56	geogName 1843 1861	NOUVELLE-CALÉDONIE
+T57	geogName 1863 1881	CÔTES SUD ET OUEST
+T58	geogFeat 500 504	feux
+T59	geogName 675 697	phares de l’île Amédée
+T60	geogName 1347 1383	terminal pétrolier de la Grande rade
+T61	geogFeat 432 436	tête
+R1	ElementOf Arg1:T61 Arg2:T7	
+R2	ElementOf Arg1:T59 Arg2:T11	
+R4	ElementOf Arg1:T48 Arg2:T17	
+R3	ElementOf Arg1:T18 Arg2:T17	
+R5	ElementOf Arg1:T26 Arg2:T25	

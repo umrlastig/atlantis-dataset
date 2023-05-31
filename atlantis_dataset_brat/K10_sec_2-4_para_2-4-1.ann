@@ -1,0 +1,85 @@
+T1	geogFeat 29 33	port
+T2	geogFeat 81 87	pointe
+T3	geogFeat 62 68	droite
+T4	geogFeat 134 140	pointe
+T5	geogFeat 187 191	côte
+T6	geogFeat 201 204	île
+T7	geogFeat 217 223	droite
+T8	geogFeat 236 242	pointe
+T9	geogFeat 307 311	îlot
+T10	geogFeat 360 364	côte
+T11	geogFeat 383 387	îlot
+T12	geogFeat 399 405	pointe
+T13	geogFeat 440 444	îlot
+T14	geogFeat 458 462	port
+T15	geogFeat 484 495	plans d’eau
+T16	geogFeat 518 522	rade
+T17	geogFeat 549 553	rade
+T18	geogFeat 593 597	port
+T19	geogFeat 651 655	rade
+T20	geogFeat 660 664	port
+T21	geogFeat 675 679	port
+T22	geogFeat 739 743	baie
+T23	geogFeat 902 921	zone 😄de 😄pêcheries
+T24	geogFeat 813 819	pointe
+T25	geogFeat 946 950	rade
+T26	geogFeat 1046 1050	Port
+T27	name 37 43	Nouméa
+T28	name 88 96	Destelle
+T29	name 141 147	Kongou
+T30	name 192 195	Est
+T31	name 205 208	Nou
+T32	name 244 251	Denouel
+T33	name 312 316	Brun
+T34	name 365 368	Est
+T35	name 406 413	Chaleix
+T36	name 445 449	Brun
+T37	name 511 517	Petite
+T38	name 542 548	Grande
+T39	name 598 605	Moselle
+T40	name 644 650	Petite
+T41	name 665 668	Sud
+T42	name 680 688	Brunelet
+T43	name 749 759	Orphelinat
+T44	name 820 828	Brunelet
+T45	name 938 944	Grande
+T46	name 955 963	Nouville
+T47	name 1054 1060	Nouméa
+T48	geogName 29 43	port de Nouméa
+T49	geogName 81 96	pointe Destelle
+T50	geogName 134 147	pointe Kongou
+T51	geogName 187 195	côte Est
+T52	geogName 201 208	île Nou
+T53	geogName 236 251	pointe 😍Denouel
+T54	geogName 307 316	îlot Brun
+T55	geogName 360 368	côte Est
+T56	geogName 399 413	pointe Chaleix
+T57	geogName 440 449	îlot Brun
+T58	geogName 511 522	Petite rade
+T59	geogName 542 553	Grande rade
+T60	geogName 593 605	port Moselle
+T61	geogName 644 655	Petite rade
+T62	geogName 660 668	port Sud
+T63	geogName 675 688	port Brunelet
+T64	geogName 813 828	pointe Brunelet
+T65	geogName 739 759	baie de l’Orphelinat
+T66	geogName 938 950	Grande 😄rade
+T67	geogName 955 963	Nouville
+T68	geogName 1046 1060	Port de Nouméa
+R1	ElementOf Arg1:T49 Arg2:T3	
+R2	ElementOf Arg1:T50 Arg2:T3	
+R3	ElementOf Arg1:T51 Arg2:T52	
+R4	ElementOf Arg1:T53 Arg2:T7	
+R5	ElementOf Arg1:T55 Arg2:T7	
+R6	ElementOf Arg1:T53 Arg2:T54	
+R7	ElementOf Arg1:T55 Arg2:T11	
+R8	ElementOf Arg1:T56 Arg2:T7	
+R9	SouthEastOf Arg1:T56 Arg2:T57	
+R11	ElementOf Arg1:T14 Arg2:T15	
+T69	geogFeat 576 589	installations
+R12	ElementOf Arg1:T69 Arg2:T60	
+R13	SouthEastOf Arg1:T69 Arg2:T61	
+R14	ElementOf Arg1:T23 Arg2:T66	
+R15	ElementOf Arg1:T66 Arg2:T67	
+R16	ElementOf Arg1:T58 Arg2:T15	
+R17	ElementOf Arg1:T59 Arg2:T15	

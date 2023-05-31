@@ -1,0 +1,158 @@
+T1	geogFeat 10 15	Côtes
+T2	geogFeat 34 43	frontière
+T3	geogFeat 63 67	port
+T4	geogFeat 117 124	village
+T5	geogFeat 161 165	côte
+T6	geogFeat 308 313	plage
+T7	geogFeat 330 337	lagunes
+T8	geogFeat 373 379	canaux
+T9	geogFeat 193 198	bande
+T10	geogFeat 388 395	village
+T11	geogFeat 456 463	maisons
+T12	geogFeat 471 492	comptoirs commerciaux
+T13	geogFeat 526 532	église
+T14	geogFeat 565 569	toit
+T15	geogFeat 588 595	clocher
+T16	geogFeat 617 625	chapelle
+T17	geogFeat 628 632	toit
+T18	geogFeat 653 660	clocher
+T19	geogFeat 694 701	village
+T20	geogFeat 738 747	mouillage
+T21	geogFeat 899 906	village
+T22	geogFeat 915 920	ville
+T23	geogFeat 994 1001	maisons
+T24	geogFeat 1009 1031	comptoirs 😍commerciaux
+T25	geogFeat 1036 1041	plage
+T26	geogFeat 1063 1071	brisants
+T27	geogFeat 1092 1101	sémaphore
+T28	geogFeat 1251 1257	Fleuve
+T30	geogFeat 1229 1239	embouchure
+T31	geogFeat 1364 1374	embouchure
+T32	geogFeat 1542 1552	embouchure
+T33	geogFeat 1579 1593	lagune côtière
+T34	geogFeat 1620 1627	village
+T36	geogFeat 1682 1689	village
+T37	geogFeat 1715 1728	constructions
+T38	geogFeat 1732 1737	toits
+T39	geogFeat 1774 1781	clocher
+T40	geogFeat 1785 1794	séminaire
+T41	geogFeat 1826 1831	plage
+T42	geogFeat 1899 1906	clocher
+T44	geogFeat 2048 2055	magasin
+T45	geogFeat 2075 2088	agglomération
+T46	geogFeat 2103 2112	mouillage
+T47	geogFeat 2169 2190	bâtiment de la douane
+T48	geogFeat 1341 1356	cordon littoral
+T49	geogFeat 2205 2214	mouillage
+T50	geogFeat 2294 2301	village
+T52	geogFeat 2367 2374	village
+T53	geogFeat 2388 2394	LAGUNE
+T54	geogFeat 2458 2465	village
+T55	geogFeat 2499 2507	mur-amer
+T56	geogFeat 2633 2637	amer
+T57	geogFeat 2642 2649	village
+T58	geogFeat 2692 2706	lagune côtière
+T29	geogFeat 1270 1286	lagunes côtières
+T59	geogFeat 2715 2731	tour de contrôle
+T60	geogFeat 2737 2745	aéroport
+T62	geogFeat 2899 2907	méridien
+T64	geogFeat 2976 2989	route côtière
+T65	geogFeat 3046 3053	gazoduc
+T66	geogFeat 3104 3108	côte
+T68	geogFeat 3156 3160	PORT
+T69	geogFeat 2995 3013	GAZODUC SOUS-MARIN
+T70	name 19 24	Bénin
+T71	name 52 56	Togo
+T72	name 71 78	Cotonou
+T73	name 105 110	Aného
+T74	name 128 141	Godomey-Plage
+T75	name 398 403	Agoué
+T76	name 405 409	Agwé
+T77	name 718 723	Agoué
+T78	name 924 934	Grand-Popo
+T79	name 1215 1225	Grand-Popo
+T80	name 1258 1262	Mono
+T81	name 1631 1638	Djondji
+T82	name 1640 1652	Ouidah-Plage
+T83	name 1798 1804	Ouidah
+T84	name 1942 1954	Ouidah-Plage
+T85	name 2338 2350	Ouidah-Plage
+T86	name 2395 2398	ABY
+T87	name 2407 2411	SÉMÉ
+T88	name 2413 2418	GHANA
+T89	name 2420 2424	TOGO
+T90	name 2426 2431	BÉNIN
+T91	name 2468 2482	Avrékété-Plage
+T92	name 2653 2666	Godomey-Plage
+T93	name 2749 2756	Cotonou
+T94	name 2785 2798	Godomey-Plage
+T35	name 2910 2924	Avrékété-Plage
+T43	name 3059 3077	Afrique de l’Ouest
+T51	name 3134 3148	Avrékété-Plage
+T61	name 3164 3171	COTONOU
+T63	geogName 10 24	Côtes du Bénin
+T67	geogName 52 56	Togo
+T95	geogName 63 78	port de Cotonou
+T96	geogName 105 110	Aného
+T97	geogName 117 141	village de Godomey-Plage
+T98	geogName 388 403	village d’Agoué
+T99	geogName 405 409	Agwé
+T100	geogName 718 723	Agoué
+T101	geogName 915 934	ville de Grand-Popo
+T102	geogName 1215 1225	Grand-Popo
+T103	geogName 1251 1262	Fleuve Mono
+T104	geogName 1620 1638	village de Djondji
+T105	geogName 1640 1652	Ouidah-Plage
+T106	geogName 1785 1804	séminaire de Ouidah
+T107	geogName 1942 1954	Ouidah-Plage
+T108	geogName 2338 2350	Ouidah-Plage
+T109	geogName 2388 2398	LAGUNE ABY
+T110	geogName 2407 2411	SÉMÉ
+T111	geogName 2413 2418	GHANA
+T112	geogName 2420 2424	TOGO
+T113	geogName 2426 2431	BÉNIN
+T114	geogName 2458 2482	village d’Avrékété-Plage
+T115	geogName 2642 2666	village de Godomey-Plage
+T116	geogName 2737 2756	aéroport de Cotonou
+T117	geogName 2785 2798	Godomey-Plage
+T118	geogName 2910 2924	Avrékété-Plage
+T119	geogName 3046 3077	gazoduc de l’Afrique de l’Ouest
+T120	geogName 3134 3148	Avrékété-Plage
+T121	geogName 3156 3171	PORT DE COTONOU
+T122	geogFeat 541 553	construction
+T123	geogFeat 3021 3028	branche
+R1	OffTheCoastOf Arg1:T20 Arg2:T100	
+R2	EastOf Arg1:T97 Arg2:T96	
+R3	ElementOf Arg1:T9 Arg2:T5	
+R4	ElementOf Arg1:T11 Arg2:T98	
+R5	ElementOf Arg1:T12 Arg2:T98	
+R6	ElementOf Arg1:T13 Arg2:T98	
+R7	ElementOf Arg1:T122 Arg2:T13	
+R8	ElementOf Arg1:T14 Arg2:T122	
+R9	ElementOf Arg1:T15 Arg2:T122	
+R10	ElementOf Arg1:T17 Arg2:T16	
+R11	ElementOf Arg1:T18 Arg2:T17	
+R12	SouthWestOf Arg1:T20 Arg2:T21	
+R13	ElementOf Arg1:T23 Arg2:T101	
+R14	ElementOf Arg1:T24 Arg2:T101	
+R15	ElementOf Arg1:T27 Arg2:T25	
+R16	EastOf Arg1:T30 Arg2:T102	
+T136	geogFeat 1563 1572	déversoir
+R17	ElementOf Arg1:T136 Arg2:T33	
+R18	EastOf Arg1:T136 Arg2:T32	
+R19	ElementOf Arg1:T37 Arg2:T105	
+R20	ElementOf Arg1:T38 Arg2:T37	
+R22	ElementOf Arg1:T39 Arg2:T106	
+R23	NorthOf Arg1:T39 Arg2:T41	
+R24	ElementOf Arg1:T44 Arg2:T45	
+R25	SouthWestOf Arg1:T46 Arg2:T47	
+R26	WestSouthWestOf Arg1:T49 Arg2:T50	
+R27	EastOf Arg1:T55 Arg2:T114	
+R28	EastOf Arg1:T115 Arg2:T56	
+R29	ElementOf Arg1:T59 Arg2:T116	
+R30	EastOf Arg1:T59 Arg2:T117	
+R31	ElementOf Arg1:T123 Arg2:T119	
+R32	ElementOf Arg1:T30 Arg2:T103	
+R33	ElementOf Arg1:T30 Arg2:T29	
+R34	ElementOf Arg1:T16 Arg2:T19	
+R21	MarkedBy Arg1:T58 Arg2:T115	

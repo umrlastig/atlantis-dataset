@@ -1,0 +1,43 @@
+T1	geogFeat 12 30	Zones de mouillage
+T2	geogFeat 259 263	Port
+T3	geogFeat 277 281	zone
+T5	geogFeat 477 491	zone d’attente
+T6	geogFeat 540 545	zones
+T8	geogFeat 663 667	Port
+T9	geogFeat 683 687	zone
+T7	geogFeat 759 763	Port
+T11	geogFeat 885 899	zone d’attente
+T12	geogFeat 784 788	zone
+T13	geogFeat 1066 1070	Grau
+T14	geogFeat 1084 1087	Cap
+T15	geogFeat 1618 1627	FRONTIÈRE
+T16	geogFeat 1649 1652	CAP
+T17	name 173 185	Méditerranée
+T18	name 267 274	Banyuls
+T19	name 462 474	Port-Vendres
+T20	name 671 680	Collioure
+T21	name 766 781	Argelès-sur-Mer
+T22	name 862 878	Port-la-Nouvelle
+T23	name 1015 1027	Méditerranée
+T24	name 1073 1077	Agde
+T25	name 1090 1094	Agde
+T26	name 1628 1637	ESPAGNOLE
+T27	name 1655 1659	AGDE
+T28	geogName 173 185	Méditerranée
+T29	geogName 259 274	Port de Banyuls
+T30	geogName 462 474	Port-Vendres
+T31	geogName 663 680	Port de Collioure
+T32	geogName 759 781	Port d’Argelès-sur-Mer
+T33	geogName 862 878	Port-la-Nouvelle
+T34	geogName 1015 1027	Méditerranée
+T35	geogName 1066 1077	Grau d’Agde
+T36	geogName 1084 1094	Cap d’Agde
+T37	geogName 1618 1637	FRONTIÈRE ESPAGNOLE
+T38	geogName 1649 1659	CAP D’AGDE
+R1	ElementOf Arg1:T3 Arg2:T29	
+R2	ElementOf Arg1:T5 Arg2:T30	
+R3	ElementOf Arg1:T6 Arg2:T30	
+R4	ElementOf Arg1:T9 Arg2:T31	
+R5	ElementOf Arg1:T12 Arg2:T32	
+R6	ElementOf Arg1:T11 Arg2:T33	
+T39	geogFeat 53 86	eaux intérieures et territoriales

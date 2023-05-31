@@ -1,0 +1,38 @@
+T1	geogFeat 101 105	Motu
+T2	geogFeat 118 123	atoll
+T3	geogFeat 194 200	passes
+T4	geogFeat 217 223	PASSES
+T5	geogFeat 231 236	passe
+T6	geogFeat 261 265	côte
+T7	geogFeat 284 289	lagon
+T8	geogFeat 297 311	fausses passes
+T9	geogFeat 321 325	côte
+T10	geogFeat 344 348	côte
+T11	geogFeat 511 515	ÎLES
+T12	geogFeat 533 545	HYDROSURFACE
+T13	geogFeat 553 565	hydrosurface
+T14	geogFeat 609 621	hydrosurface
+T15	geogFeat 771 777	pointe
+T16	geogFeat 791 801	échancrure
+T17	geogFeat 818 823	récif
+T18	geogFeat 921 936	aérodrome privé
+T19	name 12 17	Tupai
+T20	name 39 48	Bora-Bora
+T21	name 50 55	Tupai
+T22	name 106 109	Iti
+T23	name 326 329	Est
+T24	name 349 354	Ouest
+T25	name 516 528	SOUS-LE-VENT
+T26	name 778 780	NW
+T27	geogName 12 17	Tupai
+T28	geogName 39 48	Bora-Bora
+T29	geogName 50 55	Tupai
+T30	geogName 101 109	Motu Iti
+T31	geogName 321 329	côte Est
+T32	geogName 344 354	côte Ouest
+T33	geogName 511 528	ÎLES SOUS-LE-VENT
+T34	geogName 771 780	pointe NW
+R1	NorthNorthWestOf Arg1:T29 Arg2:T28	
+T35	name 266 268	NE
+T36	geogName 261 268	côte NE
+R2	ElementOf Arg1:T16 Arg2:T17	

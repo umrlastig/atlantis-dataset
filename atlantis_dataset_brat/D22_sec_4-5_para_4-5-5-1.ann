@@ -1,0 +1,7 @@
+T1	geogFeat 31 48	port de plaisance
+T2	geogFeat 98 102	baie
+T3	name 52 61	Cavalaire
+T4	name 106 115	Cavalaire
+T5	geogName 31 61	port de plaisance de Cavalaire
+T6	geogName 98 115	baie de Cavalaire
+R1	WestOf Arg1:T5 Arg2:T6	

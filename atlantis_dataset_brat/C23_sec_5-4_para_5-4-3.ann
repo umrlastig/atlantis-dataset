@@ -1,0 +1,90 @@
+T1	geogFeat 16 22	pointe
+T2	geogFeat 65 71	pointe
+T3	geogFeat 92 96	côte
+T4	geogFeat 167 173	pointe
+T5	geogFeat 215 219	abri
+T6	geogFeat 232 238	pointe
+T7	geogFeat 261 265	côte
+T8	geogFeat 271 276	amers
+T9	geogFeat 311 325	châteaux d’eau
+T10	geogFeat 474 480	pointe
+T11	geogFeat 536 542	église
+T12	geogFeat 644 650	entrée
+T13	geogFeat 665 673	tourelle
+T14	geogFeat 776 781	ligne
+T15	geogFeat 785 791	roches
+T16	geogFeat 798 809	hauts-fonds
+T17	geogFeat 857 865	tourelle
+T18	geogFeat 949 954	bouée
+T19	geogFeat 1016 1032	roche découvrant
+T20	geogFeat 1067 1071	baie
+T21	geogFeat 1122 1129	dangers
+T22	geogFeat 1166 1181	parcs à huîtres
+T23	geogFeat 1196 1202	rivage
+T24	geogFeat 1252 1256	côte
+T25	geogFeat 1261 1269	clochers
+T26	geogFeat 1335 1344	éoliennes
+T27	geogFeat 1402 1406	Port
+T28	geogFeat 1421 1425	Port
+T29	geogFeat 1506 1510	BAIE
+T30	name 23 35	Saint-Gildas
+T31	name 39 45	Pornic
+T32	name 75 87	Saint-Gildas
+T33	name 192 198	Pornic
+T34	name 242 248	Pornic
+T35	name 329 339	Préfailles
+T36	name 484 496	Saint-Gildas
+T37	name 526 532	Pornic
+T38	name 543 555	Sainte-Marie
+T39	name 654 660	Pornic
+T40	name 676 686	Notre-Dame
+T41	name 876 886	Le Caillou
+T42	name 936 943	Caillou
+T43	name 957 973	Pierre-du-Chenal
+T44	name 1097 1103	Pornic
+T45	name 1075 1084	Bourgneuf
+T46	name 1274 1291	Bourgneuf-en-Retz
+T47	name 1296 1301	Bouin
+T48	name 1308 1324	Beauvoir-sur-Mer
+T49	name 1357 1362	Bouin
+T50	name 1411 1417	Champs
+T51	name 1429 1432	Bec
+T52	name 1514 1523	BOURGNEUF
+T53	geogName 16 35	pointe Saint-Gildas
+T54	geogName 39 45	Pornic
+T55	geogName 65 87	pointe de Saint-Gildas
+T56	geogName 192 198	Pornic
+T57	geogName 242 248	Pornic
+T58	geogName 311 392	châteaux d’eau de Préfailles (47° 07,86' N — 2° 12,38' W) et de la Plaine-sur-Mer
+T59	geogName 474 496	pointe de Saint-Gildas
+T60	geogName 526 532	Pornic
+T61	geogName 536 555	église Sainte-Marie
+T62	geogName 654 660	Pornic
+T63	geogName 665 688	tourelle « Notre-Dame »
+T64	geogName 949 975	bouée « Pierre-du-Chenal »
+T65	geogName 936 943	Caillou
+T66	geogName 1067 1084	baie de Bourgneuf
+T67	geogName 1097 1103	Pornic
+T68	geogName 1261 1324	clochers 😍de Bourgneuf-en-Retz, de Bouin et de Beauvoir-sur-Mer
+T71	geogName 1357 1362	Bouin
+T72	geogName 1402 1417	Port des Champs
+T73	geogName 1421 1432	Port du Bec
+T74	geogName 1506 1523	BAIE DE BOURGNEUF
+T75	name 378 392	Plaine-sur-Mer
+R1	EastOf Arg1:T58 Arg2:T59	
+R3	WestOf Arg1:T61 Arg2:T60	
+R4	SouthWestOf Arg1:T63 Arg2:T12	
+R5	ElementOf Arg1:T12 Arg2:T62	
+R6	SouthWestOf Arg1:T64 Arg2:T65	
+R7	ElementOf Arg1:T21 Arg2:T66	
+R11	ElementOf Arg1:T26 Arg2:T71	
+T77	geogFeat 604 619	château 😄😍d’eau
+T76	geogName 876 886	Le Caillou
+R2	ElementOf Arg1:T15 Arg2:T14	
+R8	ElementOf Arg1:T16 Arg2:T14	
+R9	MarkedBy Arg1:T14 Arg2:T63	
+R10	ElementOf Arg1:T58 Arg2:T8	
+R12	ElementOf Arg1:T61 Arg2:T8	
+R13	SouthWestOf Arg1:T64 Arg2:T19	
+R14	ElementOf Arg1:T68 Arg2:T24	
+R15	ElementOf Arg1:T8 Arg2:T7	

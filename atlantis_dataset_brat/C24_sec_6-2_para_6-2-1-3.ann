@@ -1,0 +1,26 @@
+T1	geogFeat 74 78	zone
+T2	geogFeat 126 136	relèvement
+T3	geogFeat 148 161	château d’eau
+T4	geogFeat 186 196	relèvement
+T5	geogFeat 210 226	tour des signaux
+T6	geogFeat 258 264	lignes
+T7	geogFeat 295 299	côte
+T8	geogFeat 390 394	zone
+T9	geogFeat 524 528	port
+T10	geogFeat 629 633	port
+T11	geogFeat 691 700	mouillage
+T12	name 164 170	Ondres
+T13	name 362 372	Atlantique
+T14	name 532 539	Bayonne
+T15	name 637 644	Bayonne
+T16	geogName 148 170	château d’eau d’Ondres
+T17	geogName 362 372	Atlantique
+T18	geogName 524 539	port de Bayonne
+T19	geogName 629 644	port de Bayonne
+T20	geogFeat 12 22	Mouillages
+R1	NorthOf Arg1:T2 Arg2:T1	
+R2	SouthOf Arg1:T4 Arg2:T1	
+R3	ElementOf Arg1:T16 Arg2:T2	
+R4	ElementOf Arg1:T5 Arg2:T4	
+R5	EastOf Arg1:T6 Arg2:T1	
+R6	WestOf Arg1:T6 Arg2:T1	

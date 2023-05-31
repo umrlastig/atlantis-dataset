@@ -1,0 +1,36 @@
+T1	geogFeat 77 82	phare
+T2	geogFeat 119 124	route
+T3	geogFeat 145 149	Port
+T4	geogFeat 193 198	route
+T5	geogFeat 203 207	côte
+T6	geogFeat 248 253	jetée
+T7	geogFeat 263 267	Port
+T8	geogFeat 283 288	jetée
+T9	geogFeat 311 316	amers
+T10	geogFeat 356 361	épave
+T11	geogFeat 488 494	entrée
+T12	geogFeat 521 524	feu
+T13	geogFeat 546 551	jetée
+T14	geogFeat 631 636	bouée
+T15	geogFeat 727 732	jetée
+T16	geogFeat 86 90	Cape
+T17	name 91 101	Saint Paul
+T18	name 153 158	Kpémé
+T19	name 271 275	Lomé
+T20	name 292 297	Kpémé
+T21	name 555 560	Kpémé
+T22	geogName 86 101	Cape Saint Paul
+T23	geogName 77 101	phare de Cape Saint Paul
+T24	geogName 145 158	Port de Kpémé
+T25	geogName 263 275	Port de Lomé
+T26	geogName 283 297	jetée de Kpémé
+T27	geogName 546 560	jetée de Kpémé
+T28	name 254 259	Ouest
+T29	geogName 248 259	jetée Ouest
+T30	name 499 503	Lomé
+T31	geogName 499 503	Lomé
+R1	ElementOf Arg1:T29 Arg2:T25	
+R2	EastSouthEastOf Arg1:T10 Arg2:T11	
+R3	ElementOf Arg1:T11 Arg2:T31	
+R4	ElementOf Arg1:T12 Arg2:T27	
+R5	WestSouthWestOf Arg1:T14 Arg2:T15	

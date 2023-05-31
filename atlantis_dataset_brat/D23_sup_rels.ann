@@ -1,0 +1,617 @@
+T1	geogFeat 10 14	côte
+T2	geogFeat 22 27	golfe
+T3	geogFeat 42 48	fleuve
+T4	geogFeat 82 87	plage
+T5	geogFeat 111 118	pointes
+T6	geogFeat 134 140	pointe
+T7	geogFeat 170 176	pointe
+T8	geogFeat 189 195	pointe
+T9	geogFeat 225 230	Punta
+T10	geogFeat 251 256	Punta
+T11	geogFeat 315 322	rochers
+T12	geogFeat 370 377	secteur
+T13	geogFeat 387 392	phare
+T14	geogFeat 398 401	île
+T15	geogFeat 414 419	Isula
+T16	geogFeat 480 485	Isola
+T17	geogFeat 499 508	haut-fond
+T18	geogFeat 602 608	pointe
+T19	geogFeat 646 652	pointe
+T20	geogFeat 688 695	plateau
+T21	geogFeat 781 787	pointe
+T22	geogFeat 796 804	archipel
+T23	geogFeat 821 825	îles
+T24	geogFeat 853 860	Scoglio
+T25	geogFeat 890 895	Monte
+T26	geogFeat 903 917	fermes marines
+T27	geogFeat 939 943	côte
+T28	geogFeat 952 957	golfe
+T29	geogFeat 1000 1006	pointe
+T30	geogFeat 1054 1070	cages flottantes
+T31	geogFeat 1077 1086	émissaire
+T32	geogFeat 1309 1313	zone
+T33	geogFeat 1358 1367	émissaire
+T34	geogFeat 1456 1465	sémaphore
+T35	geogFeat 1470 1479	haut-fond
+T36	geogFeat 1533 1538	têtes
+T37	geogFeat 1657 1661	anse
+T38	geogFeat 1685 1689	anse
+T39	geogFeat 1776 1792	cages flottantes
+T40	geogFeat 1840 1845	golfe
+T41	geogFeat 1923 1927	tour
+T42	geogFeat 1933 1936	île
+T43	geogFeat 1966 1971	Punta
+T44	geogFeat 2019 2025	pointe
+T45	geogFeat 2057 2062	plage
+T46	geogFeat 2100 2106	maison
+T47	geogFeat 2114 2121	hangars
+T48	geogFeat 2129 2134	golfe
+T49	geogFeat 2161 2166	Punta
+T50	geogFeat 2179 2183	Capo
+T51	geogFeat 2221 2227	pointe
+T52	geogFeat 2260 2267	rochers
+T53	geogFeat 2275 2286	hauts fonds
+T54	geogFeat 2325 2329	côte
+T55	geogFeat 2336 2341	golfe
+T56	geogFeat 2360 2363	cap
+T57	geogFeat 2373 2379	sommet
+T58	geogFeat 2397 2403	pylône
+T59	geogFeat 2438 2460	feux d’obstacle aérien
+T60	geogFeat 2575 2579	zone
+T61	geogFeat 2695 2698	axe
+T62	geogFeat 2705 2710	piste
+T63	geogFeat 2724 2733	aérodrome
+T64	geogFeat 2767 2803	bouées de marque spéciale lumineuses
+T65	geogFeat 2841 2873	zones interdites et réglementées
+T66	geogFeat 2975 2978	axe
+T67	geogFeat 2985 2990	piste
+T68	geogFeat 3004 3013	aérodrome
+T69	geogFeat 3053 3058	golfe
+T70	geogFeat 3077 3080	cap
+T71	geogFeat 3090 3096	pylône
+T72	geogFeat 3159 3181	feux d’obstacle aérien
+T73	geogFeat 3206 3212	sommet
+T74	geogFeat 3245 3249	baie
+T75	geogFeat 3251 3255	Capo
+T76	geogFeat 3299 3307	falaises
+T77	geogFeat 3325 3334	sémaphore
+T78	geogFeat 3395 3437	zone de mouillages et d’équipements légers
+T79	geogFeat 3593 3610	port de plaisance
+T80	geogFeat 3655 3661	rocher
+T81	geogFeat 3743 3746	île
+T82	geogFeat 3770 3776	groupe
+T83	geogFeat 3803 3809	balise
+T84	geogFeat 3825 3832	dangers
+T85	geogFeat 3855 3858	île
+T86	geogFeat 3876 3883	dangers
+T87	geogFeat 3900 3903	île
+T88	geogFeat 3957 3968	hauts-fonds
+T89	geogFeat 4005 4009	îles
+T90	geogFeat 4031 4034	cap
+T91	geogFeat 4046 4052	pointe
+T92	geogFeat 4087 4091	côte
+T93	geogFeat 4111 4116	baies
+T94	geogFeat 4118 4122	Cala
+T95	geogFeat 4136 4140	baie
+T96	geogFeat 4165 4169	Capu
+T97	geogFeat 4187 4191	tour
+T98	geogFeat 4275 4292	zone de mouillage
+T99	geogFeat 4303 4308	Punta
+T100	geogFeat 4385 4388	île
+T101	geogFeat 4406 4411	Punta
+T102	geogFeat 4443 4447	côte
+T103	geogFeat 4480 4486	roches
+T104	geogFeat 4591 4613	balise de danger isolé
+T105	geogFeat 4558 4564	écueil
+T106	geogFeat 4683 4686	île
+T107	geogFeat 4702 4709	rochers
+T108	geogFeat 4732 4738	groupe
+T109	geogFeat 4752 4761	haut-fond
+T110	geogFeat 4849 4855	pointe
+T111	geogFeat 4860 4869	haut-fond
+T112	geogFeat 4902 4924	balise de danger isolé
+T113	geogFeat 4967 4973	bouées
+T114	geogFeat 5022 5030	tourelle
+T115	geogFeat 5070 5074	baie
+T116	geogFeat 5111 5114	île
+T117	geogFeat 5178 5198	bouée cardinale Nord
+T118	geogFeat 5210 5218	chaussée
+T119	geogFeat 5240 5243	île
+T120	geogFeat 5247 5256	continent
+T121	geogFeat 5283 5288	ville
+T122	geogFeat 5293 5297	mont
+T123	geogFeat 5298 5302	Capu
+T124	geogFeat 5334 5339	flanc
+T125	geogFeat 5347 5359	pylône radio
+T126	geogFeat 5403 5412	sémaphore
+T127	geogFeat 5480 5489	sémaphore
+T128	geogFeat 5493 5497	Capo
+T129	geogFeat 5509 5515	pointe
+T130	geogFeat 5547 5551	dôme
+T131	geogFeat 5590 5603	constructions
+T132	geogFeat 5637 5643	pylône
+T133	geogFeat 5656 5678	feux d’obstacle aérien
+T134	geogFeat 5712 5718	danger
+T135	geogFeat 5744 5749	bouée
+T137	geogFeat 5789 5796	rochers
+T138	geogFeat 5859 5864	plage
+T139	geogFeat 5883 5886	cap
+T140	geogFeat 5926 5933	village
+T141	geogFeat 5970 5976	pointe
+T142	geogFeat 6024 6028	tour
+T143	geogFeat 6068 6075	clocher
+T144	geogFeat 6133 6137	côte
+T145	geogFeat 6167 6172	Punta
+T146	geogFeat 6192 6198	danger
+T147	geogFeat 6240 6249	haut-fond
+T148	geogFeat 6399 6405	pointe
+T149	geogFeat 6423 6429	pointe
+T150	geogFeat 6436 6441	Punta
+T151	geogFeat 6465 6469	tour
+T152	geogFeat 6551 6561	mouillages
+T153	geogFeat 6610 6616	pointe
+T154	geogFeat 6639 6646	village
+T155	geogFeat 6718 6723	hôtel
+T156	geogFeat 6754 6758	môle
+T157	geogFeat 6805 6811	musoir
+T158	geogFeat 6818 6822	môle
+T159	geogFeat 6893 6898	Isola
+T160	geogFeat 6924 6928	côte
+T161	name 6929 6941	continentale
+T162	geogName 6924 6941	côte continentale
+T163	geogFeat 6963 6968	Punta
+T164	geogFeat 6988 6993	Monte
+T165	geogFeat 7044 7050	sommet
+T166	geogFeat 7072 7086	Passe d’entrée
+T167	geogFeat 7172 7175	cap
+T168	geogFeat 7202 7211	sémaphore
+T169	geogFeat 7272 7277	villa
+T170	geogFeat 7326 7330	tour
+T171	geogFeat 7341 7347	pylône
+T172	geogFeat 7375 7397	feux d’obstacle aérien
+T173	geogFeat 7432 7445	exploitations
+T174	geogFeat 7506 7512	pointe
+T175	geogFeat 7553 7569	cages flottantes
+T176	geogFeat 7576 7584	ensemble
+T177	geogFeat 7610 7639	bouée cardinale Sud lumineuse
+T178	geogFeat 7655 7684	bouée cardinale Est lumineuse
+T179	geogFeat 7702 7726	bouée de marque spéciale
+T180	geogFeat 7734 7737	cap
+T181	geogFeat 7749 7752	cap
+T182	geogFeat 7776 7780	côte
+T183	geogFeat 7811 7816	golfe
+T184	geogFeat 7841 7845	port
+T185	geogFeat 7879 7888	mouillage
+T186	geogFeat 7927 7931	côte
+T187	geogFeat 7993 8001	chapelle
+T188	geogFeat 8015 8024	haut-fond
+T189	geogFeat 8028 8034	danger
+T190	geogFeat 8097 8102	phare
+T191	geogFeat 8119 8127	calanque
+T192	geogFeat 8128 8132	Cala
+T193	geogFeat 8145 8154	port-abri
+T194	geogFeat 8180 8184	rive
+T195	geogFeat 8200 8204	fort
+T196	geogFeat 8244 8248	rive
+T197	geogFeat 8256 8262	groupe
+T198	geogFeat 8266 8273	maisons
+T199	geogFeat 8306 8325	bouée cardinale Est
+T200	geogFeat 8375 8380	jetée
+T201	geogFeat 8398 8403	Punta
+T202	geogFeat 8418 8422	îlot
+T203	geogFeat 8484 8490	rivage
+T204	geogFeat 8686 8690	tour
+T205	geogFeat 8731 8736	phare
+T206	geogFeat 8771 8775	anse
+T207	geogFeat 8817 8825	ruisseau
+T208	geogFeat 8921 8927	pointe
+T209	geogFeat 8994 8998	zone
+T210	geogFeat 9035 9038	cap
+T211	geogFeat 9061 9066	ligne
+T212	geogFeat 9085 9092	pointes
+T213	geogFeat 9239 9245	région
+T214	name 9259 9269	Île-Rousse
+T215	geogFeat 9273 9278	Punta
+T216	geogFeat 9305 9309	côte
+T217	geogFeat 9334 9339	baies
+T218	geogFeat 9355 9359	banc
+T219	geogFeat 9425 9436	terre-plein
+T220	geogFeat 9467 9471	tour
+T221	geogFeat 9571 9578	Dangers
+T222	geogFeat 9596 9604	secteurs
+T223	geogFeat 9615 9618	feu
+T224	geogFeat 9625 9630	jetée
+T225	geogFeat 9633 9644	hauts fonds
+T226	geogFeat 9658 9664	rocher
+T227	geogFeat 9703 9709	entrée
+T228	geogFeat 9717 9726	émissaire
+T229	geogFeat 9801 9805	côte
+T230	geogFeat 9815 9821	Insula
+T231	geogFeat 9912 9917	phare
+T232	geogFeat 9963 9967	Capo
+T233	geogFeat 10012 10017	phare
+T234	geogFeat 10019 10027	tourelle
+T235	geogFeat 10082 10086	tour
+T236	geogFeat 10107 10113	rocher
+T237	geogFeat 10118 10124	danger
+T238	geogFeat 10176 10181	têtes
+T239	geogFeat 10231 10236	bouée
+T240	name 31 37	Sagone
+T241	name 15 18	Est
+T242	name 49 56	Liamone
+T243	geogName 10 18	côte Est
+T244	geogName 22 37	golfe de Sagone
+T245	geogName 42 56	fleuve Liamone
+T246	name 144 156	Saint-Joseph
+T247	geogName 134 156	pointe de Saint-Joseph
+T248	name 177 187	Capigliolu
+T249	name 196 201	Locca
+T250	geogName 170 187	pointe Capigliolu
+T251	geogName 189 201	pointe Locca
+T252	name 234 240	Stollu
+T253	geogName 225 240	Punta di Stollu
+T254	name 257 262	Rossa
+T255	geogName 251 262	Punta Rossa
+T256	name 405 412	Gargalu
+T257	geogName 398 412	île de Gargalu
+T258	geogName 387 412	phare de l’île de Gargalu
+T259	name 423 430	Gargali
+T260	geogName 414 430	Isula di Gargali
+T261	name 486 494	La Presa
+T262	geogName 480 494	Isola La Presa
+T263	name 612 616	Triu
+T264	geogName 602 616	pointe de Triu
+T265	name 653 660	Albellu
+T266	geogName 646 660	pointe Albellu
+T267	name 702 710	Licciola
+T268	geogName 688 710	plateau de la Licciola
+T269	name 861 867	Africa
+T270	geogName 853 867	Scoglio Africa
+T271	name 878 886	Formiche
+T272	geogName 878 895	Formiche di Monte
+T273	name 944 948	Nord
+T274	geogName 939 948	côte Nord
+T275	name 960 967	Ajaccio
+T276	geogName 952 967	golfe d’Ajaccio
+T277	name 1010 1019	La Parata
+T278	geogName 1000 1019	pointe de La Parata
+T279	name 1093 1099	Marana
+T280	geogName 1077 1099	émissaire de la Marana
+T281	name 1235 1241	Bastia
+T282	geogName 1235 1241	Bastia
+T283	geogName 1421 1433	Méditerranée
+T284	name 1421 1433	Méditerranée
+T285	name 1483 1490	Centuri
+T286	geogName 1470 1490	haut-fond de Centuri
+T287	name 1665 1671	Favone
+T288	geogName 1657 1671	anse de Favone
+T289	name 1693 1700	Canella
+T290	geogName 1685 1700	anse de Canella
+T291	name 1940 1949	Pinarellu
+T292	geogName 1933 1949	île de Pinarellu
+T293	name 1975 1981	Lozari
+T294	geogName 1966 1981	Punta di Lozari
+T295	name 2138 2146	Girolata
+T296	geogName 2129 2146	golfe de Girolata
+T297	name 2167 2175	Scandola
+T298	geogName 2161 2175	Punta Scandola
+T299	name 2184 2190	Senino
+T300	geogName 2179 2190	Capo Senino
+T301	name 2192 2198	Cenino
+T302	geogName 2192 2198	Cenino
+T303	geogName 1923 1949	tour de l’île de Pinarellu
+T304	name 2228 2238	Palmentoju
+T305	geogName 2221 2238	pointe Palmentoju
+T306	name 2330 2332	SE
+T307	geogName 2325 2332	côte SE
+T308	name 2364 2368	Muro
+T309	geogName 2360 2368	cap Muro
+T310	name 2736 2758	Ajaccio-Campo dell’Oro
+T311	geogName 2724 2758	aérodrome d’Ajaccio-Campo dell’Oro
+T312	name 3016 3038	Ajaccio-Campo dell’Oro
+T313	geogName 3004 3038	aérodrome d’Ajaccio-Campo dell’Oro
+T314	name 3081 3085	Muro
+T315	geogName 3077 3085	cap Muro
+T316	name 3256 3263	Cavallo
+T317	geogName 3251 3263	Capo Cavallo
+T318	name 3513 3525	Méditerranée
+T319	geogName 3513 3525	Méditerranée
+T320	name 3542 3553	Haute-Corse
+T321	geogName 3542 3553	Haute-Corse
+T322	name 3668 3673	Vacca
+T323	geogName 3655 3673	rocher de la Vacca
+T324	name 3747 3753	Forana
+T325	geogName 3743 3753	île Forana
+T326	name 3859 3865	Ratino
+T327	geogName 3855 3865	île Ratino
+T328	name 3904 3913	Porraggia
+T329	geogName 3900 3913	île Porraggia
+T330	name 4010 4017	Gavetti
+T331	geogName 4005 4017	îles Gavetti
+T332	name 4035 4039	Muro
+T333	geogName 4031 4039	cap Muro
+T334	geogFeat 4056 4061	Porto
+T335	name 4062 4067	Pollo
+T336	geogName 4056 4067	Porto Pollo
+T337	geogName 4046 4067	pointe de Porto Pollo
+T338	name 4125 4129	Orzu
+T339	name 4144 4151	Cupabia
+T340	name 4170 4174	Neru
+T341	geogName 4118 4129	Cala d’Orzu
+T342	geogName 4136 4151	baie de Cupabia
+T343	geogName 4165 4174	Capu Neru
+T344	name 4312 4321	Benedettu
+T345	geogName 4303 4321	Punta di Benedettu
+T346	name 4389 4402	Saint-Antoine
+T347	geogName 4385 4402	île Saint-Antoine
+T348	name 4415 4422	Sperono
+T349	geogName 4406 4422	Punta de Sperono
+T350	name 4565 4574	Le Prêtre
+T351	geogName 4558 4574	écueil Le Prêtre
+T352	name 4665 4679	Pietricaggiosa
+T353	geogName 4665 4679	Pietricaggiosa
+T354	name 4690 4694	Toro
+T355	geogName 4683 4694	île du Toro
+T356	name 4765 4769	Toro
+T357	geogName 4752 4769	haut-fond du Toro
+T358	name 4870 4882	La Campanina
+T359	geogName 4860 4882	haut-fond La Campanina
+T360	name 5033 5043	Les Moines
+T361	geogName 5022 5045	tourelle « Les Moines »
+T362	name 5118 5125	Capense
+T363	geogName 5111 5125	île de Capense
+T364	name 5303 5311	Curboriu
+T365	geogName 5298 5311	Capu Curboriu
+T366	geogName 5293 5311	mont Capu Curboriu
+T367	name 5340 5343	Est
+T368	geogName 5334 5343	flanc Est
+T369	name 5418 5428	Île-Rousse
+T370	geogName 5403 5428	sémaphore de l’Île-Rousse
+T371	name 5498 5504	Grosso
+T372	geogName 5493 5504	Capo Grosso
+T373	geogName 5480 5504	sémaphore de Capo Grosso
+T374	name 5519 5529	Torricella
+T375	geogName 5509 5529	pointe de Torricella
+T376	name 5752 5756	Toro
+T377	geogName 5744 5758	bouée « Toro »
+T136	name 5797 5804	Tavaria
+T378	name 5806 5815	Ancurella
+T379	geogName 5789 5804	rochers Tavaria
+T380	geogName 5806 5815	Ancurella
+T381	name 5936 5945	Erbalunga
+T382	geogName 5926 5945	village d’Erbalunga
+T383	name 6091 6096	Pozzo
+T384	geogName 6091 6096	Pozzo
+T385	name 6173 6184	San Damiano
+T386	geogName 6167 6184	Punta San Damiano
+T387	name 6201 6209	Algajola
+T388	geogName 6192 6209	danger d’Algajola
+T389	name 6409 6418	Roccapina
+T390	geogName 6399 6418	pointe de Roccapina
+T391	name 6445 6455	Caniscione
+T392	geogName 6436 6455	Punta di Caniscione
+T393	name 6472 6478	Olmeto
+T394	geogName 6465 6478	tour d’Olmeto
+T395	name 6617 6627	Capigliolu
+T396	geogName 6610 6627	pointe Capigliolu
+T397	name 6650 6657	Tiuccia
+T398	geogName 6639 6657	village de Tiuccia
+T399	name 6868 6873	Corse
+T400	geogName 6868 6873	Corse
+T401	name 6901 6905	Elba
+T402	geogName 6893 6905	Isola d’Elba
+T403	name 6972 6979	Canelle
+T404	geogName 6963 6979	Punta di Canelle
+T405	name 6994 7000	Cucaru
+T406	name 7002 7009	Cuccaro
+T407	geogName 6988 7000	Monte Cucaru
+T408	geogName 7002 7009	Cuccaro
+T409	name 7516 7525	La Parata
+T410	geogName 7506 7525	pointe de La Parata
+T411	name 7741 7745	Feno
+T412	name 7753 7757	Muro
+T413	name 7819 7826	Ajaccio
+T414	geogName 7734 7745	cap de Feno
+T415	geogName 7749 7757	cap Muro
+T416	geogName 7811 7826	golfe d’Ajaccio
+T417	name 8038 8049	Santa-Maria
+T418	geogName 8015 8049	haut-fond ou danger de Santa-Maria
+T419	name 8106 8114	Senetosa
+T420	geogName 8097 8114	phare de Senetosa
+T421	name 8136 8143	Tizzano
+T422	geogName 8128 8143	Cala di Tizzano
+T423	geogName 8119 8143	calanque Cala di Tizzano
+T424	name 8158 8165	Tizzano
+T425	geogName 8145 8165	port-abri de Tizzano
+T426	name 8185 8190	Ouest
+T427	geogName 8180 8190	rive Ouest
+T428	name 8249 8252	Est
+T429	geogName 8244 8252	rive Est
+T430	name 8409 8414	Arena
+T431	geogName 8398 8414	Punta di l’Arena
+T432	name 8423 8431	Ziglione
+T433	geogName 8418 8431	îlot Ziglione
+T434	name 8740 8751	La Mortella
+T435	geogName 8731 8751	phare de La Mortella
+T436	name 8785 8790	Santu
+T437	geogName 8771 8790	anse de Fiume Santu
+T438	geogFeat 8779 8784	Fiume
+T439	geogName 8779 8790	Fiume Santu
+T440	name 8829 8838	Valdolèse
+T441	geogName 8817 8838	ruisseau de Valdolèse
+T442	name 8871 8876	Calvi
+T443	geogName 8846 8876	cantonnement de pêche de Calvi
+T444	name 8934 8943	Revellata
+T445	geogName 8921 8943	pointe de la Revellata
+T446	geogFeat 8846 8867	cantonnement de pêche
+T447	name 9042 9046	Feno
+T448	geogName 9035 9046	cap de Feno
+T449	name 9229 9238	troisième
+T450	geogName 9229 9245	troisième région
+T451	geogName 9259 9269	Île-Rousse
+T452	name 9279 9284	Spano
+T453	geogName 9273 9284	Punta Spano
+T454	name 9437 9440	Sud
+T455	geogName 9425 9440	terre-plein Sud
+T456	name 9475 9485	Capannella
+T457	geogName 9467 9485	tour de Capannella
+T458	name 9665 9673	Marifaja
+T459	geogName 9658 9673	rocher Marifaja
+T460	name 9806 9809	Est
+T461	geogName 9801 9809	côte Est
+T462	name 9825 9831	Pietra
+T463	geogName 9815 9831	Insula la Pietra
+T464	name 9924 9930	Pietra
+T465	geogName 9912 9930	phare de la Pietra
+T466	name 9968 9973	Sagro
+T467	geogName 9963 9973	Capo Sagro
+T468	name 9952 9961	Erbalunga
+T469	geogName 9952 9961	Erbalunga
+T470	name 10131 10136	Vacca
+T471	geogName 10118 10136	danger de la Vacca
+T472	name 10239 10244	Vacca
+T473	geogName 10231 10246	bouée « Vacca »
+R1	EastOf Arg1:T243 Arg2:T244	
+R2	ElementOf Arg1:T247 Arg2:T5	
+R3	ElementOf Arg1:T250 Arg2:T5	
+R4	NorthNorthWestOf Arg1:T247 Arg2:T4	
+R5	SouthOf Arg1:T250 Arg2:T4	
+R6	WestSouthWestOf Arg1:T255 Arg2:T253	
+T474	name 289 299	Scuglietti
+T475	geogName 289 299	Scuglietti
+T476	name 303 313	Scoglietti
+T477	geogName 303 313	Scoglietti
+R7	ElementOf Arg1:T477 Arg2:T12	
+R8	ElementOf Arg1:T475 Arg2:T12	
+R9	NorthNorthWestOf Arg1:T17 Arg2:T262	
+R10	WestOf Arg1:T264 Arg2:T266	
+R11	SouthOf Arg1:T268 Arg2:T264	
+R12	SouthSouthWestOf Arg1:T268 Arg2:T21	
+R13	ElementOf Arg1:T23 Arg2:T22	
+R14	SouthSouthWestOf Arg1:T270 Arg2:T272	
+R15	NorthOf Arg1:T274 Arg2:T276	
+R16	EastNorthEastOf Arg1:T26 Arg2:T278	
+R17	ElementOf Arg1:T30 Arg2:T26	
+R18	SouthOf Arg1:T280 Arg2:T282	
+R19	WestSouthWestOf Arg1:T286 Arg2:T34	
+R20	ElementOf Arg1:T36 Arg2:T286	
+R21	NorthOf Arg1:T290 Arg2:T288	
+R22	ElementOf Arg1:T39 Arg2:T40	
+R23	WestNorthWestOf Arg1:T39 Arg2:T303	
+R24	EastOf Arg1:T45 Arg2:T44	
+R25	WestOf Arg1:T46 Arg2:T44	
+R26	WestOf Arg1:T47 Arg2:T44	
+R27	EastSouthEastOf Arg1:T300 Arg2:T298	
+R28	WestNorthWestOf Arg1:T52 Arg2:T305	
+R29	WestNorthWestOf Arg1:T53 Arg2:T305	
+R30	SouthEastOf Arg1:T307 Arg2:T55	
+R31	EastNorthEastOf Arg1:T57 Arg2:T309	
+R32	ElementOf Arg1:T58 Arg2:T57	
+R33	ElementOf Arg1:T59 Arg2:T58	
+R34	ElementOf Arg1:T61 Arg2:T62	
+R35	ElementOf Arg1:T62 Arg2:T311	
+R36	MarkedBy Arg1:T65 Arg2:T64	
+R37	ElementOf Arg1:T66 Arg2:T67	
+R38	ElementOf Arg1:T67 Arg2:T313	
+R39	EastNorthEastOf Arg1:T71 Arg2:T315	
+R40	SouthOf Arg1:T71 Arg2:T69	
+R41	ElementOf Arg1:T72 Arg2:T71	
+R42	WestSouthWestOf Arg1:T317 Arg2:T74	
+R43	ElementOf Arg1:T77 Arg2:T317	
+R44	EastSouthEastOf Arg1:T78 Arg2:T79	
+R45	EastSouthEastOf Arg1:T323 Arg2:T325	
+R46	ElementOf Arg1:T325 Arg2:T82	
+R47	MarkedBy Arg1:T84 Arg2:T83	
+R48	WestNorthWestOf Arg1:T84 Arg2:T327	
+R49	EastSouthEastOf Arg1:T337 Arg2:T333	
+R50	ElementOf Arg1:T341 Arg2:T93	
+R51	ElementOf Arg1:T342 Arg2:T93	
+R52	ElementOf Arg1:T97 Arg2:T343	
+R53	WestSouthWestOf Arg1:T98 Arg2:T345	
+R54	EastOf Arg1:T349 Arg2:T347	
+R55	WestSouthWestOf Arg1:T103 Arg2:T102	
+R56	WestSouthWestOf Arg1:T351 Arg2:T102	
+R57	MarkedBy Arg1:T351 Arg2:T104	
+R58	SouthSouthEastOf Arg1:T355 Arg2:T353	
+R59	ElementOf Arg1:T355 Arg2:T108	
+R60	ElementOf Arg1:T107 Arg2:T108	
+R61	WestOf Arg1:T108 Arg2:T357	
+R62	WestSouthWestOf Arg1:T359 Arg2:T110	
+R63	MarkedBy Arg1:T359 Arg2:T112	
+R64	SouthSouthEastOf Arg1:T113 Arg2:T361	
+R65	SouthWestOf Arg1:T113 Arg2:T361	
+R66	MarkedBy Arg1:T363 Arg2:T117	
+R67	WestSouthWestOf Arg1:T366 Arg2:T121	
+R68	ElementOf Arg1:T368 Arg2:T366	
+R69	ElementOf Arg1:T125 Arg2:T368	
+R70	SouthSouthEastOf Arg1:T375 Arg2:T373	
+R71	ElementOf Arg1:T130 Arg2:T375	
+R72	ElementOf Arg1:T131 Arg2:T375	
+R73	NorthNorthWestOf Arg1:T132 Arg2:T131	
+R74	ElementOf Arg1:T133 Arg2:T132	
+R75	MarkedBy Arg1:T134 Arg2:T377	
+R76	SouthSouthWestOf Arg1:T377 Arg2:T134	
+R77	SouthSouthWestOf Arg1:T379 Arg2:T139	
+R78	ElementOf Arg1:T382 Arg2:T141	
+R79	ElementOf Arg1:T142 Arg2:T141	
+R80	WestSouthWestOf Arg1:T143 Arg2:T142	
+R81	ElementOf Arg1:T143 Arg2:T384	
+R82	NorthNorthWestOf Arg1:T388 Arg2:T386	
+R83	EastSouthEastOf Arg1:T149 Arg2:T390	
+R84	EastOf Arg1:T152 Arg2:T396	
+R85	SouthSouthEastOf Arg1:T152 Arg2:T155	
+R86	ElementOf Arg1:T157 Arg2:T158	
+R87	EastNorthEastOf Arg1:T407 Arg2:T404	
+R88	ElementOf Arg1:T165 Arg2:T407	
+R89	ElementOf Arg1:T394 Arg2:T149	
+R90	NorthNorthWestOf Arg1:T171 Arg2:T169	
+R91	ElementOf Arg1:T172 Arg2:T171	
+R92	EastNorthEastOf Arg1:T173 Arg2:T410	
+R93	ElementOf Arg1:T175 Arg2:T173	
+R94	MarkedBy Arg1:T176 Arg2:T177	
+R95	MarkedBy Arg1:T176 Arg2:T178	
+R96	MarkedBy Arg1:T176 Arg2:T179	
+R97	SouthWestOf Arg1:T177 Arg2:T176	
+R98	SouthEastOf Arg1:T178 Arg2:T176	
+R99	NorthWestOf Arg1:T179 Arg2:T176	
+R100	SouthSouthEastOf Arg1:T415 Arg2:T414	
+R101	ElementOf Arg1:T184 Arg2:T416	
+R102	NorthOf Arg1:T185 Arg2:T187	
+R103	SouthSouthEastOf Arg1:T185 Arg2:T418	
+R104	EastSouthEastOf Arg1:T423 Arg2:T420	
+R105	WestOf Arg1:T427 Arg2:T423	
+R106	ElementOf Arg1:T195 Arg2:T427	
+R107	ElementOf Arg1:T197 Arg2:T429	
+R108	EastOf Arg1:T429 Arg2:T423	
+R109	ElementOf Arg1:T198 Arg2:T197	
+R110	SouthSouthWestOf Arg1:T199 Arg2:T200	
+R111	SouthSouthWestOf Arg1:T433 Arg2:T431	
+R112	SouthSouthEastOf Arg1:T204 Arg2:T435	
+R113	NorthNorthWestOf Arg1:T443 Arg2:T445	
+R114	EastNorthEastOf Arg1:T209 Arg2:T448	
+R115	SouthOf Arg1:T209 Arg2:T211	
+R116	ElementOf Arg1:T212 Arg2:T211	
+R117	WestSouthWestOf Arg1:T453 Arg2:T451	
+R118	EastNorthEastOf Arg1:T218 Arg2:T455	
+R119	ElementOf Arg1:T221 Arg2:T222	
+R120	ElementOf Arg1:T223 Arg2:T224	
+R121	ElementOf Arg1:T225 Arg2:T221	
+R122	ElementOf Arg1:T459 Arg2:T221	
+R123	WestOf Arg1:T225 Arg2:T227	
+R124	EastSouthEastOf Arg1:T459 Arg2:T227	
+R125	ElementOf Arg1:T461 Arg2:T463	
+R126	NorthNorthEastOf Arg1:T467 Arg2:T469	
+R127	ElementOf Arg1:T233 Arg2:T467	
+R128	NorthOf Arg1:T233 Arg2:T235	
+R129	ElementOf Arg1:T234 Arg2:T233	
+R130	SouthSouthEastOf Arg1:T471 Arg2:T236	
+R131	ElementOf Arg1:T238 Arg2:T471	
+R132	MarkedBy Arg1:T471 Arg2:T473	
+R133	SouthEastOf Arg1:T473 Arg2:T471	
+T478	geogFeat 8803 8813	embouchure
+R134	ElementOf Arg1:T478 Arg2:T441	
+R135	NorthOf Arg1:T475 Arg2:T255	
+R136	NorthOf Arg1:T477 Arg2:T255	
+R137	OffTheCoastOf Arg1:T280 Arg2:T282	
+R138	SouthSouthEastOf Arg1:T107 Arg2:T353	
+R139	NorthOf Arg1:T370 Arg2:T125	

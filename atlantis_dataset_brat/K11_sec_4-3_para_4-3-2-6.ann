@@ -1,0 +1,35 @@
+T1	geogFeat 12 17	Passe
+T2	geogFeat 38 44	pointe
+T3	geogFeat 70 73	île
+T4	geogFeat 81 85	Motu
+T5	geogFeat 97 102	passe
+T6	geogFeat 254 258	baie
+T7	geogFeat 335 342	village
+T8	geogFeat 370 381	appontement
+T9	geogFeat 390 406	chenal intérieur
+T10	geogFeat 417 421	baie
+T11	geogFeat 439 446	village
+T12	geogFeat 482 487	passe
+T13	geogFeat 577 581	ÎLES
+T14	geogFeat 294 309	pâtés de corail
+T15	name 18 24	Araara
+T16	name 45 49	Tiva
+T17	name 86 92	Araara
+T18	name 103 109	Araara
+T19	name 259 264	Parea
+T20	name 346 351	Parea
+T21	name 422 429	Mauhiti
+T22	name 450 459	Tafarerii
+T23	name 488 494	Araara
+T24	name 582 594	SOUS-LE-VENT
+T25	geogName 12 24	Passe Araara
+T26	geogName 38 49	pointe Tiva
+T27	geogName 81 92	Motu Araara
+T28	geogName 97 109	passe Araara
+T29	geogName 254 264	baie Parea
+T30	geogName 335 351	village de Parea
+T31	geogName 417 429	baie Mauhiti
+T32	geogName 439 459	village de Tafarerii
+T33	geogName 482 494	passe Araara
+T34	geogName 577 594	ÎLES SOUS-LE-VENT
+R1	ElementOf Arg1:T14 Arg2:T29	

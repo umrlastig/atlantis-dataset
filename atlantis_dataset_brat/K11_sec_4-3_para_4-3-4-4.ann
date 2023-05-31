@@ -1,0 +1,63 @@
+T1	geogFeat 114 119	atoll
+T2	geogFeat 159 162	île
+T3	geogFeat 172 176	Motu
+T4	geogFeat 222 226	motu
+T5	geogFeat 245 250	récif
+T6	geogFeat 598 603	passe
+T7	geogFeat 632 637	atoll
+T8	geogFeat 756 762	entrée
+T9	geogFeat 766 771	lagon
+T10	geogFeat 776 781	passe
+T11	geogFeat 800 807	chenaux
+T12	geogFeat 1007 1022	têtes de corail
+T13	geogFeat 1238 1245	plateau
+T14	geogFeat 1273 1278	lagon
+T15	geogFeat 1322 1327	bancs
+T16	geogFeat 1444 1448	îlot
+T17	geogFeat 1460 1464	Motu
+T18	geogFeat 1546 1563	patates de corail
+T19	geogFeat 1588 1594	pointe
+T20	geogFeat 1619 1623	Motu
+T21	geogFeat 1651 1655	côte
+T22	geogFeat 1700 1704	côte
+T23	geogFeat 1829 1834	plage
+T24	geogFeat 1852 1865	constructions
+T25	name 12 20	Maupihaa
+T26	name 22 29	Mopelia
+T27	name 54 61	Maupiti
+T28	name 63 71	Maupihaa
+T29	name 73 80	Mopelia
+T30	name 177 185	Maupihaa
+T31	geogFeat 324 328	ÎLES
+T32	geogFeat 339 343	ÎLES
+T33	geogFeat 359 363	ÎLES
+T34	name 364 373	AUSTRALES
+T35	name 344 356	SOUS-LE-VENT
+T36	name 332 336	VENT
+T37	name 604 619	Taihaaru Vahine
+T38	name 1466 1470	Manu
+T39	name 1624 1632	Maupihaa
+T40	geogName 12 20	Maupihaa
+T41	geogName 22 29	Mopelia
+T42	geogName 54 61	Maupiti
+T43	geogName 63 71	Maupihaa
+T44	geogName 73 80	Mopelia
+T45	geogName 172 185	Motu Maupihaa
+T46	geogName 324 336	ÎLES DU VENT
+T47	geogName 339 356	ÎLES SOUS-LE-VENT
+T48	geogName 359 373	ÎLES AUSTRALES
+T49	geogName 598 619	passe Taihaaru Vahine
+T50	geogName 1460 1470	Motu 😍Manu
+T51	geogName 1619 1632	Motu Maupihaa
+T52	geogFeat 520 533	exploitations
+T53	name 1595 1597	SW
+T54	geogName 1588 1597	pointe SW
+R1	WestSouthWestOf Arg1:T43 Arg2:T42	
+R2	ElementOf Arg1:T8 Arg2:T9	
+R3	ElementOf Arg1:T11 Arg2:T10	
+R4	ElementOf Arg1:T12 Arg2:T11	
+R5	ElementOf Arg1:T13 Arg2:T11	
+R6	ElementOf Arg1:T15 Arg2:T14	
+R7	WestSouthWestOf Arg1:T16 Arg2:T50	
+R8	ElementOf Arg1:T54 Arg2:T51	
+R9	NorthWestOf Arg1:T49 Arg2:T7	

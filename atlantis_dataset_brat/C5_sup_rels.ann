@@ -1,0 +1,554 @@
+T1	geogFeat 7 12	rives
+T2	geogFeat 31 37	entrée
+T3	geogFeat 41 46	Canal
+T4	geogFeat 99 104	bancs
+T5	geogFeat 126 131	Punta
+T6	geogFeat 204 211	pointes
+T7	geogFeat 258 263	Punta
+T8	geogFeat 272 277	Punta
+T9	geogFeat 290 295	Punta
+T10	geogFeat 321 349	port de commerce et de pêche
+T11	geogFeat 379 394	poste pétrolier
+T12	geogFeat 435 445	embouchure
+T13	geogFeat 497 503	Pointe
+T14	geogFeat 528 534	Pointe
+T15	geogFeat 559 563	côte
+T16	geogFeat 574 579	anses
+T17	geogFeat 594 600	roches
+T18	geogFeat 643 650	pointes
+T19	geogFeat 824 828	côte
+T20	geogFeat 862 868	fleuve
+T21	geogFeat 903 909	Pointe
+T22	geogFeat 959 963	baie
+T23	geogFeat 1012 1018	balise
+T24	geogFeat 1069 1077	monument
+T25	geogFeat 1081 1086	Ilhéu
+T26	geogFeat 1143 1156	chenal côtier
+T27	geogFeat 1200 1205	Punta
+T28	geogFeat 1217 1236	mouillage d’attente
+T29	geogFeat 1275 1283	terminal
+T30	geogFeat 1291 1302	plate-forme
+T31	geogFeat 1321 1329	pipeline
+T32	geogFeat 1359 1366	oléoduc
+T33	geogFeat 1373 1380	gazoduc
+T34	geogFeat 1389 1397	Oilfield
+T35	geogFeat 1433 1451	Terminal pétrolier
+T36	geogFeat 1498 1502	Zone
+T37	geogFeat 1530 1536	pylône
+T38	geogFeat 1576 1580	zone
+T39	geogFeat 1589 1594	roche
+T40	geogFeat 1624 1633	haut-fond
+T41	geogFeat 1720 1726	Pointe
+T42	geogFeat 1754 1760	épaves
+T43	geogFeat 1803 1809	Pointe
+T44	geogFeat 1891 1896	Ponta
+T45	geogFeat 1914 1920	pointe
+T46	geogFeat 1945 1950	Ponta
+T47	geogFeat 1966 1972	Pedras
+T48	geogFeat 2014 2017	île
+T49	geogFeat 2039 2045	danger
+T50	geogFeat 2059 2069	quai privé
+T51	geogFeat 2136 2140	port
+T52	geogFeat 2152 2160	Oilfield
+T53	geogFeat 2201 2206	Ponta
+T54	geogFeat 2245 2263	balise postérieure
+T55	geogFeat 2345 2350	phare
+T56	geogFeat 2411 2415	Port
+T57	geogFeat 2576 2581	roche
+T58	geogFeat 2651 2656	Ponta
+T59	geogFeat 2674 2683	haut-fond
+T61	geogFeat 2845 2850	Punta
+T62	geogFeat 2907 2911	banc
+T63	geogFeat 2915 2921	roches
+T64	geogFeat 2933 2938	plage
+T65	geogFeat 2993 2998	Barre
+T66	geogFeat 3047 3054	village
+T67	geogFeat 3068 3074	balise
+T68	geogFeat 3095 3101	balise
+T69	geogFeat 3111 3119	torchère
+T70	geogFeat 3139 3145	pylône
+T71	geogFeat 3174 3178	zone
+T72	geogFeat 3311 3315	baie
+T73	geogFeat 3284 3291	criques
+T74	geogFeat 3318 3323	Canal
+T75	geogFeat 3350 3355	Canal
+T76	geogFeat 3365 3370	Canal
+T77	geogFeat 3398 3402	rive
+T78	geogFeat 3409 3412	Rio
+T79	geogFeat 3460 3469	mouillage
+T80	geogFeat 3540 3544	rive
+T81	geogFeat 3579 3584	Ponta
+T82	geogFeat 3627 3637	mouillages
+T83	geogFeat 3704 3710	Pointe
+T84	geogFeat 3746 3751	Ponta
+T85	geogFeat 3783 3788	roche
+T86	geogFeat 3761 3766	Pedra
+T87	geogFeat 3884 3892	monument
+T88	geogFeat 3927 3933	église
+T89	geogFeat 3988 3992	côte
+T90	geogFeat 4038 4043	Ponta
+T91	geogFeat 4056 4060	tour
+T92	geogFeat 4080 4086	palais
+T93	geogFeat 4177 4183	pylône
+T94	geogFeat 4189 4194	épave
+T95	geogFeat 4270 4275	bouée
+T96	geogFeat 4290 4297	Colinas
+T97	geogFeat 4307 4313	chaîne
+T98	geogFeat 4317 4325	collines
+T99	geogFeat 4448 4453	plage
+T100	geogFeat 4460 4464	port
+T101	geogFeat 4499 4503	côte
+T102	geogFeat 4549 4556	rochers
+T103	geogFeat 4606 4612	pointe
+T104	geogFeat 4622 4625	Île
+T105	geogFeat 4649 4655	fleuve
+T106	geogFeat 4749 4758	mouillage
+T107	geogFeat 4814 4820	Pointe
+T108	geogFeat 4860 4864	baie
+T109	geogFeat 4847 4853	ouvert
+T110	geogFeat 4887 4895	clochers
+T111	geogFeat 4907 4917	cathédrale
+T112	geogFeat 4931 4943	pylône radio
+T113	geogFeat 4976 4982	Muelle
+T114	geogFeat 5050 5056	Pointe
+T115	geogFeat 5068 5072	Port
+T116	geogFeat 5110 5115	rives
+T117	geogFeat 5122 5128	Pointe
+T118	geogFeat 5168 5173	phare
+T119	geogFeat 5175 5178	mât
+T120	geogFeat 5214 5219	poste
+T121	geogFeat 5245 5252	coffres
+T122	geogFeat 5352 5370	oléoduc sous-marin
+T123	geogFeat 5387 5396	bouée CBM
+T124	geogFeat 5413 5416	Río
+T125	geogFeat 5426 5430	côte
+T126	geogFeat 5459 5465	pointe
+T127	geogFeat 5535 5541	roches
+T128	geogFeat 5560 5571	banc côtier
+T129	geogFeat 5628 5634	balise
+T130	geogFeat 5644 5649	Ponta
+T131	geogFeat 5660 5664	Îlot
+T132	geogFeat 5714 5720	fleuve
+T133	geogFeat 5742 5747	Punta
+T134	geogFeat 5765 5770	Punta
+T135	geogFeat 5782 5788	pointe
+T136	geogFeat 5870 5874	Mont
+T137	geogFeat 5891 5896	Mount
+T138	geogFeat 5914 5928	pic volcanique
+T139	geogFeat 5974 5979	épave
+T140	geogFeat 6070 6086	digue extérieure
+T141	geogFeat 6090 6094	Port
+T142	geogFeat 6115 6119	zone
+T143	geogFeat 6147 6163	zone pétrolifère
+T144	geogFeat 6228 6231	Cap
+T145	geogFeat 6255 6273	Terminal Pétrolier
+T146	geogFeat 6300 6304	Banc
+T147	geogFeat 6351 6357	pointe
+T148	geogFeat 6408 6416	tourelle
+T149	geogFeat 6446 6452	pointe
+T150	geogFeat 6458 6462	tour
+T151	geogFeat 6490 6498	panneaux
+T152	geogFeat 6561 6566	bouée
+T153	geogFeat 6607 6613	balise
+T154	geogFeat 6620 6626	Pointe
+T155	geogFeat 6646 6655	frontière
+T156	geogFeat 6670 6678	Estuaire
+T157	geogFeat 6682 6688	Fleuve
+T158	geogFeat 6714 6718	côte
+T159	geogFeat 6731 6746	façade maritime
+T160	geogFeat 6769 6777	Province
+T161	geogFeat 6805 6828	République Démocratique
+T162	geogFeat 6845 6849	baie
+T163	geogFeat 6850 6854	Baía
+T164	geogFeat 6545 6553	fromager
+T165	geogFeat 6883 6893	échancrure
+T166	geogFeat 6902 6906	rive
+T167	geogFeat 6913 6917	Baía
+T168	geogFeat 6942 6947	Ponta
+T169	geogFeat 6959 6964	Ponta
+T170	geogFeat 7003 7009	pointe
+T171	geogFeat 7016 7022	Pointe
+T172	geogFeat 7047 7051	Banc
+T173	geogFeat 7070 7074	Banc
+T174	geogFeat 7097 7102	bancs
+T175	geogFeat 7114 7117	épi
+T176	geogFeat 7245 7249	côte
+T177	geogFeat 7257 7261	Baie
+T178	geogFeat 7286 7290	abri
+T179	geogFeat 7367 7373	Pointe
+T180	geogFeat 7390 7396	Pointe
+T181	geogFeat 7438 7442	baie
+T182	geogFeat 7498 7506	rivières
+T183	geogFeat 8896 8900	tour
+T184	geogFeat 8803 8814	plate-forme
+T185	geogFeat 9006 9012	entrée
+T186	geogFeat 9016 9020	port
+T187	geogFeat 9028 9032	amer
+T188	geogFeat 9053 9059	région
+T189	geogFeat 8872 8891	poste de chargement
+T190	geogFeat 8597 8617	pylône de télévision
+T191	geogFeat 8643 8649	Pointe
+T192	geogFeat 8662 8668	pylône
+T193	geogFeat 8678 8684	sommet
+T194	geogFeat 8739 8761	feux d’obstacle aérien
+T195	geogFeat 8482 8487	bouée
+T196	geogFeat 8494 8498	pieu
+T197	geogFeat 8581 8592	appontement
+T198	geogFeat 8423 8428	jetée
+T199	geogFeat 8468 8476	torchère
+T200	geogFeat 8332 8338	rocher
+T201	geogFeat 7514 7533	poste de chargement
+T202	geogFeat 7661 7667	pointe
+T203	geogFeat 7687 7692	épave
+T204	geogFeat 7767 7773	pointe
+T205	geogFeat 7821 7825	rive
+T206	geogFeat 7835 7843	estuaire
+T207	geogFeat 7876 7880	rive
+T208	geogFeat 7893 7897	Banc
+T209	geogFeat 7914 7918	Banc
+T210	geogFeat 7939 7943	Banc
+T211	geogFeat 8058 8074	digue extérieure
+T212	geogFeat 8093 8097	baie
+T213	geogFeat 8126 8132	Crique
+T214	geogFeat 8149 8155	crique
+T215	geogFeat 8215 8218	Lac
+T216	geogFeat 8250 8257	Rivière
+T217	geogFeat 8286 8292	Crique
+T60	name 13 18	Ouest
+T218	name 22 25	Est
+T219	geogName 7 25	rives Ouest et Est
+T220	name 50 54	Soyo
+T221	geogName 41 54	Canal de Soyo
+T222	name 132 139	Basuala
+T223	geogName 126 139	Punta Basuala
+T224	geogFeat 143 150	Frontón
+T225	name 154 161	Caracas
+T226	geogName 143 161	Frontón de Caracas
+T227	name 264 270	Bososo
+T228	name 278 286	Copohatá
+T229	name 296 302	Bososo
+T230	geogName 258 270	Punta Bososo
+T231	geogName 272 286	Punta Copohatá
+T232	geogName 290 302	Punta Bososo
+T233	geogFeat 308 315	Fronton
+T234	name 504 513	Mosquitos
+T235	geogName 497 513	Pointe Mosquitos
+T236	name 535 540	Eboko
+T237	geogName 528 540	Pointe Eboko
+T238	name 845 850	Binda
+T239	geogName 845 850	Binda
+T240	name 910 916	Muzuku
+T241	geogName 903 916	Pointe Muzuku
+T242	name 1087 1094	Santana
+T243	geogName 1081 1094	Ilhéu Santana
+T244	name 1206 1212	Achada
+T245	geogName 1200 1212	Punta Achada
+T246	name 1383 1388	Limba
+T247	geogName 1383 1397	Limba Oilfield
+T248	name 1454 1462	Oguendjo
+T249	geogName 1433 1462	Terminal pétrolier d’Oguendjo
+T250	name 1503 1510	Grondin
+T251	geogName 1498 1510	Zone Grondin
+T252	name 1727 1734	Boutike
+T253	geogName 1720 1734	Pointe Boutike
+T254	name 1810 1815	Weber
+T255	geogName 1803 1815	Pointe Weber
+T256	name 1897 1905	Portinho
+T257	geogName 1891 1905	Ponta Portinho
+T258	name 1954 1960	Grosso
+T259	geogName 1945 1960	Ponta do Grosso
+T260	name 1973 1981	Tinhosas
+T261	geogName 1966 1981	Pedras Tinhosas
+T262	name 2207 2215	Vermelha
+T263	geogName 2201 2215	Ponta Vermelha
+T264	name 2145 2151	N’Dola
+T265	geogName 2145 2160	N’Dola Oilfield
+T266	name 2128 2135	nouveau
+T267	geogName 2128 2140	nouveau port
+T268	geogFeat 2354 2358	Cape
+T269	name 2359 2369	Saint Paul
+T270	geogName 2354 2369	Cape Saint Paul
+T271	geogName 2345 2369	phare de Cape Saint Paul
+T272	name 2419 2423	Lomé
+T273	geogName 2411 2423	Port de Lomé
+T274	name 2657 2666	Viro Viro
+T275	geogName 2651 2666	Ponta Viro Viro
+T276	name 2757 2767	Setté Cama
+T277	geogName 2757 2767	Setté Cama
+T278	name 2851 2858	Eviondo
+T279	geogName 2845 2858	Punta Eviondo
+T280	name 3003 3012	Portugais
+T281	geogName 2993 3012	Barre des Portugais
+T282	name 3057 3063	Olendé
+T283	name 3075 3079	K II
+T284	name 3102 3105	K I
+T285	geogName 3047 3063	village d’Olendé
+T286	geogName 3068 3079	balise K II
+T287	geogName 3095 3105	balise K I
+T288	name 3179 3186	Grondin
+T289	geogName 3174 3186	zone Grondin
+T290	geogFeat 1335 1339	côte
+T291	name 3324 3330	Polulu
+T292	geogName 3318 3330	Canal Polulu
+T293	name 3359 3363	Soyo
+T294	geogName 3350 3363	Canal de Soyo
+T295	name 3374 3387	Santo António
+T296	geogName 3365 3387	Canal de Santo António
+T297	name 3403 3406	Sud
+T298	geogName 3398 3406	rive Sud
+T299	name 3416 3427	Cutelambeje
+T300	geogName 3409 3427	Rio do Cutelambeje
+T301	name 3545 3548	Sud
+T302	geogName 3540 3548	rive Sud
+T303	name 3585 3593	Kimongoa
+T304	geogName 3579 3593	Ponta Kimongoa
+T305	name 3711 3717	Isongo
+T306	geogName 3704 3717	Pointe Isongo
+T307	name 3752 3759	Marmita
+T308	geogName 3746 3759	Ponta Marmita
+T309	name 3770 3774	Galé
+T310	geogName 3761 3774	Pedra da Galé
+T311	name 4047 4051	Tafe
+T312	geogName 4038 4051	Ponta do Tafe
+T313	geogName 4110 4117	Palacio
+T314	name 4110 4117	Palacio
+T315	geogName 4280 4297	Las Siete Colinas
+T316	name 4280 4289	Las Siete
+T317	name 4380 4384	Bata
+T318	geogName 4380 4384	Bata
+T319	name 4468 4472	Luba
+T320	geogName 4460 4472	port de Luba
+T321	name 4630 4637	Princes
+T322	geogName 4622 4637	Île des Princes
+T323	name 4613 4616	Sud
+T324	geogName 4606 4616	pointe Sud
+T325	name 4719 4724	Binda
+T326	geogName 4719 4724	Binda
+T327	name 4762 4773	Grand-Basha
+T328	geogName 4749 4773	mouillage de Grand-Basha
+T329	name 4821 4826	Basha
+T330	geogName 4814 4826	Pointe Basha
+T331	name 4983 5008	Capitán de Fragata Lerena
+T332	geogName 4976 5008	Muelle Capitán de Fragata Lerena
+T333	name 5057 5063	Lohuay
+T334	geogName 5050 5063	Pointe Lohuay
+T335	name 5075 5081	Owendo
+T336	geogName 5068 5081	Port d’Owendo
+T337	name 5129 5135	Owendo
+T338	geogName 5122 5135	Pointe Owendo
+T339	name 5417 5421	Ñaño
+T340	geogName 5413 5421	Río Ñaño
+T341	name 5650 5656	Andila
+T342	geogName 5644 5656	Ponta Andila
+T343	name 5665 5670	Oscar
+T344	geogName 5660 5670	Îlot Oscar
+T345	name 5748 5754	Europa
+T346	geogName 5742 5754	Punta Europa
+T347	name 5771 5780	Linslager
+T348	geogName 5765 5780	Punta Linslager
+T349	name 5864 5869	Petit
+T350	name 5875 5883	Cameroun
+T351	geogName 5864 5883	Petit Mont Cameroun
+T352	name 5885 5890	Small
+T353	name 5897 5905	Cameroon
+T354	geogName 5885 5905	Small Mount Cameroon
+T355	name 6098 6110	Pointe-Noire
+T356	geogName 6090 6110	Port de Pointe-Noire
+T357	name 6120 6127	Grondin
+T358	geogName 6115 6127	zone Grondin
+T359	name 6232 6237	Lopez
+T360	geogName 6228 6237	Cap Lopez
+T361	name 6276 6284	Oguendjo
+T362	geogName 6255 6284	Terminal Pétrolier d’Oguendjo
+T363	name 6305 6311	Akanda
+T364	geogName 6300 6311	Banc Akanda
+T365	name 6567 6571	n° 3
+T366	geogName 6561 6571	bouée n° 3
+T367	name 6627 6632	Erong
+T368	geogName 6620 6632	Pointe Erong
+T369	name 6659 6664	Gabon
+T370	geogName 6646 6664	frontière du Gabon
+T371	geogName 6682 6694	Fleuve Congo
+T372	name 6689 6694	Congo
+T374	geogName 6607 6632	balise de la Pointe Erong
+T375	name 6750 6755	Congo
+T376	geogName 6731 6755	façade maritime du Congo
+T377	name 6781 6788	Cabinda
+T378	geogName 6769 6788	Province de Cabinda
+T379	name 6832 6837	Congo
+T380	geogName 6805 6837	République Démocratique du Congo
+T381	name 6858 6865	Formiga
+T382	geogName 6850 6865	Baía de Formiga
+T383	geogName 6845 6865	baie Baía de Formiga
+T384	name 6907 6909	NW
+T385	geogName 6902 6909	rive NW
+T386	name 6921 6934	Santo António
+T387	geogName 6913 6934	Baía de Santo António
+T388	name 6948 6955	Capitão
+T389	geogName 6942 6955	Ponta Capitão
+T390	name 6965 6972	Santana
+T391	geogName 6959 6972	Ponta Santana
+T392	name 7023 7029	Akosso
+T393	geogName 7016 7029	Pointe Akosso
+T394	name 7057 7063	Alcyon
+T395	name 7078 7086	Talisman
+T396	geogName 7047 7063	Banc de l’Alcyon
+T397	geogName 7070 7086	Banc du Talisman
+T398	name 7265 7272	Mayumba
+T399	geogName 7257 7272	Baie de Mayumba
+T400	name 7374 7383	Mosquitos
+T401	name 7397 7401	Yeke
+T402	geogName 7367 7383	Pointe Mosquitos
+T403	geogName 7390 7401	Pointe Yeke
+T404	name 7826 7829	Sud
+T405	geogName 7821 7829	rive Sud
+T406	name 7881 7885	Nord
+T407	geogName 7876 7885	rive Nord
+T408	name 7902 7909	Anglais
+T409	geogName 7893 7909	Banc des Anglais
+T410	name 7922 7932	Sagittaire
+T411	geogName 7914 7932	Banc du Sagittaire
+T412	name 7950 7957	Syzygie
+T413	geogName 7939 7957	Banc de la Syzygie
+T414	name 8133 8140	Micanje
+T415	geogName 8126 8140	Crique Micanje
+T416	name 8223 8231	Mouettes
+T417	geogName 8215 8231	Lac aux Mouettes
+T418	name 8258 8264	Bimbia
+T419	geogName 8250 8264	Rivière Bimbia
+T420	name 8293 8300	Matumal
+T421	geogName 8286 8300	Crique Matumal
+T422	name 8404 8410	Longji
+T423	geogName 8404 8410	Longji
+T424	name 8650 8656	Akosso
+T425	geogName 8643 8656	Pointe Akosso
+T426	name 8960 8978	Afrique de l’Ouest
+T427	geogName 8942 8978	Banque Centrale d’Afrique de l’Ouest
+R1	NorthNorthWestOf Arg1:T4 Arg2:T219	
+R2	SouthOf Arg1:T226 Arg2:T223	
+R3	SouthSouthWestOf Arg1:T10 Arg2:T11	
+R4	EastNorthEastOf Arg1:T237 Arg2:T235	
+T428	geogFeat 1041 1045	rive
+R5	WestSouthWestOf Arg1:T23 Arg2:T24	
+R6	ElementOf Arg1:T24 Arg2:T243	
+T429	geogFeat 1133 1139	entrée
+R7	NorthNorthEastOf Arg1:T28 Arg2:T29	
+R8	ElementOf Arg1:T249 Arg2:T251	
+R9	WestNorthWestOf Arg1:T249 Arg2:T37	
+R10	MarkedBy Arg1:T38 Arg2:T37	
+R11	EastNorthEastOf Arg1:T40 Arg2:T253	
+R12	NorthNorthEastOf Arg1:T39 Arg2:T253	
+R13	WestSouthWestOf Arg1:T42 Arg2:T255	
+R14	SouthWestOf Arg1:T42 Arg2:T255	
+R15	EastSouthEastOf Arg1:T45 Arg2:T259	
+R16	SouthSouthWestOf Arg1:T261 Arg2:T48	
+R17	SouthSouthEastOf Arg1:T50 Arg2:T267	
+R18	WestSouthWestOf Arg1:T265 Arg2:T263	
+T430	geogFeat 2387 2392	route
+R19	NorthNorthWestOf Arg1:T57 Arg2:T275	
+R20	WestSouthWestOf Arg1:T59 Arg2:T277	
+R21	ElementOf Arg1:T63 Arg2:T62	
+R22	WestNorthWestOf Arg1:T62 Arg2:T279	
+R23	ElementOf Arg1:T285 Arg2:T64	
+R24	ElementOf Arg1:T286 Arg2:T64	
+R25	ElementOf Arg1:T287 Arg2:T64	
+R26	ElementOf Arg1:T69 Arg2:T64	
+R27	SouthSouthEastOf Arg1:T285 Arg2:T281	
+R28	SouthSouthEastOf Arg1:T286 Arg2:T281	
+R29	SouthSouthEastOf Arg1:T287 Arg2:T281	
+R30	SouthSouthEastOf Arg1:T69 Arg2:T281	
+R31	MarkedBy Arg1:T289 Arg2:T70	
+R32	EastNorthEastOf Arg1:T79 Arg2:T304	
+R33	EastSouthEastOf Arg1:T82 Arg2:T306	
+R34	NorthNorthEastOf Arg1:T310 Arg2:T308	
+R35	SouthSouthWestOf Arg1:T88 Arg2:T312	
+R36	SouthSouthWestOf Arg1:T87 Arg2:T312	
+R37	NorthNorthEastOf Arg1:T92 Arg2:T93	
+R38	NorthNorthEastOf Arg1:T91 Arg2:T93	
+R39	NorthNorthWestOf Arg1:T94 Arg2:T95	
+R40	ElementOf Arg1:T98 Arg2:T97	
+R41	SouthWestOf Arg1:T320 Arg2:T99	
+R42	ElementOf Arg1:T324 Arg2:T322	
+R43	EastNorthEastOf Arg1:T328 Arg2:T330	
+R44	ElementOf Arg1:T110 Arg2:T111	
+R45	SouthSouthWestOf Arg1:T112 Arg2:T332	
+R46	SouthSouthEastOf Arg1:T336 Arg2:T334	
+R47	ElementOf Arg1:T116 Arg2:T338	
+R48	ElementOf Arg1:T118 Arg2:T338	
+R49	ElementOf Arg1:T121 Arg2:T120	
+R50	ElementOf Arg1:T122 Arg2:T120	
+R51	WestNorthWestOf Arg1:T127 Arg2:T126	
+R52	WestSouthWestOf Arg1:T127 Arg2:T126	
+R53	WestSouthWestOf Arg1:T128 Arg2:T126	
+R54	WestNorthWestOf Arg1:T128 Arg2:T126	
+T431	name 5635 5640	nº 29
+T432	geogName 5628 5640	balise nº 29
+R55	NorthNorthEastOf Arg1:T344 Arg2:T437	
+R56	EastSouthEastOf Arg1:T348 Arg2:T346	
+T433	name 5855 5859	Fako
+T434	geogName 5855 5859	Fako
+R57	SouthSouthWestOf Arg1:T351 Arg2:T434	
+R58	WestNorthWestOf Arg1:T139 Arg2:T140	
+R59	ElementOf Arg1:T140 Arg2:T356	
+T435	geogFeat 6195 6199	côte
+R60	SouthSouthEastOf Arg1:T143 Arg2:T360	
+R61	ElementOf Arg1:T362 Arg2:T358	
+R62	NorthOf Arg1:T364 Arg2:T147	
+R63	MarkedBy Arg1:T364 Arg2:T148	
+R64	NorthNorthWestOf Arg1:T148 Arg2:T149	
+R65	ElementOf Arg1:T151 Arg2:T150	
+R66	WestNorthWestOf Arg1:T150 Arg2:T164	
+R67	WestSouthWestOf Arg1:T366 Arg2:T374	
+R68	SouthSouthEastOf Arg1:T156 Arg2:T370	
+R69	ElementOf Arg1:T376 Arg2:T158	
+R70	ElementOf Arg1:T165 Arg2:T385	
+R71	NorthWestOf Arg1:T385 Arg2:T387	
+R72	WestSouthWestOf Arg1:T391 Arg2:T389	
+R73	SouthSouthEastOf Arg1:T393 Arg2:T170	
+R74	ElementOf Arg1:T397 Arg2:T174	
+R75	ElementOf Arg1:T396 Arg2:T174	
+R76	EastNorthEastOf Arg1:T397 Arg2:T176	
+R77	ElementOf Arg1:T178 Arg2:T399	
+R78	EastSouthEastOf Arg1:T403 Arg2:T402	
+R79	NorthNorthEastOf Arg1:T203 Arg2:T204	
+R80	SouthOf Arg1:T405 Arg2:T206	
+R81	NorthOf Arg1:T407 Arg2:T206	
+R82	WestNorthWestOf Arg1:T409 Arg2:T211	
+R83	WestOf Arg1:T411 Arg2:T211	
+R84	SouthWestOf Arg1:T413 Arg2:T211	
+R85	NorthNorthEastOf Arg1:T417 Arg2:T415	
+R86	NorthNorthWestOf Arg1:T419 Arg2:T415	
+R87	WestOf Arg1:T421 Arg2:T415	
+R88	WestNorthWestOf Arg1:T200 Arg2:T423	
+R89	SouthSouthEastOf Arg1:T198 Arg2:T199	
+R90	EastNorthEastOf Arg1:T196 Arg2:T197	
+R91	NorthOf Arg1:T195 Arg2:T197	
+R92	SouthSouthWestOf Arg1:T190 Arg2:T425	
+R93	ElementOf Arg1:T193 Arg2:T192	
+R94	MarkedBy Arg1:T192 Arg2:T194	
+R95	EastNorthEastOf Arg1:T184 Arg2:T189	
+T436	geogFeat 8942 8957	Banque Centrale
+R96	ElementOf Arg1:T183 Arg2:T427	
+R97	NorthNorthWestOf Arg1:T427 Arg2:T185	
+R98	ElementOf Arg1:T187 Arg2:T188	
+R99	ElementOf Arg1:T156 Arg2:T371	
+R100	ElementOf Arg1:T2 Arg2:T221	
+R101	ElementOf Arg1:T230 Arg2:T6	
+R102	ElementOf Arg1:T231 Arg2:T6	
+R103	ElementOf Arg1:T232 Arg2:T6	
+R104	ElementOf Arg1:T18 Arg2:T15	
+R105	EastSouthEastOf Arg1:T20 Arg2:T239	
+R106	ElementOf Arg1:T23 Arg2:T428	
+R107	ElementOf Arg1:T429 Arg2:T26	
+R108	EastNorthEastOf Arg1:T290 Arg2:T30	
+R109	NorthOf Arg1:T247 Arg2:T30	
+R110	ElementOf Arg1:T70 Arg2:T64	
+R111	SouthSouthEastOf Arg1:T70 Arg2:T64	
+T373	geogFeat 3552 3558	fleuve
+R112	ElementOf Arg1:T109 Arg2:T108	
+T437	geogName 5628 5656	balise nº 29 de Ponta Andila
+R113	EastNorthEastOf Arg1:T396 Arg2:T176	
+R114	OffTheCoastOf Arg1:T49 Arg2:T48	
+R115	EastNorthEastOf Arg1:T97 Arg2:T318	
+R116	SouthSouthWestOf Arg1:T97 Arg2:T318	
+R117	ElementOf Arg1:T185 Arg2:T186	

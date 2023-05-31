@@ -1,0 +1,31 @@
+T1	geogFeat 38 44	Pointe
+T2	geogFeat 112 130	ports 😄secondaires
+T3	geogFeat 174 179	Ports
+T4	geogFeat 240 250	embouchure
+T5	geogFeat 396 400	ÎLES
+T6	geogFeat 417 421	îles
+T7	geogFeat 464 478	port principal
+T8	geogFeat 515 520	Ports
+T9	geogFeat 696 701	CÔTES
+T10	geogFeat 815 821	entrée
+T11	geogFeat 834 839	River
+T12	name 22 28	GUYANE
+T13	name 46 55	Française
+T14	name 61 84	Saint-Laurent-du-Maroni
+T15	name 325 338	Saint-Laurent
+T16	name 404 409	SALUT
+T17	name 425 430	Salut
+T18	name 448 454	Guyane
+T19	name 705 712	SURINAM
+T20	name 825 833	Corentyn
+T21	geogName 22 28	GUYANE
+T22	geogName 38 55	Pointe 😄Française
+T23	geogName 61 84	Saint-Laurent-du-Maroni
+T24	geogName 325 338	Saint-Laurent
+T25	geogName 396 409	ÎLES DU SALUT
+T26	geogName 417 430	îles du Salut
+T27	geogName 448 454	Guyane
+T28	geogName 696 712	CÔTES DU SURINAM
+T29	geogName 825 839	Corentyn River
+R1	ElementOf Arg1:T26 Arg2:T27	
+R2	ElementOf Arg1:T10 Arg2:T29	

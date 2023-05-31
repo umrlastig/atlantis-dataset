@@ -1,0 +1,308 @@
+T1	geogFeat 3230 3246	chenal intérieur
+T2	geogFeat 212 230	chenaux intérieurs
+T3	geogFeat 4495 4513	chenaux intérieurs
+T4	geogFeat 12 17	Côtes
+T5	geogFeat 51 57	passes
+T6	geogFeat 95 109	récif-barrière
+T7	geogFeat 116 120	côte
+T8	geogFeat 152 157	lagon
+T9	geogFeat 258 261	île
+T10	geogFeat 270 275	passe
+T11	geogFeat 367 377	alignement
+T12	geogFeat 393 400	falaise
+T13	geogFeat 424 428	mont
+T14	geogFeat 454 460	maison
+T15	geogFeat 487 491	rive
+T16	geogFeat 503 507	baie
+T17	geogFeat 542 562	balise cardinale Est
+T18	geogFeat 584 590	pointe
+T19	geogFeat 630 635	Passe
+T20	geogFeat 653 658	passe
+T21	geogFeat 675 679	baie
+T22	geogFeat 705 714	mouillage
+T23	geogFeat 773 777	baie
+T24	geogFeat 888 892	rive
+T25	geogFeat 931 936	baies
+T26	geogFeat 995 1007	appontements
+T27	geogFeat 1021 1027	pointe
+T28	geogFeat 1046 1051	Marae
+T29	geogFeat 1073 1078	passe
+T30	geogFeat 1086 1091	passe
+T31	geogFeat 1152 1155	Île
+T32	geogFeat 1174 1177	île
+T33	geogFeat 1237 1247	alignement
+T34	geogFeat 1269 1273	mont
+T35	geogFeat 1299 1321	balise cardinale Ouest
+T36	geogFeat 1334 1340	rocher
+T37	geogFeat 1371 1377	pointe
+T38	geogFeat 1416 1421	Passe
+T39	geogFeat 1437 1448	hauts-fonds
+T40	geogFeat 1499 1505	rocher
+T41	geogFeat 1522 1527	passe
+T42	geogFeat 1550 1554	baie
+T43	geogFeat 1601 1611	mouillages
+T44	geogFeat 1666 1695	câble téléphonique sous-marin
+T45	geogFeat 1731 1737	entrée
+T46	geogFeat 1745 1749	baie
+T47	geogFeat 1810 1815	câble
+T48	geogFeat 1825 1829	baie
+T49	geogFeat 1925 1929	baie
+T50	geogFeat 2009 2024	pâtés de corail
+T51	geogFeat 2037 2048	appontement
+T52	geogFeat 2142 2146	ÎLES
+T53	geogFeat 2157 2161	ÎLES
+T54	geogFeat 2177 2181	ÎLES
+T55	geogFeat 2199 2203	baie
+T56	geogFeat 2253 2263	mouillages
+T57	geogFeat 2334 2339	passe
+T58	geogFeat 2369 2373	côte
+T59	geogFeat 2396 2420	passe principale d’accès
+T60	geogFeat 2451 2458	chenaux
+T61	geogFeat 2473 2476	île
+T62	geogFeat 2487 2493	chenal
+T63	geogFeat 2553 2559	chenal
+T64	geogFeat 2574 2577	île
+T65	geogFeat 2589 2592	île
+T66	geogFeat 2673 2692	alignement d’entrée
+T67	geogFeat 2720 2728	panneaux
+T68	geogFeat 2772 2775	feu
+T69	geogFeat 2814 2818	rive
+T70	geogFeat 2831 2835	baie
+T71	geogFeat 2846 2852	sommet
+T72	geogFeat 2874 2878	mont
+T73	geogFeat 2907 2917	alignement
+T74	geogFeat 2971 2976	passe
+T75	geogFeat 3012 3017	Passe
+T76	geogFeat 3122 3125	île
+T77	geogFeat 3196 3201	récif
+T78	geogFeat 3216 3219	île
+T79	geogFeat 3302 3330	balises latérales lumineuses
+T80	geogFeat 3336 3340	Motu
+T81	geogFeat 3347 3351	îlot
+T82	geogFeat 3431 3437	entrée
+T83	geogFeat 3447 3464	chenal secondaire
+T84	geogFeat 3542 3546	Motu
+T85	geogFeat 3599 3605	pointe
+T86	geogFeat 3636 3639	île
+T87	geogFeat 3652 3670	terrain d’aviation
+T88	geogFeat 3698 3710	récif côtier
+T89	geogFeat 3784 3788	ÎLES
+T90	geogFeat 3809 3816	passage
+T91	geogFeat 3835 3856	route normale d’accès
+T92	geogFeat 3882 3887	passe
+T93	geogFeat 3906 3910	côte
+T94	geogFeat 3922 3929	passage
+T95	geogFeat 3978 3982	Banc
+T96	geogFeat 3992 3997	récif
+T97	geogFeat 4037 4042	récif
+T98	geogFeat 4069 4075	pointe
+T99	geogFeat 4101 4133	balise cardinale Nord, lumineuse
+T100	geogFeat 4142 4149	passage
+T101	geogFeat 4186 4193	passage
+T102	geogFeat 4251 4258	passage
+T103	geogFeat 4288 4293	récif
+T104	geogFeat 4321 4346	balisage latéral lumineux
+T105	geogFeat 4425 4444	chenaux 😄intérieurs
+T106	geogFeat 4452 4455	île
+T107	geogFeat 4470 4476	routes
+T108	name 18 21	Est
+T109	name 25 29	Nord
+T110	name 33 40	Raiatea
+T111	name 121 124	Est
+T112	name 276 284	Teavamoa
+T113	name 286 289	Moa
+T114	name 429 437	Teaetapu
+T115	name 492 496	Nord
+T116	name 508 515	Hotopuu
+T117	name 592 600	Atiapiti
+T118	name 620 627	Raiatea
+T119	name 636 644	Teavamoa
+T120	name 680 687	Hotopuu
+T121	name 778 782	Opoa
+T122	name 1028 1036	Atiapiti
+T123	name 1052 1064	Taputapuatea
+T124	name 1079 1084	Iriru
+T125	name 1092 1097	Maire
+T126	name 1156 1161	Iriru
+T127	name 1179 1187	Tipaemau
+T128	geogFeat 1258 1261	pic
+T129	name 1262 1265	Sud
+T130	name 1274 1282	Maufenua
+T131	name 1341 1348	Nahurui
+T132	name 1378 1386	Maraeroa
+T133	name 1406 1413	Raiatea
+T134	name 1422 1427	Iriru
+T135	name 1506 1513	Nahurui
+T136	name 1528 1533	Iriru
+T137	name 1555 1561	Faaroa
+T138	name 1750 1756	Faaroa
+T139	name 1831 1840	Averarahi
+T140	name 1931 1939	Averaiti
+T141	name 2150 2154	VENT
+T142	name 2162 2174	SOUS-LE-VENT
+T143	name 2182 2191	AUSTRALES
+T144	name 2204 2211	Vairahi
+T145	name 2340 2349	Teavapiti
+T146	name 2351 2359	Teavarua
+T147	name 2374 2376	NE
+T148	name 2380 2387	Raiatea
+T149	name 2423 2429	Uturoa
+T150	name 2477 2482	Taoru
+T151	name 2494 2497	Sud
+T152	name 2560 2564	Nord
+T153	name 2578 2583	Taoru
+T154	name 2593 2600	Ofetaro
+T155	name 2819 2824	Ouest
+T156	name 2836 2841	Tepua
+T157	name 2880 2888	Momoarea
+T158	name 3002 3009	Raiatea
+T159	name 3018 3027	Teavapiti
+T160	name 3126 3133	Ofetaro
+T161	name 3220 3225	Taoru
+T164	name 3252 3258	Uturoa
+T165	name 3341 3345	Aito
+T166	name 3390 3396	Uturoa
+T167	name 3438 3441	Sud
+T168	name 3532 3539	Raiatea
+T169	name 3547 3551	Aito
+T170	name 3606 3614	Motutapu
+T171	name 3789 3801	SOUS-LE-VENT
+T172	name 3817 3827	Tearearahi
+T173	name 3859 3865	Uturoa
+T174	name 3888 3897	Rautoanui
+T175	name 3912 3917	Ouest
+T176	name 3972 3977	Grand
+T177	name 3983 3990	Central
+T178	name 3998 4007	Teruaheve
+T179	name 4076 4084	Motutapu
+T180	name 4150 4162	Teareanainai
+T181	name 4194 4204	Tearearahi
+T182	name 4259 4262	Est
+T183	name 4266 4275	Teruaheve
+T184	name 4400 4406	Uturoa
+T185	name 4457 4462	Tahaa
+T186	geogName 12 29	Côtes Est et Nord
+T188	geogName 33 40	Raiatea
+T189	geogName 116 124	côte Est
+T190	geogName 270 284	passe Teavamoa
+T191	geogName 286 289	Moa
+T192	geogName 424 437	mont Teaetapu
+T193	geogName 503 515	baie Hotopuu
+T194	geogName 487 496	rive Nord
+T195	geogName 584 600	pointe 😍Atiapiti
+T196	geogName 620 627	Raiatea
+T197	geogName 630 644	Passe Teavamoa
+T198	geogName 675 687	baie Hotopuu
+T199	geogName 773 782	baie Opoa
+T200	geogName 1021 1036	pointe Atiapiti
+T201	geogName 1046 1064	Marae Taputapuatea
+T202	geogName 1073 1084	passe Iriru
+T203	geogName 1086 1097	passe Maire
+T204	geogName 1152 1161	Île Iriru
+T205	geogName 1174 1187	île 😍Tipaemau
+T206	geogName 1258 1265	pic Sud
+T207	geogName 1269 1282	mont Maufenua
+T208	geogName 1334 1348	rocher Nahurui
+T209	geogName 1371 1386	pointe Maraeroa
+T210	geogName 1406 1413	Raiatea
+T211	geogName 1416 1427	Passe Iriru
+T212	geogName 1499 1513	rocher Nahurui
+T213	geogName 1522 1533	passe Iriru
+T214	geogName 1550 1561	baie Faaroa
+T215	geogName 1745 1756	baie Faaroa
+T216	geogName 1825 1840	baie 😄Averarahi
+T217	geogName 1925 1939	baie 😄Averaiti
+T218	geogName 2142 2154	ÎLES DU VENT
+T219	geogName 2157 2174	ÎLES SOUS-LE-VENT
+T220	geogName 2177 2191	ÎLES AUSTRALES
+T221	geogName 2199 2211	baie Vairahi
+T222	geogName 2334 2349	passe Teavapiti
+T223	geogName 2351 2359	Teavarua
+T224	geogName 2369 2376	côte NE
+T225	geogName 2380 2387	Raiatea
+T226	geogName 2423 2429	Uturoa
+T227	geogName 2473 2482	île Taoru
+T228	geogName 2487 2497	chenal Sud
+T229	geogName 2553 2564	chenal Nord
+T230	geogName 2574 2583	île Taoru
+T231	geogName 2589 2600	île Ofetaro
+T232	geogName 2814 2824	rive Ouest
+T233	geogName 2831 2841	baie Tepua
+T234	geogName 2874 2888	mont 😍Momoarea
+T235	geogName 3002 3009	Raiatea
+T236	geogName 3012 3027	Passe Teavapiti
+T238	geogName 3122 3133	île Ofetaro
+T239	geogName 3216 3225	île Taoru
+T240	geogName 3252 3258	Uturoa
+T241	geogName 3336 3345	Motu Aito
+T242	geogName 3390 3396	Uturoa
+T243	geogName 3431 3441	entrée Sud
+T244	geogName 3532 3539	Raiatea
+T245	geogName 3542 3551	Motu Aito
+T246	geogName 3599 3614	pointe Motutapu
+T247	geogName 3784 3801	ÎLES SOUS-LE-VENT
+T248	geogName 3809 3827	passage Tearearahi
+T249	geogName 3859 3865	Uturoa
+T250	geogName 3882 3897	passe Rautoanui
+T251	geogName 3972 3990	Grand Banc Central
+T252	geogName 3992 4007	récif Teruaheve
+T253	geogName 4069 4084	pointe Motutapu
+T254	geogName 4142 4162	passage Teareanainai
+T255	geogName 4186 4204	passage Tearearahi
+T256	geogName 4251 4262	passage Est
+T257	geogName 4251 4275	passage Est de Teruaheve
+T258	geogName 4400 4406	Uturoa
+T259	geogName 4452 4462	île 😄Tahaa
+T260	geogFeat 2617 2642	balisage latéral lumineux
+T261	geogFeat 4470 4490	routes 😍recommandées
+R1	ElementOf Arg1:T186 Arg2:T188	
+R2	ElementOf Arg1:T12 Arg2:T11	
+T187	geogFeat 408 415	versant
+T262	name 416 420	Nord
+T263	geogName 408 420	versant Nord
+R3	ElementOf Arg1:T263 Arg2:T192	
+R4	ElementOf Arg1:T12 Arg2:T263	
+R5	ElementOf Arg1:T14 Arg2:T11	
+R6	ElementOf Arg1:T14 Arg2:T194	
+R7	NorthOf Arg1:T194 Arg2:T193	
+R8	EastOf Arg1:T17 Arg2:T195	
+R9	ElementOf Arg1:T22 Arg2:T198	
+R10	NorthOf Arg1:T199 Arg2:T198	
+T264	name 893 896	Sud
+T265	geogName 888 896	rive Sud
+R11	SouthOf Arg1:T265 Arg2:T199	
+R12	SouthOf Arg1:T204 Arg2:T202	
+R13	NorthOf Arg1:T205 Arg2:T202	
+R14	ElementOf Arg1:T206 Arg2:T33	
+R15	ElementOf Arg1:T206 Arg2:T207	
+R16	MarkedBy Arg1:T208 Arg2:T35	
+R17	ElementOf Arg1:T35 Arg2:T33	
+R18	NorthNorthEastOf Arg1:T208 Arg2:T209	
+R19	EastOf Arg1:T39 Arg2:T212	
+R20	ElementOf Arg1:T43 Arg2:T214	
+R21	ElementOf Arg1:T45 Arg2:T215	
+R22	ElementOf Arg1:T50 Arg2:T217	
+R23	ElementOf Arg1:T51 Arg2:T217	
+R24	ElementOf Arg1:T56 Arg2:T221	
+R25	ElementOf Arg1:T224 Arg2:T225	
+R26	ElementOf Arg1:T60 Arg2:T222	
+R27	MarkedBy Arg1:T229 Arg2:T260	
+R28	ElementOf Arg1:T68 Arg2:T67	
+R29	ElementOf Arg1:T67 Arg2:T232	
+R30	WestOf Arg1:T232 Arg2:T233	
+R31	ElementOf Arg1:T67 Arg2:T66	
+R32	ElementOf Arg1:T71 Arg2:T234	
+R33	ElementOf Arg1:T71 Arg2:T73	
+R34	MarkedBy Arg1:T1 Arg2:T79	
+R35	NorthOf Arg1:T241 Arg2:T242	
+R36	ElementOf Arg1:T243 Arg2:T83	
+R37	WestOf Arg1:T241 Arg2:T243	
+R38	ElementOf Arg1:T246 Arg2:T86	
+R39	ElementOf Arg1:T87 Arg2:T88	
+T162	geogName 3906 3917	côte 😍Ouest
+R40	NorthOf Arg1:T251 Arg2:T94	
+R41	SouthOf Arg1:T97 Arg2:T94	
+R42	MarkedBy Arg1:T97 Arg2:T99	
+R43	SouthOf Arg1:T254 Arg2:T255	
+R44	EastOf Arg1:T257 Arg2:T103	
+R45	MarkedBy Arg1:T257 Arg2:T104	

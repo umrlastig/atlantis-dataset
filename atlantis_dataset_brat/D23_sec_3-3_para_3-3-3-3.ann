@@ -1,0 +1,11 @@
+T1	geogFeat 25 30	passe
+T2	geogFeat 82 96	feu de tribord
+T3	geogFeat 149 162	feu de bâbord
+T4	geogFeat 179 185	rocher
+T5	geogFeat 222 228	musoir
+T6	geogFeat 235 240	jetée
+R1	MarkedBy Arg1:T1 Arg2:T2	
+T7	geogFeat 123 138	feu de 😍guidage
+R3	MarkedBy Arg1:T1 Arg2:T3	
+R4	ElementOf Arg1:T5 Arg2:T6	
+R5	ElementOf Arg1:T3 Arg2:T4	

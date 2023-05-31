@@ -1,0 +1,17 @@
+T1	geogFeat 14 18	Îles
+T2	geogFeat 20 25	bancs
+T3	geogFeat 27 34	dangers
+T4	geogFeat 116 119	île
+T5	geogFeat 179 183	zone
+T6	geogFeat 192 196	banc
+T7	geogFeat 251 281	zone d’hydrographie incertaine
+T8	geogFeat 311 317	Pointe
+T9	geogFeat 371 382	hauts-fonds
+T10	geogFeat 398 402	zone
+T11	name 323 327	Nord
+T12	geogName 311 327	Pointe 😄du 😄Nord
+T13	geogFeat 229 232	île
+R1	SouthWestOf Arg1:T6 Arg2:T13	
+R2	ElementOf Arg1:T9 Arg2:T10	
+R3	NorthOf Arg1:T9 Arg2:T12	
+R4	EastOf Arg1:T9 Arg2:T12	

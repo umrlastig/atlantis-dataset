@@ -1,0 +1,98 @@
+T1	geogFeat 12 16	Îles
+T2	geogFeat 18 23	bancs
+T3	geogFeat 25 40	dangers côtiers
+T4	geogFeat 49 60	hauts-fonds
+T5	geogFeat 75 89	plateau côtier
+T6	geogFeat 171 178	Plateau
+T7	geogFeat 210 215	ville
+T8	geogFeat 232 236	côte
+T9	geogFeat 288 293	récif
+T10	geogFeat 379 387	collines
+T12	geogFeat 488 495	Plateau
+T14	geogFeat 586 590	côte
+T15	geogFeat 613 617	îles
+T16	geogFeat 633 640	dangers
+T17	geogFeat 656 661	zones
+T18	geogFeat 675 693	récifs découvrants
+T19	geogFeat 705 716	hauts-fonds
+T20	geogFeat 720 727	dangers
+T22	geogFeat 811 818	Plateau
+T23	geogFeat 831 834	Île
+T24	geogFeat 887 899	récif côtier
+T26	geogFeat 978 985	rochers
+T27	geogFeat 1012 1042	zone interdite à la navigation
+T28	geogFeat 1085 1088	île
+T29	geogFeat 1123 1126	Île
+T30	geogFeat 1182 1188	récifs
+T31	geogFeat 1273 1276	Ras
+T33	geogFeat 1416 1420	Baie
+T34	geogFeat 1491 1503	récif côtier
+T35	geogFeat 1543 1547	côte
+T36	geogFeat 1602 1606	Baie
+T37	geogFeat 1682 1686	baie
+T38	geogFeat 1711 1717	entrée
+T39	geogFeat 1783 1790	dangers
+T40	geogFeat 1815 1845	zone interdite à la navigation
+T41	geogFeat 1857 1861	côte
+T42	geogFeat 1915 1918	Ras
+T43	geogFeat 1939 1943	banc
+T44	geogFeat 2069 2074	récif
+T45	geogFeat 2092 2097	Récif
+T46	geogFeat 2076 2081	Shaab
+T47	geogFeat 2120 2124	banc
+T48	name 101 109	Djibouti
+T49	name 182 187	Héron
+T50	name 219 227	Djibouti
+T51	name 499 504	Héron
+T52	name 526 532	Saylac
+T53	name 822 827	Héron
+T54	name 835 844	Ouaramous
+T55	name 1127 1136	Ouaramous
+T56	name 1138 1152	Moidubis Kébir
+T57	name 1156 1171	Moidubis Séghir
+T58	name 1256 1271	Moidubis Séghir
+T59	name 1277 1285	Gumarlah
+T60	geogFeat 1392 1395	Ras
+T61	name 1396 1404	Gumarlah
+T62	name 1421 1431	Dalwakteak
+T63	name 1607 1617	Dalwakteak
+T64	name 1864 1870	Loyada
+T65	name 1919 1927	Gumarlah
+T66	name 2082 2090	Turuxaad
+T67	name 2098 2105	Turuhat
+T68	geogName 101 109	Djibouti
+T69	geogName 171 187	Plateau du Héron
+T70	geogName 210 227	ville de Djibouti
+T71	geogName 488 504	Plateau du Héron
+T72	geogName 526 532	Saylac
+T73	geogName 811 827	Plateau du Héron
+T74	geogName 831 844	Île Ouaramous
+T75	geogName 1123 1136	Île Ouaramous
+T76	geogName 1138 1152	Moidubis Kébir
+T77	geogName 1156 1171	Moidubis Séghir
+T78	geogName 1256 1271	Moidubis Séghir
+T79	geogName 1273 1285	Ras Gumarlah
+T80	geogName 1392 1404	Ras Gumarlah
+T81	geogName 1416 1431	Baie Dalwakteak
+T82	geogName 1602 1617	Baie Dalwakteak
+T83	geogName 1864 1870	Loyada
+T84	geogName 1915 1927	Ras Gumarlah
+T85	geogName 2076 2090	Shaab Turuxaad
+T86	geogName 2092 2105	Récif Turuhat
+T11	geogFeat 1332 1337	bande
+T13	geogFeat 931 936	bande
+T21	geogFeat 1664 1673	mouillage
+R1	ElementOf Arg1:T4 Arg2:T5	
+R2	EastOf Arg1:T5 Arg2:T68	
+R3	ElementOf Arg1:T18 Arg2:T17	
+R4	SouthSouthEastOf Arg1:T74 Arg2:T73	
+R5	ElementOf Arg1:T74 Arg2:T24	
+R6	EastNorthEastOf Arg1:T76 Arg2:T75	
+R7	EastSouthEastOf Arg1:T77 Arg2:T75	
+R8	SouthSouthEastOf Arg1:T79 Arg2:T78	
+R9	WestOf Arg1:T81 Arg2:T80	
+R10	ElementOf Arg1:T21 Arg2:T37	
+R11	SouthEastOf Arg1:T43 Arg2:T84	
+R12	NorthOf Arg1:T8 Arg2:T70	
+R13	SouthEastOf Arg1:T8 Arg2:T69	
+R14	NorthOf Arg1:T27 Arg2:T28	

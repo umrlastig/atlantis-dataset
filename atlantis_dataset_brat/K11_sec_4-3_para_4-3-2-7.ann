@@ -1,0 +1,89 @@
+T1	geogFeat 12 16	Baie
+T2	geogFeat 30 34	baie
+T3	geogFeat 134 143	montagnes
+T4	geogFeat 218 223	passe
+T5	geogFeat 278 284	récifs
+T6	geogFeat 289 293	Motu
+T7	geogFeat 312 316	Motu
+T8	geogFeat 338 341	axe
+T9	geogFeat 348 353	passe
+T10	geogFeat 383 390	pylônes
+T11	geogFeat 443 450	falaise
+T12	geogFeat 492 497	Passe
+T13	geogFeat 508 518	Alignement
+T14	geogFeat 549 553	baie
+T15	geogFeat 559 565	récifs
+T16	geogFeat 583 589	pointe
+T17	geogFeat 614 618	côte
+T18	geogFeat 629 636	village
+T19	geogFeat 677 694	balises latérales
+T20	geogFeat 816 826	alignement
+T21	geogFeat 842 849	balises
+T22	geogFeat 865 869	baie
+T23	geogFeat 887 897	alignement
+T24	geogFeat 909 924	mât de pavillon
+T25	geogFeat 931 937	pointe
+T26	geogFeat 954 977	balise latérale tribord
+T27	geogFeat 992 998	pointe
+T28	geogFeat 1028 1032	Baie
+T29	geogFeat 1044 1054	Alignement
+T30	geogFeat 1093 1104	appontement
+T31	geogFeat 1108 1115	village
+T32	geogFeat 1137 1143	temple
+T33	geogFeat 1164 1169	darse
+T34	geogFeat 1178 1184	pointe
+T35	geogFeat 1207 1222	mât de pavillon
+T36	geogFeat 1296 1300	ÎLES
+T37	geogFeat 1311 1315	ÎLES
+T38	geogFeat 1331 1335	ÎLES
+T39	name 17 22	Maroe
+T40	name 35 40	Maroe
+T41	name 224 231	Farerea
+T42	name 294 300	Topati
+T43	name 317 326	Vavaratea
+T44	name 482 489	Huahine
+T45	name 498 505	Farerea
+T46	name 590 598	Maueorio
+T47	name 640 645	Maroe
+T48	name 873 880	Puravai
+T49	name 938 946	Maueorio
+T50	name 1018 1025	Huahine
+T51	name 1036 1041	Maroe
+T52	name 1119 1124	Maroe
+T53	name 1185 1193	Maueorio
+T54	name 1304 1308	VENT
+T55	name 1316 1328	SOUS-LE-VENT
+T56	name 1336 1345	AUSTRALES
+T57	geogName 12 22	Baie Maroe
+T58	geogName 30 40	baie Maroe
+T59	geogName 218 231	passe Farerea
+T60	geogName 289 300	Motu Topati
+T61	geogName 312 326	Motu Vavaratea
+T62	geogName 482 489	Huahine
+T63	geogName 492 505	Passe Farerea
+T64	geogName 583 598	pointe Maueorio
+T65	geogName 629 645	village de Maroe
+T66	geogName 931 946	pointe Maueorio
+T67	geogName 1018 1025	Huahine
+T68	geogName 1028 1041	Baie de Maroe
+T69	geogName 865 880	baie de Puravai
+T70	geogName 1108 1124	village de Maroe
+T71	geogName 1178 1193	pointe Maueorio
+T72	geogName 1296 1308	ÎLES DU VENT
+T73	geogName 1311 1328	ÎLES SOUS-LE-VENT
+T74	geogName 1331 1345	ÎLES AUSTRALES
+T75	geogFeat 700 709	Mouillage
+R1	ElementOf Arg1:T5 Arg2:T60	
+R2	SouthOf Arg1:T5 Arg2:T59	
+R3	NorthOf Arg1:T61 Arg2:T59	
+R4	ElementOf Arg1:T8 Arg2:T9	
+R5	MarkedBy Arg1:T8 Arg2:T10	
+R6	ElementOf Arg1:T15 Arg2:T14	
+R7	MarkedBy Arg1:T15 Arg2:T19	
+R8	MarkedBy Arg1:T17 Arg2:T19	
+R9	ElementOf Arg1:T21 Arg2:T20	
+R10	ElementOf Arg1:T21 Arg2:T69	
+R11	ElementOf Arg1:T24 Arg2:T66	
+R12	ElementOf Arg1:T24 Arg2:T23	
+R13	ElementOf Arg1:T26 Arg2:T23	
+R14	ElementOf Arg1:T26 Arg2:T66	

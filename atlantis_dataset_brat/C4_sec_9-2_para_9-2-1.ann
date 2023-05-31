@@ -1,0 +1,126 @@
+T1	geogFeat 10 14	Côte
+T2	geogFeat 31 41	presqu’île
+T4	geogFeat 61 64	cap
+T5	geogFeat 122 126	côte
+T6	geogFeat 164 172	collines
+T7	geogFeat 237 241	côte
+T8	geogFeat 251 261	presqu’île
+T9	geogFeat 266 273	colline
+T10	geogFeat 304 309	phare
+T11	geogFeat 356 360	tour
+T12	geogFeat 409 416	colline
+T13	geogFeat 426 434	monument
+T14	geogFeat 503 511	monument
+T15	geogFeat 631 634	cap
+T16	geogFeat 789 794	phare
+T17	geogFeat 819 828	parallèle
+T18	geogFeat 844 849	phare
+T19	geogFeat 992 996	côte
+T20	geogFeat 1078 1081	cap
+T21	geogFeat 1127 1136	haut-fond
+T22	geogFeat 1201 1204	île
+T23	geogFeat 1221 1224	île
+T24	geogFeat 1347 1353	pointe
+T25	geogFeat 1401 1404	île
+T26	geogFeat 1479 1483	îles
+T27	geogFeat 1501 1505	anse
+T28	geogFeat 1529 1534	crête
+T29	geogFeat 1577 1581	anse
+T30	geogFeat 1598 1604	roches
+T31	geogFeat 1715 1718	cap
+T32	geogFeat 1757 1762	phare
+T33	geogFeat 1796 1800	tour
+T34	geogFeat 1827 1834	maisons
+T35	geogFeat 1846 1850	haut
+T36	geogFeat 1896 1900	banc
+T37	geogFeat 1965 1969	banc
+T38	geogFeat 2043 2046	CAP
+T39	geogFeat 2057 2063	POINTE
+T40	geogFeat 2071 2075	BAIE
+T41	geogFeat 2115 2127	pylône radio
+T42	geogFeat 2193 2196	cap
+T43	geogFeat 2217 2220	cap
+T44	geogFeat 2265 2270	phare
+T45	geogFeat 2274 2277	cap
+T46	geogFeat 2295 2308	feu principal
+T47	geogFeat 2315 2329	feu auxiliaire
+T48	geogFeat 2333 2336	île
+T49	geogFeat 2368 2375	secteur
+T50	geogFeat 2401 2415	feu auxiliaire
+T51	geogFeat 2427 2432	phare
+T52	geogFeat 2445 2449	feux
+T53	geogFeat 2458 2465	secteur
+T54	name 15 24	Sud-Ouest
+T55	name 45 53	cap Vert
+T56	name 65 69	Vert
+T57	name 140 152	Les Mamelles
+T58	name 314 322	Mamelles
+T59	name 441 465	renaissance de l’Afrique
+T60	name 635 639	Vert
+T61	name 799 807	Mamelles
+T62	name 1015 1019	Fann
+T63	geogFeat 1005 1011	pointe
+T64	name 1082 1086	Vert
+T65	name 1209 1219	Madeleines
+T66	name 1229 1237	Serpents
+T67	name 1359 1363	Fann
+T68	name 1406 1412	Lougne
+T69	geogFeat 1449 1455	rocher
+T70	name 1510 1520	Madeleines
+T71	name 1719 1725	Manuel
+T72	name 1901 1907	Manuel
+T73	name 1970 1977	Lequéré
+T74	name 2047 2051	VERT
+T75	name 2064 2069	ROUGE
+T76	name 2079 2084	GORÉE
+T77	name 2221 2227	Manuel
+T78	name 2278 2284	Manuel
+T79	name 2341 2351	Madeleines
+T80	geogName 10 24	Côte Sud-Ouest
+T81	geogName 31 53	presqu’île du cap Vert
+T3	geogName 61 69	cap Vert
+T82	geogName 140 152	Les Mamelles
+T83	geogName 304 322	phare des Mamelles
+T84	geogName 426 465	monument de la renaissance de l’Afrique
+T85	geogName 631 639	cap Vert
+T86	geogName 789 807	phare des Mamelles
+T87	geogName 1005 1019	pointe de Fann
+T88	geogName 1078 1086	cap Vert
+T89	geogName 1201 1219	île des Madeleines
+T90	geogName 1221 1237	île des Serpents
+T91	geogName 1347 1363	pointe 😄de 😄Fann
+T92	geogName 1401 1412	île 😄Lougne
+T93	geogName 1501 1520	anse des Madeleines
+T94	geogName 1715 1725	cap Manuel
+T95	geogName 1896 1907	banc Manuel
+T96	geogName 1965 1977	banc Lequéré
+T97	geogName 2043 2051	CAP VERT
+T98	geogName 2057 2069	POINTE ROUGE
+T99	geogName 2071 2084	BAIE DE GORÉE
+T100	geogName 2217 2227	cap Manuel
+T101	geogName 2274 2284	cap Manuel
+T102	geogName 2265 2284	phare de cap Manuel
+T103	geogName 2333 2351	île des Madeleines
+T104	name 242 244	SW
+T105	geogName 237 244	côte SW
+R1	ElementOf Arg1:T3 Arg2:T5	
+R2	ElementOf Arg1:T105 Arg2:T8	
+R3	ElementOf Arg1:T83 Arg2:T9	
+R4	ElementOf Arg1:T11 Arg2:T83	
+R5	ElementOf Arg1:T84 Arg2:T12	
+R6	ElementOf Arg1:T18 Arg2:T17	
+R7	SouthSouthEastOf Arg1:T87 Arg2:T88	
+R8	SouthOf Arg1:T89 Arg2:T91	
+R9	SouthWestOf Arg1:T21 Arg2:T87	
+R10	SouthOf Arg1:T92 Arg2:T89	
+R11	ElementOf Arg1:T30 Arg2:T29	
+R13	ElementOf Arg1:T33 Arg2:T32	
+R14	ElementOf Arg1:T35 Arg2:T34	
+R16	WestSouthWestOf Arg1:T95 Arg2:T94	
+R17	EastNorthEastOf Arg1:T96 Arg2:T94	
+R18	NorthOf Arg1:T41 Arg2:T42	
+R19	ElementOf Arg1:T46 Arg2:T102	
+R20	ElementOf Arg1:T47 Arg2:T102	
+R21	ElementOf Arg1:T103 Arg2:T49	
+R22	ElementOf Arg1:T52 Arg2:T51	
+R12	MarkedBy Arg1:T94 Arg2:T32	

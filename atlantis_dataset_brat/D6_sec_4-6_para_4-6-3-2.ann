@@ -1,0 +1,55 @@
+T1	geogFeat 15 18	Ras
+T2	geogFeat 38 43	phare
+T3	geogFeat 76 79	Ras
+T4	geogFeat 88 91	Ras
+T5	geogFeat 177 180	cap
+T6	geogFeat 195 200	épave
+T7	geogFeat 209 222	port de pêche
+T8	geogFeat 280 283	Ras
+T9	geogFeat 332 336	îlot
+T10	geogFeat 353 357	îlot
+T11	geogFeat 398 404	rivage
+T12	geogFeat 420 426	balise
+T13	geogFeat 490 495	piton
+T14	geogFeat 535 541	signal
+T15	geogFeat 636 641	phare
+T16	geogFeat 652 656	tour
+T17	geogFeat 672 680	lanterne
+T18	geogFeat 726 730	côte
+T19	geogFeat 810 819	FRONTIÈRE
+T20	name 19 26	Magroua
+T21	name 47 52	Nadji
+T22	name 80 86	Kramis
+T23	name 92 99	Magroua
+T25	geogFeat 101 104	cap
+T24	name 105 112	Magrowa
+T26	name 284 291	Magroua
+T27	name 337 344	Colombi
+T28	geogFeat 317 324	Hadjrat
+T29	name 325 330	Nadji
+T30	geogFeat 618 625	Hadjrat
+T31	name 626 631	Nadji
+T32	name 645 650	Nadji
+T33	name 823 828	MAROC
+T34	name 831 836	ALGER
+T35	geogName 15 26	Ras Magroua
+T36	geogName 38 52	phare de Nadji
+T37	geogName 76 86	Ras Kramis
+T38	geogName 88 99	Ras Magroua
+T39	geogName 101 112	cap Magrowa
+T40	geogName 280 291	Ras Magroua
+T41	geogName 317 330	Hadjrat Nadji
+T42	geogName 332 344	îlot Colombi
+T43	geogName 618 631	Hadjrat Nadji
+T44	geogName 636 650	phare de Nadji
+T45	geogName 810 828	FRONTIÈRE DU MAROC
+T46	geogName 831 836	ALGER
+R1	EastNorthEastOf Arg1:T38 Arg2:T37	
+R2	EastNorthEastOf Arg1:T6 Arg2:T5	
+R3	EastNorthEastOf Arg1:T7 Arg2:T40	
+R4	NorthWestOf Arg1:T41 Arg2:T11	
+R5	ElementOf Arg1:T12 Arg2:T41	
+R6	ElementOf Arg1:T14 Arg2:T13	
+R7	EastNorthEastOf Arg1:T44 Arg2:T43	
+R8	ElementOf Arg1:T16 Arg2:T44	
+R9	ElementOf Arg1:T17 Arg2:T16	

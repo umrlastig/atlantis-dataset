@@ -1,0 +1,13 @@
+T1	geogFeat 28 42	axe d’approche
+T2	geogFeat 75 82	secteur
+T3	geogFeat 106 120	feu de guidage
+T4	geogFeat 134 140	musoir
+T5	geogFeat 147 152	jetée
+T6	geogFeat 157 171	chenal d’accès
+T7	geogFeat 202 230	bouées latérales, lumineuses
+T8	geogFeat 279 293	passe d’entrée
+T9	geogFeat 308 313	porte
+R1	ElementOf Arg1:T1 Arg2:T2	
+R3	ElementOf Arg1:T3 Arg2:T4	
+R4	ElementOf Arg1:T4 Arg2:T5	
+R5	MarkedBy Arg1:T6 Arg2:T7	

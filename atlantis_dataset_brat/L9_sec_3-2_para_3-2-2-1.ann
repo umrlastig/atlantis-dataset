@@ -1,0 +1,20 @@
+T1	geogFeat 31 37	chenal
+T2	geogFeat 55 58	île
+T3	geogFeat 81 85	îles
+T4	geogFeat 129 132	île
+T5	geogFeat 189 202	zone à éviter
+T6	geogFeat 245 249	ÎLES
+T7	geogFeat 253 260	DANGERS
+T8	name 59 69	Assomption
+T9	name 86 93	Aldabra
+T10	name 135 145	Assomption
+T11	name 291 301	MADAGASCAR
+T12	geogName 55 69	île Assomption
+T13	geogName 81 93	îles Aldabra
+T14	geogName 129 145	île 😄😍Assomption
+T15	geogName 291 301	MADAGASCAR
+R1	ElementOf Arg1:T14 Arg2:T5	
+R2	NorthWestOf Arg1:T7 Arg2:T15	
+R3	NorthWestOf Arg1:T6 Arg2:T15	
+R4	WestOf Arg1:T6 Arg2:T15	
+R5	WestOf Arg1:T7 Arg2:T15	

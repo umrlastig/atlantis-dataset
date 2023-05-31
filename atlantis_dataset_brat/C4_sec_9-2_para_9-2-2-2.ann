@@ -1,0 +1,104 @@
+T1	geogFeat 18 24	pointe
+T2	geogFeat 47 53	pointe
+T3	geogFeat 67 73	pointe
+T4	geogFeat 126 130	anse
+T5	geogFeat 206 210	banc
+T6	geogFeat 281 286	jetée
+T7	geogFeat 340 346	pointe
+T8	geogFeat 363 387	bouée de marque spéciale
+T9	geogFeat 452 458	musoir
+T10	geogFeat 468 473	jetée
+T11	geogFeat 489 495	épaves
+T12	geogFeat 557 563	pointe
+T13	geogFeat 582 586	anse
+T14	geogFeat 596 600	baie
+T16	geogFeat 684 690	rivage
+T17	geogFeat 700 736	terminaux pétroliers et à ammoniaque
+T18	geogFeat 797 802	ville
+T19	geogFeat 841 848	marigot
+T20	geogFeat 889 899	raffinerie
+T21	geogFeat 908 912	banc
+T22	geogFeat 990 1007	roche découvrante
+T23	geogFeat 1082 1086	banc
+T24	geogFeat 1130 1139	haut-fond
+T25	geogFeat 1178 1185	rochers
+T26	geogFeat 1307 1315	centrale
+T27	geogFeat 1321 1328	rochers
+T28	geogFeat 1350 1369	bouée cardinale Sud
+T29	geogFeat 1410 1416	pointe
+T30	geogFeat 1450 1466	balise lumineuse
+T31	geogFeat 1503 1508	ville
+T32	geogFeat 1545 1551	pointe
+T33	geogFeat 1594 1598	banc
+T34	geogFeat 1689 1695	pointe
+T35	geogFeat 1738 1741	CAP
+T36	geogFeat 1752 1758	POINTE
+T37	geogFeat 1766 1770	BAIE
+T38	geogFeat 1792 1796	rade
+T39	geogFeat 1876 1880	côte
+T40	geogFeat 1961 1965	rade
+T41	geogFeat 2059 2063	port
+T42	name 28 35	Bel-Air
+T43	name 54 59	Rouge
+T44	name 77 84	Bel-Air
+T45	name 134 138	Hann
+T46	name 214 221	Bel-Air
+T47	name 350 357	Bel-Air
+T48	name 567 574	Bel-Air
+T49	name 590 594	Hann
+T50	name 604 608	Hann
+T51	name 740 744	Mbaw
+T52	name 746 750	Mbao
+T53	name 808 812	Mbaw
+T54	name 919 926	Résolue
+T55	name 1069 1073	Mbaw
+T56	name 1090 1098	Rufisque
+T57	name 1187 1194	Saï-Saï
+T58	name 1420 1428	Rufisque
+T59	name 1514 1522	Rufisque
+T60	name 1602 1608	Bargny
+T61	name 1701 1709	Rufisque
+T62	name 1742 1746	VERT
+T63	name 1759 1764	ROUGE
+T64	name 1774 1779	GORÉE
+T65	name 1800 1808	Rufisque
+T66	name 2067 2075	Rufisque
+T67	geogName 18 35	pointe de Bel-Air
+T68	geogName 47 59	pointe Rouge
+T69	geogName 67 84	pointe de Bel-Air
+T70	geogName 126 138	anse de Hann
+T71	geogName 206 221	banc de Bel-Air
+T72	geogName 340 357	pointe de Bel-Air
+T73	geogName 557 574	pointe de Bel-Air
+T74	geogName 582 594	anse de Hann
+T75	geogName 596 608	baie de Hann
+T76	geogName 700 744	terminaux pétroliers et à ammoniaque de Mbaw
+T77	geogName 746 750	Mbao
+T78	geogName 797 812	ville 😄😍de Mbaw
+T79	geogName 908 926	banc de la Résolue
+T80	geogName 1069 1073	Mbaw
+T81	geogName 1082 1098	banc de Rufisque
+T82	geogName 1178 1194	rochers 😍Saï-Saï
+T83	geogName 1410 1428	pointe de Rufisque
+T84	geogName 1503 1522	ville de 😄😍Rufisque
+T85	geogName 1594 1608	banc de Bargny
+T86	geogName 1689 1709	pointe 😄😍de Rufisque
+T87	geogName 1738 1746	CAP VERT
+T88	geogName 1752 1764	POINTE ROUGE
+T89	geogName 1766 1779	BAIE DE GORÉE
+T90	geogName 1792 1808	rade de Rufisque
+T91	geogName 2059 2075	port de Rufisque
+R1	OffTheCoastOf Arg1:T22 Arg2:T80	
+R2	SouthOf Arg1:T69 Arg2:T70	
+R3	EastOf Arg1:T71 Arg2:T69	
+R4	NorthNorthEastOf Arg1:T8 Arg2:T9	
+R5	ElementOf Arg1:T9 Arg2:T10	
+R6	EastOf Arg1:T11 Arg2:T73	
+R7	SouthEastOf Arg1:T11 Arg2:T73	
+R8	EastSouthEastOf Arg1:T78 Arg2:T20	
+R9	SouthOf Arg1:T24 Arg2:T26	
+R10	SouthEastOf Arg1:T82 Arg2:T26	
+R11	MarkedBy Arg1:T27 Arg2:T28	
+R12	MarkedBy Arg1:T83 Arg2:T30	
+R13	EastOf Arg1:T84 Arg2:T32	
+R14	SouthEastOf Arg1:T85 Arg2:T86	

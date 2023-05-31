@@ -1,0 +1,71 @@
+T1	geogFeat 71 75	banc
+T2	geogFeat 103 107	côte
+T3	geogFeat 119 123	baie
+T4	geogFeat 127 137	échancrure
+T5	geogFeat 184 188	côte
+T6	geogFeat 250 253	mur
+T7	geogFeat 276 281	digue
+T8	geogFeat 292 296	port
+T9	geogFeat 324 358	bouée de marque spéciale lumineuse
+T10	geogFeat 385 405	conduite sous-marine
+T11	geogFeat 441 446	ligne
+T12	geogFeat 565 569	banc
+T13	geogFeat 590 598	tourelle
+T14	geogFeat 648 654	roches
+T15	geogFeat 658 669	hauts-fonds
+T16	geogFeat 711 719	tourelle
+T17	geogFeat 735 743	tourelle
+T18	geogFeat 852 862	alignement
+T19	geogFeat 873 880	clocher
+T20	geogFeat 898 903	phare
+T21	geogFeat 924 928	tour
+T22	geogFeat 956 962	maison
+T23	geogFeat 1039 1042	feu
+T24	geogFeat 1052 1059	secteur
+T25	geogFeat 1089 1114	balise de marque spéciale
+T26	geogFeat 1163 1190	station de thalassothérapie
+T27	geogFeat 1225 1230	phare
+T28	name 36 49	Saint-Nazaire
+T29	name 79 87	Kerouars
+T30	name 141 147	Pornic
+T31	name 300 314	La Noëveillard
+T32	name 575 583	Kerouars
+T33	name 601 611	Notre-Dame
+T34	name 754 764	Le Caillou
+T35	name 790 796	Pornic
+T36	name 884 890	Pornic
+T37	name 907 921	La Noëveillard
+T38	name 1234 1248	La Noëveillard
+T39	name 1196 1202	Pornic
+T40	geogName 36 49	Saint-Nazaire
+T41	geogName 71 87	banc de Kerouars
+T42	geogName 127 147	échancrure de Pornic
+T43	geogName 292 314	port de La Noëveillard
+T44	geogName 590 613	tourelle « Notre-Dame »
+T45	geogName 790 796	Pornic
+T46	geogName 873 890	clocher de Pornic
+T47	geogName 898 921	phare de La Noëveillard
+T48	geogName 1196 1202	Pornic
+T49	geogName 1225 1248	phare de La Noëveillard
+R1	ElementOf Arg1:T6 Arg2:T7	
+R2	MarkedBy Arg1:T10 Arg2:T9	
+R4	ElementOf Arg1:T21 Arg2:T47	
+R5	ElementOf Arg1:T22 Arg2:T47	
+T50	geogFeat 1133 1156	aspiration d’eau de mer
+R7	ElementOf Arg1:T50 Arg2:T26	
+R8	ElementOf Arg1:T26 Arg2:T48	
+T51	geogName 565 583	banc 😄de 😍Kerouars
+T52	geogName 754 764	Le Caillou
+T53	name 108 112	Nord
+T54	geogName 103 112	côte Nord
+R3	NorthOf Arg1:T54 Arg2:T3	
+R10	ElementOf Arg1:T42 Arg2:T5	
+R11	ElementOf Arg1:T7 Arg2:T43	
+R12	SouthWestOf Arg1:T9 Arg2:T11	
+R13	EastSouthEastOf Arg1:T15 Arg2:T16	
+R14	EastSouthEastOf Arg1:T14 Arg2:T16	
+R15	ElementOf Arg1:T46 Arg2:T18	
+R16	ElementOf Arg1:T47 Arg2:T18	
+T55	geogFeat 515 520	accès
+T56	geogFeat 821 826	accès
+R6	ElementOf Arg1:T18 Arg2:T56	

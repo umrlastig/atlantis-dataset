@@ -1,0 +1,22 @@
+T1	geogFeat 145 158	Port Autonome
+T2	geogFeat 174 185	appontement
+T3	geogFeat 322 327	zones
+T4	geogFeat 346 353	chenaux
+T5	geogFeat 359 364	rades
+T6	geogFeat 368 381	Port Autonome
+T7	geogFeat 499 503	Port
+T8	geogFeat 754 758	port
+T9	geogFeat 560 566	Office
+T10	name 162 166	Lomé
+T11	name 189 194	Kpémé
+T12	name 385 389	Lomé
+T13	name 396 401	Kpémé
+T14	name 507 512	Kpémé
+T15	geogName 145 166	Port Autonome de Lomé
+T16	geogName 174 194	appontement de Kpémé
+T17	geogName 499 512	Port de Kpémé
+T18	geogName 368 401	Port Autonome de Lomé et de Kpémé
+T19	geogFeat 601 614	établissement
+R1	ElementOf Arg1:T4 Arg2:T3	
+R2	ElementOf Arg1:T5 Arg2:T3	
+R3	ElementOf Arg1:T5 Arg2:T18	

@@ -1,0 +1,51 @@
+T1	geogFeat 19 23	port
+T2	geogFeat 38 42	port
+T3	geogFeat 59 64	phare
+T4	geogFeat 97 109	contre-jetée
+T5	geogFeat 113 117	Port
+T6	geogFeat 134 140	pylône
+T7	geogFeat 179 185	voyant
+T8	geogFeat 217 221	Port
+T9	geogFeat 236 243	village
+T10	geogFeat 272 276	côte
+T11	geogFeat 294 299	plage
+T12	geogFeat 436 439	Lac
+T13	geogFeat 492 499	village
+T14	geogFeat 539 545	lagune
+T16	geogFeat 581 588	village
+T20	geogFeat 567 572	canal
+T21	name 27 31	Lomé
+T22	name 46 51	Kpémé
+T23	name 68 75	Baguida
+T24	name 121 125	Lomé
+T25	name 225 229	Lomé
+T26	name 247 252	Kpémé
+T27	name 359 372	Porto-Segouro
+T28	name 374 386	Porto-Seguro
+T29	name 440 444	Togo
+T30	name 503 513	Grand-Popo
+T31	name 592 597	Kpémé
+T32	name 625 638	Porto-Segouro
+T33	name 670 683	Porto-Ségouro
+T34	geogName 19 31	port de Lomé
+T35	geogName 38 51	port de Kpémé
+T36	geogName 59 75	phare de Baguida
+T37	geogName 113 125	Port de Lomé
+T38	geogName 217 229	Port de Lomé
+T39	geogName 236 252	village de Kpémé
+T40	geogName 359 372	Porto-Segouro
+T41	geogName 374 386	Porto-Seguro
+T42	geogName 436 444	Lac Togo
+T43	geogName 492 513	village de Grand-Popo
+T44	geogName 581 597	village de Kpémé
+T45	geogName 625 638	Porto-Segouro
+T46	geogName 670 683	Porto-Ségouro
+T47	geogFeat 453 466	étendue d’eau
+R1	EastOf Arg1:T36 Arg2:T4	
+R2	ElementOf Arg1:T4 Arg2:T37	
+R3	ElementOf Arg1:T6 Arg2:T36	
+R4	ElementOf Arg1:T7 Arg2:T6	
+R5	ElementOf Arg1:T11 Arg2:T10	
+R6	NorthOf Arg1:T42 Arg2:T40	
+R7	EastOf Arg1:T43 Arg2:T42	
+R8	EastOf Arg1:T44 Arg2:T45	

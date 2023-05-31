@@ -1,0 +1,47 @@
+T1	geogFeat 31 35	Rade
+T2	geogFeat 75 79	rade
+T3	geogFeat 103 107	côte
+T4	geogFeat 198 202	Port
+T5	geogFeat 219 223	port
+T6	geogFeat 242 246	rade
+T7	geogFeat 291 296	mines
+T8	geogFeat 373 378	jetée
+T11	geogFeat 707 712	jetée
+T12	geogFeat 760 763	feu
+T9	geogFeat 844 851	coffres
+T10	geogFeat 870 888	postes d’embossage
+T13	geogFeat 909 942	poste de chargement de phosphates
+T14	geogFeat 977 992	poste pétrolier
+T15	geogFeat 1282 1286	Port
+T16	geogFeat 1406 1411	vigie
+T17	name 39 44	Kpémé
+T18	name 206 211	Kpémé
+T19	name 302 306	Togo
+T20	geogFeat 964 969	jetée
+T21	name 1075 1079	LOMÉ
+T22	name 1081 1085	TOGO
+T23	name 1089 1096	COTONOU
+T24	name 1098 1103	BÉNIN
+T25	name 1290 1295	Kpémé
+T26	name 1415 1420	Kpémé
+T27	geogName 31 44	Rade de Kpémé
+T28	geogName 198 211	Port de Kpémé
+T29	geogName 302 306	Togo
+T30	geogName 1075 1079	LOMÉ
+T31	geogName 1081 1085	TOGO
+T32	geogName 1089 1096	COTONOU
+T33	geogName 1098 1103	BÉNIN
+T34	geogName 1282 1295	Port de Kpémé
+T35	geogName 1406 1420	vigie de Kpémé
+T36	geogFeat 554 578	installations portuaires
+T37	geogFeat 647 671	installations portuaires
+T40	geogFeat 1442 1449	centres
+R1	ElementOf Arg1:T7 Arg2:T29	
+R2	ElementOf Arg1:T12 Arg2:T11	
+R3	ElementOf Arg1:T10 Arg2:T9	
+R4	ElementOf Arg1:T13 Arg2:T20	
+R5	EastOf Arg1:T14 Arg2:T13	
+R6	ElementOf Arg1:T13 Arg2:T10	
+R7	ElementOf Arg1:T14 Arg2:T10	
+R8	ElementOf Arg1:T30 Arg2:T31	
+R9	ElementOf Arg1:T32 Arg2:T33	

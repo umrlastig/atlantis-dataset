@@ -1,0 +1,317 @@
+T1	geogFeat 12 16	Îles
+T2	geogFeat 18 23	bancs
+T3	geogFeat 25 32	dangers
+T4	geogFeat 50 61	hauts-fonds
+T5	geogFeat 89 95	récifs
+T6	geogFeat 103 107	îles
+T7	geogFeat 144 148	côte
+T8	geogFeat 205 210	ville
+T10	geogFeat 373 388	plateau 😍côtier
+T11	geogFeat 464 469	Banka
+T12	geogFeat 506 515	haut-fond
+T13	geogFeat 648 657	haut-fond
+T14	geogFeat 734 738	Banc
+T15	geogFeat 793 807	plateau côtier
+T16	geogFeat 893 897	Banc
+T17	geogFeat 917 921	Banc
+T18	geogFeat 936 940	Banc
+T19	geogFeat 956 960	Banc
+T20	geogFeat 1042 1046	ÎLES
+T21	geogFeat 1088 1092	Banc
+T22	geogFeat 1105 1110	récif
+T23	geogFeat 1205 1209	Îles
+T24	geogFeat 1310 1315	récif
+T25	geogFeat 1367 1398	balise cardinale Nord lumineuse
+T26	geogFeat 1428 1431	Île
+T27	geogFeat 1459 1466	plateau
+T28	geogFeat 1528 1531	île
+T29	geogFeat 1536 1543	Plateau
+T30	geogFeat 1588 1593	phare
+T31	geogFeat 1595 1601	pylône
+T32	geogFeat 1621 1627	maison
+T33	geogFeat 1680 1685	phare
+T34	geogFeat 1706 1710	îlot
+T35	geogFeat 1714 1717	Île
+T36	geogFeat 1732 1737	épave
+T37	geogFeat 1791 1795	îlot
+T38	geogFeat 1801 1828	PARC TERRITORIAL SOUS-MARIN
+T39	geogFeat 1835 1851	Parc Territorial
+T40	geogFeat 1968 1975	plateau
+T41	geogFeat 2001 2006	ligne
+T42	geogFeat 2021 2027	pointe
+T43	geogFeat 2039 2042	Île
+T44	geogFeat 2055 2060	phare
+T45	geogFeat 2066 2069	Île
+T46	geogFeat 2097 2101	Parc
+T47	geogFeat 2131 2135	Banc
+T48	geogFeat 2170 2174	Parc
+T49	geogFeat 2214 2218	zone
+T50	geogFeat 2283 2289	brèche
+T51	geogFeat 2294 2299	récif
+T52	geogFeat 2323 2329	Pointe
+T53	geogFeat 2373 2378	phare
+T54	geogFeat 2384 2387	Île
+T55	geogFeat 2400 2409	mouillage
+T56	geogFeat 2455 2466	hauts-fonds
+T57	geogFeat 2490 2495	récif
+T58	geogFeat 2506 2512	entrée
+T59	geogFeat 2599 2604	phare
+T60	geogFeat 2610 2613	Île
+T61	geogFeat 2656 2710	zone de réserve pour la faune et les fonds sous-marins
+T62	geogFeat 2730 2735	récif
+T63	geogFeat 2750 2754	côte
+T64	geogFeat 2766 2769	Île
+T65	geogFeat 2894 2899	phare
+T66	geogFeat 2905 2908	Île
+T67	geogFeat 2921 2925	Banc
+T68	geogFeat 2965 2980	bouée lumineuse
+T69	geogFeat 2991 2997	chenal
+T70	geogFeat 3049 3058	haut-fond
+T71	geogFeat 3063 3069	chenal
+T72	geogFeat 3122 3127	récif
+T73	geogFeat 3140 3144	Îles
+T74	geogFeat 3173 3177	Banc
+T75	geogFeat 3193 3204	hauts-fonds
+T76	geogFeat 3326 3331	phare
+T77	geogFeat 3337 3340	Île
+T78	geogFeat 3438 3442	CÔTE
+T79	geogFeat 3450 3455	GOLFE
+T80	geogFeat 3466 3470	CÔTE
+T81	geogFeat 3501 3511	RÉPUBLIQUE
+T82	geogFeat 3487 3490	MER
+T83	geogFeat 3547 3552	phare
+T84	geogFeat 3558 3561	Île
+T85	geogFeat 3596 3601	Récif
+T86	geogFeat 3617 3621	Banc
+T87	geogFeat 3634 3638	Banc
+T88	geogFeat 3658 3662	Banc
+T89	geogFeat 3726 3743	bouées lumineuses
+T90	geogFeat 3753 3757	BANC
+T91	geogFeat 3775 3780	RÉCIF
+T92	geogFeat 3801 3805	BANC
+T93	geogFeat 3829 3833	Banc
+T94	geogFeat 3847 3852	récif
+T95	geogFeat 3908 3915	Plateau
+T96	geogFeat 4000 4007	plateau
+T97	geogFeat 4016 4031	bouée lumineuse
+T98	geogFeat 4107 4112	récif
+T99	geogFeat 4136 4141	bouée
+T100	geogFeat 4152 4167	bouée lumineuse
+T101	geogFeat 4203 4219	récif découvrant
+T102	geogFeat 4232 4236	Banc
+T103	geogFeat 4252 4268	balise lumineuse
+T104	geogFeat 4270 4278	tourelle
+T105	geogFeat 4317 4323	embase
+T106	geogFeat 4363 4368	récif
+T107	geogFeat 4390 4395	bouée
+T108	geogFeat 4429 4435	balise
+T109	geogFeat 4452 4468	balise lumineuse
+T110	geogFeat 4538 4544	sommet
+T111	geogFeat 4589 4594	Récif
+T112	geogFeat 4606 4611	récif
+T113	geogFeat 4652 4667	bouée lumineuse
+T114	geogFeat 4719 4725	balise
+T115	geogFeat 4732 4738	ruines
+T116	geogFeat 4747 4754	balises
+T117	geogFeat 4893 4898	Récif
+T118	geogFeat 4932 4937	Récif
+T119	geogFeat 4952 4956	Banc
+T120	geogFeat 5097 5103	balise
+T121	geogFeat 5166 5171	Récif
+T122	geogFeat 5188 5192	Banc
+T123	geogFeat 5226 5230	rade
+T124	geogFeat 5252 5257	épave
+T125	geogFeat 5329 5334	Récif
+T126	name 168 176	Djibouti
+T127	name 310 318	Djibouti
+T128	name 454 462	Djibouti
+T129	name 470 474	Arab
+T130	name 721 729	Djibouti
+T131	name 739 746	Dankali
+T132	name 880 888	Djibouti
+T133	name 904 912	Curieuse
+T134	name 925 931	Levant
+T135	name 941 947	Somali
+T136	name 966 973	Antarès
+T137	name 1047 1053	MOUCHA
+T138	name 1093 1100	Dankali
+T139	name 1210 1216	Moucha
+T140	name 1432 1438	Moucha
+T141	name 1547 1555	Scorpion
+T142	name 1721 1726	Large
+T143	name 1855 1861	Moucha
+T144	name 2028 2033	Ouest
+T145	name 2046 2051	Large
+T146	name 2070 2076	Moucha
+T147	name 2136 2143	Dankali
+T148	name 2333 2341	Scorpion
+T149	name 2388 2394	Moucha
+T150	name 2614 2620	Moucha
+T151	name 2770 2777	Maskali
+T152	name 2909 2916	Maskali
+T153	name 2926 2933	Maskali
+T154	name 2984 2985	0
+T155	name 2998 3002	Nord
+T156	name 3013 3021	Djibouti
+T157	name 3145 3151	Moucha
+T158	name 3178 3185	Maskali
+T159	name 3341 3348	Maskali
+T160	name 3443 3446	SUD
+T161	name 3458 3462	ADEN
+T162	name 3471 3480	AFRICAINE
+T163	name 3493 3499	ARABIE
+T164	name 3515 3523	DJIBOUTI
+T165	name 3525 3532	SOMALIE
+T166	name 3562 3569	Maskali
+T167	name 3605 3612	Météore
+T168	name 3625 3629	Hadj
+T169	name 3645 3651	Étoile
+T170	name 3666 3674	Pingouin
+T171	name 3763 3768	HÉRON
+T172	name 3784 3791	AMBOULI
+T173	name 3812 3819	SANESLI
+T174	name 3839 3844	Héron
+T175	name 3919 3924	Héron
+T176	name 4034 4035	2
+T177	name 4144 4145	2
+T178	name 4170 4171	4
+T181	name 4240 4245	Héron
+T182	name 4398 4399	4
+T183	name 4597 4604	Ambouli
+T184	name 4670 4671	3
+T185	name 4901 4908	Ambouli
+T186	name 4940 4947	Ambouli
+T187	name 4961 4968	Salines
+T188	geogFeat 5050 5054	Banc
+T189	name 5059 5066	Salines
+T190	name 5174 5181	Ambouli
+T191	name 5197 5204	Salines
+T192	name 5234 5242	Djibouti
+T193	name 5337 5344	Ambouli
+T194	geogName 168 176	Djibouti
+T195	geogName 310 318	Djibouti
+T196	geogName 454 462	Djibouti
+T197	geogName 464 474	Banka Arab
+T198	geogName 721 729	Djibouti
+T199	geogName 734 746	Banc Dankali
+T200	geogName 880 888	Djibouti
+T201	geogName 893 912	Banc de la Curieuse
+T202	geogName 917 931	Banc du Levant
+T203	geogName 936 947	Banc Somali
+T204	geogName 956 973	Banc de l’Antarès
+T205	geogName 1042 1053	ÎLES MOUCHA
+T206	geogName 1088 1100	Banc Dankali
+T207	geogName 1205 1216	Îles Moucha
+T208	geogName 1428 1438	Île Moucha
+T209	geogName 1536 1555	Plateau du Scorpion
+T210	geogName 1714 1726	Île du Large
+T211	geogName 1835 1861	Parc Territorial de Moucha
+T212	geogName 2021 2033	pointe Ouest
+T213	geogName 2039 2051	Île du Large
+T214	geogName 2066 2076	Île Moucha
+T215	geogName 2055 2076	phare de l’Île Moucha
+T216	geogName 2131 2143	Banc Dankali
+T217	geogName 2323 2341	Pointe du Scorpion
+T218	geogName 2384 2394	Île Moucha
+T219	geogName 2373 2394	phare de l’Île Moucha
+T220	geogName 2610 2620	Île Moucha
+T221	geogName 2599 2620	phare de l’Île Moucha
+T222	geogName 2766 2777	Île Maskali
+T223	geogName 2905 2916	Île Maskali
+T224	geogName 2921 2933	Banc Maskali
+T225	geogName 2991 3002	chenal Nord
+T226	geogName 3013 3021	Djibouti
+T227	geogName 3140 3151	Îles Moucha
+T228	geogName 3173 3185	Banc Maskali
+T229	geogName 3337 3348	Île Maskali
+T230	geogName 3326 3348	phare de l’Île Maskali
+T231	geogName 3438 3446	CÔTE SUD
+T232	geogName 3450 3462	GOLFE D'ADEN
+T233	geogName 3466 3480	CÔTE AFRICAINE
+T234	geogName 3487 3499	MER D'ARABIE
+T235	geogName 3501 3523	RÉPUBLIQUE DE DJIBOUTI
+T236	geogName 3525 3532	SOMALIE
+T237	geogName 3558 3569	Île Maskali
+T238	geogName 3547 3569	phare de l’Île Maskali
+T239	geogName 3596 3612	Récif du Météore
+T240	geogName 3617 3629	Banc El Hadj
+T241	geogName 3658 3674	Banc du Pingouin
+T242	geogName 3753 3768	BANC 😄DU 😄HÉRON
+T243	geogName 3775 3791	RÉCIF 😄D’AMBOULI
+T244	geogName 3801 3819	BANC 😄DES 😄SANESLI
+T245	geogName 3829 3844	Banc 😄du 😄Héron
+T246	geogName 3634 3651	Banc de 😍l’Étoile
+T247	geogName 3908 3924	Plateau du Héron
+T248	geogName 4136 4147	bouée « 2 »
+T250	geogName 4232 4245	Banc du Héron
+T251	geogName 4390 4401	bouée « 4 »
+T252	geogName 4589 4604	Récif d’Ambouli
+T253	geogName 4893 4908	Récif d’Ambouli
+T254	geogName 4932 4947	Récif d’Ambouli
+T255	geogName 4952 4968	Banc des Salines
+T256	geogName 5050 5066	Banc des Salines
+T257	geogName 5166 5181	Récif d’Ambouli
+T258	geogName 5188 5204	Banc des Salines
+T259	geogName 5226 5242	rade de Djibouti
+T260	geogName 5329 5344	Récif d’Ambouli
+T261	geogName 4016 4037	bouée lumineuse « 2 »
+T262	geogName 4152 4173	bouée lumineuse « 4 »
+T263	geogName 4652 4673	bouée lumineuse « 3 »
+T9	geogFeat 5012 5028	têtes 😍de corail
+T264	geogName 2894 2916	phare de l’Île Maskali
+T265	geogName 2965 2987	bouée lumineuse 😍« 0 »
+R1	ElementOf Arg1:T5 Arg2:T4	
+R2	ElementOf Arg1:T6 Arg2:T4	
+R3	EastOf Arg1:T197 Arg2:T196	
+R4	NorthEastOf Arg1:T199 Arg2:T198	
+R5	NorthEastOf Arg1:T201 Arg2:T200	
+R6	NorthEastOf Arg1:T202 Arg2:T200	
+R7	NorthEastOf Arg1:T203 Arg2:T200	
+R8	NorthEastOf Arg1:T204 Arg2:T200	
+R9	WestOf Arg1:T22 Arg2:T206	
+R10	ElementOf Arg1:T207 Arg2:T22	
+R11	MarkedBy Arg1:T24 Arg2:T25	
+R12	ElementOf Arg1:T30 Arg2:T209	
+R13	ElementOf Arg1:T31 Arg2:T32	
+R14	SouthSouthEastOf Arg1:T210 Arg2:T33	
+R15	SouthWestOf Arg1:T36 Arg2:T37	
+R16	ElementOf Arg1:T212 Arg2:T41	
+R17	ElementOf Arg1:T212 Arg2:T213	
+R18	ElementOf Arg1:T215 Arg2:T41	
+T266	name 2755 2758	Sud
+T267	geogName 2750 2758	côte Sud
+R19	SouthSouthWestOf Arg1:T224 Arg2:T264	
+R20	ElementOf Arg1:T265 Arg2:T225	
+R21	WestOf Arg1:T265 Arg2:T70	
+R22	MarkedBy Arg1:T70 Arg2:T265	
+R23	ElementOf Arg1:T227 Arg2:T72	
+R24	ElementOf Arg1:T61 Arg2:T62	
+R25	SouthOf Arg1:T61 Arg2:T267	
+R26	ElementOf Arg1:T267 Arg2:T222	
+R27	SouthOf Arg1:T231 Arg2:T232	
+R28	SouthWestOf Arg1:T239 Arg2:T238	
+R29	SouthWestOf Arg1:T240 Arg2:T238	
+R30	SouthWestOf Arg1:T246 Arg2:T238	
+R31	SouthWestOf Arg1:T241 Arg2:T238	
+R32	MarkedBy Arg1:T239 Arg2:T89	
+R33	MarkedBy Arg1:T240 Arg2:T89	
+R34	MarkedBy Arg1:T246 Arg2:T89	
+R35	MarkedBy Arg1:T241 Arg2:T89	
+R36	SouthOf Arg1:T262 Arg2:T248	
+R38	ElementOf Arg1:T104 Arg2:T105	
+R39	SouthSouthEastOf Arg1:T103 Arg2:T251	
+R40	WestSouthWestOf Arg1:T109 Arg2:T108	
+R41	ElementOf Arg1:T110 Arg2:T179	
+R42	ElementOf Arg1:T109 Arg2:T252	
+R43	NorthNorthEastOf Arg1:T263 Arg2:T114	
+R37	NorthWestOf Arg1:T261 Arg2:T98	
+R44	WestOf Arg1:T115 Arg2:T253	
+R45	SouthOf Arg1:T255 Arg2:T254	
+R46	EastOf Arg1:T9 Arg2:T256	
+R47	MarkedBy Arg1:T9 Arg2:T120	
+R48	WestOf Arg1:T258 Arg2:T259	
+R49	WestOf Arg1:T257 Arg2:T259	
+R50	WestOf Arg1:T124 Arg2:T260	
+R51	MarkedBy Arg1:T101 Arg2:T262	
+T179	geogFeat 4498 4506	pyramide
+R52	EastOf Arg1:T120 Arg2:T9	

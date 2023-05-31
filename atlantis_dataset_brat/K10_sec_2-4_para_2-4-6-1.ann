@@ -1,0 +1,68 @@
+T1	geogFeat 30 34	rade
+T2	geogFeat 60 64	rade
+T3	geogFeat 87 92	Passe
+T4	geogFeat 133 137	îlot
+T5	geogFeat 156 162	pointe
+T6	geogFeat 179 187	chaussée
+T7	geogFeat 195 201	pointe
+T8	geogFeat 229 232	île
+T9	geogFeat 241 247	chenal
+T10	geogFeat 367 388	alignement d’approche
+T11	geogFeat 434 437	île
+T12	geogFeat 483 497	feu postérieur
+T13	geogFeat 505 515	alignement
+T14	geogFeat 582 587	Passe
+T15	geogFeat 597 641	balise à flotteur latérale bâbord, lumineuse
+T16	geogFeat 654 660	roches
+T17	geogFeat 678 684	pointe
+T18	geogFeat 700 748	balises à flotteur latérales tribord, lumineuses
+T19	geogFeat 791 795	îlot
+T20	geogFeat 817 823	pointe
+T21	geogFeat 959 963	PORT
+T22	geogFeat 1007 1011	rade
+T23	geogFeat 1016 1020	banc
+T24	geogFeat 1089 1125	balise latérale 😄😍tribord, lumineuse
+T25	geogFeat 1144 1176	bouée latérale bâbord, lumineuse
+T26	geogFeat 1212 1216	rade
+T27	name 23 29	Petite
+T28	name 53 59	petite
+T29	name 80 86	petite
+T30	name 138 142	Brun
+T31	name 163 170	Chaleix
+T32	name 202 209	Denouel
+T33	name 233 236	Nou
+T34	name 442 449	Canards
+T35	name 575 581	petite
+T36	name 685 692	Denouel
+T37	name 796 800	Brun
+T38	name 829 839	Artillerie
+T39	name 967 973	NOUMÉA
+T40	name 1000 1006	Petite
+T41	name 1026 1034	Infernal
+T42	name 1205 1211	Petite
+T43	geogName 23 34	Petite rade
+T44	geogName 53 64	petite rade
+T45	geogName 80 92	petite Passe
+T46	geogName 133 142	îlot Brun
+T47	geogName 156 170	pointe Chaleix
+T48	geogName 195 209	pointe Denouel
+T49	geogName 229 236	île Nou
+T50	geogName 434 449	île aux Canards
+T51	geogName 575 587	petite Passe
+T52	geogName 678 692	pointe Denouel
+T53	geogName 817 839	pointe de l’Artillerie
+T54	geogName 791 800	îlot Brun
+T55	geogName 959 973	PORT DE NOUMÉA
+T56	geogName 1000 1011	Petite rade
+T57	geogName 1016 1034	banc de l’Infernal
+T58	geogName 1205 1216	Petite rade
+R1	ElementOf Arg1:T48 Arg2:T49	
+R2	MarkedBy Arg1:T16 Arg2:T15	
+R3	NorthOf Arg1:T18 Arg2:T54	
+R4	NorthWestOf Arg1:T18 Arg2:T53	
+R5	ElementOf Arg1:T57 Arg2:T56	
+R6	MarkedBy Arg1:T57 Arg2:T24	
+R7	WestOf Arg1:T24 Arg2:T57	
+R8	MarkedBy Arg1:T57 Arg2:T25	
+R9	NorthEastOf Arg1:T25 Arg2:T57	
+T59	geogFeat 1194 1199	Accès

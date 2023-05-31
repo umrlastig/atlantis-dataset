@@ -1,0 +1,25 @@
+T1	geogFeat 150 154	amer
+T2	geogFeat 70 81	hauts-fonds
+T3	geogFeat 137 142	ville
+T4	geogFeat 230 236	récifs
+T5	geogFeat 300 303	île
+T6	geogFeat 371 374	île
+T7	geogFeat 438 447	haut-fond
+T8	geogFeat 495 500	Shaab
+T9	geogFeat 515 520	récif
+T10	geogFeat 630 636	récifs
+T11	name 58 64	Saylac
+T12	name 252 258	Saylac
+T13	name 260 267	Ceebaad
+T14	name 355 366	Saacada Din
+T15	name 501 507	Filfil
+T16	name 560 568	Siigaale
+T17	geogName 58 64	Saylac
+T18	geogName 252 258	Saylac
+T19	geogName 260 267	Ceebaad
+T20	geogName 355 366	Saacada Din
+T21	geogName 495 507	Shaab Filfil
+T22	geogName 560 568	Siigaale
+R1	NorthOf Arg1:T2 Arg2:T3	
+R2	NorthEastOf Arg1:T2 Arg2:T3	
+R3	ElementOf Arg1:T6 Arg2:T7	

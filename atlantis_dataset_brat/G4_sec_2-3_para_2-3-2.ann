@@ -1,0 +1,89 @@
+T1	geogFeat 13 16	cap
+T2	geogFeat 66 72	pointe
+T3	geogFeat 235 238	cap
+T4	geogFeat 255 261	Pointe
+T5	geogFeat 278 282	côte
+T6	geogFeat 323 334	hauts-fonds
+T7	geogFeat 341 346	îlots
+T8	geogFeat 425 432	pointes
+T9	geogFeat 481 485	côte
+T10	geogFeat 496 499	cap
+T11	geogFeat 511 517	pointe
+T12	geogFeat 547 560	zone aquacole
+T13	geogFeat 674 680	pointe
+T14	geogFeat 710 721	hauts-fonds
+T15	geogFeat 725 730	îlots
+T16	geogFeat 735 742	rochers
+T17	geogFeat 817 822	bouée
+T18	geogFeat 880 886	pointe
+T19	geogFeat 931 942	hauts-fonds
+T20	geogFeat 982 991	haut-fond
+T21	geogFeat 1052 1057	roche
+T22	geogFeat 1095 1101	roches
+T23	geogFeat 1139 1154	zone de dangers
+T24	geogFeat 1164 1170	pointe
+T25	geogFeat 1265 1272	secteur
+T26	geogFeat 1282 1287	phare
+T27	geogFeat 1332 1363	bouée lumineuse 😍cardinale nord
+T28	geogFeat 1444 1449	épave
+T29	name 17 21	Vert
+T30	name 27 46	bature de la Chatte
+T31	name 77 84	Soldats
+T32	name 203 227	SAINT-PIERRE-ET-MIQUELON
+T33	name 239 243	Vert
+T34	name 266 273	Soldats
+T35	name 283 286	Est
+T36	name 293 308	Grande Miquelon
+T37	name 436 445	Belliveau
+T38	name 500 504	Vert
+T39	name 522 529	Soldats
+T40	name 685 692	Soldats
+T41	name 825 836	Les Rochers
+T42	name 893 900	Soldats
+T43	name 997 1012	Accore Anglaise
+T44	name 1058 1066	Miquelon
+T45	name 1102 1113	Siham Souak
+T46	name 1174 1181	Chapeau
+T47	name 1188 1207	bature de la Chatte
+T48	name 1291 1299	Miquelon
+T49	name 1366 1381	La Chatte - SPM
+T50	name 1407 1426	bature de la Chatte
+T51	geogName 13 21	cap Vert
+T52	geogName 27 46	bature de la Chatte
+T53	geogName 66 84	pointe aux Soldats
+T54	geogName 203 227	SAINT-PIERRE-ET-MIQUELON
+T55	geogName 235 243	cap Vert
+T56	geogName 255 273	Pointe aux Soldats
+T57	geogName 278 286	côte Est
+T58	geogName 293 308	Grande Miquelon
+T59	geogName 425 445	pointes de Belliveau
+T60	geogName 496 504	cap Vert
+T61	geogName 511 529	pointe aux Soldats
+T62	geogName 674 692	pointe aux Soldats
+T63	geogName 817 838	bouée « Les Rochers »
+T64	geogName 880 900	pointe 😄aux 😄Soldats
+T65	geogName 982 1012	haut-fond de l’Accore Anglaise
+T66	geogName 1052 1066	roche Miquelon
+T67	geogName 1095 1113	roches Siham Souak
+T68	geogName 1164 1181	pointe du Chapeau
+T69	geogName 1188 1207	bature de la Chatte
+T70	geogName 1282 1299	phare de Miquelon
+T71	geogName 1407 1426	bature de la Chatte
+T72	geogName 1332 1383	bouée lumineuse 😍cardinale nord « La Chatte - SPM »
+T73	geogFeat 89 93	côte
+R1	ElementOf Arg1:T57 Arg2:T58	
+R2	EastOf Arg1:T12 Arg2:T9	
+R3	EastOf Arg1:T14 Arg2:T62	
+R4	EastOf Arg1:T15 Arg2:T62	
+R5	EastOf Arg1:T16 Arg2:T62	
+R6	MarkedBy Arg1:T14 Arg2:T63	
+R7	MarkedBy Arg1:T15 Arg2:T63	
+R8	MarkedBy Arg1:T16 Arg2:T63	
+R9	NorthEastOf Arg1:T19 Arg2:T64	
+R10	ElementOf Arg1:T23 Arg2:T25	
+R11	MarkedBy Arg1:T23 Arg2:T72	
+R12	NorthOf Arg1:T72 Arg2:T23	
+R13	EastNorthEastOf Arg1:T28 Arg2:T71	
+R14	EastOf Arg1:T63 Arg2:T14	
+R15	EastOf Arg1:T63 Arg2:T15	
+R16	EastOf Arg1:T63 Arg2:T16	

@@ -1,0 +1,34 @@
+T1	geogFeat 171 175	côte
+T2	geogFeat 358 362	CABO
+T3	geogFeat 378 383	PUNTA
+T4	geogFeat 450 461	embouchures
+T5	geogFeat 499 507	rivières
+T6	geogFeat 624 630	entrée
+T7	geogFeat 634 637	Río
+T8	geogFeat 720 725	CÔTES
+T9	geogFeat 788 792	côte
+T10	geogFeat 813 824	embouchures
+T11	geogFeat 829 837	rivières
+T12	geogFeat 951 957	entrée
+T13	geogFeat 970 975	River
+T14	name 363 369	ORANGE
+T15	name 384 393	BOMBEADOR
+T16	name 394 400	GUYANE
+T17	name 403 411	SURINAME
+T18	name 414 420	GUYANA
+T19	name 423 436	VENEZUELA EST
+T20	name 638 645	Orinoco
+T21	name 729 736	SURINAM
+T22	name 961 969	Corentyn
+T23	geogName 358 369	CABO ORANGE
+T24	geogName 378 393	PUNTA BOMBEADOR
+T25	geogName 394 400	GUYANE
+T26	geogName 403 411	SURINAME
+T27	geogName 414 420	GUYANA
+T28	geogName 423 436	VENEZUELA EST
+T29	geogName 634 645	Río Orinoco
+T30	geogName 720 736	CÔTES DU SURINAM
+T31	geogName 961 975	Corentyn River
+R1	ElementOf Arg1:T6 Arg2:T29	
+R2	ElementOf Arg1:T12 Arg2:T31	
+R3	ElementOf Arg1:T10 Arg2:T11	

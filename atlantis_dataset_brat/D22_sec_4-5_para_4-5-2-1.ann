@@ -1,0 +1,30 @@
+T1	geogFeat 39 44	plage
+T2	geogFeat 71 77	pointe
+T3	geogFeat 119 136	port de plaisance
+T4	geogFeat 167 171	port
+T5	geogFeat 195 200	ville
+T6	geogFeat 280 284	port
+T7	geogFeat 244 250	pentes
+T8	geogFeat 299 303	port
+T9	geogFeat 341 347	pointe
+T10	geogFeat 391 409	jetée brise-😍lames
+T11	geogFeat 446 486	installations immobilières et portuaires
+T12	geogFeat 525 531	pointe
+T13	name 81 87	Gouron
+T14	name 175 183	Lavandou
+T15	name 141 159	Bormes-les-Mimosas
+T16	name 307 325	Bormes-les-Mimosas
+T17	name 351 357	Gouron
+T18	name 535 541	Gouron
+T19	geogName 71 87	pointe de Gouron
+T20	geogName 167 183	port du Lavandou
+T21	geogName 299 325	port de Bormes-les-Mimosas
+T22	geogName 341 357	pointe de Gouron
+T23	geogName 525 541	pointe de Gouron
+T24	geogName 119 159	port de plaisance 😍de Bormes-les-Mimosas
+T25	name 204 222	Bormes-les-Mimosas
+T26	geogName 195 222	ville de Bormes-les-Mimosas
+R1	ElementOf Arg1:T21 Arg2:T22	
+T27	geogFeat 255 263	hauteurs
+R2	ElementOf Arg1:T7 Arg2:T27	
+R3	ElementOf Arg1:T26 Arg2:T7	

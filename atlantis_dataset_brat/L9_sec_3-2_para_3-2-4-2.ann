@@ -1,0 +1,15 @@
+T1	geogFeat 24 31	Channel
+T2	geogFeat 48 55	Channel
+T3	geogFeat 99 104	passe
+T4	geogFeat 122 127	lagon
+T5	geogFeat 135 140	passe
+T6	geogFeat 214 219	passe
+T7	geogFeat 255 260	lagon
+T8	geogFeat 288 303	têtes de corail
+T9	geogFeat 349 363	chenal d’accès
+T10	geogFeat 370 375	lagon
+T11	name 12 23	Gueule Bras
+T12	name 36 47	Gueule Bras
+T13	geogName 12 31	Gueule Bras Channel
+T14	geogName 36 55	Gueule Bras Channel
+R1	ElementOf Arg1:T8 Arg2:T7	

@@ -1,0 +1,5 @@
+T1	name 146 153	Cayenne
+T2	name 158 164	Guyane
+T3	geogName 146 153	Cayenne
+T4	geogName 158 164	Guyane
+R1	ElementOf Arg1:T3 Arg2:T4	

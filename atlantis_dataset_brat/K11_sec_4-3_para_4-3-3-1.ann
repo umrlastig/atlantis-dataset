@@ -1,0 +1,94 @@
+T1	geogFeat 61 65	îles
+T2	geogFeat 104 118	récif-barrière
+T3	geogFeat 200 204	îles
+T4	geogFeat 287 292	ville
+T5	geogFeat 381 385	côte
+T6	geogFeat 590 594	îles
+T7	geogFeat 656 662	passes
+T8	geogFeat 851 878	ZONE INTERDITE AU MOUILLAGE
+T9	geogFeat 897 901	côte
+T10	geogFeat 913 916	Île
+T11	geogFeat 937 967	câbles électriques sous-marins
+T12	geogFeat 974 999	conduites d’eau et de gaz
+T13	geogFeat 1009 1016	village
+T14	geogFeat 1032 1036	Îlot
+T15	geogFeat 1097 1103	réseau
+T16	geogFeat 1113 1117	zone
+T17	geogFeat 1159 1162	île
+T18	geogFeat 1173 1189	câble sous-marin
+T19	geogFeat 1199 1206	village
+T20	geogFeat 1217 1221	îlot
+T21	geogFeat 1269 1273	zone
+T22	geogFeat 1295 1313	ZONES RÉGLEMENTÉES
+T23	geogFeat 1315 1324	AÉRODROME
+T24	geogFeat 1364 1392	zones maritimes réglementées
+T25	geogFeat 1469 1474	piste
+T26	geogFeat 1480 1489	aérodrome
+T27	geogFeat 1509 1513	zone
+T28	geogFeat 1574 1583	aérodrome
+T29	geogFeat 1631 1636	piste
+T30	geogFeat 1686 1690	zone
+T31	geogFeat 1713 1749	bouée 😍de marque spéciale, lumineuse
+T32	geogFeat 1757 1761	zone
+T33	geogFeat 1845 1849	zone
+T34	geogFeat 1879 1883	zone
+T35	geogFeat 1904 1918	récif-barrière
+T36	geogFeat 1931 1935	zone
+T37	geogFeat 2127 2143	tour de contrôle
+T38	geogFeat 2149 2158	aérodrome
+T39	geogFeat 2249 2254	zones
+T40	geogFeat 2384 2392	panneaux
+T41	geogFeat 2411 2416	zones
+T42	name 48 55	Huahine
+T43	name 66 73	Raiatea
+T44	name 77 82	Tahaa
+T45	name 205 217	Sous-le-Vent
+T46	name 241 248	Raiatea
+T47	name 264 269	Tahaa
+T48	name 335 341	Uturoa
+T49	name 392 399	Raiatea
+T50	name 880 885	TAHAA
+T51	name 917 922	Tahaa
+T52	name 1020 1027	Tapuamu
+T53	name 1037 1043	Tautau
+T54	name 1163 1168	Tahaa
+T55	name 1207 1211	Hipu
+T56	name 1222 1230	Tuuahine
+T57	name 1328 1335	RAIATEA
+T58	name 1493 1500	Raiatea
+T59	name 1637 1640	Est
+T60	name 1514 1528	Primaire « A »
+T61	name 1850 1866	Secondaire « B »
+T62	geogName 48 55	Huahine
+T63	geogName 61 82	îles Raiatea et Tahaa
+T65	geogName 200 217	îles Sous-le-Vent
+T66	geogName 241 248	Raiatea
+T67	geogName 264 269	Tahaa
+T68	geogName 335 341	Uturoa
+T69	geogName 392 399	Raiatea
+T70	name 386 388	NE
+T71	geogName 381 388	côte NE
+T72	geogName 880 885	TAHAA
+T73	geogName 913 922	Île Tahaa
+T74	geogName 1009 1027	village de Tapuamu
+T75	geogName 1032 1043	Îlot Tautau
+T76	geogName 1159 1168	île Tahaa
+T77	geogName 1199 1211	village Hipu
+T78	geogName 1217 1230	îlot Tuuahine
+T79	geogName 1315 1335	AÉRODROME DE RAIATEA
+T80	geogName 1480 1500	aérodrome de Raiatea
+T81	geogName 1509 1528	zone Primaire « A »
+T82	geogName 1631 1649	piste Est et Ouest
+T83	geogName 1845 1866	zone Secondaire « B »
+T84	name 1644 1649	Ouest
+R1	WestOf Arg1:T63 Arg2:T62	
+R3	ElementOf Arg1:T71 Arg2:T69	
+R4	ElementOf Arg1:T68 Arg2:T71	
+T85	name 902 907	Ouest
+T86	geogName 897 907	côte Ouest
+R5	ElementOf Arg1:T86 Arg2:T73	
+R6	NorthEastOf Arg1:T18 Arg2:T76	
+R7	ElementOf Arg1:T25 Arg2:T80	
+R8	MarkedBy Arg1:T30 Arg2:T31	
+R9	ElementOf Arg1:T37 Arg2:T38	
+R10	ElementOf Arg1:T40 Arg2:T41	

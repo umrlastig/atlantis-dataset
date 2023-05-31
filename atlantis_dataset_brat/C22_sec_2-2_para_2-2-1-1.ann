@@ -1,0 +1,43 @@
+T1	geogFeat 103 108	ligne
+T2	geogFeat 138 143	ligne
+T3	geogFeat 157 160	Île
+T4	geogFeat 238 243	ligne
+T5	geogFeat 253 256	cap
+T6	geogFeat 306 311	ligne
+T7	geogFeat 370 373	Île
+T8	geogFeat 81 84	Pas
+T9	geogFeat 117 120	cap
+T11	name 45 51	Manche
+T12	name 88 94	Calais
+T13	name 109 114	Dover
+T14	name 121 129	Gris-Nez
+T15	name 144 154	Land’s End
+T16	name 161 167	Vierge
+T17	name 216 229	Pas-de-Calais
+T18	name 244 249	Dover
+T19	name 257 265	Gris-Nez
+T20	name 312 320	Portland
+T21	name 323 335	Les Casquets
+T23	name 374 380	Vierge
+T24	geogName 81 94	Pas de Calais
+T25	geogName 117 129	cap Gris-Nez
+T26	geogName 109 114	Dover
+T27	geogName 144 154	Land’s End
+T28	geogName 157 167	Île Vierge
+T29	geogName 216 229	Pas-de-Calais
+T30	geogName 244 249	Dover
+T31	geogName 253 265	cap Gris-Nez
+T32	geogName 312 320	Portland
+T33	geogName 323 335	Les Casquets
+T35	geogName 370 380	Île Vierge
+R1	ElementOf Arg1:T26 Arg2:T1	
+R2	ElementOf Arg1:T25 Arg2:T1	
+R3	ElementOf Arg1:T27 Arg2:T2	
+R4	ElementOf Arg1:T28 Arg2:T2	
+R5	ElementOf Arg1:T30 Arg2:T4	
+R7	ElementOf Arg1:T32 Arg2:T6	
+R8	ElementOf Arg1:T33 Arg2:T6	
+T36	geogName 45 51	Manche
+R6	ElementOf Arg1:T31 Arg2:T4	
+T22	name 353 364	Land’s 😍End
+T34	geogName 353 364	Land’s 😍End

@@ -1,0 +1,39 @@
+T1	geogFeat 12 17	Route
+T2	geogFeat 35 40	Isles
+T3	geogFeat 234 237	DST
+T4	geogFeat 243 248	Isles
+T5	geogFeat 290 293	Pas
+T6	geogFeat 320 323	DST
+T7	geogFeat 364 369	route
+T8	geogFeat 421 429	méridien
+T9	geogFeat 497 503	entrée
+T10	geogFeat 507 510	DST
+T11	geogFeat 596 612	zone d’exercices
+T12	geogFeat 629 633	côte
+T15	geogFeat 850 855	route
+T16	geogFeat 884 887	DST
+T17	geogFeat 974 977	Pas
+T18	name 44 50	Scilly
+T19	name 63 71	Casquets
+T20	name 252 258	Scilly
+T21	name 298 304	Calais
+T22	name 328 336	Casquets
+T23	name 516 524	Casquets
+T24	name 643 653	Angleterre
+T25	name 890 898	Ouessant
+T26	name 981 987	Calais
+T27	geogName 35 50	Isles of Scilly
+T28	geogName 63 71	Casquets
+T29	geogName 243 258	Isles of Scilly
+T30	geogName 234 260	DST de « Isles of Scilly »
+T32	geogName 320 336	DST des Casquets
+T35	geogName 884 898	DST d’Ouessant
+T36	geogName 974 987	Pas de Calais
+T34	geogName 643 653	Angleterre
+R4	OffTheCoastOf Arg1:T11 Arg2:T14	
+T31	geogName 290 304	Pas de 😍Calais
+T33	geogName 507 524	DST 😍des Casquets
+R1	ElementOf Arg1:T9 Arg2:T33	
+T13	name 634 637	Sud
+T14	geogName 629 637	côte Sud
+R2	ElementOf Arg1:T14 Arg2:T34	

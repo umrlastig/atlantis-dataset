@@ -1,0 +1,30 @@
+T1	geogFeat 31 41	embouchure
+T2	geogFeat 88 93	digue
+T3	geogFeat 117 122	digue
+T4	geogFeat 171 176	passe
+T5	geogFeat 230 233	feu
+T6	geogFeat 242 248	musoir
+T7	geogFeat 253 258	ligne
+T8	geogFeat 276 280	feux
+T9	geogFeat 315 319	port
+T10	geogFeat 336 341	digue
+T11	geogFeat 412 416	côte
+T12	geogFeat 454 459	digue
+T13	name 47 52	Adour
+T14	name 323 330	Bayonne
+T16	geogName 315 330	port de Bayonne
+T17	name 94 98	Nord
+T18	geogName 88 98	digue Nord
+T19	name 123 126	Sud
+T20	geogName 117 126	digue Sud
+R2	NorthOf Arg1:T18 Arg2:T1	
+R3	SouthOf Arg1:T20 Arg2:T1	
+T21	geogFeat 187 195	ouvrages
+T22	name 460 463	Sud
+T23	geogName 454 463	digue Sud
+R4	NorthOf Arg1:T10 Arg2:T23	
+T24	geogName 47 52	Adour
+R1	ElementOf Arg1:T5 Arg2:T6	
+R5	ElementOf Arg1:T6 Arg2:T21	
+R6	ElementOf Arg1:T8 Arg2:T7	
+R7	ElementOf Arg1:T1 Arg2:T24	

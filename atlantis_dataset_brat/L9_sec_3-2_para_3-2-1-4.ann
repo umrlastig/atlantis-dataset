@@ -1,0 +1,68 @@
+T1	geogFeat 25 30	Passe
+T2	geogFeat 94 97	île
+T3	geogFeat 178 183	atoll
+T4	geogFeat 251 256	Passe
+T5	geogFeat 272 277	passe
+T6	geogFeat 291 296	Îlots
+T7	geogFeat 339 343	îlot
+T8	geogFeat 472 477	Lagon
+T9	geogFeat 486 491	passe
+T10	geogFeat 549 552	île
+T11	geogFeat 663 668	passe
+T12	geogFeat 650 656	entrée
+T13	geogFeat 676 679	île
+T14	geogFeat 774 777	île
+T15	geogFeat 808 813	passe
+T16	geogFeat 871 874	île
+T17	geogFeat 964 982	récifs découvrants
+T18	geogFeat 987 993	chenal
+T19	geogFeat 1068 1074	coffre
+T20	geogFeat 1135 1140	passe
+T21	name 18 24	Grande
+T22	name 34 46	Grande Terre
+T23	name 51 59	Polymnie
+T24	name 98 105	Malabar
+T25	name 244 250	Grande
+T26	name 278 285	Gionnet
+T27	name 297 303	Niçois
+T28	name 334 338	Gros
+T29	name 344 351	Gionnet
+T30	name 457 465	Polymnie
+T31	name 492 499	Gionnet
+T32	name 535 543	Polymnie
+T33	name 553 560	Malabar
+T34	name 680 687	Malabar
+T35	name 815 823	Houareau
+T36	name 876 883	Malabar
+T37	name 889 902	Grande 😄Terre
+T38	name 1141 1148	Gionnet
+T39	geogName 18 30	Grande Passe
+T40	geogName 34 46	Grande Terre
+T41	geogName 51 59	Polymnie
+T42	geogName 94 105	île Malabar
+T43	geogName 244 256	Grande Passe
+T44	geogName 272 285	passe Gionnet
+T45	geogName 291 303	Îlots Niçois
+T46	geogName 334 351	Gros îlot Gionnet
+T47	geogName 457 465	Polymnie
+T48	geogName 486 499	passe Gionnet
+T49	geogName 535 543	Polymnie
+T50	geogName 549 560	île Malabar
+T51	geogName 676 687	île Malabar
+T52	geogName 808 823	passe 😄Houareau
+T53	geogName 871 883	île 😄Malabar
+T54	geogName 889 902	Grande 😄Terre
+T55	geogName 1135 1148	passe Gionnet
+T56	name 189 197	Polymnie
+T57	geogName 189 197	Polymnie
+T58	geogName 384 406	Camp Frigate 😄😍Gionnet
+T59	name 384 406	Camp Frigate 😄😍Gionnet
+T62	geogFeat 1052 1061	MOUILLAGE
+R1	WestOf Arg1:T43 Arg2:T57	
+R2	EastOf Arg1:T44 Arg2:T57	
+R3	SouthOf Arg1:T45 Arg2:T47	
+R4	SouthOf Arg1:T46 Arg2:T47	
+R5	SouthOf Arg1:T58 Arg2:T47	
+R6	ElementOf Arg1:T12 Arg2:T11	
+R7	ElementOf Arg1:T17 Arg2:T52	
+R8	NorthNorthEastOf Arg1:T19 Arg2:T55	

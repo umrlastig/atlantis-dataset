@@ -1,0 +1,34 @@
+T1	geogFeat 12 17	Route
+T2	geogFeat 234 238	côte
+T3	geogFeat 351 355	Cabo
+T4	geogFeat 393 398	route
+T5	geogFeat 480 499	radiophare maritime
+T6	geogFeat 557 576	radiophare maritime
+T7	geogFeat 641 662	bouée 😄d’atterrissage
+T8	geogFeat 734 740	balise
+T9	geogFeat 771 776	bouée
+T10	geogFeat 842 847	côtes
+T11	geogFeat 923 930	dangers
+T12	name 76 82	Guyane
+T13	name 143 151	Caraïbes
+T14	geogFeat 134 137	mer
+T15	name 356 362	Orange
+T16	name 503 513	Paramaribo
+T17	name 580 590	Georgetown
+T18	name 668 680	Boca 😄Grande
+T19	name 851 859	Trinidad
+T20	name 866 872	Tobago
+T21	name 996 1004	Trinidad
+T22	geogName 76 82	Guyane
+T23	geogName 134 151	mer des 😍Caraïbes
+T24	geogName 351 362	Cabo Orange
+T26	geogName 557 590	radiophare maritime de Georgetown
+T27	geogName 641 680	bouée 😄d’atterrissage 😄de 😄Boca 😄Grande
+T28	geogName 842 872	côtes de Trinidad ou de Tobago
+T30	geogName 996 1004	Trinidad
+T31	geogName 480 513	radiophare maritime de Paramaribo
+R1	ElementOf Arg1:T8 Arg2:T27	
+R2	EastOf Arg1:T11 Arg2:T30	
+R3	NorthOf Arg1:T4 Arg2:T31	
+R4	NorthNorthEastOf Arg1:T4 Arg2:T26	
+R5	NorthNorthEastOf Arg1:T4 Arg2:T27	

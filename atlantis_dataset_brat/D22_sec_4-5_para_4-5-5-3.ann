@@ -1,0 +1,25 @@
+T1	geogFeat 65 69	port
+T2	geogFeat 99 106	village
+T3	geogFeat 140 145	jetée
+T4	geogFeat 222 227	jetée
+T5	geogFeat 249 256	village
+T6	geogFeat 292 299	musoirs
+T7	geogFeat 309 327	jetées extérieures
+T8	geogFeat 333 345	contre-jetée
+T9	geogFeat 388 391	feu
+T10	geogFeat 424 438	passes d’accès
+T11	geogFeat 448 455	bassins
+T12	geogFeat 476 481	épave
+T13	geogFeat 559 565	entrée
+T14	geogFeat 569 573	port
+T16	name 73 82	Cavalaire
+T17	name 577 586	Cavalaire
+T18	geogName 65 82	port de Cavalaire
+T19	geogName 569 586	port de Cavalaire
+R1	SouthEastOf Arg1:T18 Arg2:T2	
+R2	ElementOf Arg1:T9 Arg2:T8	
+R3	ElementOf Arg1:T13 Arg2:T19	
+R4	EastOf Arg1:T12 Arg2:T13	
+R5	EastOf Arg1:T3 Arg2:T18	
+R6	NorthWestOf Arg1:T4 Arg2:T2	
+R7	ElementOf Arg1:T6 Arg2:T7	

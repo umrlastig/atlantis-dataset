@@ -1,0 +1,24 @@
+T1	geogFeat 12 22	Mouillages
+T2	geogFeat 27 47	MOUILLAGE 😄D’ATTENTE
+T3	geogFeat 63 67	rade
+T4	geogFeat 210 213	île
+T5	geogFeat 240 253	voie 😍d’accès
+T6	geogFeat 257 261	port
+T7	geogFeat 281 298	zone de mouillage
+T8	geogFeat 402 419	bouées cardinales
+T9	geogFeat 572 578	musoir
+T10	geogFeat 585 590	jetée
+T11	geogFeat 612 626	voie de sortie
+T12	geogFeat 630 634	port
+T13	geogFeat 647 651	anse
+T14	geogFeat 752 762	mouillages
+T15	name 73 78	Dakar
+T16	name 217 222	Gorée
+T17	name 591 594	Sud
+T18	name 655 659	Hann
+T19	geogName 63 78	rade 😄de 😄Dakar
+T20	geogName 210 222	île de Gorée
+T21	geogName 585 594	jetée Sud
+T22	geogName 647 659	anse de Hann
+R1	ElementOf Arg1:T9 Arg2:T21	
+R2	ElementOf Arg1:T14 Arg2:T22	

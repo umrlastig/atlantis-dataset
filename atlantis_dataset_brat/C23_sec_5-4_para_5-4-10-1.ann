@@ -1,0 +1,18 @@
+T2	geogFeat 45 49	port
+T3	geogFeat 98 104	goulet
+T5	geogFeat 217 224	rivière
+T6	geogFeat 162 170	débouché
+T7	geogFeat 182 187	étier
+T1	name 29 41	Le Pont-Neuf
+T4	name 56 71	Noue Fromagette
+T8	name 108 118	Fromentine
+T9	name 194 208	Barre-de-Monts
+T10	name 227 234	Allière
+T11	geogName 29 41	Le Pont-Neuf
+T12	geogName 45 71	port de la Noue Fromagette
+T13	geogName 98 118	goulet de Fromentine
+T14	geogName 182 208	étier de la Barre-de-Monts
+T15	geogName 217 234	rivière l’Allière
+T16	geogFeat 128 145	zone 😄😍d’échouage
+R1	ElementOf Arg1:T16 Arg2:T6	
+R2	EastNorthEastOf Arg1:T11 Arg2:T13	

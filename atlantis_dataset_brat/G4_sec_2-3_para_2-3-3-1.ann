@@ -1,0 +1,49 @@
+T1	geogFeat 31 35	port
+T2	geogFeat 65 78	port de pêche
+T3	geogFeat 87 104	port de plaisance
+T4	geogFeat 163 168	digue
+T5	geogFeat 181 185	quai
+T6	geogFeat 206 210	quai
+T7	geogFeat 261 264	feu
+T8	geogFeat 308 315	village
+T9	geogFeat 339 360	appontement pétrolier
+T10	geogFeat 420 427	village
+T11	geogFeat 463 469	rivage
+T12	geogFeat 481 485	anse
+T13	geogFeat 529 535	église
+T14	geogFeat 628 631	ÎLE
+T15	geogFeat 663 667	port
+T16	geogFeat 703 707	Port
+T17	geogFeat 851 857	Église
+T18	name 39 47	Miquelon
+T19	name 191 199	Avel Mad
+T20	name 433 441	Miquelon
+T21	name 471 473	SW
+T22	name 491 499	Miquelon
+T23	name 632 640	MIQUELON
+T24	name 671 679	Miquelon
+T25	name 711 719	Miquelon
+T26	name 808 832	SAINT-PIERRE-ET-MIQUELON
+T27	name 861 869	Miquelon
+T28	geogName 31 47	port de Miquelon
+T29	geogName 181 199	quai de l’Avel Mad
+T30	geogName 420 441	village 😄de 😄Miquelon
+T31	geogName 463 473	rivage 😄SW
+T32	geogName 481 499	anse 😄de 😄Miquelon
+T33	geogName 628 640	ÎLE MIQUELON
+T34	geogName 663 679	port de Miquelon
+T35	geogName 703 719	Port de Miquelon
+T36	geogName 808 832	SAINT-PIERRE-ET-MIQUELON
+T37	geogName 851 869	Église de Miquelon
+T38	name 211 220	principal
+T39	geogName 206 220	quai principal
+R1	ElementOf Arg1:T2 Arg2:T28	
+R2	ElementOf Arg1:T3 Arg2:T28	
+R3	ElementOf Arg1:T29 Arg2:T4	
+R4	ElementOf Arg1:T39 Arg2:T4	
+R5	ElementOf Arg1:T7 Arg2:T39	
+R6	ElementOf Arg1:T4 Arg2:T28	
+R8	ElementOf Arg1:T30 Arg2:T31	
+R9	SouthWestOf Arg1:T31 Arg2:T32	
+R10	ElementOf Arg1:T13 Arg2:T30	
+R7	MarkedBy Arg1:T30 Arg2:T13	

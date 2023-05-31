@@ -1,0 +1,26 @@
+T1	geogFeat 8 12	Îles
+T2	geogFeat 16 23	dangers
+T3	geogFeat 41 44	cap
+T4	geogFeat 85 89	îles
+T5	geogFeat 101 104	île
+T6	geogFeat 121 125	îles
+T7	geogFeat 141 144	île
+T8	geogFeat 176 186	république
+T9	name 47 52	Ambre
+T10	name 90 97	Aldabra
+T11	name 105 115	Assomption
+T12	name 126 135	Cosmoledo
+T13	name 145 151	Astove
+T14	name 191 201	Seychelles
+T15	geogName 41 52	cap d’Ambre
+T16	geogName 85 97	îles Aldabra
+T17	geogName 101 115	île Assomption
+T18	geogName 121 135	îles Cosmoledo
+T19	geogName 141 151	île Astove
+T20	geogName 176 201	république des Seychelles
+R1	NorthWestOf Arg1:T1 Arg2:T15	
+R2	NorthWestOf Arg1:T2 Arg2:T15	
+R3	ElementOf Arg1:T16 Arg2:T20	
+R4	ElementOf Arg1:T17 Arg2:T20	
+R5	ElementOf Arg1:T18 Arg2:T20	
+R6	ElementOf Arg1:T19 Arg2:T20	

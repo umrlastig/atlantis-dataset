@@ -1,0 +1,58 @@
+T1	geogFeat 28 46	voies recommandées
+T2	geogFeat 189 194	canal
+T3	geogFeat 248 253	canal
+T4	geogFeat 288 293	passe
+T5	geogFeat 329 332	île
+T6	geogFeat 377 382	passe
+T7	geogFeat 358 362	Côte
+T8	geogFeat 401 410	mouillage
+T9	geogFeat 416 420	îlot
+T10	geogFeat 449 454	passe
+T11	geogFeat 464 470	passes
+T12	geogFeat 505 509	rade
+T13	geogFeat 539 545	passes
+T14	geogFeat 560 565	canal
+T15	geogFeat 590 595	canal
+T16	geogFeat 634 639	passe
+T17	geogFeat 689 694	passe
+T18	geogFeat 714 719	passe
+T20	name 68 74	Nouméa
+T21	name 201 209	Havannah
+T22	name 225 231	Nouméa
+T23	name 254 260	Woodin
+T24	name 300 308	Sarcelle
+T25	name 337 341	Pins
+T26	name 363 365	SW
+T27	name 386 391	Uatio
+T28	name 421 427	Kouaré
+T29	name 455 459	Nord
+T30	name 474 481	Boulari
+T31	name 498 504	Petite
+T32	name 549 556	Boulari
+T33	name 566 572	Woodin
+T34	name 602 610	Havannah
+T35	name 643 649	Dumbéa
+T36	name 697 703	Nouméa
+T37	name 723 728	Uitoé
+T38	name 744 750	Nouméa
+T39	geogName 68 74	Nouméa
+T40	geogName 189 209	canal de la Havannah
+T41	geogName 225 231	Nouméa
+T42	geogName 248 260	canal Woodin
+T43	geogName 288 308	passe de la Sarcelle
+T44	geogName 329 341	île des Pins
+T45	geogName 358 365	Côte SW
+T46	geogName 377 391	passe de Uatio
+T47	geogName 416 427	îlot Kouaré
+T48	geogName 449 459	passe Nord
+T49	geogName 464 481	passes de Boulari
+T50	geogName 498 509	Petite rade
+T51	geogName 539 556	passes de Boulari
+T52	geogName 560 572	canal Woodin
+T53	geogName 590 610	canal de la Havannah
+T54	geogName 634 649	passe de Dumbéa
+T55	geogName 689 703	passe à Nouméa
+T56	geogName 714 728	passe de Uitoé
+T57	geogName 744 750	Nouméa
+T58	geogName 401 427	mouillage de l’îlot Kouaré
+T19	geogFeat 760 793	points d’embarquement des pilotes

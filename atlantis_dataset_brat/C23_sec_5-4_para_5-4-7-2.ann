@@ -1,0 +1,49 @@
+T1	geogFeat 44 52	secteurs
+T2	geogFeat 120 137	routes d’approche
+T3	geogFeat 154 160	roches
+T4	geogFeat 178 183	route
+T5	geogFeat 224 230	entrée
+T6	geogFeat 234 240	chenal
+T7	geogFeat 305 322	roches découvrant
+T8	geogFeat 368 374	trouée
+T9	geogFeat 395 402	perches
+T10	geogFeat 542 548	trouée
+T11	geogFeat 567 573	roches
+T12	geogFeat 647 652	route
+T13	geogFeat 668 675	clocher
+T14	geogFeat 701 711	alignement
+T15	geogFeat 722 729	clocher
+T16	geogFeat 758 764	pointe
+T17	geogFeat 787 793	entrée
+T18	geogFeat 797 803	chenal
+T19	geogFeat 829 846	balises latérales
+T20	geogFeat 873 879	chenal
+T21	geogFeat 929 936	piquets
+T22	geogFeat 1058 1062	BAIE
+T23	name 164 169	Bouin
+T24	name 407 414	Ringeau
+T25	name 476 485	Petit Ogé
+T26	name 733 750	Bourgneuf-en-Retz
+T27	name 1066 1075	BOURGNEUF
+T28	geogName 154 169	roches de Bouin
+T29	geogName 395 487	perches 😄« 😄Ringeau 😄», 😄latérale 😄bâbord 😄(47° 😄00,13' 😄N 😄— 😍2° 03,75' W) et « Petit Ogé »
+T31	geogName 722 750	clocher de Bourgneuf-en-Retz
+T32	geogName 1058 1075	BAIE DE BOURGNEUF
+T33	name 680 685	Bouin
+T34	name 769 775	Poloux
+T35	geogName 758 775	pointe des Poloux
+T36	geogName 668 685	clocher 😍de Bouin
+R1	ElementOf Arg1:T5 Arg2:T6	
+R2	MarkedBy Arg1:T8 Arg2:T29	
+R4	ElementOf Arg1:T17 Arg2:T18	
+R5	MarkedBy Arg1:T17 Arg2:T19	
+R6	MarkedBy Arg1:T20 Arg2:T21	
+T37	geogFeat 30 34	axes
+R7	ElementOf Arg1:T37 Arg2:T1	
+R8	ElementOf Arg1:T37 Arg2:T2	
+T38	geogFeat 248 251	axe
+R3	ElementOf Arg1:T38 Arg2:T6	
+R9	ElementOf Arg1:T11 Arg2:T10	
+R10	ElementOf Arg1:T31 Arg2:T14	
+R11	ElementOf Arg1:T35 Arg2:T14	
+R12	NorthOf Arg1:T21 Arg2:T20	

@@ -1,0 +1,113 @@
+T1	geogFeat 22 26	rade
+T2	geogFeat 41 45	rade
+T4	geogFeat 93 96	île
+T5	geogFeat 107 117	presqu’île
+T6	geogFeat 321 332	port public
+T7	geogFeat 424 428	rade
+T8	geogFeat 433 444	appontement
+T9	geogFeat 537 541	baie
+T10	geogFeat 657 667	Presqu’île
+T11	geogFeat 679 686	coffres
+T12	geogFeat 838 858	conduite sous-marine
+T13	geogFeat 907 919	bouées espar
+T14	geogFeat 947 954	coffres
+T15	geogFeat 970 974	rade
+T16	geogFeat 990 1010	plate-forme pour ULM
+T17	geogFeat 1216 1220	Baie
+T18	geogFeat 1232 1248	Poste Pétroliers
+T19	geogFeat 1282 1287	usine
+T20	geogFeat 1331 1337	pointe
+T21	geogFeat 1349 1355	entrée
+T22	geogFeat 1362 1366	baie
+T23	geogFeat 1411 1422	ducs d’Albe
+T24	geogFeat 1496 1500	PORT
+T25	geogFeat 1543 1547	Baie
+T26	geogFeat 1606 1611	usine
+T27	geogFeat 1671 1681	presqu’île
+T28	geogFeat 1718 1722	quai
+T29	geogFeat 1751 1755	quai
+T30	geogFeat 1801 1806	poste
+T31	geogFeat 1878 1897	terminal minéralier
+T32	geogFeat 1928 1932	baie
+T33	geogFeat 1947 1964	zone de mouillage
+T34	geogFeat 1999 2011	voie d’accès
+T35	geogFeat 2020 2054	zone 😍d’activités professionnelles
+T36	geogFeat 2066 2070	baie
+T37	geogFeat 2078 2095	zone de mouillage
+T38	geogFeat 2119 2145	bouées de marque 😍spéciale
+T39	geogFeat 2212 2216	zone
+T40	geogFeat 2243 2262	coffres 😄d’amarrage
+T41	geogFeat 2358 2363	quais
+T42	geogFeat 2427 2431	rade
+T43	geogFeat 2447 2453	pointe
+T44	geogFeat 2474 2492	zone des Pêcheries
+T45	geogFeat 2525 2528	île
+T46	geogFeat 2548 2554	pointe
+T47	geogFeat 2587 2591	rade
+T48	name 15 21	Grande
+T49	name 34 40	Grande
+T3	name 97 100	Nou
+T50	name 118 123	Ducos
+T51	name 417 423	Grande
+T52	name 546 551	Dames
+T53	name 668 673	Ducos
+T54	geogFeat 704 708	baie
+T55	name 978 984	Nouméa
+T56	name 1225 1230	Dames
+T57	name 1338 1344	Kuauri
+T58	name 1370 1375	Numbo
+T59	name 1504 1510	NOUMÉA
+T60	name 1551 1556	Numbo
+T61	geogFeat 1558 1568	Cimenterie
+T62	name 1682 1690	Doniambo
+T63	name 1723 1726	Sud
+T64	name 1756 1766	Nord-Ouest
+T65	name 1936 1941	Numbo
+T66	name 2420 2426	Grande
+T67	name 2454 2461	Lambert
+T68	name 2555 2561	Adrien
+T69	name 2580 2586	Grande
+T70	geogName 15 26	Grande rade
+T71	geogName 34 45	Grande rade
+T72	geogName 93 100	île Nou
+T73	geogName 107 123	presqu’île Ducos
+T74	geogName 417 428	Grande rade
+T75	geogName 537 551	baie des Dames
+T76	geogName 657 673	Presqu’île Ducos
+T77	geogName 970 984	rade de Nouméa
+T78	geogName 1216 1230	Baie des Dames
+T79	geogName 1331 1344	pointe Kuauri
+T80	geogName 1362 1375	baie de Numbo
+T81	geogName 1496 1510	PORT DE NOUMÉA
+T82	geogName 1543 1556	Baie de Numbo
+T83	geogName 1671 1690	presqu’île Doniambo
+T84	geogName 1718 1726	quai Sud
+T85	geogName 1751 1766	quai Nord-Ouest
+T86	geogName 1928 1941	baie de Numbo
+T87	geogName 2420 2431	Grande rade
+T88	geogName 2447 2461	pointe Lambert
+T89	geogName 2548 2561	pointe Adrien
+T90	geogName 2580 2591	Grande rade
+T91	geogFeat 281 305	installations portuaires
+T92	geogFeat 342 363	installations privées
+T93	geogFeat 494 506	ducs 😍d’Albe
+T94	geogFeat 640 650	réservoirs
+T95	name 2529 2532	Nou
+T96	geogName 2525 2532	île Nou
+R1	ElementOf Arg1:T6 Arg2:T91	
+R2	ElementOf Arg1:T92 Arg2:T91	
+R3	ElementOf Arg1:T8 Arg2:T75	
+R5	ElementOf Arg1:T8 Arg2:T74	
+R6	ElementOf Arg1:T94 Arg2:T76	
+R7	ElementOf Arg1:T11 Arg2:T54	
+R8	ElementOf Arg1:T16 Arg2:T77	
+R9	ElementOf Arg1:T19 Arg2:T79	
+R10	ElementOf Arg1:T21 Arg2:T80	
+R11	ElementOf Arg1:T26 Arg2:T83	
+R12	ElementOf Arg1:T33 Arg2:T86	
+R13	ElementOf Arg1:T35 Arg2:T36	
+R14	MarkedBy Arg1:T37 Arg2:T38	
+R15	EastOf Arg1:T41 Arg2:T88	
+R16	EastOf Arg1:T44 Arg2:T89	
+R17	NorthEastOf Arg1:T44 Arg2:T96	
+R4	ElementOf Arg1:T41 Arg2:T87	

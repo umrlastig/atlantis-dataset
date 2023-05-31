@@ -1,0 +1,74 @@
+T1	geogFeat 16 22	pointe
+T2	geogFeat 35 38	cap
+T3	geogFeat 51 57	pointe
+T4	geogFeat 68 71	cap
+T5	geogFeat 86 92	pointe
+T6	geogFeat 177 180	cap
+T7	geogFeat 206 210	côte
+T8	geogFeat 240 248	falaises
+T9	geogFeat 305 315	mouillages
+T10	geogFeat 321 324	île
+T11	geogFeat 332 336	anse
+T12	geogFeat 389 392	cap
+T13	geogFeat 570 577	clocher
+T14	geogFeat 585 591	église
+T15	geogFeat 766 770	amer
+T16	geogFeat 795 801	maison
+T17	geogFeat 813 833	conduit de 😍cheminée
+T18	geogFeat 932 939	village
+T19	geogFeat 987 991	anse
+T20	geogFeat 1068 1086	coffres d’amarrage
+T21	geogFeat 1127 1131	anse
+T22	geogFeat 1157 1161	anse
+T23	geogFeat 1192 1198	isthme
+T24	geogFeat 1229 1232	cap
+T25	geogFeat 1254 1263	haut-fond
+T26	geogFeat 1363 1369	pointe
+T27	geogFeat 1405 1414	haut-fond
+T28	name 26 31	Ouest
+T29	name 39 43	Vert
+T30	name 61 66	Ouest
+T31	name 72 77	Coupé
+T32	name 93 96	Sud
+T33	name 100 108	Langlade
+T34	name 181 185	Bleu
+T35	name 211 213	SE
+T36	name 217 225	Langlade
+T37	name 340 352	Gouvernement
+T38	name 397 402	Morts
+T39	name 597 605	Langlade
+T40	name 995 1007	Gouvernement
+T41	name 1140 1151	Belle Croix
+T42	name 1166 1173	Soldats
+T43	name 1202 1210	Langlage
+T44	name 1233 1238	Percé
+T45	name 1376 1385	Alouettes
+T46	geogName 16 31	pointe du Ouest
+T47	geogName 35 43	cap Vert
+T48	geogName 51 66	pointe du Ouest
+T49	geogName 68 77	cap Coupé
+T50	geogName 86 96	pointe Sud
+T51	geogName 100 108	Langlade
+T52	geogName 177 185	cap Bleu
+T53	geogName 206 213	côte SE
+T54	geogName 217 225	Langlade
+T55	geogName 332 352	anse du Gouvernement
+T56	geogName 389 402	cap aux Morts
+T57	geogName 585 605	église 😄de 😄Langlade
+T58	geogName 987 1007	anse du Gouvernement
+T59	geogName 1127 1151	anse 😄😍de la Belle Croix
+T60	geogName 1157 1173	anse aux Soldats
+T61	geogName 1192 1210	isthme de Langlage
+T62	geogName 1229 1238	cap Percé
+T63	geogName 1363 1385	pointe 😄aux 😄Alouettes
+R1	ElementOf Arg1:T50 Arg2:T51	
+R2	NorthWestOf Arg1:T52 Arg2:T48	
+R3	ElementOf Arg1:T53 Arg2:T54	
+R4	ElementOf Arg1:T8 Arg2:T53	
+R5	ElementOf Arg1:T9 Arg2:T55	
+R6	NorthWestOf Arg1:T9 Arg2:T56	
+R7	ElementOf Arg1:T13 Arg2:T57	
+R8	ElementOf Arg1:T17 Arg2:T16	
+R9	EastOf Arg1:T25 Arg2:T61	
+R10	NorthOf Arg1:T25 Arg2:T62	
+R11	EastOf Arg1:T27 Arg2:T63	

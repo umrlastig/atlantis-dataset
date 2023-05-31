@@ -1,0 +1,506 @@
+T1	geogFeat 6 19	château d’eau
+T2	geogFeat 39 46	clocher
+T3	geogFeat 84 98	châteaux d’eau
+T4	geogFeat 137 150	agglomération
+T5	geogFeat 267 272	phare
+T6	geogFeat 278 281	île
+T7	geogFeat 292 313	bouée de danger isolé
+T8	geogFeat 335 340	épave
+T9	geogFeat 356 361	phare
+T10	geogFeat 418 422	tour
+T11	geogFeat 444 450	sommet
+T12	geogFeat 536 542	pointe
+T13	geogFeat 468 479	lotissement
+T14	geogFeat 618 626	chaussée
+T15	geogFeat 644 659	parcs à huîtres
+T16	geogFeat 698 704	entrée
+T17	geogFeat 728 736	chaussée
+T18	geogFeat 747 769	balise cardinale Ouest
+T19	geogFeat 927 933	pointe
+T20	geogFeat 952 958	pointe
+T21	geogFeat 970 974	Baie
+T22	geogFeat 1001 1018	port de plaisance
+T23	geogFeat 1032 1036	côte
+T24	geogFeat 1045 1048	île
+T25	geogFeat 1065 1071	rocher
+T26	geogFeat 1103 1109	bassin
+T27	geogFeat 1133 1140	plateau
+T28	geogFeat 1196 1200	côte
+T29	geogFeat 1209 1215	entrée
+T30	geogFeat 1219 1223	rade
+T31	geogFeat 1319 1331	pylône radio
+T32	geogFeat 1395 1400	phare
+T33	geogFeat 1411 1416	bouée
+T34	geogFeat 1484 1489	jetée
+T35	geogFeat 1512 1518	musoir
+T36	geogFeat 1572 1577	bouée
+T37	geogFeat 1640 1644	pont
+T38	geogFeat 1650 1653	île
+T39	geogFeat 1667 1671	port
+T40	geogFeat 1770 1783	zone réservée
+T41	geogFeat 1854 1860	entrée
+T42	geogFeat 1864 1868	port
+T43	geogFeat 1870 1887	PORT DE PLAISANCE
+T44	geogFeat 1892 1898	places
+T45	geogFeat 1903 1910	pontons
+T46	geogFeat 1971 1976	digue
+T47	geogFeat 2006 2010	quai
+T48	geogFeat 2058 2063	phare
+T49	geogFeat 2104 2108	tour
+T50	geogFeat 2143 2149	sommet
+T51	geogFeat 2184 2190	pylône
+T52	geogFeat 2299 2304	basse
+T53	geogFeat 2254 2260	goulet
+T54	geogFeat 2361 2367	pointe
+T55	geogFeat 2378 2381	île
+T56	geogFeat 2389 2409	bouée d’atterrissage
+T57	geogFeat 2452 2482	marque d’eaux saines lumineuse
+T58	geogFeat 2517 2526	sémaphore
+T59	geogFeat 2530 2533	cap
+T60	geogFeat 2551 2557	entrée
+T61	geogFeat 2564 2569	passe
+T62	geogFeat 2626 2631	fosse
+T63	geogFeat 2662 2666	gouf
+T64	geogFeat 2765 2771	entrée
+T65	geogFeat 2817 2823	entrée
+T66	geogFeat 2829 2835	bouées
+T67	geogFeat 2955 2966	appontement
+T68	geogFeat 2973 2979	pointe
+T69	geogFeat 3000 3021	bouée de danger isolé
+T70	geogFeat 3032 3037	épave
+T71	geogFeat 3074 3080	pointe
+T72	geogFeat 3084 3094	alignement
+T73	geogFeat 3126 3131	phare
+T74	geogFeat 3146 3150	tour
+T75	geogFeat 3178 3183	jetée
+T76	geogFeat 3189 3194	jetée
+T77	geogFeat 3242 3247	basse
+T78	geogFeat 3319 3325	abbaye
+T79	geogFeat 3373 3378	barre
+T80	geogFeat 3463 3467	port
+T81	geogFeat 3483 3490	chenaux
+T82	geogFeat 3553 3559	balise
+T83	geogFeat 3677 3684	perches
+T84	geogFeat 3729 3742	château d’eau
+T85	geogFeat 3819 3823	rade
+T86	geogFeat 3829 3832	île
+T87	geogFeat 3848 3853	fosse
+T88	geogFeat 3871 3881	alignement
+T89	geogFeat 3893 3898	tours
+T90	geogFeat 3918 3925	sommets
+T91	geogFeat 3974 3984	alignement
+T92	geogFeat 4023 4029	entrée
+T93	geogFeat 4033 4037	port
+T94	geogFeat 4066 4076	alignement
+T95	geogFeat 4080 4087	clocher
+T96	geogFeat 4105 4109	tour
+T97	geogFeat 4118 4124	donjon
+T98	geogFeat 4146 4161	mât de pavillon
+T99	geogFeat 4188 4194	musoir
+T100	geogFeat 4201 4206	jetée
+T101	geogFeat 4255 4262	plateau
+T102	geogFeat 4300 4309	sémaphore
+T103	geogFeat 4358 4364	pointe
+T104	geogFeat 4411 4417	pointe
+T105	geogFeat 4526 4531	bouée
+T106	geogFeat 4594 4598	pont
+T107	geogFeat 4604 4607	île
+T108	name 4621 4626	GPMLR
+T109	geogName 4621 4626	GPMLR
+T110	geogFeat 4730 4734	côte
+T111	geogFeat 4743 4746	île
+T112	geogFeat 4758 4764	pointe
+T113	geogFeat 4834 4840	pointe
+T114	geogFeat 4868 4872	Fort
+T115	geogFeat 4932 4939	passage
+T116	geogFeat 4957 4960	île
+T117	geogFeat 4973 4977	banc
+T118	geogFeat 5139 5145	pointe
+T119	geogFeat 5157 5161	Baie
+T120	geogFeat 5178 5197	alignement d’entrée
+T121	geogFeat 5274 5279	passe
+T122	geogFeat 5261 5267	entrée
+T123	geogFeat 5299 5304	bouée
+T124	geogFeat 5312 5332	marque d’eaux saines
+T125	geogFeat 5363 5368	phare
+T126	geogFeat 5424 5429	jetée
+T127	geogFeat 5458 5461	épi
+T128	geogFeat 5496 5507	enrochement
+T129	geogFeat 5563 5566	feu
+T130	geogFeat 5618 5624	pointe
+T131	geogFeat 5639 5642	Île
+T132	geogFeat 5654 5660	bouées
+T133	geogFeat 5750 5756	pointe
+T134	geogFeat 5815 5818	sas
+T135	geogFeat 5859 5865	pointe
+T136	geogFeat 5881 5886	wharf
+T137	geogFeat 5993 5998	bouée
+T138	geogFeat 6061 6065	pont
+T139	geogFeat 6071 6074	île
+T140	geogFeat 6186 6199	port de pêche
+T141	geogFeat 6211 6215	Baie
+T142	geogFeat 6232 6236	môle
+T143	geogFeat 6298 6301	épi
+T144	geogFeat 6354 6369	zone d’échouage
+T145	geogFeat 6492 6495	épi
+T146	geogFeat 6549 6555	église
+T147	geogFeat 6515 6523	échouage
+T148	geogFeat 6568 6581	château d’eau
+T149	geogFeat 6633 6637	môle
+T150	geogFeat 6654 6664	avant-port
+T151	geogFeat 6672 6676	port
+T152	geogFeat 6729 6734	phare
+T153	geogFeat 6765 6769	anse
+T154	geogFeat 6774 6787	château d’eau
+T155	geogFeat 6824 6829	phare
+T156	geogFeat 6844 6848	Rade
+T157	geogFeat 6871 6880	mouillage
+T158	geogFeat 6906 6916	alignement
+T159	geogFeat 6928 6937	mouillage
+T160	geogFeat 6988 6992	port
+T161	geogFeat 7017 7021	anse
+T162	geogFeat 7059 7065	pointe
+T163	geogFeat 7089 7095	bassin
+T164	geogFeat 7118 7122	rive
+T165	geogFeat 7135 7145	embouchure
+T166	geogFeat 7151 7159	ruisseau
+T167	geogFeat 7193 7208	port d’échouage
+T168	geogFeat 7225 7230	jetée
+T169	geogFeat 7327 7335	plateaux
+T170	geogFeat 7413 7422	sémaphore
+T171	geogFeat 7440 7446	bassin
+T172	geogFeat 7625 7631	musoir
+T173	geogFeat 7638 7643	jetée
+T174	geogFeat 7648 7655	plateau
+T175	geogFeat 7777 7780	île
+T176	geogFeat 7788 7794	pointe
+T177	geogFeat 7849 7852	île
+T178	geogFeat 7863 7869	pointe
+T179	geogFeat 7894 7897	feu
+T180	geogFeat 7930 7933	épi
+T181	geogFeat 7992 7998	entrée
+T182	geogFeat 8002 8006	port
+T183	geogFeat 8010 8023	zone centrale
+T184	geogFeat 8051 8063	appontements
+T185	geogFeat 8116 8122	rivage
+T186	geogFeat 8193 8197	amer
+T187	geogFeat 8211 8231	bouée d’atterrissage
+T188	geogFeat 8300 8304	port
+T189	geogFeat 8349 8354	zones
+T190	geogFeat 8592 8597	phare
+T191	geogFeat 8617 8623	bouées
+T192	geogFeat 8631 8656	balise de marque spéciale
+T193	geogFeat 8691 8696	bouée
+T194	geogFeat 8734 8751	zone de mouillage
+T195	geogFeat 8784 8789	zones
+T196	geogFeat 8793 8811	récifs artificiels
+T197	geogFeat 8826 8833	modules
+T198	geogFeat 8889 8895	jetées
+T199	name 62 77	Couarde-sur-Mer
+T200	geogName 62 77	Couarde-sur-Mer
+T201	name 165 177	Grande Croix
+T202	geogName 165 177	Grande Croix
+T203	name 211 230	Saint-Jean-de-Monts
+T204	geogName 211 230	Saint-Jean-de-Monts
+T205	name 284 287	Aix
+T206	geogName 278 287	île d’Aix
+T207	name 367 377	Armandèche
+T208	geogName 356 377	phare de l’Armandèche
+T209	name 545 550	Arçay
+T210	geogName 536 550	pointe d’Arçay
+T211	name 801 808	Cornard
+T212	geogName 801 808	Cornard
+T213	name 938 945	Minimes
+T214	geogName 927 945	pointe des Minimes
+T215	name 962 966	Chef
+T216	geogName 962 974	Chef de Baie
+T217	geogName 952 974	pointe de Chef de Baie
+T218	name 979 999	Saint-Denis-d’Oléron
+T219	geogName 979 999	Saint-Denis-d’Oléron
+T220	name 1037 1039	NE
+T221	geogName 1032 1039	côte NE
+T222	name 1074 1082	Antioche
+T223	geogName 1065 1082	rocher d’Antioche
+T224	name 1226 1231	Eyrac
+T225	geogName 1219 1231	rade d’Eyrac
+T226	name 1419 1431	La Perrotine
+T227	geogName 1411 1433	bouée « La Perrotine »
+T228	name 1580 1588	Chauveau
+T229	geogName 1572 1588	bouée « Chauveau
+T230	name 1657 1659	Ré
+T231	geogName 1650 1659	île de Ré
+T232	name 1675 1692	La Rochelle-Ville
+T233	geogName 1667 1692	port de La Rochelle-Ville
+T234	name 2011 2024	Maurice Ravel
+T235	geogName 2006 2024	quai Maurice Ravel
+T236	name 2066 2073	Hourtin
+T237	geogName 2058 2073	phare d’Hourtin
+T238	name 2264 2274	Fromentine
+T239	geogName 2254 2274	goulet de Fromentine
+T240	name 2310 2315	Aigle
+T241	geogName 2299 2315	basse de l’Aigle
+T242	name 2368 2372	Nord
+T243	geogName 2361 2372	pointe Nord
+T244	name 2412 2419	ATT ARC
+T245	geogName 2389 2421	bouée d’atterrissage « ATT ARC »
+T246	name 2534 2540	Ferret
+T247	geogName 2530 2540	cap Ferret
+T248	geogName 2517 2540	sémaphore du cap Ferret
+T249	name 2570 2574	Nord
+T250	geogName 2564 2574	passe Nord
+T251	name 2605 2614	Capbreton
+T252	geogName 2605 2614	Capbreton
+T253	name 2670 2679	Capbreton
+T254	geogName 2662 2679	gouf de Capbreton
+T255	name 2775 2784	Capbreton
+T256	geogName 2775 2784	Capbreton
+T257	name 2983 2994	Sablanceaux
+T258	geogName 2973 2994	pointe de Sablanceaux
+T259	name 3043 3051	Centaure
+T260	geogName 3032 3053	épave du « Centaure »
+T261	name 3138 3144	Chaume
+T262	geogName 3126 3144	phare de la Chaume
+T263	name 3153 3160	Arundel
+T264	geogName 3146 3160	tour d’Arundel
+T265	name 3184 3187	Est
+T266	geogName 3178 3187	jetée Est
+T267	name 3199 3205	Sables
+T268	geogName 3189 3205	jetée des Sables
+T269	name 3254 3264	Pironnière
+T270	geogName 3242 3264	basse de la Pironnière
+T271	name 3329 3351	Saint-Jean-d’Orbestier
+T272	geogName 3319 3351	abbaye de Saint-Jean-d’Orbestier
+T273	name 3379 3385	Marine
+T274	geogName 3373 3385	barre Marine
+T275	name 3470 3474	Arès
+T276	geogName 3463 3474	port d’Arès
+T277	name 3494 3500	Piquey
+T278	geogName 3483 3524	chenaux de Piquey, d’Arès et de Graveyron
+T279	name 3504 3508	Arès
+T280	name 3515 3524	Graveyron
+T281	name 3562 3564	C8
+T282	geogName 3553 3566	balise « C8 »
+T283	geogFeat 3643 3652	Canelette
+T284	name 3655 3659	Arès
+T285	geogName 3643 3659	Canelette d’Arès
+T286	name 3707 3716	Capbreton
+T287	geogName 3707 3716	Capbreton
+T288	name 3745 3751	Ondres
+T289	geogName 3729 3751	château d’eau d’Ondres
+T290	name 3835 3838	Aix
+T291	geogName 3829 3838	île d’Aix
+T292	name 3856 3860	Énet
+T293	geogName 3848 3860	fosse d’Énet
+T294	name 3964 3972	Charente
+T295	geogName 3964 3972	Charente
+T296	name 3992 3999	Soumard
+T297	geogName 3992 3999	Soumard
+T298	name 4091 4097	Fouras
+T299	geogName 4080 4097	clocher de Fouras
+T300	name 4110 4116	Carrée
+T301	geogName 4105 4116	tour Carrée
+T302	name 4265 4275	Illarguita
+T303	geogName 4255 4275	plateau d’Illarguita
+T304	name 4368 4373	Grave
+T305	geogName 4358 4373	pointe de Grave
+T306	name 4421 4426	Grave
+T307	geogName 4411 4426	pointe de Grave
+T308	name 4534 4542	Chauveau
+T309	geogName 4526 4544	bouée « Chauveau »
+T310	name 4611 4613	Ré
+T311	geogName 4604 4613	île de Ré
+T312	geogName 4594 4613	pont de l’île de Ré
+T313	name 4765 4773	Gauthier
+T314	geogName 4758 4773	pointe Gauthier
+T315	name 4735 4737	NE
+T316	geogName 4730 4737	côte NE
+T317	name 4796 4810	Port-Joinville
+T318	geogName 4796 4810	Port-Joinville
+T319	name 4845 4855	Saumonards
+T320	geogName 4834 4855	pointe des Saumonards
+T321	name 4873 4879	Boyard
+T322	geogName 4868 4879	Fort Boyard
+T323	name 4945 4948	Est
+T324	geogName 4932 4948	passage de l’Est
+T325	name 4963 4966	Aix
+T326	geogName 4957 4966	île d’Aix
+T327	name 4984 5002	Longe et du Boyard
+T328	geogName 4973 5002	banc de la Longe et du Boyard
+T329	name 5049 5060	La Rochelle
+T330	geogName 5049 5060	La Rochelle
+T331	name 5149 5153	Chef
+T332	geogName 5149 5161	Chef de Baie
+T333	geogName 5139 5161	pointe de Chef de Baie
+T334	name 5307 5308	G
+T335	geogName 5299 5310	bouée « G »
+T336	name 5372 5380	Cordouan
+T337	geogName 5363 5380	phare de Cordouan
+T338	name 5628 5637	Coudepont
+T339	geogName 5618 5637	pointe de Coudepont
+T340	name 5645 5648	Aix
+T341	geogName 5639 5648	Île d’Aix
+T342	name 5663 5671	La Fumée
+T343	name 5679 5685	Fouras
+T344	geogName 5654 5687	bouées « La Fumée » et « Fouras »
+T345	name 5762 5770	Aiguille
+T346	geogName 5750 5770	pointe de l’Aiguille
+T347	name 5868 5876	Arcachon
+T348	geogName 5859 5876	pointe d’Arcachon
+T349	name 5893 5898	Salie
+T350	geogName 5881 5898	wharf de la Salie
+T351	name 6001 6009	Chauveau
+T352	geogName 5993 6009	bouée « Chauveau
+T353	name 6078 6080	Ré
+T354	geogName 6071 6080	île de Ré
+T355	geogName 6061 6080	pont de l’île de Ré
+T356	name 6203 6207	Chef
+T357	geogName 6203 6215	Chef de Baie
+T358	geogName 6186 6215	port de pêche de Chef de Baie
+T359	name 6680 6701	Bonne Anse-La Palmyre
+T360	geogName 6672 6701	port de Bonne Anse-La Palmyre
+T361	name 6741 6747	Coubre
+T362	geogName 6729 6747	phare de la Coubre
+T363	name 6791 6795	Loix
+T364	geogName 6774 6795	château d’eau de Loix
+T365	name 6837 6843	Petite
+T366	geogName 6837 6848	Petite Rade
+T367	name 6996 7002	Douhet
+T368	geogName 6988 7002	port du Douhet
+T369	name 7028 7038	Maleconche
+T370	geogName 7017 7038	anse de la Maleconche
+T371	name 7070 7080	Saumonards
+T372	geogName 7059 7080	pointe des Saumonards
+T373	name 7173 7185	Jard-sur-Mer
+T374	geogName 7173 7185	Jard-sur-Mer
+T375	name 7273 7277	Bour
+T376	geogName 7273 7277	Bour
+T377	name 7339 7353	Belhara Perdun
+T378	geogName 7327 7353	plateaux de Belhara Perdun
+T379	name 7381 7389	Mabessin
+T380	geogName 7381 7389	Mabessin
+T381	name 7426 7431	Socoa
+T382	geogName 7413 7431	sémaphore de Socoa
+T383	name 7659 7669	Rochebonne
+T384	geogName 7648 7669	plateau de Rochebonne
+T385	name 7784 7786	Ré
+T386	geogName 7777 7786	île de Ré
+T387	name 7799 7807	Baleines
+T388	geogName 7788 7807	pointe des Baleines
+T389	name 7855 7861	Oléron
+T390	geogName 7849 7861	île d’Oléron
+T391	name 7873 7882	Chassiron
+T392	geogName 7863 7882	pointe de Chassiron
+T393	name 8601 8609	Cordouan
+T394	geogName 8592 8609	phare de Cordouan
+T395	name 8755 8770	Ronce-les-Bains
+T396	geogName 8734 8770	zone de mouillage de Ronce-les-Bains
+T397	name 8899 8908	Capbreton
+T398	geogName 8889 8908	jetées de Capbreton
+R1	EastSouthEastOf Arg1:T1 Arg2:T2	
+R2	ElementOf Arg1:T2 Arg2:T200	
+R3	ElementOf Arg1:T202 Arg2:T3	
+R4	ElementOf Arg1:T204 Arg2:T3	
+R5	EastNorthEastOf Arg1:T202 Arg2:T4	
+R6	SouthEastOf Arg1:T204 Arg2:T4	
+T399	geogName 267 287	phare de l’île d’Aix
+R7	NorthNorthWestOf Arg1:T7 Arg2:T399	
+R8	WestOf Arg1:T7 Arg2:T8	
+R9	ElementOf Arg1:T10 Arg2:T208	
+T400	geogFeat 401 408	clocher
+R10	WestSouthWestOf Arg1:T208 Arg2:T400	
+R11	ElementOf Arg1:T11 Arg2:T10	
+R12	WestSouthWestOf Arg1:T13 Arg2:T210	
+R13	WestSouthWestOf Arg1:T15 Arg2:T16	
+R14	WestSouthWestOf Arg1:T14 Arg2:T16	
+R15	ElementOf Arg1:T18 Arg2:T17	
+R16	WestNorthWestOf Arg1:T212 Arg2:T18	
+R17	ElementOf Arg1:T221 Arg2:T24	
+R18	SouthSouthEastOf Arg1:T22 Arg2:T223	
+R19	ElementOf Arg1:T26 Arg2:T22	
+R20	ElementOf Arg1:T26 Arg2:T27	
+R21	NorthNorthWestOf Arg1:T31 Arg2:T32	
+R22	EastNorthEastOf Arg1:T227 Arg2:T34	
+R23	ElementOf Arg1:T35 Arg2:T34	
+T401	geogName 1640 1659	pont de l’île de Ré
+R24	SouthSouthWestOf Arg1:T229 Arg2:T401	
+R25	EastSouthEastOf Arg1:T40 Arg2:T41	
+R26	ElementOf Arg1:T44 Arg2:T45	
+R27	NorthNorthWestOf Arg1:T46 Arg2:T43	
+R28	ElementOf Arg1:T49 Arg2:T237	
+R29	ElementOf Arg1:T50 Arg2:T49	
+R30	MarkedBy Arg1:T8 Arg2:T7	
+R31	SouthSouthWestOf Arg1:T49 Arg2:T51	
+R32	NorthNorthEastOf Arg1:T241 Arg2:T243	
+R33	ElementOf Arg1:T243 Arg2:T55	
+R34	SouthSouthWestOf Arg1:T245 Arg2:T248	
+R35	MarkedBy Arg1:T60 Arg2:T245	
+R36	SouthSouthWestOf Arg1:T66 Arg2:T67	
+R37	WestNorthWestOf Arg1:T62 Arg2:T64	
+R38	MarkedBy Arg1:T260 Arg2:T69	
+R39	WestNorthWestOf Arg1:T69 Arg2:T71	
+R40	ElementOf Arg1:T262 Arg2:T72	
+R41	ElementOf Arg1:T266 Arg2:T72	
+R42	ElementOf Arg1:T270 Arg2:T72	
+R43	WestSouthWestOf Arg1:T270 Arg2:T272	
+R44	EastOf Arg1:T72 Arg2:T274	
+R45	NorthWestOf Arg1:T274 Arg2:T272	
+R46	MarkedBy Arg1:T285 Arg2:T83	
+R47	SouthOf Arg1:T289 Arg2:T287	
+T402	geogName 3819 3838	rade de l’île d’Aix
+R48	ElementOf Arg1:T89 Arg2:T88	
+R49	ElementOf Arg1:T90 Arg2:T89	
+R50	ElementOf Arg1:T299 Arg2:T94	
+R51	ElementOf Arg1:T301 Arg2:T94	
+R53	ElementOf Arg1:T98 Arg2:T97	
+R54	NorthNorthWestOf Arg1:T301 Arg2:T99	
+R55	ElementOf Arg1:T99 Arg2:T100	
+R56	NorthNorthWestOf Arg1:T303 Arg2:T102	
+R57	SouthSouthWestOf Arg1:T309 Arg2:T312	
+R58	ElementOf Arg1:T316 Arg2:T111	
+R59	EastNorthEastOf Arg1:T322 Arg2:T320	
+R60	WestOf Arg1:T322 Arg2:T324	
+R61	MarkedBy Arg1:T122 Arg2:T335	
+R62	SouthSouthWestOf Arg1:T124 Arg2:T337	
+R63	EastSouthEastOf Arg1:T314 Arg2:T318	
+R64	SouthOf Arg1:T127 Arg2:T126	
+R65	SouthSouthEastOf Arg1:T128 Arg2:T127	
+R66	ElementOf Arg1:T129 Arg2:T128	
+R67	SouthEastOf Arg1:T344 Arg2:T339	
+R68	EastSouthEastOf Arg1:T344 Arg2:T339	
+R69	SouthOf Arg1:T350 Arg2:T348	
+R70	SouthSouthWestOf Arg1:T352 Arg2:T355	
+R71	EastOf Arg1:T147 Arg2:T146	
+R72	EastNorthEastOf Arg1:T147 Arg2:T148	
+R73	WestSouthWestOf Arg1:T149 Arg2:T150	
+R74	EastSouthEastOf Arg1:T360 Arg2:T362	
+R75	EastSouthEastOf Arg1:T364 Arg2:T155	
+R76	NorthNorthWestOf Arg1:T159 Arg2:T157	
+R77	ElementOf Arg1:T159 Arg2:T366	
+R78	ElementOf Arg1:T368 Arg2:T370	
+R79	WestNorthWestOf Arg1:T368 Arg2:T372	
+R80	EastSouthEastOf Arg1:T167 Arg2:T376	
+R81	NorthNorthEastOf Arg1:T380 Arg2:T382	
+R82	ElementOf Arg1:T172 Arg2:T173	
+R83	EastSouthEastOf Arg1:T384 Arg2:T386	
+R84	EastNorthEastOf Arg1:T384 Arg2:T390	
+R85	ElementOf Arg1:T179 Arg2:T180	
+R86	ElementOf Arg1:T184 Arg2:T183	
+R87	EastOf Arg1:T189 Arg2:T394	
+R88	WestSouthWestOf Arg1:T189 Arg2:T394	
+R89	WestNorthWestOf Arg1:T192 Arg2:T193	
+R90	WestNorthWestOf Arg1:T191 Arg2:T193	
+R91	ElementOf Arg1:T196 Arg2:T195	
+R92	ElementOf Arg1:T197 Arg2:T196	
+R93	WestSouthWestOf Arg1:T195 Arg2:T398	
+R94	ElementOf Arg1:T165 Arg2:T166	
+R95	ElementOf Arg1:T29 Arg2:T225	
+R96	ElementOf Arg1:T41 Arg2:T42	
+R97	ElementOf Arg1:T60 Arg2:T250	
+R98	ElementOf Arg1:T64 Arg2:T256	
+R99	ElementOf Arg1:T92 Arg2:T93	
+R52	ElementOf Arg1:T122 Arg2:T121	
+R100	NorthWestOf Arg1:T378 Arg2:T382	
+R101	ElementOf Arg1:T181 Arg2:T182	
+R102	WestSouthWestOf Arg1:T184 Arg2:T185	
+R103	MarkedBy Arg1:T396 Arg2:T192	
+R104	ElementOf Arg1:T396 Arg2:T191	

@@ -1,0 +1,53 @@
+T1	geogFeat 145 149	côte
+T2	geogFeat 305 311	région
+T3	geogFeat 557 561	côte
+T4	geogFeat 728 732	côte
+T5	geogFeat 937 941	côte
+T6	geogFeat 959 964	delta
+T7	geogFeat 968 971	Río
+T8	geogFeat 1065 1071	fleuve
+T9	geogFeat 1292 1296	ÎLES
+T10	geogFeat 1322 1326	îles
+T11	geogFeat 1418 1422	côte
+T12	geogFeat 1445 1449	îles
+T13	geogFeat 1580 1583	île
+T14	geogFeat 1596 1599	île
+T15	geogFeat 1786 1789	île
+T16	geogFeat 1893 1897	côte
+T17	geogFeat 1907 1910	île
+T18	geogFeat 1916 1921	CÔTES
+T19	geogFeat 1949 1954	côtes
+T20	geogFeat 2044 2051	plateau
+T21	name 46 52	Guyane
+T22	name 122 132	Atlantique
+T23	name 160 175	Amérique du Sud
+T24	name 150 154	Nord
+T25	name 335 341	Guyane
+T26	name 972 979	Orinoco
+T27	name 1300 1305	SALUT
+T28	name 1330 1335	Salut
+T29	name 1600 1612	Saint-Joseph
+T30	name 1790 1796	Royale
+T31	name 1925 1932	SURINAM
+T32	name 1970 1976	Guyane
+T33	name 1898 1901	Sud
+T34	geogName 46 52	Guyane
+T35	geogName 122 132	Atlantique
+T36	geogName 145 154	côte Nord
+T37	geogName 160 175	Amérique du Sud
+T38	geogName 335 341	Guyane
+T39	geogName 968 979	Río Orinoco
+T40	geogName 1292 1305	ÎLES DU SALUT
+T41	geogName 1322 1335	îles du Salut
+T42	geogName 1596 1612	île Saint-Joseph
+T43	geogName 1786 1796	île Royale
+T44	geogName 1893 1901	côte Sud
+T45	geogName 1916 1932	CÔTES DU SURINAM
+T46	geogName 1970 1976	Guyane
+T47	geogName 959 979	delta de Río Orinoco
+T48	name 2052 2063	continental
+T49	geogName 2044 2063	plateau continental
+T50	name 1584 1590	Royale
+T51	geogName 1580 1590	île Royale
+R1	ElementOf Arg1:T36 Arg2:T37	
+R2	ElementOf Arg1:T44 Arg2:T17	

@@ -1,0 +1,26 @@
+T1	geogFeat 167 172	étier
+T2	geogFeat 187 193	vannes
+T3	geogFeat 199 205	écluse
+T4	geogFeat 316 333	estacades privées
+T5	geogFeat 340 357	places sur ponton
+T6	geogFeat 415 435	cale de mise à l’eau
+T7	geogFeat 528 534	Mairie
+T8	geogFeat 733 739	POINTE
+T9	geogFeat 755 758	ÎLE
+T11	geogFeat 775 789	Bureau du port
+T12	geogFeat 832 841	Gare SNCF
+T13	geogFeat 862 866	Port
+T14	geogFeat 473 477	quai
+T10	name 209 217	Falleron
+T16	name 539 555	Moutiers-en-Retz
+T17	name 870 876	Collet
+T18	name 762 773	NOIRMOUTIER
+T19	name 743 750	CROISIC
+T20	geogName 199 217	écluse du Falleron
+T21	geogName 528 555	Mairie des Moutiers-en-Retz
+T22	geogName 733 750	POINTE DU CROISIC
+T23	geogName 755 773	ÎLE DE NOIRMOUTIER
+T24	geogName 862 876	Port du Collet
+R1	ElementOf Arg1:T2 Arg2:T20	
+T15	geogFeat 376 400	Installations portuaires
+T25	geogFeat 296 311	Infrastructures

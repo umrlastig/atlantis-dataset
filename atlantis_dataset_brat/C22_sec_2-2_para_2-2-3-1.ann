@@ -1,0 +1,29 @@
+T1	geogFeat 31 36	Isles
+T2	geogFeat 199 204	Isles
+T3	geogFeat 235 239	Rock
+T4	geogFeat 252 257	phare
+T5	geogFeat 293 297	tour
+T6	geogFeat 347 351	amer
+T7	geogFeat 466 472	Phares
+T8	geogFeat 483 487	Rock
+T9	geogFeat 507 511	Rock
+T12	geogFeat 430 436	ROUTES
+T13	name 40 46	Scilly
+T14	name 84 99	Atlantique Nord
+T15	name 126 132	Manche
+T16	name 210 216	Scilly
+T17	name 227 233	Bishop
+T18	name 476 482	Bishop
+T19	name 502 506	Wolf
+T20	geogName 31 46	Isles of Scilly
+T21	geogName 84 99	Atlantique Nord
+T22	geogName 126 132	Manche
+T23	geogName 199 216	Isles 😄of 😄Scilly
+T24	geogName 227 239	Bishop 😄Rock
+T25	geogName 476 487	Bishop Rock
+T26	geogName 502 511	Wolf Rock
+R3	ElementOf Arg1:T4 Arg2:T24	
+R4	ElementOf Arg1:T5 Arg2:T4	
+R5	ElementOf Arg1:T24 Arg2:T23	
+R1	ElementOf Arg1:T7 Arg2:T25	
+R2	ElementOf Arg1:T7 Arg2:T26	

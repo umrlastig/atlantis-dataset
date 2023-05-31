@@ -1,0 +1,25 @@
+T1	geogFeat 14 18	Îles
+T2	geogFeat 20 24	banc
+T3	geogFeat 26 33	dangers
+T4	geogFeat 49 54	atoll
+T5	geogFeat 77 82	blocs
+T6	geogFeat 107 112	récif
+T8	geogFeat 214 220	rivage
+T9	geogFeat 238 243	atoll
+T10	geogFeat 308 313	atoll
+T11	geogFeat 283 288	côtes
+T12	geogFeat 330 338	falaises
+T13	geogFeat 493 502	mouillage
+T14	geogFeat 569 583	ligne de sonde
+T15	geogFeat 610 614	banc
+T16	geogFeat 624 628	zone
+T17	name 289 293	Nord
+T18	name 297 302	Ouest
+T19	name 514 526	Grande Terre
+T20	geogName 283 302	côtes Nord et Ouest
+T21	geogName 514 526	Grande Terre
+T7	geogFeat 260 266	danger
+R1	ElementOf Arg1:T5 Arg2:T4	
+R2	ElementOf Arg1:T20 Arg2:T10	
+R3	EastOf Arg1:T13 Arg2:T21	
+R4	ElementOf Arg1:T15 Arg2:T16	

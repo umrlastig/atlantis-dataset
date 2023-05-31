@@ -1,0 +1,76 @@
+T1	geogFeat 31 35	port
+T2	geogFeat 56 60	port
+T3	geogFeat 133 139	pointe
+T4	geogFeat 164 168	côte
+T5	geogFeat 200 210	plan d’eau
+T6	geogFeat 306 312	pointe
+T7	geogFeat 332 336	môle
+T8	geogFeat 365 370	jetée
+T9	geogFeat 444 455	terre-plein
+T10	geogFeat 477 488	terre-plein
+T11	geogFeat 525 530	jetée
+T12	geogFeat 570 576	musoir
+T13	geogFeat 587 592	jetée
+T14	geogFeat 602 605	feu
+T15	geogFeat 671 690	bassins commerciaux
+T16	geogFeat 755 762	arsenal
+T17	geogFeat 610 624	passe d’entrée
+T18	geogFeat 791 804	port de pêche
+T19	geogFeat 829 833	port
+T20	geogFeat 977 1011	port d’escale et de ravitaillement
+T21	geogFeat 1115 1119	port
+T22	geogFeat 1167 1170	CAP
+T23	geogFeat 1185 1188	CAP
+T24	geogFeat 844 860	zone d’évolution
+T25	geogFeat 1213 1217	Port
+T26	geogFeat 1228 1234	Bassin
+T27	geogFeat 1242 1246	môle
+T28	name 39 44	Dakar
+T29	name 64 71	Sénégal
+T30	name 169 184	Ouest africaine
+T31	name 316 321	Dakar
+T32	name 371 374	Sud
+T33	name 456 466	Nord-Ouest
+T34	name 489 497	Nord-Est
+T35	name 531 535	Nord
+T36	geogFeat 731 751	plan d’eau portuaire
+T37	name 954 959	Dakar
+T38	name 1088 1092	Mali
+T39	name 1123 1128	Dakar
+T40	name 1171 1175	VERT
+T41	name 1189 1194	VERGA
+T42	name 1221 1226	Dakar
+T43	geogName 31 44	port de Dakar
+T44	geogName 64 71	Sénégal
+T45	geogName 164 184	côte Ouest africaine
+T46	geogName 306 321	pointe de Dakar
+T47	geogName 365 374	jetée Sud
+T48	geogName 444 466	terre-plein Nord-Ouest
+T49	geogName 477 497	terre-plein Nord-Est
+T50	geogName 525 535	jetée Nord
+T51	geogName 954 959	Dakar
+T52	geogName 1088 1092	Mali
+T53	geogName 1115 1128	port de Dakar
+T54	geogName 1167 1175	CAP VERT
+T55	geogName 1185 1194	CAP VERGA
+T56	geogName 1213 1226	Port de Dakar
+T57	name 337 338	3
+T58	geogName 332 338	môle 3
+T59	name 1235 1238	Est
+T60	geogName 1228 1238	Bassin Est
+T61	name 1247 1251	n° 3
+T62	geogName 1242 1251	môle n° 3
+R1	ElementOf Arg1:T43 Arg2:T3	
+R2	ElementOf Arg1:T3 Arg2:T45	
+R3	ElementOf Arg1:T5 Arg2:T43	
+R4	SouthOf Arg1:T46 Arg2:T43	
+R5	SouthEastOf Arg1:T58 Arg2:T43	
+R6	NorthOf Arg1:T48 Arg2:T43	
+R7	NorthEastOf Arg1:T49 Arg2:T43	
+R8	ElementOf Arg1:T12 Arg2:T13	
+R9	ElementOf Arg1:T14 Arg2:T12	
+R10	ElementOf Arg1:T15 Arg2:T36	
+R11	ElementOf Arg1:T16 Arg2:T36	
+R12	ElementOf Arg1:T18 Arg2:T36	
+R13	ElementOf Arg1:T24 Arg2:T19	
+R14	ElementOf Arg1:T2 Arg2:T44	

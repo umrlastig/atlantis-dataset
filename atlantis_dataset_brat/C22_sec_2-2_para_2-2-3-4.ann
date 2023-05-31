@@ -1,0 +1,63 @@
+T1	geogFeat 104 109	océan
+T2	geogFeat 133 138	océan
+T3	geogFeat 164 173	péninsule
+T4	geogFeat 216 219	DST
+T5	geogFeat 239 245	entrée
+T6	geogFeat 269 289	balisage AIS virtuel
+T7	geogFeat 505 510	fosse
+T9	geogFeat 653 660	dangers
+T10	geogFeat 675 678	île
+T11	geogFeat 739 742	île
+T12	geogFeat 754 761	pointes
+T13	geogFeat 769 773	baie
+T15	geogFeat 918 921	île
+T16	geogFeat 948 954	phares
+T17	geogFeat 961 971	tour-radar
+T18	geogFeat 991 994	île
+T19	geogFeat 1116 1121	phare
+T20	geogFeat 1195 1200	phare
+T21	geogFeat 1216 1226	tour-radar
+T22	geogFeat 1073 1079	ROUTES
+T23	geogFeat 31 34	île
+T24	name 37 45	Ouessant
+T25	name 82 88	Manche
+T26	name 110 126	Atlantique Ouest
+T27	name 139 153	Atlantique Sud
+T28	name 174 182	Ibérique
+T29	name 200 208	Ouessant
+T30	name 513 521	Ouessant
+T31	name 546 554	Ouessant
+T32	name 681 689	Ouessant
+T33	name 777 784	Lampaul
+T34	name 924 932	Ouessant
+T35	name 995 1001	Molène
+T36	name 1103 1111	Ouessant
+T37	name 1125 1131	Creach
+T38	name 1204 1209	Stiff
+T39	name 1182 1190	Ouessant
+T40	geogName 31 45	île d’Ouessant
+T41	geogName 82 88	Manche
+T42	geogName 104 126	océan Atlantique Ouest
+T43	geogName 133 153	océan Atlantique Sud
+T44	geogName 164 182	péninsule Ibérique
+T45	geogName 200 208	Ouessant
+T46	geogName 505 521	fosse d’Ouessant
+T47	geogName 546 554	Ouessant
+T48	geogName 675 689	île d’Ouessant
+T49	geogName 769 784	baie de Lampaul
+T50	geogName 918 932	île d’Ouessant
+T51	geogName 991 1001	île Molène
+T52	geogName 1103 1111	Ouessant
+T53	geogName 1116 1131	phare du Creach
+T54	geogName 1182 1190	Ouessant
+T55	geogName 1195 1209	phare du Stiff
+R2	ElementOf Arg1:T57 Arg2:T4	
+R3	MarkedBy Arg1:T57 Arg2:T6	
+R4	ElementOf Arg1:T12 Arg2:T49	
+R5	ElementOf Arg1:T16 Arg2:T50	
+R6	ElementOf Arg1:T17 Arg2:T50	
+R10	SouthEastOf Arg1:T51 Arg2:T50	
+R11	NorthWestOf Arg1:T46 Arg2:T47	
+T56	name 246 248	SW
+T57	geogName 239 248	entrée SW
+R1	ElementOf Arg1:T4 Arg2:T45	

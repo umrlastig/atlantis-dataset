@@ -1,0 +1,517 @@
+T1	geogFeat 3 7	port
+T2	geogFeat 35 63	pylône de télécommunications
+T3	geogFeat 74 87	château d’eau
+T4	geogFeat 140 143	feu
+T5	geogFeat 160 164	rive
+T6	geogFeat 177 187	embouchure
+T7	geogFeat 194 201	rivière
+T8	geogFeat 206 210	zone
+T9	geogFeat 229 235	pointe
+T10	geogFeat 248 254	balise
+T11	geogFeat 419 427	montagne
+T12	geogFeat 489 493	îles
+T13	geogFeat 554 558	banc
+T14	geogFeat 636 642	pointe
+T15	geogFeat 706 711	bouée
+T16	geogFeat 717 722	route
+T17	geogFeat 741 750	mouillage
+T18	geogFeat 761 766	Îlets
+T19	geogFeat 796 805	mouillage
+T20	geogFeat 812 819	rivière
+T21	geogFeat 773 778	route
+T22	geogFeat 846 851	route
+T23	geogFeat 876 883	plateau
+T24	geogFeat 922 926	îlet
+T25	geogFeat 983 986	île
+T26	geogFeat 994 997	Cap
+T27	geogFeat 1034 1038	côte
+T28	geogFeat 1063 1070	massifs
+T29	geogFeat 1116 1119	col
+T30	geogFeat 1148 1153	canal
+T31	geogFeat 1175 1182	Channel
+T32	geogFeat 1191 1198	passage
+T33	geogFeat 1256 1259	axe
+T34	geogFeat 1289 1292	île
+T35	geogFeat 1313 1319	chaîne
+T36	geogFeat 1360 1367	sommets
+T37	geogFeat 1382 1390	Montagne
+T38	geogFeat 1432 1438	pitons
+T39	geogFeat 1522 1529	colline
+T40	geogFeat 1570 1584	épi sous-marin
+T41	geogFeat 1607 1613	rocher
+T42	geogFeat 1660 1669	haut-fond
+T43	geogFeat 1714 1723	haut-fond
+T44	geogFeat 1742 1747	roche
+T45	geogFeat 1796 1802	Island
+T46	geogFeat 1810 1816	Island
+T47	geogFeat 1876 1881	bancs
+T48	geogFeat 2060 2066	fleuve
+T49	geogFeat 2206 2210	Anse
+T50	geogFeat 2352 2356	banc
+T51	geogFeat 2480 2486	entrée
+T52	geogFeat 2516 2519	axe
+T53	geogFeat 2526 2531	passe
+T54	geogFeat 2550 2560	alignement
+T55	geogFeat 2583 2601	balises lumineuses
+T56	geogFeat 2650 2655	Morne
+T57	geogFeat 2684 2688	Fort
+T58	geogFeat 2713 2719	fleuve
+T59	geogFeat 2724 2730	chenal
+T60	geogFeat 2758 2763	bancs
+T61	geogFeat 2800 2804	îles
+T62	geogFeat 2851 2854	axe
+T63	geogFeat 2858 2864	fleuve
+T64	geogFeat 2924 2930	rocher
+T65	geogFeat 3010 3016	pointe
+T66	geogFeat 3026 3030	Kaap
+T67	geogFeat 3059 3063	côte
+T68	geogFeat 3195 3199	anse
+T69	geogFeat 3226 3231	Point
+T70	geogFeat 3238 3244	pointe
+T71	geogFeat 3316 3325	haut-fond
+T72	geogFeat 3405 3411	Island
+T73	geogFeat 3472 3476	côte
+T74	geogFeat 3452 3465	anfractuosité
+T75	geogFeat 3545 3550	bouée
+T76	geogFeat 3578 3590	voie d’accès
+T77	geogFeat 3594 3603	Mouillage
+T78	geogFeat 3610 3617	rivière
+T79	geogFeat 3736 3755	bouée cardinale Sud
+T80	geogFeat 3777 3781	caye
+T81	geogFeat 3810 3816	pointe
+T82	geogFeat 3836 3841	roche
+T83	geogFeat 3845 3849	mont
+T84	geogFeat 3881 3887	sommet
+T85	geogFeat 3896 3900	Îlet
+T86	geogFeat 3908 3917	haut-fond
+T87	geogFeat 3960 3965	roche
+T88	geogFeat 3967 3998	Point d’em­barquement du pilote
+T89	geogFeat 4020 4024	îlet
+T90	geogFeat 4128 4134	rocher
+T91	geogFeat 4162 4169	village
+T92	geogFeat 4224 4231	dangers
+T93	geogFeat 4252 4256	côte
+T94	geogFeat 4265 4269	rive
+T95	geogFeat 4282 4293	banc côtier
+T96	geogFeat 4301 4305	Bank
+T97	geogFeat 4307 4311	banc
+T98	geogFeat 4397 4403	pointe
+T99	geogFeat 4384 4388	Hoek
+T100	geogFeat 4445 4455	tour radio
+T101	geogFeat 4479 4485	église
+T102	geogFeat 4489 4494	Morne
+T103	geogFeat 4526 4531	ville
+T104	geogFeat 4570 4578	bâtiment
+T105	geogFeat 4590 4602	observatoire
+T106	geogFeat 4619 4624	Morne
+T107	geogFeat 4669 4675	pointe
+T108	geogFeat 4694 4715	terminal à conteneurs
+T109	geogFeat 4733 4746	hydrosurfaces
+T110	geogFeat 4769 4773	rade
+T111	geogFeat 4925 4931	entrée
+T112	geogFeat 4938 4945	rivière
+T113	geogFeat 4974 4977	feu
+T114	geogFeat 4984 4988	rive
+T115	geogFeat 5000 5006	entrée
+T116	geogFeat 5010 5016	chenal
+T117	geogFeat 5025 5031	entrée
+T118	geogFeat 5038 5042	baie
+T119	geogFeat 5118 5124	entrée
+T120	geogFeat 5131 5136	passe
+T121	geogFeat 5166 5170	îlet
+T122	geogFeat 5178 5182	baie
+T123	geogFeat 5200 5206	pointe
+T124	geogFeat 5251 5255	îlet
+T125	geogFeat 5339 5345	entrée
+T126	geogFeat 5352 5356	baie
+T127	geogFeat 5383 5387	Kaap
+T128	geogFeat 5423 5455	bouée latérale tribord lumineuse
+T129	geogFeat 5490 5494	banc
+T130	geogFeat 5524 5530	pointe
+T131	geogFeat 5547 5556	haut-fond
+T132	geogFeat 5729 5735	pointe
+T133	geogFeat 5789 5795	pointe
+T134	geogFeat 5836 5847	banc côtier
+T135	geogFeat 5893 5899	rivage
+T136	geogFeat 5907 5913	pointe
+T137	geogFeat 5935 5945	presqu’île
+T138	geogFeat 5998 6007	haut-fond
+T139	geogFeat 6058 6063	phare
+T140	geogFeat 6072 6092	conduite sous-marine
+T141	geogFeat 6122 6128	pointe
+T142	geogFeat 6145 6149	baie
+T143	geogFeat 6182 6188	pointe
+T144	geogFeat 6236 6242	pointe
+T145	geogFeat 6249 6253	Anse
+T146	geogFeat 6281 6290	haut-fond
+T147	geogFeat 6380 6389	mouillage
+T148	geogFeat 6447 6453	pointe
+T149	geogFeat 6476 6485	mouillage
+T150	geogFeat 6688 6692	Îlet
+T151	geogFeat 6703 6714	hauts-fonds
+T152	geogFeat 6783 6792	mouillage
+T153	geogFeat 6814 6820	pointe
+T154	geogFeat 6892 6898	pointe
+T155	geogFeat 6912 6918	pointe
+T156	geogFeat 6958 6964	pointe
+T157	geogFeat 7007 7011	côte
+T158	geogFeat 7073 7081	littoral
+T159	geogFeat 7143 7161	point de mouillage
+T160	geogFeat 7169 7185	bouée d’amarrage
+T161	geogFeat 7230 7234	Fort
+T162	geogFeat 7267 7273	pointe
+T163	geogFeat 7290 7296	pointe
+T164	geogFeat 7335 7341	façade
+T165	geogFeat 7358 7368	presqu’île
+T166	geogFeat 7398 7406	barrière
+T167	geogFeat 7410 7416	récifs
+T168	geogFeat 7461 7480	bouée cardinale Sud
+T169	geogFeat 7500 7505	route
+T170	geogFeat 7533 7537	Caye
+T171	geogFeat 7578 7583	récif
+T172	geogFeat 7633 7637	Caye
+T174	geogFeat 7708 7714	rocher
+T175	geogFeat 7754 7758	îlet
+T176	geogFeat 7856 7862	ouvert
+T177	geogFeat 7873 7877	Baai
+T178	geogFeat 7915 7919	Punt
+T179	geogFeat 7925 7934	mouillage
+T180	geogFeat 7992 8004	voie d’accès
+T181	geogFeat 8034 8040	pointe
+T182	geogFeat 8092 8098	pointe
+T183	geogFeat 8106 8110	îles
+T184	geogFeat 8135 8140	bancs
+T185	geogFeat 8250 8253	île
+T186	geogFeat 8273 8285	promontoires
+T187	geogFeat 8477 8481	banc
+T188	geogFeat 8498 8507	haut-fond
+T189	geogFeat 8573 8579	pointe
+T190	geogFeat 8639 8643	baie
+T191	geogFeat 8669 8673	Anse
+T192	geogFeat 8702 8708	pointe
+T193	geogFeat 8726 8732	pointe
+T194	geogFeat 8775 8781	pointe
+T195	geogFeat 8801 8811	presqu’île
+T196	geogFeat 8868 8871	feu
+T197	geogFeat 8896 8909	feu antérieur
+T198	geogFeat 8949 8967	alignement d’accès
+T199	name 165 171	gauche
+T200	geogName 160 171	rive gauche
+T201	name 236 241	Marin
+T202	geogName 229 241	pointe Marin
+T203	name 430 436	Argent
+T204	geogName 419 436	montagne d’Argent
+T205	geogName 441 452	La Désirade
+T206	name 441 452	La Désirade
+T207	name 500 512	Petite Terre
+T208	geogName 489 512	îles de la Petite Terre
+T209	name 647 655	Châteaux
+T210	geogName 636 655	pointe des Châteaux
+T211	name 755 760	Trois
+T212	geogName 755 766	Trois Îlets
+T213	name 820 825	Salée
+T214	geogName 812 825	rivière Salée
+T215	name 896 909	Petits Saints
+T216	geogName 896 909	Petits Saints
+T217	name 927 934	Cabrits
+T218	geogName 922 934	îlet Cabrits
+T219	name 998 1005	Salomon
+T220	geogName 994 1005	Cap Salomon
+T221	name 1039 1042	Sud
+T222	geogName 1034 1042	côte Sud
+T223	name 1156 1164	Anguilla
+T224	name 1166 1174	Anguilla
+T225	geogName 1148 1164	canal d’Anguilla
+T226	geogName 1166 1182	Anguilla Channel
+T227	name 1205 1213	Anguilla
+T228	name 1217 1229	Saint-Martin
+T229	geogName 1205 1213	Anguilla
+T230	geogName 1217 1229	Saint-Martin
+T231	name 1391 1396	Pelée
+T232	geogName 1382 1396	Montagne Pelée
+T233	name 1442 1448	Carbet
+T234	geogName 1432 1448	pitons du Carbet
+T235	name 1595 1605	La Baleine
+T236	geogName 1595 1605	La Baleine
+T237	name 1678 1697	La Baleine du Large
+T238	geogName 1678 1697	La Baleine du Large
+T239	name 1787 1795	Sombrero
+T240	geogName 1787 1802	Sombrero Island
+T241	name 1806 1809	Dog
+T242	geogName 1806 1816	Dog Island
+T243	name 2177 2199	Battures du Connétable
+T244	geogName 2177 2199	Battures du Connétable
+T245	name 2216 2222	Barque
+T246	geogName 2206 2222	Anse à la Barque
+T247	name 2394 2408	Saint-François
+T248	geogName 2394 2408	Saint-François
+T249	name 2490 2495	Petit
+T250	geogName 2490 2512	Petit Cul-de-Sac Marin
+T251	name 2656 2664	Pichevin
+T252	geogName 2650 2664	Morne Pichevin
+T253	name 2689 2700	Saint-Louis
+T254	geogName 2684 2700	Fort Saint-Louis
+T255	name 2805 2811	Arouba
+T256	geogName 2800 2811	îles Arouba
+T257	name 2890 2903	Saint-Laurent
+T258	geogName 2890 2903	Saint-Laurent
+T259	name 2905 2916	North Wager
+T260	geogName 2905 2916	North Wager
+T261	name 2976 2993	Prickly Pear East
+T262	geogName 2976 2993	Prickly Pear East
+T263	name 3020 3025	Witte
+T264	name 3064 3066	SE
+T265	name 3070 3082	Sint Maarten
+T266	name 3200 3206	Marcel
+T267	name 3221 3225	Bell
+T268	name 3249 3259	Froussards
+T269	name 3401 3404	Dog
+T270	geogName 3020 3030	Witte Kaap
+T271	geogName 3059 3066	côte SE
+T272	geogName 3070 3082	Sint Maarten
+T273	geogName 3195 3206	anse Marcel
+T274	geogName 3221 3231	Bell Point
+T275	geogName 3238 3259	pointe des Froussards
+T276	geogName 3401 3411	Dog Island
+T277	name 3416 3435	Cul-de-Sac du Marin
+T278	geogName 3416 3435	Cul-de-Sac du Marin
+T279	name 3553 3555	PR
+T280	geogName 3545 3557	bouée « PR »
+T281	name 3618 3623	Salée
+T282	geogName 3610 3623	rivière Salée
+T283	geogName 3594 3623	Mouillage de la rivière Salée
+T284	name 3758 3760	CS
+T285	geogName 3736 3762	bouée cardinale Sud « CS »
+T286	name 3782 3787	Sobbé
+T287	geogName 3777 3787	caye Sobbé
+T288	name 3817 3822	Merle
+T289	geogName 3810 3822	pointe Merle
+T290	name 3850 3854	Viso
+T291	geogName 3845 3854	mont Viso
+T292	geogName 3836 3854	roche du mont Viso
+T293	name 3891 3895	Gros
+T294	geogName 3891 3900	Gros Îlet
+T295	name 4028 4034	Gosier
+T296	geogName 4020 4034	îlet du Gosier
+T297	name 4053 4063	Guadeloupe
+T298	geogName 4053 4063	Guadeloupe
+T299	name 4135 4142	Burgaux
+T300	geogName 4128 4142	rocher Burgaux
+T301	name 4170 4180	Le Lorrain
+T302	geogName 4162 4180	village Le Lorrain
+T303	name 4294 4300	Tijger
+T304	geogName 4294 4305	Tijger Bank
+T305	geogName 4282 4305	banc côtier Tijger Bank
+T306	name 4312 4322	Hollandais
+T307	geogName 4307 4322	banc Hollandais
+T308	name 4389 4395	Galibi
+T309	geogName 4384 4395	Hoek Galibi
+T310	name 4404 4415	Hollandaise
+T311	geogName 4397 4415	pointe Hollandaise
+T312	name 4495 4500	Rouge
+T313	geogName 4489 4500	Morne Rouge
+T314	geogName 4479 4500	église de Morne Rouge
+T315	name 4629 4635	Cadets
+T316	geogName 4619 4635	Morne des Cadets
+T317	name 4680 4689	Carrières
+T318	geogName 4669 4689	pointe des Carrières
+T319	name 4777 4789	Saint-Pierre
+T320	geogName 4769 4789	rade de Saint-Pierre
+T321	name 4803 4812	Le Carbet
+T322	geogName 4803 4812	Le Carbet
+T323	name 4989 4994	Ouest
+T324	geogName 4984 4994	rive Ouest
+T325	geogName 4974 4994	feu de la rive Ouest
+T326	name 5211 5217	Nègres
+T327	geogName 5200 5217	pointe des Nègres
+T328	name 5258 5265	Ramiers
+T329	geogName 5251 5265	îlet à Ramiers
+T330	name 5377 5382	Witte
+T331	geogName 5377 5387	Witte Kaap
+T332	name 5495 5508	Grande Savane
+T333	name 5534 5542	Lamentin
+T334	geogName 5490 5508	banc Grande Savane
+T335	geogName 5524 5542	pointe du Lamentin
+T336	name 5607 5614	La Mère
+T337	name 5632 5642	Martinique
+T338	geogName 5632 5642	Martinique
+T339	name 5742 5754	Grande Vigie
+T340	geogName 5729 5754	pointe de la Grande Vigie
+T341	name 5798 5806	Antigues
+T342	geogName 5789 5806	pointe d’Antigues
+T343	name 5918 5926	Châteaux
+T344	geogName 5907 5926	pointe des Châteaux
+T345	name 6133 6137	Fous
+T346	geogName 6122 6137	pointe les Fous
+T347	name 6153 6164	Saint-Louis
+T348	name 6192 6201	Cimetière
+T349	name 6243 6248	Folle
+T350	geogName 6145 6164	baie de Saint-Louis
+T351	geogName 6182 6201	pointe du Cimetière
+T352	geogName 6243 6253	Folle Anse
+T353	geogName 6236 6253	pointe Folle Anse
+T354	name 6347 6358	North Wager
+T355	geogName 6347 6358	North Wager
+T356	name 6454 6466	Fleur d’Épée
+T357	geogName 6447 6466	pointe Fleur d’Épée
+T358	name 6683 6687	Gros
+T359	geogName 6683 6692	Gros Îlet
+T360	name 6821 6828	Allègre
+T361	geogName 6814 6828	pointe Allègre
+T362	name 6919 6928	Charlotte
+T363	geogName 6912 6928	pointe Charlotte
+T364	name 6965 6970	Isère
+T365	geogName 6958 6970	pointe Isère
+T366	name 7235 7244	Amsterdam
+T367	geogName 7230 7244	Fort Amsterdam
+T368	name 7277 7283	Diable
+T369	name 7297 7305	Caracoli
+T370	geogName 7267 7283	pointe du Diable
+T371	geogName 7290 7305	pointe Caracoli
+T372	name 7342 7351	orientale
+T373	geogName 7335 7351	façade orientale
+T374	name 7483 7485	PP
+T375	geogName 7461 7487	bouée cardinale Sud « PP »
+T376	name 7540 7546	Dupont
+T377	geogName 7533 7546	Caye à Dupont
+T378	name 7638 7643	Plate
+T379	geogName 7633 7643	Caye Plate
+T380	name 7690 7706	Tête à l’Anglais
+T173	geogName 7690 7706	Tête à l’Anglais
+T381	name 7761 7770	Kahouanne
+T382	geogName 7754 7770	îlet à Kahouanne
+T383	name 7866 7872	Simson
+T384	geogName 7866 7877	Simson Baai
+T385	name 7906 7914	Pelikaan
+T386	geogName 7906 7919	Pelikaan Punt
+T387	name 8045 8053	Châteaux
+T388	name 8060 8068	Désirade
+T389	geogName 8034 8053	pointe des Châteaux
+T390	geogName 8060 8068	Désirade
+T391	name 8117 8129	Petite Terre
+T392	geogName 8106 8129	îles de la Petite Terre
+T393	name 8144 8159	Lamotte-Picquet
+T394	geogName 8135 8159	bancs du Lamotte-Picquet
+T395	geogFeat 8428 8432	Îles
+T396	name 8436 8441	Salut
+T397	geogName 8428 8441	Îles du Salut
+T398	name 8485 8490	Médée
+T399	geogName 8477 8490	banc de Médée
+T400	name 8580 8585	Arago
+T401	geogName 8573 8585	pointe Arago
+T402	name 8647 8654	Marigot
+T403	geogName 8639 8654	baie de Marigot
+T404	name 8677 8684	Diamant
+T405	name 8662 8668	Grande
+T406	geogName 8662 8684	Grande Anse du Diamant
+T407	name 8712 8719	Marigot
+T408	name 8736 8743	Diamant
+T409	geogName 8702 8719	pointe du Marigot
+T410	geogName 8726 8743	pointe du Diamant
+T411	name 8786 8792	Nègres
+T412	geogName 8775 8792	pointe des Nègres
+R1	WestSouthWestOf Arg1:T2 Arg2:T4	
+R2	EastSouthEastOf Arg1:T3 Arg2:T4	
+R3	ElementOf Arg1:T4 Arg2:T200	
+R4	ElementOf Arg1:T6 Arg2:T7	
+R5	EastNorthEastOf Arg1:T10 Arg2:T202	
+R6	SouthSouthWestOf Arg1:T208 Arg2:T205	
+R7	ElementOf Arg1:T208 Arg2:T13	
+R8	ElementOf Arg1:T205 Arg2:T13	
+R9	NorthEastOf Arg1:T13 Arg2:T210	
+R10	SouthEastOf Arg1:T13 Arg2:T210	
+R11	NorthOf Arg1:T16 Arg2:T15	
+T413	geogName 741 766	mouillage des Trois Îlets
+T414	geogName 796 825	mouillage de la rivière Salée
+R12	NorthOf Arg1:T21 Arg2:T15	
+R13	NorthNorthWestOf Arg1:T22 Arg2:T23	
+R14	SouthOf Arg1:T218 Arg2:T25	
+R15	WestNorthWestOf Arg1:T220 Arg2:T218	
+R16	ElementOf Arg1:T33 Arg2:T32	
+R17	ElementOf Arg1:T35 Arg2:T34	
+R18	ElementOf Arg1:T36 Arg2:T35	
+R19	ElementOf Arg1:T232 Arg2:T36	
+R20	ElementOf Arg1:T234 Arg2:T36	
+R21	NorthNorthWestOf Arg1:T40 Arg2:T39	
+R22	ElementOf Arg1:T236 Arg2:T40	
+R23	ElementOf Arg1:T42 Arg2:T41	
+R24	ElementOf Arg1:T43 Arg2:T238	
+R25	ElementOf Arg1:T44 Arg2:T43	
+R26	SouthSouthEastOf Arg1:T50 Arg2:T248	
+R27	ElementOf Arg1:T52 Arg2:T53	
+R28	ElementOf Arg1:T52 Arg2:T54	
+R29	ElementOf Arg1:T55 Arg2:T54	
+R30	ElementOf Arg1:T55 Arg2:T252	
+R31	NorthNorthEastOf Arg1:T252 Arg2:T254	
+R32	ElementOf Arg1:T59 Arg2:T58	
+R33	EastOf Arg1:T59 Arg2:T60	
+R34	EastOf Arg1:T59 Arg2:T256	
+R35	ElementOf Arg1:T62 Arg2:T63	
+R36	SouthSouthWestOf Arg1:T270 Arg2:T65	
+R37	ElementOf Arg1:T271 Arg2:T272	
+R38	EastSouthEastOf Arg1:T64 Arg2:T262	
+R39	EastNorthEastOf Arg1:T275 Arg2:T274	
+R40	SouthSouthWestOf Arg1:T71 Arg2:T276	
+R41	ElementOf Arg1:T74 Arg2:T73	
+R42	SouthWestOf Arg1:T76 Arg2:T285	
+R43	MarkedBy Arg1:T287 Arg2:T285	
+R44	SouthSouthWestOf Arg1:T76 Arg2:T289	
+R45	ElementOf Arg1:T84 Arg2:T294	
+R46	NorthOf Arg1:T292 Arg2:T84	
+R47	SouthSouthWestOf Arg1:T86 Arg2:T87	
+R48	SouthSouthWestOf Arg1:T88 Arg2:T296	
+R49	NorthNorthWestOf Arg1:T300 Arg2:T302	
+R50	NorthNorthEastOf Arg1:T305 Arg2:T309	
+R51	NorthEastOf Arg1:T314 Arg2:T103	
+R52	ElementOf Arg1:T104 Arg2:T105	
+R53	ElementOf Arg1:T105 Arg2:T316	
+R54	EastSouthEastOf Arg1:T104 Arg2:T314	
+R55	EastSouthEastOf Arg1:T108 Arg2:T318	
+R56	ElementOf Arg1:T109 Arg2:T320	
+R57	SouthSouthWestOf Arg1:T109 Arg2:T322	
+R58	NorthNorthWestOf Arg1:T119 Arg2:T121	
+R59	ElementOf Arg1:T111 Arg2:T112	
+R60	ElementOf Arg1:T115 Arg2:T116	
+R61	ElementOf Arg1:T117 Arg2:T118	
+R62	ElementOf Arg1:T119 Arg2:T120	
+R63	SouthSouthEastOf Arg1:T329 Arg2:T327	
+R64	ElementOf Arg1:T125 Arg2:T126	
+R65	WestNorthWestOf Arg1:T125 Arg2:T331	
+T415	name 5458 5460	9L
+T416	geogName 5423 5462	bouée latérale tribord lumineuse « 9L »
+R66	MarkedBy Arg1:T334 Arg2:T416	
+T417	geogName 5607 5614	La Mère
+R67	NorthNorthWestOf Arg1:T131 Arg2:T417	
+R68	SouthSouthWestOf Arg1:T342 Arg2:T340	
+R69	WestNorthWestOf Arg1:T138 Arg2:T139	
+R70	SouthSouthWestOf Arg1:T140 Arg2:T346	
+R71	SouthSouthWestOf Arg1:T353 Arg2:T351	
+R72	EastSouthEastOf Arg1:T146 Arg2:T355	
+R73	NorthNorthWestOf Arg1:T147 Arg2:T357	
+R74	SouthSouthEastOf Arg1:T151 Arg2:T152	
+R75	WestNorthWestOf Arg1:T365 Arg2:T363	
+R76	EastSouthEastOf Arg1:T160 Arg2:T367	
+R77	EastSouthEastOf Arg1:T159 Arg2:T367	
+R78	SouthSouthEastOf Arg1:T371 Arg2:T370	
+R79	ElementOf Arg1:T167 Arg2:T166	
+R80	NorthEastOf Arg1:T169 Arg2:T377	
+R81	WestOf Arg1:T169 Arg2:T171	
+R82	WestOf Arg1:T169 Arg2:T379	
+R83	WestNorthWestOf Arg1:T174 Arg2:T382	
+R84	ElementOf Arg1:T176 Arg2:T384	
+R85	WestNorthWestOf Arg1:T176 Arg2:T386	
+R86	NorthNorthWestOf Arg1:T394 Arg2:T185	
+R87	WestNorthWestOf Arg1:T399 Arg2:T401	
+R88	NorthEastOf Arg1:T401 Arg2:T403	
+R89	WestSouthWestOf Arg1:T410 Arg2:T409	
+R90	WestSouthWestOf Arg1:T197 Arg2:T196	
+R91	ElementOf Arg1:T197 Arg2:T198	
+R92	ElementOf Arg1:T196 Arg2:T198	
+R93	SouthSouthEastOf Arg1:T16 Arg2:T15	
+R94	SouthEastOf Arg1:T21 Arg2:T15	
+R95	SouthSouthEastOf Arg1:T234 Arg2:T232	
+R96	ElementOf Arg1:T51 Arg2:T250	
+T418	geogFeat 2496 2506	Cul-de-Sac
+T419	name 2507 2512	Marin
+R97	ElementOf Arg1:T256 Arg2:T63	
+R98	ElementOf Arg1:T373 Arg2:T165	

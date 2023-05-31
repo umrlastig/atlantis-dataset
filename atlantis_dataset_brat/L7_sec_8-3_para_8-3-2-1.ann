@@ -1,0 +1,31 @@
+T1	geogFeat 61 69	plateaux
+T2	geogFeat 103 115	récif côtier
+T3	geogFeat 151 159	plateaux
+T4	geogFeat 170 177	Plateau
+T5	geogFeat 194 201	Plateau
+T6	geogFeat 219 226	Plateau
+T7	geogFeat 277 284	plateau
+T8	geogFeat 289 296	Plateau
+T9	geogFeat 382 389	Plateau
+T10	geogFeat 439 443	port
+T11	name 28 36	Djibouti
+T12	name 181 189	Djibouti
+T13	name 205 212	Serpent
+T14	name 230 238	Marabout
+T15	name 300 305	Héron
+T16	name 393 398	Héron
+T17	name 447 455	Djibouti
+T18	geogName 28 36	Djibouti
+T19	geogName 170 189	Plateau de Djibouti
+T20	geogName 194 212	Plateau du Serpent
+T21	geogName 219 238	Plateau du Marabout
+T22	geogName 289 305	Plateau du Héron
+T23	geogName 382 398	Plateau du Héron
+T24	geogName 439 455	port de Djibouti
+T25	geogFeat 356 368	terre-😍plein
+R1	ElementOf Arg1:T19 Arg2:T3	
+R2	ElementOf Arg1:T20 Arg2:T3	
+R3	ElementOf Arg1:T21 Arg2:T3	
+R4	ElementOf Arg1:T18 Arg2:T1	
+R5	ElementOf Arg1:T1 Arg2:T2	
+R6	NorthOf Arg1:T22 Arg2:T21	

@@ -1,0 +1,13 @@
+T1	geogFeat 166 181	routes côtières
+T2	geogFeat 223 228	ports
+T3	geogFeat 235 239	côte
+T4	geogFeat 334 338	côte
+T5	geogFeat 382 387	barre
+T6	geogFeat 414 420	entrée
+T7	geogFeat 425 430	ports
+T8	geogFeat 991 1009	zone de confluence
+T9	name 625 637	Méditerranée
+T10	geogName 625 637	Méditerranée
+R1	ElementOf Arg1:T6 Arg2:T7	
+R2	ElementOf Arg1:T5 Arg2:T6	
+T11	geogFeat 436 441	accès

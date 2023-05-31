@@ -1,0 +1,71 @@
+T1	geogFeat 12 39	Zones de récifs artificiels
+T2	geogFeat 44 61	ZONES EN ACTIVITÉ
+T3	geogFeat 65 92	Zones de récifs artificiels
+T6	geogFeat 383 387	Port
+T7	geogFeat 443 447	Port
+T10	geogFeat 629 633	grau
+T12	geogFeat 817 820	Cap
+T13	geogFeat 875 878	Cap
+T14	geogFeat 933 936	Cap
+T15	geogFeat 974 978	zone
+T16	geogFeat 1005 1028	bouée cardinale 😄😍Ouest
+T17	geogFeat 1091 1101	structures
+T18	geogFeat 1107 1124	ZONES DÉSACTIVÉES
+T19	geogFeat 1132 1144	obstructions
+T20	geogFeat 1189 1194	sites
+T21	geogFeat 1433 1438	zones
+T22	name 133 148	Argelès-sur-Mer
+T23	name 195 214	Saint-Cyprien-Plage
+T25	name 262 275	Port-Barcarès
+T26	name 323 336	Port-Barcarès
+T27	name 388 395	Leucate
+T28	name 448 455	Leucate
+T29	name 502 518	Port-la-Nouvelle
+T30	name 566 582	Port-la-Nouvelle
+T31	name 640 656	Vieille Nouvelle
+T32	name 759 770	Grau-d’Agde
+T33	name 823 827	Agde
+T34	name 881 885	Agde
+T35	name 939 943	Agde
+T36	name 1240 1259	Saint-Cyprien-Plage
+T38	name 1307 1326	Sainte-Marie-la-Mer
+T39	geogName 133 148	Argelès-sur-Mer
+T40	geogName 195 214	Saint-Cyprien-Plage
+T41	geogName 262 275	Port-Barcarès
+T42	geogName 323 336	Port-Barcarès
+T43	geogName 383 395	Port Leucate
+T44	geogName 443 455	Port Leucate
+T45	geogName 502 518	Port-la-Nouvelle
+T46	geogName 566 582	Port-la-Nouvelle
+T47	geogName 629 656	grau de la Vieille Nouvelle
+T48	geogName 759 770	Grau-d’Agde
+T49	geogName 817 827	Cap d’Agde
+T50	geogName 875 885	Cap d’Agde
+T51	geogName 933 943	Cap d’Agde
+T52	geogName 1240 1259	Saint-Cyprien-Plage
+T53	geogName 1307 1326	Sainte-Marie-la-Mer
+R1	NorthEastOf Arg1:T3 Arg2:T39	
+R2	NorthEastOf Arg1:T3 Arg2:T40	
+R3	SouthEastOf Arg1:T3 Arg2:T43	
+R4	SouthEastOf Arg1:T3 Arg2:T45	
+R5	SouthEastOf Arg1:T3 Arg2:T47	
+T54	name 703 711	Gruissan
+T55	geogName 703 711	Gruissan
+R6	NorthEastOf Arg1:T3 Arg2:T55	
+R7	SouthWestOf Arg1:T3 Arg2:T49	
+R8	SouthOf Arg1:T3 Arg2:T50	
+R9	ElementOf Arg1:T19 Arg2:T4	
+R10	EastOf Arg1:T19 Arg2:T52	
+R11	EastOf Arg1:T19 Arg2:T53	
+R12	MarkedBy Arg1:T15 Arg2:T16	
+R13	NorthEastOf Arg1:T16 Arg2:T15	
+R14	EastNorthEastOf Arg1:T3 Arg2:T41	
+R15	NorthNorthEastOf Arg1:T3 Arg2:T42	
+R16	NorthNorthEastOf Arg1:T3 Arg2:T44	
+R17	SouthSouthEastOf Arg1:T3 Arg2:T46	
+R18	SouthSouthWestOf Arg1:T3 Arg2:T48	
+R19	EastSouthEastOf Arg1:T3 Arg2:T51	
+T56	geogFeat 1207 1221	ex😍ploitations
+T57	name 1197 1206	anciennes
+T58	geogName 1197 1221	anciennes ex😍ploitations
+T4	geogName 1189 1221	sites d’anciennes ex😍ploitations

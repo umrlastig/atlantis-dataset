@@ -1,0 +1,19 @@
+T1	geogFeat 31 35	port
+T2	geogFeat 51 55	port
+T3	geogFeat 91 95	Port
+T4	geogFeat 114 119	étier
+T5	geogFeat 176 180	baie
+T6	geogFeat 156 169	port de pêche
+T7	name 39 47	l’Époids
+T8	name 59 62	Bec
+T9	name 100 106	Champs
+T10	name 123 127	Dain
+T11	name 184 193	Bourgneuf
+T12	geogName 31 47	port de l’Époids
+T13	geogName 51 62	port du Bec
+T14	geogName 91 106	Port des Champs
+T15	geogName 114 127	étier du Dain
+T16	geogName 176 193	baie de Bourgneuf
+R1	SouthSouthWestOf Arg1:T12 Arg2:T14	
+R2	ElementOf Arg1:T12 Arg2:T15	
+R3	ElementOf Arg1:T6 Arg2:T16	

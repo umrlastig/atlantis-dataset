@@ -1,0 +1,18 @@
+T1	geogFeat 12 17	Route
+T3	geogFeat 123 126	DST
+T4	geogFeat 151 156	route
+T5	geogFeat 172 180	méridien
+T6	geogFeat 198 203	route
+T7	geogFeat 243 246	DST
+T8	geogFeat 252 257	Isles
+T9	geogFeat 320 323	DST
+T10	geogFeat 411 415	zone
+T11	name 52 60	Casquets
+T12	name 131 139	Casquets
+T13	name 261 267	Scilly
+T14	name 326 334	Ouessant
+T15	geogName 52 60	Casquets
+T16	geogName 123 139	DST des Casquets
+T17	geogName 252 267	Isles of Scilly
+T18	geogName 243 269	DST de « Isles of Scilly »
+T19	geogName 320 334	DST d’Ouessant

@@ -1,0 +1,24 @@
+T1	geogFeat 139 144	Crête
+T2	geogFeat 160 168	sandhill
+T3	geogFeat 205 222	Épave découvrante
+T4	geogFeat 285 290	Phare
+T5	geogFeat 296 299	île
+T6	geogFeat 339 345	pylône
+T7	geogFeat 427 433	Pointe
+T8	geogFeat 471 477	plaine
+T9	geogFeat 528 532	ÎLES
+T10	geogFeat 536 543	DANGERS
+T11	geogFeat 61 66	hutte
+T12	name 300 306	Picard
+T13	name 434 440	hodoul
+T14	name 574 584	MADAGASCAR
+T15	geogName 296 306	île Picard
+T16	geogName 427 440	Pointe hodoul
+T17	geogName 574 584	MADAGASCAR
+T18	geogName 285 306	Phare de l’île Picard
+T19	geogFeat 382 397	château 😄😍d’eau
+R1	ElementOf Arg1:T6 Arg2:T19	
+R2	WestOf Arg1:T10 Arg2:T17	
+R3	NorthWestOf Arg1:T10 Arg2:T17	
+R4	WestOf Arg1:T9 Arg2:T17	
+R5	NorthWestOf Arg1:T9 Arg2:T17	

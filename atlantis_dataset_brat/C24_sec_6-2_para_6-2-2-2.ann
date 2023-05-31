@@ -1,0 +1,30 @@
+T1	geogFeat 25 30	passe
+T2	geogFeat 34 38	port
+T3	geogFeat 78 94	tour des signaux
+T4	geogFeat 106 113	musoirs
+T5	geogFeat 122 128	digues
+T6	geogFeat 152 164	enrochements
+T7	geogFeat 181 185	rive
+T8	geogFeat 190 195	digue
+T9	geogFeat 256 261	blocs
+T10	geogFeat 300 304	murs
+T11	geogFeat 339 344	digue
+T12	geogFeat 350 353	feu
+T13	geogFeat 374 380	musoir
+T14	geogFeat 387 392	digue
+T15	geogFeat 403 408	passe
+T16	geogFeat 418 424	musoir
+T17	geogFeat 440 445	digue
+T19	name 196 199	Est
+T20	geogName 190 199	digue Est
+R1	ElementOf Arg1:T12 Arg2:T13	
+R2	ElementOf Arg1:T13 Arg2:T24	
+R3	ElementOf Arg1:T10 Arg2:T22	
+T21	name 330 338	ancienne
+T22	geogName 330 344	ancienne digue
+T23	name 393 398	Ouest
+T24	geogName 387 398	digue Ouest
+T25	name 446 449	Est
+T26	geogName 440 449	digue Est
+R4	ElementOf Arg1:T6 Arg2:T5	
+R5	ElementOf Arg1:T4 Arg2:T5	

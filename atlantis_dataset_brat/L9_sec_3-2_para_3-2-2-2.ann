@@ -1,0 +1,66 @@
+T1	geogFeat 12 16	Côte
+T2	geogFeat 30 34	côte
+T3	geogFeat 46 49	île
+T4	geogFeat 62 66	baie
+T5	geogFeat 103 108	plage
+T6	geogFeat 144 158	établissements
+T7	geogFeat 241 244	île
+T8	geogFeat 247 253	Pointe
+T9	geogFeat 301 305	baie
+T10	geogFeat 311 321	MOUILLAGES
+T11	geogFeat 350 354	baie
+T12	geogFeat 361 365	côte
+T13	geogFeat 451 461	alignement
+T14	geogFeat 479 486	balises
+T15	geogFeat 527 543	mât 😍de pavillon
+T16	geogFeat 565 572	balises
+T17	geogFeat 629 644	mât de pavillon
+T18	geogFeat 677 683	balise
+T19	geogFeat 693 699	voyant
+T20	geogFeat 728 737	mouillage
+T21	geogFeat 891 900	mouillage
+T22	geogFeat 1029 1033	baie
+T23	geogFeat 1154 1159	récif
+T24	geogFeat 1197 1202	jetée
+T25	geogFeat 1207 1216	mouillage
+T26	geogFeat 1551 1560	mouillage
+T27	geogFeat 1626 1632	Pointe
+T28	geogFeat 1647 1656	mouillage
+T29	geogFeat 1695 1704	Anchorage
+T30	geogFeat 1817 1821	dune
+T31	geogFeat 1848 1852	côte
+T32	geogFeat 1861 1864	île
+T33	geogFeat 1870 1874	QUAI
+T34	geogFeat 1881 1885	quai
+T35	geogFeat 1986 2000	piste aviation
+T36	geogFeat 2018 2021	île
+T37	geogFeat 2026 2030	quai
+T38	geogFeat 2110 2121	brise-lames
+T39	name 17 22	Ouest
+T40	name 35 40	Ouest
+T41	name 257 261	Nord
+T42	name 366 371	Ouest
+T43	geogFeat 1040 1044	côte
+T44	name 1045 1050	Ouest
+T45	name 1638 1642	Nord
+T46	name 1682 1694	Saint-Thomas
+T47	name 1853 1855	SE
+T48	geogName 12 22	Côte Ouest
+T49	geogName 30 40	côte Ouest
+T50	geogName 247 261	Pointe du Nord
+T51	geogName 361 371	côte Ouest
+T52	geogName 1040 1050	côte Ouest
+T53	geogName 1682 1704	Saint-Thomas Anchorage
+T54	geogName 1848 1855	côte SE
+T55	geogFeat 286 294	littoral
+T56	geogFeat 126 134	vestiges
+T57	geogName 1626 1642	Pointe du 😄😍Nord
+R1	ElementOf Arg1:T49 Arg2:T3	
+R2	ElementOf Arg1:T56 Arg2:T50	
+R3	ElementOf Arg1:T14 Arg2:T13	
+R4	EastOf Arg1:T16 Arg2:T17	
+R5	ElementOf Arg1:T19 Arg2:T18	
+R6	WestNorthWestOf Arg1:T26 Arg2:T57	
+R7	ElementOf Arg1:T54 Arg2:T32	
+R8	ElementOf Arg1:T35 Arg2:T36	
+R9	ElementOf Arg1:T50 Arg2:T7	

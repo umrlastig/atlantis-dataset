@@ -1,0 +1,28 @@
+T1	geogFeat 29 56	zone de mouillage d’attente
+T2	geogFeat 84 95	appontement
+T3	geogFeat 175 179	zone
+T4	geogFeat 192 211	postes de mouillage
+T5	geogFeat 302 321	mouillage d’attente
+T6	geogFeat 349 368	postes de mouillage
+T7	geogFeat 516 520	rade
+T8	geogFeat 605 611	LAGUNE
+T9	name 372 377	Kpémé
+T10	name 612 615	ABY
+T11	name 624 628	SÉMÉ
+T12	name 630 635	GHANA
+T13	name 637 641	TOGO
+T14	name 643 648	BÉNIN
+T15	geogName 349 377	postes de mouillage de Kpémé
+T16	geogName 605 615	LAGUNE ABY
+T17	geogName 624 628	SÉMÉ
+T18	geogName 630 635	GHANA
+T19	geogName 637 641	TOGO
+T20	geogName 643 648	BÉNIN
+T21	name 225 228	C10
+T22	name 231 234	C19
+T23	geogName 225 228	C10
+T24	geogName 231 234	C19
+T25	geogFeat 547 564	espaces maritimes
+R1	SouthSouthEastOf Arg1:T1 Arg2:T2	
+R2	ElementOf Arg1:T4 Arg2:T3	
+T26	geogFeat 505 510	accès

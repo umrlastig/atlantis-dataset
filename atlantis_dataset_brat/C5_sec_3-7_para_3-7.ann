@@ -1,0 +1,10 @@
+T1	name 11 15	Lomé
+T2	name 17 21	Togo
+T3	name 25 32	Cotonou
+T4	name 34 39	Bénin
+T5	geogName 11 15	Lomé
+T6	geogName 17 21	Togo
+T7	geogName 25 32	Cotonou
+T8	geogName 34 39	Bénin
+R1	ElementOf Arg1:T5 Arg2:T6	
+R2	ElementOf Arg1:T7 Arg2:T8	

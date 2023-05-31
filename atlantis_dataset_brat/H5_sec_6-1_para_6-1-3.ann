@@ -1,0 +1,23 @@
+T1	geogFeat 43 47	côte
+T2	geogFeat 99 135	Régions de Recherche et de Sauvetage
+T3	geogFeat 141 144	SRR
+T4	geogFeat 196 199	SRR
+T5	geogFeat 255 258	SRR
+T6	geogFeat 313 316	SRR
+T7	geogFeat 458 463	ports
+T8	name 145 151	France
+T9	name 184 191	Cayenne
+T10	name 200 208	Suriname
+T11	name 240 250	Paramaribo
+T12	name 259 265	Guyana
+T13	name 298 308	Georgetown
+T14	name 317 326	Venezuela
+T15	name 359 368	La Guaira
+T16	geogName 141 151	SRR France
+T17	geogName 196 208	SRR Suriname
+T18	geogName 255 265	SRR Guyana
+T19	geogName 313 326	SRR Venezuela
+T20	geogName 184 191	Cayenne
+T21	geogName 240 250	Paramaribo
+T22	geogName 298 308	Georgetown
+T23	geogName 359 368	La Guaira

@@ -1,0 +1,81 @@
+T1	geogFeat 12 18	Entrée
+T2	geogFeat 22 25	Pas
+T3	geogFeat 65 68	Mer
+T4	geogFeat 118 121	DST
+T5	geogFeat 125 128	Pas
+T6	geogFeat 236 243	détroit
+T7	geogFeat 260 265	amers
+T8	geogFeat 300 305	phare
+T9	geogFeat 272 276	côte
+T10	geogFeat 348 352	tour
+T11	geogFeat 406 414	falaises
+T12	geogFeat 427 430	cap
+T13	geogFeat 516 521	phare
+T14	geogFeat 525 528	cap
+T15	geogFeat 570 574	tour
+T16	geogFeat 614 617	cap
+T17	geogFeat 764 769	phare
+T18	geogFeat 773 780	beffroi
+T19	geogFeat 758 762	silo
+T20	geogFeat 786 800	hôtel de ville
+T21	geogFeat 830 833	Cap
+T22	geogFeat 882 886	côte
+T23	geogFeat 909 917	falaises
+T24	geogFeat 933 937	tour
+T25	geogFeat 957 963	sommet
+T26	geogFeat 1044 1051	château
+T27	geogFeat 1107 1110	Cap
+T28	geogFeat 1263 1268	phare
+T29	geogFeat 982 987	phare
+T30	geogFeat 148 175	zones de navigation côtière
+T31	geogFeat 192 202	dispositif
+T32	geogFeat 1206 1212	ROUTES
+T33	name 29 35	Calais
+T34	name 72 76	Nord
+T35	name 97 103	Manche
+T36	name 132 138	Calais
+T37	name 309 315	Calais
+T38	name 431 440	Blanc-Nez
+T39	name 529 537	Gris-Nez
+T40	name 750 756	Calais
+T41	name 834 843	Blanc-Nez
+T42	name 992 1006	South Foreland
+T43	name 1055 1062	Douvres
+T44	name 1111 1119	Gris-Nez
+T45	name 1244 1258	South Foreland
+T46	geogName 22 35	Pas de Calais
+T47	geogName 65 76	Mer du Nord
+T49	geogName 125 138	Pas de Calais
+T50	geogName 118 138	DST du Pas de Calais
+T51	geogName 300 315	phare de Calais
+T52	geogName 427 440	cap Blanc-Nez
+T53	geogName 525 537	cap Gris-Nez
+T54	geogName 516 537	phare du cap Gris-Nez
+T55	geogName 750 756	Calais
+T56	geogName 830 843	Cap Blanc-Nez
+T48	geogName 97 103	Manche
+T58	geogName 1044 1062	château de Douvres
+T59	geogName 1107 1119	Cap Gris-Nez
+T60	geogName 1244 1258	South Foreland
+R1	ElementOf Arg1:T1 Arg2:T46	
+R2	ElementOf Arg1:T7 Arg2:T62	
+R3	ElementOf Arg1:T11 Arg2:T52	
+R4	ElementOf Arg1:T10 Arg2:T51	
+R5	ElementOf Arg1:T15 Arg2:T54	
+R6	ElementOf Arg1:T23 Arg2:T64	
+R8	ElementOf Arg1:T25 Arg2:T24	
+R10	ElementOf Arg1:T58 Arg2:T64	
+R13	WestOf Arg1:T11 Arg2:T51	
+T57	name 277 286	française
+T62	geogName 272 286	côte française
+T63	name 887 895	anglaise
+T64	geogName 882 895	côte anglaise
+T61	geogName 982 1006	phare 😍de South Foreland
+R7	ElementOf Arg1:T24 Arg2:T61	
+R9	ElementOf Arg1:T24 Arg2:T64	
+T65	geogFeat 585 589	haut
+R12	ElementOf Arg1:T65 Arg2:T15	
+T66	geogFeat 720 726	ROUTES
+R14	ElementOf Arg1:T51 Arg2:T7	
+R15	ElementOf Arg1:T54 Arg2:T7	
+R16	ElementOf Arg1:T11 Arg2:T7	

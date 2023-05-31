@@ -1,0 +1,12 @@
+T1	geogFeat 10 14	Port
+T2	geogFeat 40 44	Port
+T3	geogFeat 148 154	POINTE
+T4	geogFeat 170 173	ÎLE
+T5	name 19 25	Champs
+T6	name 49 55	Champs
+T7	name 158 165	CROISIC
+T8	name 177 188	NOIRMOUTIER
+T9	geogName 10 25	Port des Champs
+T10	geogName 40 55	Port des Champs
+T11	geogName 148 165	POINTE DU CROISIC
+T12	geogName 170 188	ÎLE DE NOIRMOUTIER

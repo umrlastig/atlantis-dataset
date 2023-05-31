@@ -1,0 +1,34 @@
+T1	geogFeat 12 17	Passe
+T2	geogFeat 50 55	passe
+T3	geogFeat 68 73	passe
+T4	geogFeat 94 98	Motu
+T5	geogFeat 112 116	Motu
+T6	geogFeat 202 206	baie
+T7	geogFeat 218 225	village
+T8	geogFeat 239 255	chenal intérieur
+T9	geogFeat 290 296	espars
+T10	geogFeat 307 312	passe
+T11	geogFeat 326 331	passe
+T12	geogFeat 377 380	lac
+T13	name 18 23	Tiare
+T14	name 56 63	Farerea
+T15	name 74 79	Tiare
+T16	name 99 108	Vavaratea
+T17	name 117 123	Mahara
+T18	name 207 211	Faie
+T19	name 226 230	Faie
+T20	name 313 320	Farerea
+T21	name 332 337	Tiare
+T22	name 381 386	Maeva
+T23	geogName 12 23	Passe Tiare
+T24	geogName 50 63	passe Farerea
+T25	geogName 68 79	passe Tiare
+T26	geogName 94 108	Motu Vavaratea
+T27	geogName 112 123	Motu Mahara
+T28	geogName 202 211	baie Faie
+T29	geogName 218 230	village Faie
+T30	geogName 307 320	passe Farerea
+T31	geogName 326 337	passe Tiare
+T32	geogName 377 386	lac Maeva
+R1	NorthOf Arg1:T25 Arg2:T24	
+R2	MarkedBy Arg1:T8 Arg2:T9	

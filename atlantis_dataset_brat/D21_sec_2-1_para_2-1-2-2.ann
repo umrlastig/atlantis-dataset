@@ -1,0 +1,115 @@
+T1	geogFeat 12 17	Amers
+T2	geogFeat 44 48	Cabo
+T3	geogFeat 61 72	promontoire
+T4	geogFeat 181 188	Détroit
+T5	geogFeat 213 218	côtes
+T6	geogFeat 231 236	Islas
+T7	geogFeat 253 257	tour
+T8	geogFeat 442 451	FRONTIÈRE
+T9	geogFeat 473 476	CAP
+T10	geogFeat 494 497	cap
+T11	geogFeat 506 511	phare
+T12	geogFeat 561 565	Tour
+T13	geogFeat 599 602	cap
+T14	geogFeat 678 682	Fort
+T15	geogFeat 642 647	phare
+T16	geogFeat 633 638	Vigie
+T18	geogFeat 722 725	Cap
+T19	geogFeat 843 846	cap
+T20	geogFeat 885 892	plateau
+T21	geogFeat 914 922	falaises
+T22	geogFeat 932 941	sémaphore
+T23	geogFeat 943 949	radôme
+T24	geogFeat 965 968	Cap
+T25	geogFeat 997 1002	phare
+T26	geogFeat 1022 1025	Cap
+T27	geogFeat 1035 1040	phare
+T28	geogFeat 1044 1054	tour radar
+T29	geogFeat 1156 1165	FRONTIÈRE
+T30	geogFeat 1187 1190	CAP
+T31	geogFeat 1216 1219	Cap
+T32	geogFeat 1232 1241	sémaphore
+T33	geogFeat 1288 1292	mont
+T34	geogFeat 1407 1429	pylône relais hertzien
+T35	geogFeat 1436 1442	sommet
+T36	geogFeat 1537 1541	mont
+T37	geogFeat 1565 1568	Cap
+T38	geogFeat 1632 1649	tour 😄😍hertzienne
+T39	geogFeat 1706 1715	sémaphore
+T40	geogFeat 1722 1728	sommet
+T41	geogFeat 1748 1752	mont
+T42	geogFeat 1856 1865	FRONTIÈRE
+T43	geogFeat 1887 1890	CAP
+T44	geogFeat 1908 1916	montagne
+T45	geogFeat 1930 1934	Plan
+T46	geogFeat 1953 1960	radômes
+T47	geogFeat 2030 2034	mont
+T48	geogFeat 2096 2104	Montagne
+T49	name 49 54	Creus
+T50	name 192 201	Gibraltar
+T51	name 204 211	Espagne
+T52	name 237 245	Baleares
+T53	name 258 265	Madeloc
+T54	name 452 461	ESPAGNOLE
+T55	name 479 483	AGDE
+T56	name 498 505	Cerbère
+T57	name 566 573	Madeloc
+T58	name 603 607	Béar
+T59	name 683 687	Béar
+T60	name 726 733	Cerbère
+T17	name 847 854	Leucate
+T61	name 969 973	Béar
+T62	name 1026 1033	Leucate
+T63	name 1166 1175	ESPAGNOLE
+T64	name 1193 1197	AGDE
+T65	name 1220 1227	Leucate
+T66	name 1293 1304	Saint-Clair
+T67	name 1344 1348	Sète
+T68	name 1542 1552	Saint-Loup
+T69	name 1571 1575	Agde
+T70	name 1753 1764	Saint-Clair
+T71	name 1866 1875	ESPAGNOLE
+T72	name 1893 1897	AGDE
+T73	name 1923 1928	Clape
+T74	name 1938 1944	Roques
+T75	name 2035 2045	Saint-Loup
+T76	name 2111 2116	Clape
+T77	geogName 44 54	Cabo Creus
+T78	geogName 181 201	Détroit de Gibraltar
+T79	geogName 204 211	Espagne
+T80	geogName 231 245	Islas Baleares
+T81	geogName 253 265	tour Madeloc
+T82	geogName 442 461	FRONTIÈRE ESPAGNOLE
+T83	geogName 473 483	CAP D’AGDE
+T84	geogName 494 505	cap Cerbère
+T86	geogName 561 573	Tour Madeloc
+T87	geogName 599 607	cap Béar
+T88	geogName 678 687	Fort Béar
+T89	geogName 722 733	Cap Cerbère
+T90	geogName 843 854	cap Leucate
+T91	geogName 965 973	Cap Béar
+T92	geogName 1022 1033	Cap Leucate
+T93	geogName 1156 1175	FRONTIÈRE ESPAGNOLE
+T94	geogName 1187 1197	CAP D’AGDE
+T95	geogName 1216 1227	Cap Leucate
+T96	geogName 1288 1304	mont Saint-Clair
+T97	geogName 1537 1552	mont Saint-Loup
+T98	geogName 1565 1575	Cap d’Agde
+T99	geogName 1748 1764	mont Saint-Clair
+T100	geogName 1856 1875	FRONTIÈRE ESPAGNOLE
+T101	geogName 1887 1897	CAP D’AGDE
+T102	geogName 1908 1928	montagne de la Clape
+T103	geogName 1930 1944	Plan de Roques
+T104	geogName 2030 2045	mont Saint-Loup
+T105	geogName 2096 2116	Montagne de la Clape
+T106	geogName 1344 1348	Sète
+R1	ElementOf Arg1:T110 Arg2:T40	
+R4	ElementOf Arg1:T38 Arg2:T40	
+R5	ElementOf Arg1:T35 Arg2:T96	
+R6	ElementOf Arg1:T34 Arg2:T35	
+T85	name 219 222	Sud
+T107	name 226 229	Est
+T108	geogName 213 229	côtes Sud et Est
+T109	name 1699 1705	ancien
+T110	geogName 1699 1715	ancien sémaphore
+R2	ElementOf Arg1:T40 Arg2:T97	

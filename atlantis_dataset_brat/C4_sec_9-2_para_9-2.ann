@@ -1,0 +1,87 @@
+T1	geogFeat 11 14	cap
+T2	geogFeat 25 31	pointe
+T3	geogFeat 39 43	Baie
+T4	geogFeat 60 70	presqu’île
+T6	geogFeat 97 104	pointes
+T7	geogFeat 177 180	cap
+T8	geogFeat 202 208	pointe
+T9	geogFeat 291 295	côte
+T10	geogFeat 305 314	continent
+T11	geogFeat 328 331	cap
+T12	geogFeat 418 422	baie
+T13	geogFeat 440 444	baie
+T14	geogFeat 471 474	Cap
+T15	geogFeat 488 494	pointe
+T16	geogFeat 616 620	baie
+T17	geogFeat 651 654	île
+T18	geogFeat 714 720	entrée
+T19	geogFeat 727 731	baie
+T20	geogFeat 740 744	port
+T21	geogFeat 807 811	anse
+T22	geogFeat 833 839	pointe
+T23	geogFeat 893 899	pointe
+T24	geogFeat 964 969	ville
+T25	geogFeat 1014 1024	presqu’île
+T26	geogFeat 1041 1045	côte
+T27	geogFeat 1057 1061	baie
+T28	geogFeat 1123 1129	pointe
+T29	name 15 19	Vert
+T30	name 32 37	Rouge
+T31	name 47 52	Gorée
+T32	name 74 82	cap Vert
+T33	name 181 185	Vert
+T34	name 213 221	Almadies
+T35	name 296 301	Ouest
+T36	name 315 323	africain
+T37	name 332 338	Manuel
+T38	name 426 431	Gorée
+T39	name 448 453	Gorée
+T40	name 475 481	Manuel
+T41	name 495 500	Rouge
+T42	name 660 665	Gorée
+T43	name 748 753	Dakar
+T44	name 843 848	Dakar
+T45	name 903 910	Bel-Air
+T46	name 973 978	Dakar
+T47	name 1028 1036	cap Vert
+T48	name 1067 1072	Gorée
+T49	name 1133 1140	Bel-Air
+T50	name 1149 1157	Rufisque
+T51	geogName 11 19	cap Vert
+T52	geogName 25 37	pointe Rouge
+T53	geogName 39 52	Baie de Gorée
+T54	geogName 60 82	presqu’île du cap Vert
+T5	geogName 177 185	cap Vert
+T55	geogName 202 221	pointe des Almadies
+T56	geogName 291 301	côte Ouest
+T57	geogName 305 323	continent africain
+T58	geogName 328 338	cap Manuel
+T59	geogName 418 431	baie de Gorée
+T60	geogName 440 453	baie de Gorée
+T61	geogName 471 481	Cap Manuel
+T62	geogName 488 500	pointe Rouge
+T63	geogName 651 665	île 😄de 😄Gorée
+T64	geogName 740 753	port de Dakar
+T65	geogName 833 848	pointe de Dakar
+T66	geogName 893 910	pointe de Bel-Air
+T67	geogName 964 978	ville de Dakar
+T68	name 1046 1050	Nord
+T69	geogName 1014 1036	presqu’île du cap Vert
+T70	geogName 1041 1050	côte Nord
+T71	geogName 1057 1072	baie de 😄😍Gorée
+T72	geogName 1123 1140	pointe de Bel-Air
+T73	geogName 1149 1157	Rufisque
+R1	ElementOf Arg1:T6 Arg2:T54	
+R2	ElementOf Arg1:T55 Arg2:T5	
+R3	ElementOf Arg1:T56 Arg2:T57	
+R4	ElementOf Arg1:T5 Arg2:T56	
+R5	WestOf Arg1:T58 Arg2:T59	
+R6	ElementOf Arg1:T18 Arg2:T19	
+R7	ElementOf Arg1:T63 Arg2:T18	
+R8	ElementOf Arg1:T64 Arg2:T21	
+R9	SouthOf Arg1:T65 Arg2:T21	
+R10	NorthOf Arg1:T66 Arg2:T21	
+R11	ElementOf Arg1:T67 Arg2:T69	
+R12	NorthOf Arg1:T70 Arg2:T71	
+R13	ElementOf Arg1:T72 Arg2:T70	
+R14	ElementOf Arg1:T73 Arg2:T70	

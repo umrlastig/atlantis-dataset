@@ -1,0 +1,46 @@
+T1	geogFeat 12 22	Mouillages
+T2	geogFeat 27 46	MOUILLAGE D’ATTENTE
+T3	geogFeat 53 80	zone de mouillage d’attente
+T4	geogFeat 101 105	Banc
+T5	geogFeat 135 140	Récif
+T6	geogFeat 178 182	zone
+T7	geogFeat 233 237	zone
+T8	geogFeat 257 267	alignement
+T9	geogFeat 332 359	zone de mouillage d’attente
+T10	geogFeat 429 447	poste de mouillage
+T11	geogFeat 554 558	môle
+T12	geogFeat 652 658	bassin
+T13	geogFeat 672 677	jetée
+T14	geogFeat 693 698	jetée
+T15	geogFeat 717 721	Môle
+T16	geogFeat 731 751	MOUILLAGES INTERDITS
+T17	geogFeat 774 778	port
+T18	geogFeat 826 830	zone
+T19	geogFeat 877 887	alignement
+T20	geogFeat 953 963	alignement
+T21	geogFeat 994 1034	zone de câbles téléphoniques sous-marins
+T22	geogFeat 1147 1157	cathédrale
+T23	geogFeat 1123 1127	côte
+T25	name 109 117	Pingouin
+T26	name 143 150	Ambouli
+T27	name 562 575	Fontainebleau
+T28	name 681 686	Large
+T29	name 702 710	Marabout
+T30	name 980 988	Djibouti
+T31	geogName 101 117	Banc du Pingouin
+T32	geogName 135 150	Récif d’Ambouli
+T33	geogName 554 575	môle du Fontainebleau
+T34	geogName 672 686	jetée du Large
+T35	geogName 693 710	jetée du Marabout
+T36	geogName 980 988	Djibouti
+T37	name 722 725	Sud
+T38	geogName 717 725	Môle Sud
+R1	NorthOf Arg1:T31 Arg2:T3	
+R2	SouthOf Arg1:T32 Arg2:T3	
+R3	EastOf Arg1:T8 Arg2:T3	
+R4	WestOf Arg1:T10 Arg2:T33	
+R5	EastOf Arg1:T21 Arg2:T36	
+R6	EastOf Arg1:T23 Arg2:T22	
+T24	geogFeat 855 861	lignes
+R7	EastOf Arg1:T24 Arg2:T20	
+R8	WestOf Arg1:T24 Arg2:T20	

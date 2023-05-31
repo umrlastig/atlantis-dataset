@@ -1,0 +1,124 @@
+T1	geogFeat 12 16	Port
+T2	geogFeat 20 29	mouillage
+T3	geogFeat 45 49	port
+T4	geogFeat 76 80	côte
+T5	geogFeat 89 92	île
+T6	geogFeat 113 118	passe
+T7	geogFeat 206 209	axe
+T8	geogFeat 213 219	chenal
+T9	geogFeat 247 267	alignement 😍lumineux
+T10	geogFeat 276 283	pylônes
+T11	geogFeat 315 322	panneau
+T12	geogFeat 357 363	pointe
+T13	geogFeat 396 402	récifs
+T14	geogFeat 418 423	passe
+T15	geogFeat 379 387	brisants
+T16	geogFeat 471 474	axe
+T17	geogFeat 482 487	passe
+T18	geogFeat 518 523	passe
+T19	geogFeat 552 557	passe
+T20	geogFeat 647 659	axe d’entrée
+T21	geogFeat 686 696	alignement
+T22	geogFeat 702 723	panneau de visibilité
+T23	geogFeat 802 806	ÎLES
+T24	geogFeat 817 821	ÎLES
+T25	geogFeat 837 841	ÎLES
+T26	geogFeat 874 880	pylône
+T27	geogFeat 910 916	pointe
+T28	geogFeat 944 949	passe
+T29	geogFeat 968 977	mouillage
+T30	geogFeat 997 1002	route
+T31	geogFeat 1025 1040	mât de pavillon
+T32	geogFeat 1044 1051	village
+T33	geogFeat 1086 1093	village
+T34	geogFeat 1230 1233	axe
+T35	geogFeat 1240 1245	passe
+T36	geogFeat 1268 1272	port
+T37	geogFeat 1504 1524	balise cardinale Est
+T38	geogFeat 1400 1407	platier
+T39	geogFeat 1556 1560	quai
+T40	geogFeat 1599 1603	quai
+T41	geogFeat 1642 1646	quai
+T42	geogFeat 1713 1719	ponton
+T43	geogFeat 1775 1779	quai
+T44	geogFeat 1823 1827	quai
+T45	geogFeat 1886 1899	port autonome
+T46	geogFeat 1950 1954	port
+T47	geogFeat 1978 1990	Capitainerie
+T48	geogFeat 2065 2077	super-marché
+T49	geogFeat 2079 2094	station-service
+T50	geogFeat 2045 2056	Dispensaire
+T51	geogFeat 2058 2063	poste
+T52	geogFeat 2113 2122	Aérodrome
+T53	geogFeat 2132 2137	Ville
+T54	geogFeat 2145 2154	chef lieu
+T55	geogFeat 2189 2193	Port
+T56	name 33 37	Fare
+T57	name 53 57	Fare
+T58	name 81 83	NW
+T59	name 119 125	Avamoa
+T60	name 365 373	Matapiri
+T61	name 524 531	Avapehi
+T62	name 558 564	Avamoa
+T63	name 810 814	VENT
+T64	name 822 834	SOUS-LE-VENT
+T65	name 842 851	AUSTRALES
+T66	name 917 924	Papatea
+T67	name 981 985	Fare
+T68	name 1276 1280	Faré
+T69	name 1903 1910	Papeete
+T70	name 2139 2143	Fare
+T71	name 2158 2165	Huahine
+T72	name 2179 2186	Huahine
+T73	name 2197 2201	Fare
+T74	geogName 45 57	port de Fare
+T75	geogName 76 83	côte NW
+T76	geogName 113 125	passe Avamoa
+T77	geogName 357 373	pointe 😍Matapiri
+T78	geogName 518 531	passe Avapehi
+T79	geogName 552 564	passe Avamoa
+T80	geogName 802 814	ÎLES DU VENT
+T81	geogName 817 834	ÎLES SOUS-LE-VENT
+T82	geogName 837 851	ÎLES AUSTRALES
+T83	geogName 910 924	pointe Papatea
+T84	geogName 968 985	mouillage de Fare
+T85	geogName 1268 1280	port de Faré
+T86	geogName 1886 1910	port autonome de Papeete
+T87	geogName 2139 2143	Fare
+T88	geogName 2158 2165	Huahine
+T89	geogName 2179 2186	Huahine
+T90	geogName 2189 2201	Port de Fare
+T91	geogName 20 37	mouillage de Fare
+T92	geogFeat 1430 1447	balisage cardinal
+T93	geogFeat 1527 1551	Installations portuaires
+T94	geogFeat 1330 1338	Balisage
+T95	geogFeat 1340 1355	Infrastructures
+T96	geogFeat 1160 1169	mouillage
+T97	name 1651 1660	bonitiers
+T98	geogName 1642 1660	quai des bonitiers
+T99	name 1784 1793	bonitiers
+T100	geogName 1775 1793	quai des bonitiers
+T101	name 1832 1841	bonitiers
+T102	geogName 1823 1841	quai des bonitiers
+R2	ElementOf Arg1:T75 Arg2:T5	
+R3	ElementOf Arg1:T7 Arg2:T8	
+R4	ElementOf Arg1:T9 Arg2:T7	
+R5	ElementOf Arg1:T10 Arg2:T9	
+R6	ElementOf Arg1:T11 Arg2:T10	
+R7	ElementOf Arg1:T15 Arg2:T13	
+R8	ElementOf Arg1:T16 Arg2:T17	
+R9	SouthOf Arg1:T78 Arg2:T79	
+R10	MarkedBy Arg1:T20 Arg2:T21	
+R11	ElementOf Arg1:T22 Arg2:T21	
+R12	ElementOf Arg1:T26 Arg2:T21	
+R13	ElementOf Arg1:T26 Arg2:T83	
+R14	ElementOf Arg1:T22 Arg2:T83	
+R15	ElementOf Arg1:T31 Arg2:T32	
+R16	ElementOf Arg1:T34 Arg2:T35	
+R17	MarkedBy Arg1:T38 Arg2:T92	
+R18	MarkedBy Arg1:T38 Arg2:T37	
+R19	ElementOf Arg1:T39 Arg2:T93	
+R20	ElementOf Arg1:T40 Arg2:T93	
+R21	ElementOf Arg1:T98 Arg2:T93	
+R22	ElementOf Arg1:T42 Arg2:T93	
+R23	ElementOf Arg1:T54 Arg2:T88	

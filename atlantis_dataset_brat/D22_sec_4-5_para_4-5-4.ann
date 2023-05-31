@@ -1,0 +1,89 @@
+T1	geogFeat 16 22	pointe
+T2	geogFeat 39 42	cap
+T3	geogFeat 70 73	cap
+T4	geogFeat 132 136	côte
+T5	geogFeat 153 158	anses
+T6	geogFeat 202 222	stations 😍balnéaires
+T7	geogFeat 226 230	anse
+T8	geogFeat 254 260	pointe
+T9	geogFeat 276 279	cap
+T10	geogFeat 304 309	plage
+T11	geogFeat 349 353	anse
+T12	geogFeat 462 468	rivage
+T13	geogFeat 547 550	cap
+T14	geogFeat 637 641	tour
+T15	geogFeat 709 713	côte
+T16	geogFeat 751 758	pointes
+T17	geogFeat 384 404	champs de biocénoses
+T18	geogFeat 767 773	pointe
+T19	geogFeat 805 808	cap
+T20	geogFeat 826 832	maison
+T21	geogFeat 886 892	pointe
+T22	geogFeat 912 918	pointe
+T23	geogFeat 939 944	baies
+T24	geogFeat 1002 1045	zones de mouillages et d’équipements légers
+T25	geogFeat 1060 1067	commune
+T26	geogFeat 1101 1106	zones
+T27	geogFeat 1307 1313	postes
+T28	geogFeat 1414 1419	zones
+T29	geogFeat 1493 1497	ZMEL
+T30	geogFeat 1515 1520	plage
+T31	geogFeat 1556 1610	zone interdite aux embarcations motorisées ou à moteur
+T32	geogFeat 1672 1701	zones réservées à la baignade
+T33	geogFeat 1710 1718	géotubes
+T34	geogFeat 1801 1806	plage
+T35	geogFeat 1960 1963	CAP
+T36	geogFeat 1973 1976	CAP
+T37	name 26 35	Nard Viou
+T38	name 43 52	Cavalaire
+T39	name 74 83	Cavalaire
+T40	name 119 127	Lavandou
+T41	name 234 243	Cavalière
+T42	name 280 285	Nègre
+T43	name 551 556	Nègre
+T44	name 777 784	Dattier
+T45	name 809 814	Nègre
+T46	name 898 905	Écuelle
+T47	name 922 928	Trésor
+T48	name 948 955	Canadel
+T49	name 962 967	Rayol
+T51	geogName 1247 1259	Méditerranée
+T52	name 1276 1279	Var
+T53	name 1524 1529	Rayol
+T54	name 1864 1876	Méditerranée
+T55	name 1964 1969	BÉNAT
+T56	name 1977 1984	CAMARAT
+T57	geogName 16 35	pointe de Nard Viou
+T58	geogName 39 52	cap Cavalaire
+T59	geogName 70 83	cap Cavalaire
+T60	geogName 119 127	Lavandou
+T61	geogName 226 243	anse de Cavalière
+T62	name 264 269	Layet
+T63	geogName 254 269	pointe du Layet
+T64	geogName 276 285	cap Nègre
+T65	geogName 547 556	cap Nègre
+T66	geogName 767 784	pointe du Dattier
+T67	geogName 805 814	cap Nègre
+T68	geogName 886 905	pointe de l’Écuelle
+T69	geogName 912 928	pointe du Trésor
+T50	name 1247 1259	Méditerranée
+T70	geogName 1276 1279	Var
+T71	geogName 1515 1529	plage du Rayol
+T72	geogName 1864 1876	Méditerranée
+T73	geogName 1960 1969	CAP BÉNAT
+T74	geogName 1973 1984	CAP CAMARAT
+R1	EastOf Arg1:T4 Arg2:T60	
+R2	ElementOf Arg1:T17 Arg2:T11	
+T75	geogFeat 564 575	promontoire
+T76	geogFeat 602 606	face
+R3	ElementOf Arg1:T14 Arg2:T80	
+R4	ElementOf Arg1:T80 Arg2:T75	
+R5	EastNorthEastOf Arg1:T66 Arg2:T67	
+R6	ElementOf Arg1:T20 Arg2:T66	
+T77	geogName 939 967	baies du Canadel et du Rayol
+T79	name 607 610	Est
+T80	geogName 602 610	face Est
+T81	name 1071 1093	Rayol-Canadel-😍sur-Mer
+T82	geogName 1060 1093	commune du Rayol-Canadel-😍sur-Mer
+R7	ElementOf Arg1:T16 Arg2:T15	
+R8	ElementOf Arg1:T24 Arg2:T77	

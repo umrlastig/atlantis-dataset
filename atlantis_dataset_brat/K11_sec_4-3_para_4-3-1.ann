@@ -1,0 +1,103 @@
+T1	geogFeat 40 44	îles
+T2	geogFeat 109 117	archipel
+T3	geogFeat 126 130	îles
+T4	geogFeat 199 205	atolls
+T5	geogFeat 430 434	port
+T6	geogFeat 533 543	alignement
+T7	geogFeat 574 579	passe
+T8	geogFeat 613 619	passes
+T9	geogFeat 627 645	chenaux intérieurs
+T10	geogFeat 741 748	chenaux
+T11	geogFeat 898 902	baie
+T12	geogFeat 849 862	hydrosurfaces
+T13	geogFeat 828 841	HYDROSURFACES
+T14	geogFeat 948 952	baie
+T15	geogFeat 974 980	pointe
+T16	geogFeat 1002 1008	pointe
+T17	geogFeat 1027 1031	baie
+T18	geogFeat 1053 1060	village
+T19	geogFeat 1094 1098	baie
+T20	geogFeat 1122 1128	Pointe
+T21	geogFeat 1204 1217	hydrosurfaces
+T22	geogFeat 291 295	Motu
+T23	geogFeat 925 929	Motu
+T24	name 45 57	Sous-le-Vent
+T25	name 145 152	Huahine
+T26	name 154 161	Raiatea
+T27	name 163 168	Tahaa
+T28	name 170 179	Bora-Bora
+T29	name 183 190	Maupiti
+T30	name 247 252	Tupai
+T31	name 254 262	Maupihaa
+T32	name 264 271	Mopelia
+T33	name 274 280	Manuae
+T34	name 282 288	Scilly
+T35	name 296 299	One
+T36	name 303 316	Bellinghausen
+T37	name 438 445	Papeete
+T38	name 903 908	Maroe
+T39	name 931 938	Vaiorea
+T40	name 953 958	Faaha
+T41	name 981 988	Pataaia
+T42	name 1009 1013	Tiva
+T43	name 1032 1039	Tapuamu
+T44	name 1061 1066	Patio
+T45	name 940 945	TAHAA
+T46	name 888 895	Huahine
+T47	name 1068 1075	Raiatea
+T48	name 1099 1105	Vaiaau
+T49	name 1129 1136	Tahoata
+T50	name 1180 1186	Tahiti
+T51	name 1330 1336	Tahiti
+T52	geogName 40 57	îles Sous-le-Vent
+T53	geogName 145 152	Huahine
+T54	geogName 154 161	Raiatea
+T55	geogName 163 168	Tahaa
+T56	geogName 170 179	Bora-Bora
+T57	geogName 183 190	Maupiti
+T58	geogName 247 252	Tupai
+T59	geogName 254 262	Maupihaa
+T60	geogName 264 271	Mopelia
+T61	geogName 274 280	Manuae
+T62	geogName 282 288	Scilly
+T63	geogName 291 299	Motu One
+T64	geogName 303 316	Bellinghausen
+T65	geogName 430 445	port de Papeete
+T66	geogName 888 895	Huahine
+T67	geogName 898 908	baie Maroe
+T68	geogName 925 938	Motu 😍Vaiorea
+T69	geogName 940 945	TAHAA
+T70	geogName 948 958	baie Faaha
+T71	geogName 974 988	pointe Pataaia
+T72	geogName 1002 1013	pointe Tiva
+T73	geogName 1027 1039	baie Tapuamu
+T74	geogName 1053 1066	village Patio
+T75	geogName 1068 1075	Raiatea
+T76	geogName 1094 1105	baie Vaiaau
+T77	geogName 1122 1136	Pointe Tahoata
+T78	geogName 1180 1186	Tahiti
+T79	geogName 1330 1336	Tahiti
+T80	geogFeat 703 709	Région
+T81	name 710 711	A
+T82	geogName 703 711	Région A
+R1	ElementOf Arg1:T3 Arg2:T2	
+R2	ElementOf Arg1:T2 Arg2:T52	
+R3	ElementOf Arg1:T4 Arg2:T52	
+R4	ElementOf Arg1:T53 Arg2:T3	
+R5	ElementOf Arg1:T54 Arg2:T3	
+R6	ElementOf Arg1:T55 Arg2:T3	
+R7	ElementOf Arg1:T56 Arg2:T3	
+R8	ElementOf Arg1:T57 Arg2:T3	
+R9	ElementOf Arg1:T58 Arg2:T4	
+R10	ElementOf Arg1:T59 Arg2:T4	
+R12	ElementOf Arg1:T61 Arg2:T4	
+R11	ElementOf Arg1:T63 Arg2:T4	
+R13	ElementOf Arg1:T12 Arg2:T67	
+R14	WestOf Arg1:T12 Arg2:T68	
+R15	ElementOf Arg1:T12 Arg2:T70	
+R16	EastOf Arg1:T12 Arg2:T71	
+R17	SouthWestOf Arg1:T12 Arg2:T72	
+R18	SouthWestOf Arg1:T12 Arg2:T73	
+R19	NorthOf Arg1:T12 Arg2:T74	
+R20	WestOf Arg1:T12 Arg2:T76	
+R21	SouthOf Arg1:T12 Arg2:T77	

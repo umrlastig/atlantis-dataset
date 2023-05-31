@@ -1,0 +1,176 @@
+T1	geogFeat 28 34	passes
+T2	geogFeat 80 84	rade
+T3	geogFeat 107 112	Passe
+T4	geogFeat 133 137	Îles
+T5	geogFeat 153 158	passe
+T6	geogFeat 214 217	axe
+T7	geogFeat 224 229	passe
+T8	geogFeat 252 262	alignement
+T9	geogFeat 275 280	phare
+T10	geogFeat 299 304	phare
+T11	geogFeat 332 338	sommet
+T12	geogFeat 352 359	colline
+T13	geogFeat 383 393	alignement
+T14	geogFeat 407 413	phares
+T15	geogFeat 440 450	alignement
+T16	geogFeat 487 502	bouée lumineuse
+T17	geogFeat 533 537	Banc
+T18	geogFeat 551 557	chenal
+T19	geogFeat 577 604	bouées lumineuses latérales
+T20	geogFeat 626 630	Banc
+T21	geogFeat 729 733	CÔTE
+T22	geogFeat 741 746	GOLFE
+T23	geogFeat 757 761	CÔTE
+T24	geogFeat 778 781	MER
+T25	geogFeat 792 802	RÉPUBLIQUE
+T26	geogFeat 843 853	Alignement
+T27	geogFeat 902 907	PASSE
+T28	geogFeat 920 925	Passe
+T29	geogFeat 967 972	golfe
+T30	geogFeat 999 1003	port
+T31	geogFeat 1025 1029	Banc
+T32	geogFeat 1048 1053	Récif
+T33	geogFeat 1084 1089	passe
+T34	geogFeat 1110 1138	bouées 😍de marques latérales
+T35	geogFeat 1144 1147	axe
+T36	geogFeat 1180 1190	alignement
+T37	geogFeat 1201 1208	clocher
+T38	geogFeat 1215 1225	cathédrale
+T39	geogFeat 1254 1270	feu directionnel
+T40	geogFeat 1328 1333	Jetée
+T41	geogFeat 1379 1386	clocher
+T42	geogFeat 1393 1403	cathédrale
+T43	geogFeat 1412 1419	minaret
+T44	geogFeat 1491 1498	minaret
+T45	geogFeat 1505 1512	clocher
+T46	geogFeat 1519 1529	cathédrale
+T47	geogFeat 1566 1570	Banc
+T48	geogFeat 1590 1601	hauts-fonds
+T49	geogFeat 1620 1623	axe
+T50	geogFeat 1630 1635	passe
+T51	geogFeat 1699 1702	axe
+T52	geogFeat 1771 1774	axe
+T53	geogFeat 1877 1899	bouée 😍latérale bâbord
+T54	geogFeat 1933 1942	haut-fond
+T55	geogFeat 1969 1974	bouée
+T56	geogFeat 2048 2058	alignement
+T57	geogFeat 2070 2075	passe
+T58	geogFeat 2217 2221	Port
+T59	geogFeat 2248 2252	Port
+T60	geogFeat 2391 2395	Îles
+T61	geogFeat 2367 2372	PASSE
+T62	geogFeat 2407 2412	Passe
+T63	geogFeat 2524 2528	zone
+T64	geogFeat 2616 2620	Îles
+T65	geogFeat 2698 2703	passe
+T66	geogFeat 2717 2721	Banc
+T67	geogFeat 2783 2793	alignement
+T68	geogFeat 2825 2829	Banc
+T69	geogFeat 2856 2861	bouée
+T70	geogFeat 90 95	PASSE
+T71	name 96 100	NORD
+T72	name 113 117	Nord
+T73	name 138 144	Moucha
+T74	name 283 290	Ayabelé
+T75	name 307 314	Ambouli
+T76	name 360 366	Guissi
+T77	name 505 506	0
+T78	name 538 545	Maskali
+T79	name 634 642	Pingouin
+T80	name 734 737	SUD
+T81	name 749 753	ADEN
+T82	name 762 771	AFRICAINE
+T83	name 784 790	ARABIE
+T84	name 806 814	DJIBOUTI
+T85	name 816 823	SOMALIE
+T86	name 908 913	OUEST
+T87	name 926 931	Ouest
+T88	name 976 984	Tadjoura
+T89	name 1034 1041	Salines
+T90	name 1056 1063	Ambouli
+T91	name 1337 1349	Gouvernement
+T92	name 1478 1486	Djibouti
+T93	name 1575 1582	Salines
+T94	name 1902 1903	5
+T95	name 2225 2233	Djibouti
+T96	name 2256 2263	Doraleh
+T97	name 2343 2351	DJIBOUTI
+T98	name 2355 2362	BERBERA
+T99	name 2373 2376	EST
+T100	name 2396 2402	Moucha
+T101	name 2413 2416	Est
+T102	name 2621 2627	Moucha
+T103	name 2725 2730	Héron
+T104	name 2833 2841	Pingouin
+T105	name 2864 2865	1
+T106	geogName 90 100	PASSE NORD
+T107	geogName 107 117	Passe Nord
+T108	geogName 133 144	Îles Moucha
+T109	geogName 275 290	phare d’Ayabelé
+T110	geogName 299 314	phare d’Ambouli
+T111	geogName 352 366	colline Guissi
+T112	geogName 533 545	Banc Maskali
+T113	geogName 626 642	Banc du Pingouin
+T114	geogName 729 737	CÔTE SUD
+T115	geogName 741 753	GOLFE D'ADEN
+T116	geogName 757 771	CÔTE AFRICAINE
+T117	geogName 778 790	MER D'ARABIE
+T118	geogName 792 814	RÉPUBLIQUE DE DJIBOUTI
+T119	geogName 816 823	SOMALIE
+T120	geogName 902 913	PASSE OUEST
+T121	geogName 920 931	Passe Ouest
+T122	geogName 967 984	golfe de Tadjoura
+T123	geogName 1025 1041	Banc des Salines
+T124	geogName 1048 1063	Récif d’Ambouli
+T125	geogName 1328 1349	Jetée du Gouvernement
+T126	geogName 1478 1486	Djibouti
+T127	geogName 1566 1582	Banc des Salines
+T128	geogName 2217 2233	Port de Djibouti
+T129	geogName 2248 2263	Port de Doraleh
+T130	geogName 2343 2351	DJIBOUTI
+T131	geogName 2355 2362	BERBERA
+T132	geogName 2367 2376	PASSE EST
+T133	geogName 2391 2402	Îles Moucha
+T134	geogName 2407 2416	Passe Est
+T135	geogName 2616 2627	Îles Moucha
+T136	geogName 2717 2730	Banc du Héron
+T137	geogName 2825 2841	Banc du Pingouin
+T138	geogName 2856 2867	bouée « 1 »
+T139	geogName 487 508	bouée lumineuse « 0 »
+T140	name 35 39	Nord
+T141	name 41 44	Est
+T142	name 48 53	Ouest
+T143	geogName 28 53	passes Nord, Est et Ouest
+T144	name 1247 1253	ancien
+T145	geogName 1247 1270	ancien feu directionnel
+T146	geogName 1877 1905	bouée 😍latérale bâbord « 5 »
+T147	geogFeat 1985 1995	haut-😍fond
+R1	WestOf Arg1:T107 Arg2:T108	
+R2	ElementOf Arg1:T6 Arg2:T7	
+R3	ElementOf Arg1:T8 Arg2:T6	
+R4	ElementOf Arg1:T109 Arg2:T8	
+R5	ElementOf Arg1:T110 Arg2:T8	
+R6	ElementOf Arg1:T11 Arg2:T111	
+R7	ElementOf Arg1:T11 Arg2:T13	
+R8	WestOf Arg1:T15 Arg2:T139	
+R9	MarkedBy Arg1:T112 Arg2:T139	
+R10	WestOf Arg1:T139 Arg2:T112	
+R11	MarkedBy Arg1:T18 Arg2:T19	
+R12	MarkedBy Arg1:T33 Arg2:T34	
+R13	ElementOf Arg1:T36 Arg2:T35	
+R14	ElementOf Arg1:T37 Arg2:T38	
+R15	ElementOf Arg1:T37 Arg2:T36	
+R16	ElementOf Arg1:T145 Arg2:T36	
+R17	ElementOf Arg1:T41 Arg2:T42	
+R18	WestNorthWestOf Arg1:T43 Arg2:T42	
+R19	ElementOf Arg1:T45 Arg2:T46	
+R20	NorthOf Arg1:T48 Arg2:T127	
+R21	ElementOf Arg1:T49 Arg2:T50	
+R22	NorthOf Arg1:T146 Arg2:T54	
+R23	EastSouthEastOf Arg1:T147 Arg2:T55	
+R24	SouthOf Arg1:T147 Arg2:T56	
+R25	SouthOf Arg1:T134 Arg2:T133	
+R26	SouthOf Arg1:T136 Arg2:T65	
+R27	MarkedBy Arg1:T137 Arg2:T138	
+R28	EastOf Arg1:T67 Arg2:T137	
+R29	ElementOf Arg1:T145 Arg2:T125	

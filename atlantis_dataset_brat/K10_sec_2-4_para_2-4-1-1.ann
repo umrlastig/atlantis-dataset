@@ -1,0 +1,58 @@
+T1	geogFeat 22 26	rade
+T2	geogFeat 41 45	rade
+T3	geogFeat 96 102	pointe
+T4	geogFeat 213 224	base navale
+T5	geogFeat 293 297	port
+T6	geogFeat 347 352	digue
+T7	geogFeat 403 407	quai
+T8	geogFeat 450 454	quai
+T9	geogFeat 506 510	quai
+T10	geogFeat 551 555	quai
+T11	geogFeat 598 601	île
+T12	geogFeat 621 626	ville
+T13	geogFeat 641 645	quai
+T14	geogFeat 669 673	quai
+T15	geogFeat 694 709	cales de halage
+T16	geogFeat 740 744	quai
+T17	geogFeat 865 870	CÔTES
+T18	geogFeat 910 914	rade
+T19	name 15 21	Petite
+T20	name 34 40	Petite
+T21	name 108 118	Artillerie
+T22	name 298 305	Moselle
+T23	geogFeat 369 373	port
+T24	name 374 381	Moselle
+T25	name 515 526	Volontaires
+T26	name 561 567	Europe
+T27	name 602 605	Nou
+T28	name 652 663	Capricieuse
+T29	name 676 683	charbon
+T30	name 755 773	Nouville Plaisance
+T31	name 845 863	NOUVELLE-CALÉDONIE
+T32	name 871 874	SUD
+T33	name 878 883	OUEST
+T34	name 903 909	Petite
+T35	geogName 15 26	Petite rade
+T36	geogName 34 45	Petite rade
+T37	geogName 96 118	pointe de l’Artillerie
+T38	geogName 293 305	port Moselle
+T39	geogName 369 381	port Moselle
+T40	geogName 506 526	quai des Volontaires
+T41	geogName 551 567	quai de l’Europe
+T42	geogName 598 605	île Nou
+T43	geogName 641 663	quai de la Capricieuse
+T44	geogName 669 683	quai à charbon
+T45	geogName 755 773	Nouville Plaisance
+T46	geogName 845 863	NOUVELLE-CALÉDONIE
+T47	geogName 865 883	CÔTES SUD ET OUEST
+T48	geogName 903 914	Petite rade
+T49	name 412 421	caboteurs
+T50	geogName 403 421	quai des caboteurs
+T51	name 459 475	longs 😍courriers
+T52	geogName 450 475	quai des longs 😍courriers
+R1	ElementOf Arg1:T4 Arg2:T36	
+R2	NorthOf Arg1:T6 Arg2:T38	
+R3	WestOf Arg1:T6 Arg2:T38	
+R4	NorthNorthWestOf Arg1:T45 Arg2:T16	
+R5	NorthOf Arg1:T50 Arg2:T39	
+R6	NorthOf Arg1:T52 Arg2:T50	

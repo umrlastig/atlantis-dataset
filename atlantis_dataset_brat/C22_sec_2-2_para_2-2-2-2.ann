@@ -1,0 +1,139 @@
+T1	geogFeat 12 18	Routes
+T2	geogFeat 22 25	Pas
+T3	geogFeat 66 85	voie de circulation
+T4	geogFeat 368 372	côte
+T6	geogFeat 407 414	pointes
+T7	geogFeat 466 471	côtes
+T9	geogFeat 671 677	pointe
+T10	geogFeat 745 753	falaises
+T11	geogFeat 1069 1072	DST
+T12	geogFeat 1076 1079	Pas
+T13	geogFeat 1119 1124	océan
+T14	geogFeat 1151 1154	DST
+T15	geogFeat 1209 1214	route
+T16	geogFeat 1267 1273	entrée
+T17	geogFeat 1277 1280	DST
+T18	geogFeat 1347 1352	route
+T19	geogFeat 1373 1376	DST
+T20	geogFeat 1540 1545	route
+T21	geogFeat 1589 1595	entrée
+T22	geogFeat 1599 1602	DST
+T23	geogFeat 1607 1611	îles
+T24	geogFeat 1508 1516	méridien
+T26	geogFeat 1661 1665	côte
+T27	geogFeat 1691 1695	zone
+T28	geogFeat 1738 1742	côte
+T29	geogFeat 1935 1938	DST
+T30	geogFeat 1976 1981	golfe
+T31	geogFeat 2024 2029	route
+T32	geogFeat 2088 2091	DST
+T33	geogFeat 2228 2233	phare
+T34	geogFeat 2266 2270	tour
+T35	geogFeat 2350 2355	tours
+T36	geogFeat 2459 2464	Phare
+T37	geogFeat 2560 2568	falaises
+T38	geogFeat 2578 2583	phare
+T39	geogFeat 2655 2660	tours
+T40	geogFeat 2719 2728	sémaphore
+T41	geogFeat 2744 2754	tour radar
+T42	geogFeat 2835 2838	île
+T43	geogFeat 2843 2848	phare
+T44	geogFeat 2908 2912	tour
+T45	geogFeat 2969 2978	bâtiments
+T46	geogFeat 2999 3006	antenne
+T47	geogFeat 3115 3124	méridiens
+T49	geogFeat 3200 3205	route
+T50	geogFeat 3232 3235	Pas
+T51	geogFeat 2427 2433	ROUTES
+T52	name 29 35	Calais
+T53	name 43 53	Atlantique
+T54	name 204 213	The Varne
+T55	name 290 299	The Varne
+T56	name 324 334	Le Colbart
+T57	name 475 481	France
+T58	name 681 690	Dungeness
+T59	name 757 765	Hastings
+T61	name 1083 1089	Calais
+T62	name 1125 1135	Atlantique
+T63	name 1159 1167	Casquets
+T64	name 1285 1293	Casquets
+T65	name 1381 1389	Casquets
+T66	name 1422 1437	Atlantique Nord
+T67	name 1612 1618	Scilly
+T68	name 1666 1669	Sud
+T69	name 1725 1735	Angleterre
+T70	name 1943 1951	Casquets
+T71	name 1985 1993	Gascogne
+T72	name 1997 2006	Gibraltar
+T73	name 2094 2102	Ouessant
+T74	name 2173 2181	Alderney
+T75	name 2183 2190	Aurigny
+T76	name 2209 2217	Casquets
+T77	geogFeat 2198 2204	groupe
+T78	geogFeat 2323 2326	AIS
+T79	name 2469 2477	Casquets
+T80	name 2517 2525	Ouessant
+T81	name 2589 2594	Stiff
+T82	name 2852 2859	Créac’h
+T83	name 3177 3187	Atlantique
+T84	name 3239 3245	Calais
+T85	geogName 22 35	Pas de Calais
+T86	geogName 43 53	Atlantique
+T87	geogName 204 213	The Varne
+T88	geogName 290 299	The Varne
+T89	geogName 324 334	Le Colbart
+T90	geogName 671 690	pointe de Dungeness
+T91	geogName 745 765	falaises de Hastings
+T92	geogName 865 876	Beachy Head
+T60	name 865 871	Beachy
+T93	geogFeat 872 876	Head
+T94	geogName 1076 1089	Pas de Calais
+T95	geogName 1069 1089	DST du Pas de Calais
+T96	geogName 1119 1135	océan Atlantique
+T97	geogName 1151 1167	DST des Casquets
+T98	geogName 1277 1293	DST des Casquets
+T99	geogName 1373 1389	DST des Casquets
+T100	geogName 1422 1437	Atlantique Nord
+T101	geogName 1607 1618	îles Scilly
+T102	geogName 1599 1618	DST des îles Scilly
+T104	geogName 1725 1735	Angleterre
+T105	geogName 1935 1951	DST des Casquets
+T106	geogName 1976 1993	golfe de Gascogne
+T107	geogName 1997 2006	Gibraltar
+T108	geogName 2088 2102	DST d’Ouessant
+T109	geogName 2173 2181	Alderney
+T110	geogName 2183 2190	Aurigny
+T111	geogName 2198 2217	groupe des Casquets
+T112	geogName 2459 2477	Phare des Casquets
+T113	geogName 2517 2525	Ouessant
+T114	geogName 2578 2594	phare 😄du 😄Stiff
+T115	geogName 2843 2859	phare de Créac’h
+T116	geogName 3232 3245	Pas de Calais
+T117	geogName 3177 3187	Atlantique
+R2	ElementOf Arg1:T16 Arg2:T98	
+R3	ElementOf Arg1:T21 Arg2:T102	
+R4	ElementOf Arg1:T33 Arg2:T111	
+R5	ElementOf Arg1:T34 Arg2:T33	
+R6	ElementOf Arg1:T78 Arg2:T34	
+R7	ElementOf Arg1:T37 Arg2:T113	
+R8	ElementOf Arg1:T114 Arg2:T113	
+R9	ElementOf Arg1:T39 Arg2:T114	
+R11	ElementOf Arg1:T44 Arg2:T115	
+R10	ElementOf Arg1:T115 Arg2:T42	
+R13	ElementOf Arg1:T46 Arg2:T44	
+T118	name 373 381	anglaise
+T119	geogName 368 381	côte anglaise
+T5	geogName 466 481	côtes de France
+T120	geogFeat 1452 1457	route
+T25	geogName 1661 1669	côte Sud
+T103	name 1743 1746	Sud
+T121	geogName 1738 1746	côte Sud
+R19	OffTheCoastOf Arg1:T119 Arg2:T6	
+R20	OffTheCoastOf Arg1:T27 Arg2:T25	
+R21	SouthOf Arg1:T48 Arg2:T39	
+R22	NorthEastOf Arg1:T41 Arg2:T39	
+T8	name 2712 2718	ancien
+T48	geogName 2712 2728	ancien sémaphore
+T122	name 1675 1685	Angleterre
+T123	geogName 1675 1685	Angleterre
+R1	ElementOf Arg1:T25 Arg2:T123	

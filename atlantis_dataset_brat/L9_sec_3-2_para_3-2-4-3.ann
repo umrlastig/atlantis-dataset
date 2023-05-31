@@ -1,0 +1,43 @@
+T1	geogFeat 12 22	Mouillages
+T2	geogFeat 27 36	MOUILLAGE
+T3	geogFeat 52 56	CÔTE
+T4	geogFeat 75 88	établissement
+T5	geogFeat 94 97	île
+T6	geogFeat 164 169	croix
+T7	geogFeat 270 275	croix
+T8	geogFeat 355 365	mouillages
+T9	geogFeat 703 708	récif
+T10	geogFeat 848 853	récif
+T11	geogFeat 1333 1338	récif
+T12	geogFeat 1424 1429	récif
+T13	geogFeat 1459 1480	point de débarquement
+T14	geogFeat 1498 1503	plage
+T15	geogFeat 1515 1520	croix
+T16	geogFeat 1552 1557	récif
+T17	geogFeat 1594 1603	MOUILLAGE
+T18	geogFeat 1619 1623	CÔTE
+T19	geogFeat 1691 1695	côte
+T20	geogFeat 1719 1722	île
+T21	geogFeat 1734 1751	zone de mouillage
+T22	geogFeat 1860 1864	ÎLES
+T23	geogFeat 1868 1875	DANGERS
+T24	geogFeat 336 345	mouillage
+T25	name 57 62	OUEST
+T26	name 98 104	Astove
+T27	name 1696 1699	Est
+T28	name 1906 1916	MADAGASCAR
+T29	geogName 52 62	CÔTE OUEST
+T30	geogName 94 104	île Astove
+T31	geogName 1691 1699	côte Est
+T32	geogName 1906 1916	MADAGASCAR
+T33	geogFeat 1838 1852	éta😍blissement
+R1	OffTheCoastOf Arg1:T2 Arg2:T29	
+T34	name 1624 1627	EST
+T35	geogName 1619 1627	CÔTE EST
+R2	OffTheCoastOf Arg1:T17 Arg2:T35	
+R3	ElementOf Arg1:T4 Arg2:T30	
+R4	ElementOf Arg1:T13 Arg2:T14	
+R5	NorthWestOf Arg1:T23 Arg2:T32	
+R6	WestOf Arg1:T23 Arg2:T32	
+R7	NorthWestOf Arg1:T22 Arg2:T32	
+R8	WestOf Arg1:T22 Arg2:T32	

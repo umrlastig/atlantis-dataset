@@ -1,0 +1,100 @@
+T1	geogFeat 10 14	Îles
+T2	geogFeat 47 51	Îles
+T3	geogFeat 84 87	île
+T4	geogFeat 144 151	plateau
+T5	geogFeat 179 184	socle
+T6	geogFeat 205 210	passe
+T7	geogFeat 265 271	roches
+T8	geogFeat 300 307	dangers
+T9	geogFeat 354 359	passe
+T10	geogFeat 497 500	île
+T11	geogFeat 558 566	chaussée
+T12	geogFeat 584 591	passage
+T13	geogFeat 827 834	écueils
+T14	geogFeat 857 864	passage
+T15	geogFeat 1000 1003	île
+T16	geogFeat 1016 1037	balise cardinale Nord
+T17	geogFeat 1059 1066	passage
+T18	geogFeat 1092 1095	île
+T19	geogFeat 1131 1148	port de plaisance
+T20	geogFeat 1154 1177	piste d’aviation légère
+T21	geogFeat 1190 1197	maisons
+T22	geogFeat 1211 1217	hameau
+T23	geogFeat 1230 1233	île
+T24	geogFeat 1242 1246	port
+T25	geogFeat 1252 1263	habitations
+T26	geogFeat 1362 1366	port
+T27	geogFeat 1385 1399	feu de guidage
+T28	geogFeat 1407 1425	bouées 😍lumineuses
+T29	geogFeat 1442 1447	anses
+T30	geogFeat 1555 1559	abri
+T31	geogFeat 1865 1869	abri
+T32	geogFeat 1822 1826	Cala
+T33	geogFeat 1905 1909	quai
+T34	geogFeat 1943 1959	piste d’aviation
+T35	geogFeat 1965 1969	Cala
+T36	geogFeat 2252 2256	Cala
+T37	geogFeat 2103 2109	roches
+T38	geogFeat 2186 2197	débarcadère
+T39	geogFeat 2299 2303	anse
+T40	geogFeat 2407 2412	plage
+T41	geogFeat 2449 2453	Cala
+T42	geogFeat 2473 2476	CAP
+T43	geogFeat 2488 2493	GOLFE
+T44	geogFeat 2510 2517	BOUCHES
+T45	geogFeat 1776 1785	mouillage
+T46	name 15 22	Cavallo
+T47	name 26 32	Ratino
+T48	name 52 59	Cavallo
+T49	name 63 69	Ratino
+T50	name 88 95	Cavallo
+T51	name 189 196	Lavezzi
+T52	name 486 493	Cavallo
+T53	name 501 507	Ratino
+T54	name 598 604	Ratino
+T55	name 608 615	Cavallo
+T56	name 1004 1010	Ratino
+T57	name 1073 1084	Piantarella
+T58	name 1096 1103	Cavallo
+T59	name 1451 1458	Cavallo
+T60	name 1830 1834	Zeri
+T61	name 1973 1978	Palma
+T62	name 2262 2269	Ghiuncu
+T63	name 2457 2462	Grecu
+T64	name 2480 2484	FENO
+T65	name 2497 2508	SANT’AMANZA
+T66	name 2521 2530	BONIFACIO
+T67	geogName 10 32	Îles Cavallo et Ratino
+T69	geogName 47 69	Îles Cavallo et Ratino
+T71	geogName 84 95	île Cavallo
+T72	geogName 179 196	socle de 😍Lavezzi
+T73	geogName 486 493	Cavallo
+T74	geogName 497 507	île Ratino
+T75	geogName 598 604	Ratino
+T76	geogName 608 615	Cavallo
+T77	geogName 1000 1010	île Ratino
+T78	geogName 1059 1084	passage de la Piantarella
+T79	geogName 1092 1103	île Cavallo
+T80	geogName 1822 1834	Cala di Zeri
+T81	geogName 1965 1978	Cala di Palma
+T82	geogName 2252 2269	Cala di u Ghiuncu
+T83	geogName 2449 2462	Cala di Grecu
+T84	geogName 2473 2484	CAP DE FENO
+T85	geogName 2488 2508	GOLFE DE SANT’AMANZA
+T86	geogName 2510 2530	BOUCHES DE BONIFACIO
+R1	WestNorthWestOf Arg1:T16 Arg2:T77	
+R2	MarkedBy Arg1:T78 Arg2:T16	
+R3	ElementOf Arg1:T19 Arg2:T79	
+R4	ElementOf Arg1:T20 Arg2:T79	
+R5	ElementOf Arg1:T21 Arg2:T79	
+R6	ElementOf Arg1:T21 Arg2:T22	
+T87	geogFeat 1353 1358	accès
+R7	MarkedBy Arg1:T87 Arg2:T27	
+R8	MarkedBy Arg1:T87 Arg2:T28	
+T88	geogName 1442 1458	anses de Cavallo
+R9	ElementOf Arg1:T33 Arg2:T31	
+R10	ElementOf Arg1:T38 Arg2:T81	
+R11	ElementOf Arg1:T7 Arg2:T6	
+R12	NorthWestOf Arg1:T74 Arg2:T73	
+R13	ElementOf Arg1:T74 Arg2:T11	
+R14	ElementOf Arg1:T30 Arg2:T88	

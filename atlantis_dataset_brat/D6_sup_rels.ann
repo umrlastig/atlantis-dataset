@@ -1,0 +1,524 @@
+T1	geogFeat 68 82	port méthanier
+T2	geogFeat 84 87	Ras
+T3	geogFeat 97 100	Ras
+T4	geogFeat 156 162	rocher
+T5	geogFeat 189 216	plates-formes de production
+T6	geogFeat 299 308	structure
+T7	geogFeat 335 339	Ra’s
+T8	geogFeat 354 360	rocher
+T9	geogFeat 423 427	côte
+T10	geogFeat 456 459	Rās
+T11	geogFeat 484 497	port de pêche
+T12	geogFeat 8224 8227	cap
+T13	geogFeat 8232 8237	phare
+T14	geogFeat 8267 8271	tour
+T15	geogFeat 8361 8365	tour
+T16	geogFeat 517 522	roche
+T17	geogFeat 589 599	embouchure
+T18	geogFeat 617 620	Rās
+T19	geogFeat 603 607	Nahr
+T20	geogFeat 630 633	cap
+T21	geogFeat 716 722	pointe
+T22	geogFeat 727 731	mont
+T23	geogFeat 801 807	pointe
+T24	geogFeat 822 827	bancs
+T25	geogFeat 839 845	Bancos
+T26	geogFeat 866 871	bancs
+T27	geogFeat 926 931	phare
+T28	geogFeat 937 972	bouée de marque spéciale, lumineuse
+T29	geogFeat 1006 1026	émissaire sous-marin
+T30	geogFeat 1031 1044	château d’eau
+T31	geogFeat 1083 1087	côte
+T32	geogFeat 1121 1124	Ras
+T33	geogFeat 1141 1146	phare
+T34	geogFeat 1178 1186	éminence
+T35	geogFeat 1206 1211	Marsá
+T36	geogFeat 1239 1244	roche
+T37	geogFeat 1250 1273	hauts-fonds découvrants
+T38	geogFeat 1287 1293	rivage
+T39	geogFeat 1313 1322	émissaire
+T40	geogFeat 1427 1432	phare
+T41	geogFeat 1439 1445	pointe
+T42	geogFeat 1459 1464	basse
+T43	geogFeat 1487 1496	haut-fond
+T44	geogFeat 1593 1598	Marsá
+T45	geogFeat 1749 1753	Ra’s
+T46	geogFeat 1806 1810	Qaṣr
+T47	geogFeat 1836 1840	côte
+T48	geogFeat 1905 1913	falaises
+T49	geogFeat 1961 1967	pointe
+T50	geogFeat 1975 1981	pointe
+T51	geogFeat 2019 2024	phare
+T52	geogFeat 2028 2032	Ra’s
+T53	geogFeat 2058 2062	fort
+T54	geogFeat 2083 2095	construction
+T55	geogFeat 2139 2151	ferme marine
+T56	geogFeat 2210 2215	passe
+T57	geogFeat 2283 2289	pointe
+T58	geogFeat 2293 2297	oued
+T59	geogFeat 2350 2354	côte
+T60	geogFeat 2381 2387	pointe
+T61	geogFeat 2472 2479	minaret
+T62	geogFeat 2483 2489	djebel
+T63	geogFeat 2537 2544	village
+T64	geogFeat 2562 2573	hauts-fonds
+T65	geogFeat 2598 2601	île
+T66	geogFeat 2620 2624	banc
+T67	geogFeat 2676 2689	port de pêche
+T68	geogFeat 2706 2710	oued
+T69	geogFeat 2738 2743	golfe
+T70	geogFeat 2767 2773	pointe
+T71	geogFeat 2778 2781	épi
+T72	geogFeat 2844 2848	Ra’s
+T73	geogFeat 2879 2883	banc
+T74	geogFeat 2931 2940	haut-fond
+T75	geogFeat 3047 3060	port de pêche
+T76	geogFeat 3162 3180	câbles sous-marins
+T77	geogFeat 3214 3224	embouchure
+T78	geogFeat 3230 3234	oued
+T79	geogFeat 3250 3256	rivage
+T80	geogFeat 3285 3291	pointe
+T81	geogFeat 3303 3309	rocher
+T82	geogFeat 3395 3406	relèvements
+T83	geogFeat 3429 3435	pointe
+T84	geogFeat 3459 3464	Récif
+T85	geogFeat 3533 3552	bouée de chargement
+T86	geogFeat 3579 3584	épave
+T87	geogFeat 3656 3661	phare
+T88	geogFeat 3666 3672	pointe
+T89	geogFeat 3702 3707	ravin
+T90	geogFeat 3740 3750	embouchure
+T91	geogFeat 3754 3758	Nahr
+T92	geogFeat 3797 3804	village
+T93	geogFeat 3841 3845	port
+T94	geogFeat 3850 3858	marabout
+T95	geogFeat 3866 3869	Ras
+T96	geogFeat 3887 3891	Isla
+T97	geogFeat 3943 3947	banc
+T98	geogFeat 4008 4030	zone d’exercice de tir
+T99	geogFeat 4060 4063	Râs
+T100	geogFeat 4094 4097	Kef
+T101	geogFeat 4133 4139	écueil
+T102	geogFeat 4162 4167	phare
+T103	geogFeat 4171 4174	cap
+T104	geogFeat 4210 4213	Ras
+T105	geogFeat 4251 4257	chaîne
+T106	geogFeat 4261 4269	collines
+T107	geogFeat 4316 4320	côte
+T108	geogFeat 4378 4386	tourelle
+T109	geogFeat 4428 4434	musoir
+T110	geogFeat 4438 4449	brise-lames
+T111	geogFeat 4471 4475	port
+T112	geogFeat 4505 4510	bouée
+T113	geogFeat 4554 4558	banc
+T114	geogFeat 4582 4587	Bordj
+T115	geogFeat 4603 4609	fortin
+T116	geogFeat 4636 4641	phare
+T117	geogFeat 4662 4669	minaret
+T118	geogFeat 4698 4702	Ra’s
+T119	geogFeat 4816 4819	Ras
+T120	geogFeat 4712 4716	Ra’s
+T121	geogFeat 4831 4834	cap
+T122	geogFeat 4740 4751	promontoire
+T123	geogFeat 4904 4910	djebel
+T124	geogFeat 4955 4959	port
+T125	geogFeat 4974 4987	château d’eau
+T126	geogFeat 5050 5054	Ra’s
+T127	geogFeat 5123 5127	port
+T128	geogFeat 5150 5160	échancrure
+T129	geogFeat 5167 5171	côte
+T130	geogFeat 5193 5197	port
+T131	geogFeat 5222 5225	épi
+T132	geogFeat 5278 5281	île
+T133	geogFeat 5345 5348	Ras
+T134	geogFeat 5378 5392	port méthanier
+T135	geogFeat 5408 5413	épave
+T136	geogFeat 5445 5451	rivage
+T137	geogFeat 5485 5489	côte
+T138	geogFeat 5516 5526	embouchure
+T139	geogFeat 5530 5534	Nahr
+T140	geogFeat 5594 5597	cap
+T141	geogFeat 5612 5621	frontière
+T142	geogFeat 5657 5662	épave
+T143	geogFeat 5713 5716	feu
+T144	geogFeat 5786 5790	banc
+T145	geogFeat 5830 5835	bouée
+T146	geogFeat 5911 5916	bouée
+T147	geogFeat 6027 6031	banc
+T148	geogFeat 6091 6095	Ra’s
+T149	geogFeat 6120 6127	village
+T150	geogFeat 6164 6170	rivage
+T151	geogFeat 6179 6184	plage
+T152	geogFeat 6255 6261	groupe
+T153	geogFeat 6411 6415	îlot
+T154	geogFeat 6430 6436	groupe
+T155	geogFeat 6440 6447	maisons
+T156	geogFeat 6489 6499	presqu’île
+T157	geogFeat 6605 6608	Ras
+T158	geogFeat 6306 6313	Jazīrat
+T159	geogFeat 6369 6376	Jazīrat
+T160	geogFeat 6570 6574	port
+T161	geogFeat 6637 6643	rivage
+T162	geogFeat 6659 6664	plage
+T163	geogFeat 6679 6686	lagunes
+T164	geogFeat 6732 6736	Isla
+T165	geogFeat 6782 6788	pointe
+T166	geogFeat 6857 6870	feu principal
+T167	geogFeat 6875 6878	feu
+T168	geogFeat 6895 6906	ducs d’Albe
+T169	geogFeat 6910 6929	poste de chargement
+T170	geogFeat 6960 6965	phare
+T171	geogFeat 7009 7013	banc
+T172	geogFeat 7074 7079	phare
+T173	geogFeat 7086 7091	jetée
+T174	geogFeat 7096 7102	pylône
+T175	geogFeat 7132 7135	feu
+T176	geogFeat 7162 7169	Scoglio
+T177	geogFeat 7211 7217	Scogli
+T178	geogFeat 7219 7227	ensemble
+T179	geogFeat 7251 7255	côte
+T180	geogFeat 7263 7268	récif
+T181	geogFeat 7308 7312	Nahr
+T182	geogFeat 7329 7334	roche
+T183	geogFeat 7399 7404	phare
+T184	geogFeat 7410 7432	feux d’obstacle aérien
+T185	geogFeat 7445 7451	pylône
+T186	geogFeat 7479 7496	zone de mouillage
+T187	geogFeat 7511 7515	port
+T188	geogFeat 7561 7567	pointe
+T189	geogFeat 7586 7612	zone de navigation côtière
+T190	geogFeat 7665 7670	phare
+T191	geogFeat 7675 7679	tour
+T192	geogFeat 7698 7705	mosquée
+T193	geogFeat 7712 7717	ville
+T194	geogFeat 7765 7776	hauts-fonds
+T195	geogFeat 7788 7792	côte
+T196	geogFeat 7800 7803	Ras
+T197	geogFeat 7850 7855	phare
+T198	geogFeat 7859 7862	Ras
+T199	geogFeat 7902 7910	terminal
+T200	geogFeat 7945 7955	embouchure
+T201	geogFeat 7959 7963	Nahr
+T202	geogFeat 7977 7990	installations
+T203	geogFeat 8005 8013	terminal
+T204	geogFeat 8065 8070	cuves
+T205	geogFeat 8089 8093	côte
+T206	geogFeat 8118 8121	Ras
+T207	geogFeat 8145 8148	Ras
+T208	geogFeat 8165 8169	banc
+T209	name 88 95	Filfila
+T210	name 101 109	Felfelah
+T211	geogName 84 95	Ras Filfila
+T212	geogName 97 109	Ras Felfelah
+T213	name 220 224	DP 4
+T214	name 232 236	DP 3
+T215	geogName 189 238	plates-formes de production, « DP 4 » et « DP 3 »
+T216	name 309 312	SPM
+T217	geogName 299 312	structure SPM
+T218	name 343 349	Ḥallāb
+T219	geogName 335 349	Ra’s al Ḥallāb
+T220	name 361 367	Bintal
+T221	geogName 354 367	rocher Bintal
+T222	name 460 466	Amchīt
+T223	name 468 473	Jbaïl
+T224	geogName 456 466	Rās Amchīt
+T225	geogName 468 473	Jbaïl
+T226	name 523 535	Saint Joseph
+T227	geogName 517 535	roche Saint Joseph
+T228	name 611 615	Kalb
+T229	name 624 628	Kalb
+T230	geogName 603 615	Nahr el Kalb
+T231	geogName 617 628	Rās el Kalb
+T233	name 732 739	Malmusi
+T234	geogName 727 739	mont Malmusi
+T235	name 808 816	Malabata
+T236	name 831 837	Phenix
+T237	name 850 855	Fenix
+T238	geogName 801 816	pointe Malabata
+T239	geogName 822 837	bancs du Phenix
+T240	geogName 839 855	Bancos del Fenix
+T241	name 1125 1136	Tamezzourth
+T242	geogName 1121 1136	Ras Tamezzourth
+T243	name 1150 1156	Țubruq
+T244	geogName 1141 1156	phare de Țubruq
+T245	name 1215 1221	‘Awdah
+T246	geogName 1206 1221	Marsá al ‘Awdah
+T247	name 1446 1454	Malabata
+T248	geogName 1439 1454	pointe Malabata
+T249	geogName 1427 1454	phare de la pointe Malabata
+T250	name 1469 1479	Almirantes
+T251	geogName 1459 1479	basse des Almirantes
+T252	name 1602 1607	Hilāl
+T253	geogName 1593 1607	Marsá al Hilāl
+T254	name 1754 1761	Tājūrā’
+T255	geogName 1749 1761	Ra’s Tājūrā’
+T256	name 1811 1816	Aḥmad
+T257	geogName 1806 1816	Qaṣr Aḥmad
+T258	name 2033 2040	Tājūrā’
+T259	geogName 2028 2040	Ra’s Tājūrā’
+T260	name 2042 2056	Trig el Gefàra
+T261	geogName 2042 2056	Trig el Gefàra
+T262	geogFeat 2183 2188	Mersa
+T263	name 2189 2202	Ali Bou Nouar
+T264	geogName 2183 2202	Mersa Ali Bou Nouar
+T265	name 2298 2305	Cheliff
+T266	geogName 2293 2305	oued Cheliff
+T267	name 2493 2499	Hadjar
+T268	geogName 2483 2499	djebel el Hadjar
+T269	name 2548 2553	Aghir
+T270	geogName 2537 2553	village de Aghir
+T271	name 2628 2631	Sud
+T272	geogName 2620 2631	banc du Sud
+T273	name 2696 2702	Skhira
+T274	geogName 2676 2702	port de pêche de la Skhira
+T275	name 2714 2720	Akarit
+T276	geogName 2706 2720	oued el Akarit
+T277	name 2747 2752	Gabès
+T278	geogName 2738 2752	golfe de Gabès
+T279	name 2849 2856	Ziyārah
+T280	geogName 2844 2856	Ra’s Ziyārah
+T281	name 2858 2871	Tartarus Ṣati
+T282	geogName 2858 2871	Tartarus Ṣati
+T283	name 3064 3070	Sayada
+T284	geogName 3047 3070	port de pêche de Sayada
+T285	name 3235 3241	Martil
+T286	geogName 3230 3241	oued Martil
+T287	name 3292 3298	Betoya
+T288	geogName 3285 3298	pointe Betoya
+T289	name 3313 3317	Lion
+T290	geogName 3303 3317	rocher du Lion
+T291	name 3436 3440	Nord
+T292	geogName 3429 3440	pointe Nord
+T293	name 3465 3472	Luciole
+T294	geogName 3459 3472	Récif Luciole
+T295	name 3673 3680	Altares
+T296	geogName 3666 3680	pointe Altares
+T297	name 3762 3767	Kébir
+T298	geogName 3754 3767	Nahr el Kébir
+T300	name 3808 3821	Cheikh Zennād
+T301	geogName 3797 3821	village de Cheikh Zennād
+T302	name 3870 3882	Sidi Mansour
+T303	geogName 3866 3882	Ras Sidi Mansour
+T304	name 3895 3902	Alborán
+T305	geogName 3887 3902	Isla de Alborán
+T306	name 4067 4073	Nâtoûr
+T307	geogName 4060 4073	Râs en Nâtoûr
+T308	name 4098 4103	Arend
+T309	geogName 4094 4103	Kef Arend
+T310	name 4143 4148	Maure
+T311	geogName 4133 4148	écueil du Maure
+T312	name 4175 4178	Bon
+T313	geogName 4171 4178	cap Bon
+T314	geogName 4162 4178	phare du cap Bon
+T315	name 4214 4222	Mustapha
+T316	geogName 4210 4222	Ras Mustapha
+T317	name 4513 4517	nº 5
+T318	name 4559 4564	Sadok
+T319	geogName 4505 4519	bouée « nº 5 »
+T320	geogName 4554 4564	banc Sadok
+T321	name 4591 4595	Kelb
+T322	geogName 4582 4595	Bordj el Kelb
+T323	name 4703 4710	Tājūrā’
+T324	geogName 4698 4710	Ra’s Tājūrā’
+T325	name 4720 4726	Ḥallāb
+T326	geogName 4712 4726	Ra’s al Ḥallāb
+T327	name 4820 4826	Falcon
+T328	name 4835 4839	Gros
+T329	geogName 4816 4826	Ras Falcon
+T330	geogName 4831 4839	cap Gros
+T331	name 4911 4917	Santon
+T332	geogName 4904 4917	djebel Santon
+T333	name 4991 5001	Aïn el Bia
+T334	geogName 4974 5001	château d’eau de Aïn el Bia
+T335	name 5058 5066	Muraysah
+T336	geogName 5050 5066	Ra’s al Muraysah
+T337	name 5068 5081	Mīnā’Bardīyah
+T338	geogName 5068 5081	Mīnā’Bardīyah
+T339	name 5201 5209	Teboulba
+T340	geogName 5193 5209	port de Teboulba
+T341	name 5282 5288	Kuriat
+T342	geogName 5278 5288	île Kuriat
+T343	name 5349 5354	Dimas
+T344	geogName 5345 5354	Ras Dimas
+T345	name 5396 5402	Skikda
+T346	geogName 5378 5402	port méthanier de Skikda
+T347	name 5465 5470	Syrie
+T348	geogName 5465 5470	Syrie
+T349	name 5474 5480	Israël
+T350	geogName 5474 5480	Israël
+T351	name 5493 5498	Liban
+T352	geogName 5485 5498	côte du Liban
+T353	name 5538 5543	Kébir
+T354	geogName 5530 5543	Nahr el Kébir
+T356	geogFeat 5566 5570	Rosh
+T357	name 5571 5578	HaNiqra
+T358	geogName 5566 5578	Rosh HaNiqra
+T359	name 5622 5633	israélienne
+T360	geogName 5612 5633	frontière israélienne
+T361	name 6032 6041	Crevettes
+T362	geogName 6027 6041	banc Crevettes
+T363	name 6096 6110	Mīnat ar Rasās
+T364	geogName 6091 6110	Ra’s Mīnat ar Rasās
+T365	name 6131 6144	Ar Rasnīdīyah
+T366	geogName 6120 6144	village de Ar Rasnīdīyah
+T367	name 6317 6323	Ramlah
+T368	geogName 6306 6323	Jazīrat ar Ramlah
+T369	name 6325 6334	Al Ballān
+T370	geogName 6325 6334	Al Ballān
+T371	name 6380 6386	Ramlah
+T372	geogName 6369 6386	Jazīrat ar Ramlah
+T373	name 6388 6396	Al Baqar
+T374	geogName 6388 6396	Al Baqar
+T375	name 6503 6511	Al Mīnā’
+T376	geogName 6489 6511	presqu’île de Al Mīnā’
+T377	name 6578 6585	Kelibia
+T378	geogName 6570 6585	port de Kelibia
+T379	name 6609 6617	Maamoura
+T380	geogName 6605 6617	Ras Maamoura
+T381	name 6708 6715	Espagne
+T382	geogName 6708 6715	Espagne
+T383	name 6740 6746	Tarifa
+T384	geogName 6732 6746	Isla de Tarifa
+T385	name 6754 6759	Maroc
+T386	geogName 6754 6759	Maroc
+T387	name 6791 6798	Alcazar
+T388	geogName 6782 6798	pointe d’Alcazar
+T389	name 7014 7019	Ouest
+T390	geogName 7009 7019	banc Ouest
+T391	name 7023 7027	Cani
+T392	geogName 7009 7027	banc Ouest de Cani
+T393	name 7136 7143	Waffeya
+T394	geogName 7132 7143	feu Waffeya
+T395	name 7170 7173	Sud
+T396	geogName 7162 7173	Scoglio Sud
+T397	name 7207 7210	Tre
+T398	geogName 7207 7217	Tre Scogli
+T399	name 7316 7323	Zahrānī
+T400	geogName 7308 7323	Nahr az Zahrānī
+T401	name 7519 7529	Tanger Med
+T402	geogName 7511 7529	port de Tanger Med
+T403	name 7570 7577	Alcazar
+T404	geogName 7561 7577	pointe d’Alcazar
+T405	name 7721 7727	Dellys
+T406	geogName 7712 7727	ville de Dellys
+T407	geogName 7698 7727	mosquée de la ville de Dellys
+T408	name 7804 7811	Matifou
+T409	geogName 7800 7811	Ras Matifou
+T410	name 7863 7870	Matifou
+T411	geogName 7859 7870	Ras Matifou
+T412	geogName 7850 7870	phare de Ras Matifou
+T413	name 7911 7915	Dora
+T414	geogName 7902 7915	terminal Dora
+T415	name 7964 7971	Beiroūt
+T416	geogName 7959 7971	Nahr Beiroūt
+T418	name 8014 8019	Coral
+T419	geogName 8005 8019	terminal Coral
+T420	name 8122 8130	Toukouch
+T421	geogName 8118 8130	Ras Toukouch
+T422	name 8149 8157	Toukouch
+T423	geogName 8145 8157	Ras Toukouch
+T424	geogFeat 8135 8141	seiche
+T425	geogName 8135 8157	seiche de Ras Toukouch
+T426	name 8366 8373	Khadija
+T427	geogName 8361 8373	tour Khadija
+R1	EastNorthEastOf Arg1:T211 Arg2:T1	
+R2	MarkedBy Arg1:T211 Arg2:T4	
+R3	EastNorthEastOf Arg1:T215 Arg2:T217	
+R4	WestSouthWestOf Arg1:T215 Arg2:T217	
+R5	EastSouthEastOf Arg1:T221 Arg2:T219	
+R6	SouthSouthEastOf Arg1:T225 Arg2:T224	
+R7	ElementOf Arg1:T11 Arg2:T225	
+R8	WestSouthWestOf Arg1:T231 Arg2:T17	
+R9	SouthSouthWestOf Arg1:T234 Arg2:T21	
+R10	NorthNorthEastOf Arg1:T239 Arg2:T238	
+R11	NorthNorthWestOf Arg1:T28 Arg2:T27	
+R12	EastNorthEastOf Arg1:T31 Arg2:T242	
+R13	ElementOf Arg1:T244 Arg2:T34	
+R14	EastSouthEastOf Arg1:T34 Arg2:T246	
+R15	SouthOf Arg1:T37 Arg2:T36	
+R16	NorthNorthWestOf Arg1:T251 Arg2:T249	
+R17	EastSouthEastOf Arg1:T257 Arg2:T255	
+T428	geogFeat 1928 1933	Mīnā’
+T429	name 1934 1940	Țubruq
+T430	geogName 1928 1940	Mīnā’ Țubruq
+R18	SouthSouthEastOf Arg1:T50 Arg2:T49	
+T431	geogName 2019 2040	phare de Ra’s Tājūrā’
+R19	SouthSouthEastOf Arg1:T261 Arg2:T431	
+R20	WestSouthWestOf Arg1:T55 Arg2:T264	
+R21	NorthNorthEastOf Arg1:T266 Arg2:T57	
+R22	ElementOf Arg1:T61 Arg2:T268	
+R23	WestNorthWestOf Arg1:T61 Arg2:T270	
+R24	SouthSouthWestOf Arg1:T64 Arg2:T65	
+R25	ElementOf Arg1:T272 Arg2:T64	
+R26	SouthSouthWestOf Arg1:T276 Arg2:T274	
+R27	NorthNorthEastOf Arg1:T71 Arg2:T70	
+R28	SouthSouthWestOf Arg1:T282 Arg2:T280	
+R29	NorthNorthWestOf Arg1:T74 Arg2:T284	
+R30	NorthNorthWestOf Arg1:T76 Arg2:T77	
+R31	ElementOf Arg1:T290 Arg2:T79	
+R32	WestSouthWestOf Arg1:T290 Arg2:T288	
+R33	NorthNorthEastOf Arg1:T294 Arg2:T292	
+R34	WestSouthWestOf Arg1:T86 Arg2:T85	
+R35	SouthSouthEastOf Arg1:T301 Arg2:T90	
+R36	ElementOf Arg1:T305 Arg2:T97	
+R37	WestNorthWestOf Arg1:T98 Arg2:T307	
+R38	EastSouthEastOf Arg1:T311 Arg2:T309	
+R39	SouthSouthEastOf Arg1:T316 Arg2:T314	
+R40	ElementOf Arg1:T106 Arg2:T105	
+R41	EastNorthEastOf Arg1:T108 Arg2:T109	
+R42	ElementOf Arg1:T109 Arg2:T110	
+R43	EastOf Arg1:T110 Arg2:T111	
+R44	WestNorthWestOf Arg1:T320 Arg2:T319	
+R45	ElementOf Arg1:T116 Arg2:T115	
+R46	ElementOf Arg1:T116 Arg2:T117	
+R47	EastSouthEastOf Arg1:T326 Arg2:T324	
+R48	EastSouthEastOf Arg1:T330 Arg2:T329	
+R49	EastNorthEastOf Arg1:T296 Arg2:T87	
+R50	SouthSouthWestOf Arg1:T94 Arg2:T93	
+R51	ElementOf Arg1:T330 Arg2:T332	
+R52	SouthSouthEastOf Arg1:T334 Arg2:T124	
+R53	SouthSouthEastOf Arg1:T338 Arg2:T336	
+R54	ElementOf Arg1:T128 Arg2:T129	
+R55	EastOf Arg1:T131 Arg2:T340	
+R56	EastNorthEastOf Arg1:T135 Arg2:T346	
+R57	SouthSouthWestOf Arg1:T358 Arg2:T138	
+R58	SouthSouthEastOf Arg1:T142 Arg2:T143	
+R59	WestNorthWestOf Arg1:T146 Arg2:T145	
+R60	SouthSouthEastOf Arg1:T366 Arg2:T364	
+T433	name 6262 6265	Sud
+T434	geogName 6255 6265	groupe Sud
+R61	WestSouthWestOf Arg1:T370 Arg2:T368	
+R62	SouthSouthEastOf Arg1:T374 Arg2:T372	
+R63	ElementOf Arg1:T155 Arg2:T154	
+R64	ElementOf Arg1:T154 Arg2:T153	
+R65	NorthOf Arg1:T153 Arg2:T376	
+T435	geogFeat 6522 6526	côte
+R66	SouthSouthWestOf Arg1:T380 Arg2:T378	
+R67	MarkedBy Arg1:T168 Arg2:T167	
+R68	WestSouthWestOf Arg1:T167 Arg2:T166	
+R69	WestNorthWestOf Arg1:T392 Arg2:T170	
+R70	ElementOf Arg1:T172 Arg2:T173	
+R71	ElementOf Arg1:T394 Arg2:T174	
+R72	ElementOf Arg1:T174 Arg2:T396	
+R73	ElementOf Arg1:T396 Arg2:T398	
+R74	WestNorthWestOf Arg1:T182 Arg2:T400	
+R75	WestSouthWestOf Arg1:T184 Arg2:T183	
+R76	MarkedBy Arg1:T185 Arg2:T184	
+R77	NorthNorthWestOf Arg1:T186 Arg2:T404	
+R78	ElementOf Arg1:T186 Arg2:T189	
+R79	WestSouthWestOf Arg1:T191 Arg2:T190	
+R80	SouthWestOf Arg1:T407 Arg2:T190	
+R81	ElementOf Arg1:T204 Arg2:T205	
+R82	WestNorthWestOf Arg1:T202 Arg2:T414	
+R83	EastOf Arg1:T202 Arg2:T200	
+R84	ElementOf Arg1:T202 Arg2:T419	
+R85	NorthNorthWestOf Arg1:T425 Arg2:T421	
+R86	NorthNorthWestOf Arg1:T13 Arg2:T12	
+R87	ElementOf Arg1:T14 Arg2:T13	
+R88	ElementOf Arg1:T17 Arg2:T230	
+R89	ElementOf Arg1:T77 Arg2:T286	
+R90	ElementOf Arg1:T90 Arg2:T298	
+R91	ElementOf Arg1:T138 Arg2:T354	
+T232	geogFeat 7294 7304	embouchure
+R92	ElementOf Arg1:T232 Arg2:T400	
+R93	ElementOf Arg1:T200 Arg2:T416	

@@ -1,0 +1,123 @@
+T1	geogFeat 32 40	chaussée
+T2	geogFeat 55 61	pointe
+T3	geogFeat 108 113	golfe
+T4	geogFeat 159 167	chaussée
+T5	geogFeat 188 194	pointe
+T6	geogFeat 216 224	chaussée
+T7	geogFeat 257 261	îles
+T8	geogFeat 266 273	rochers
+T9	geogFeat 280 286	roches
+T10	geogFeat 302 305	île
+T11	geogFeat 344 348	Pont
+T12	geogFeat 375 380	bouée
+T15	geogFeat 525 533	chaussée
+T16	geogFeat 546 551	phare
+T17	geogFeat 616 620	tour
+T18	geogFeat 658 664	sommet
+T20	geogFeat 687 695	chaussée
+T21	geogFeat 716 724	tourelle
+T22	geogFeat 846 852	ROUTES
+T23	geogFeat 876 879	île
+T24	geogFeat 904 909	phare
+T25	geogFeat 942 946	tour
+T26	geogFeat 971 977	sommet
+T27	geogFeat 993 998	Phare
+T28	geogFeat 1030 1037	maisons
+T29	geogFeat 1041 1046	bourg
+T30	geogFeat 1066 1071	Phare
+T31	geogFeat 1077 1080	île
+T32	geogFeat 1124 1130	pointe
+T33	geogFeat 1181 1186	phare
+T34	geogFeat 1230 1234	tour
+T36	geogFeat 1305 1309	tour
+T37	geogFeat 1322 1327	phare
+T38	geogFeat 1341 1350	sémaphore
+T39	geogFeat 1453 1459	ROUTES
+T40	geogFeat 1491 1496	Amers
+T41	geogFeat 1514 1520	pointe
+T43	geogFeat 1725 1730	phare
+T44	geogFeat 1855 1860	phare
+T45	geogFeat 1888 1891	île
+T46	geogFeat 1906 1912	pointe
+T47	geogFeat 1953 1956	Raz
+T48	geogFeat 2294 2300	ROUTES
+T50	geogFeat 1803 1811	chaussée
+T35	name 883 887	Sein
+T51	name 1001 1007	Ar Men
+T52	name 1084 1088	Sein
+T53	name 1134 1143	Penmarc’h
+T54	name 1189 1196	Eckmühl
+T55	name 1524 1533	Penmarc’h
+T56	name 1733 1740	Eckmühl
+T57	name 1815 1819	Sein
+T58	name 1863 1869	Ar Men
+T59	name 1895 1899	Sein
+T60	name 1916 1925	Penmarc’h
+T61	name 1960 1964	Sein
+T62	name 2062 2072	Atlantique
+T63	name 65 74	Penmarc’h
+T64	geogName 55 74	pointe de Penmarc’h
+T65	name 44 48	Sein
+T66	geogName 32 48	chaussée de Sein
+T67	name 117 125	Gascogne
+T68	name 171 175	Sein
+T69	name 198 207	Penmarc’h
+T70	name 228 232	Sein
+T71	name 309 313	Sein
+T72	name 353 358	Chats
+T73	name 537 541	Sein
+T74	name 383 399	Chaussée de Sein
+T75	name 554 560	Ar Men
+T76	name 733 743	An Namouic
+T77	geogName 108 125	golfe de Gascogne
+T78	geogName 159 175	chaussée de Sein
+T79	geogName 188 207	pointe de Penmarc’h
+T80	geogName 216 232	chaussée de Sein
+T81	geogName 302 313	île de Sein
+T82	geogName 344 358	Pont des Chats
+T83	geogName 375 401	bouée « Chaussée de Sein »
+T84	geogName 525 541	chaussée de Sein
+T85	geogName 546 560	phare d’Ar Men
+T86	geogName 876 887	île de Sein
+T87	geogName 993 1007	Phare d’Ar Men
+T88	geogName 1077 1088	île de Sein
+T89	geogName 1066 1088	Phare de l’île de Sein
+T90	geogName 1124 1143	pointe de Penmarc’h
+T91	geogName 1181 1196	phare d’Eckmühl
+T92	geogName 1514 1533	pointe de Penmarc’h
+T93	geogName 1725 1740	phare d’Eckmühl
+T94	geogName 1803 1819	chaussée de Sein
+T95	geogName 1855 1869	phare d’Ar Men
+T96	geogName 1888 1899	île de Sein
+T97	geogName 1906 1925	pointe de Penmarc’h
+T98	geogName 1953 1964	Raz de Sein
+T99	geogName 2062 2072	Atlantique
+R3	ElementOf Arg1:T17 Arg2:T85	
+R4	ElementOf Arg1:T18 Arg2:T17	
+R7	ElementOf Arg1:T24 Arg2:T86	
+R8	ElementOf Arg1:T25 Arg2:T24	
+R9	ElementOf Arg1:T26 Arg2:T25	
+R10	ElementOf Arg1:T91 Arg2:T90	
+R11	ElementOf Arg1:T34 Arg2:T91	
+R12	ElementOf Arg1:T36 Arg2:T100	
+R15	ElementOf Arg1:T40 Arg2:T92	
+R18	ElementOf Arg1:T7 Arg2:T80	
+R19	ElementOf Arg1:T8 Arg2:T80	
+R20	ElementOf Arg1:T9 Arg2:T80	
+R21	ElementOf Arg1:T81 Arg2:T80	
+R22	EastOf Arg1:T82 Arg2:T80	
+R23	WestOf Arg1:T83 Arg2:T80	
+R1	ElementOf Arg1:T21 Arg2:T20	
+T13	geogName 733 743	An Namouic
+R2	ElementOf Arg1:T28 Arg2:T29	
+R5	ElementOf Arg1:T29 Arg2:T86	
+R6	WestOf Arg1:T36 Arg2:T91	
+R16	WestOf Arg1:T102 Arg2:T91	
+T14	geogFeat 472 475	AIS
+T19	geogFeat 463 468	Racon
+T49	name 1315 1321	ancien
+T100	geogName 1315 1327	ancien phare
+T101	name 1333 1339	ancien
+T102	geogName 1333 1350	ancien 😍sémaphore
+R17	ElementOf Arg1:T19 Arg2:T83	
+R24	ElementOf Arg1:T14 Arg2:T83	

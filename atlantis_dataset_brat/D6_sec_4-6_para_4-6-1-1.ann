@@ -1,0 +1,24 @@
+T1	geogFeat 32 51	chaîne de montagnes
+T2	geogFeat 65 69	côte
+T3	geogFeat 109 112	Ras
+T4	geogFeat 147 150	Ras
+T5	geogFeat 170 177	sommets
+T6	geogFeat 214 224	mouillages
+T7	geogFeat 266 270	côte
+T8	geogFeat 409 412	Ras
+T9	geogFeat 423 427	port
+T10	geogFeat 455 471	port de commerce
+T11	geogFeat 503 516	port de pêche
+T12	name 82 92	Mostaganem
+T13	name 113 118	Ténès
+T14	name 151 158	Ouillis
+T15	name 413 418	Ténès
+T16	name 431 436	Ténès
+T17	geogName 82 92	Mostaganem
+T18	geogName 109 118	Ras Ténès
+T19	geogName 147 158	Ras Ouillis
+T20	geogName 409 418	Ras Ténès
+T21	geogName 423 436	port de Ténès
+R1	SouthWestOf Arg1:T20 Arg2:T21	
+R2	ElementOf Arg1:T10 Arg2:T21	
+R3	ElementOf Arg1:T11 Arg2:T21	

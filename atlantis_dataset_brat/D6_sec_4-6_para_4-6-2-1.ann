@@ -1,0 +1,40 @@
+T1	geogFeat 24 27	Ras
+T2	geogFeat 82 85	Ras
+T3	geogFeat 95 98	cap
+T4	geogFeat 105 108	Kef
+T5	geogFeat 123 129	pointe
+T6	geogFeat 142 148	roches
+T7	geogFeat 176 180	côte
+T8	geogFeat 191 196	Plage
+T10	geogFeat 221 234	port de pêche
+T11	geogFeat 308 311	Kef
+T12	geogFeat 331 338	village
+T13	geogFeat 361 365	Port
+T14	name 28 35	Ouillis
+T15	geogFeat 47 51	Mina
+T16	name 52 58	Saghir
+T17	name 86 93	Ouillis
+T18	name 99 102	Ivi
+T19	name 109 114	Oumer
+T20	name 184 190	Hajadj
+T21	name 198 211	Bosquet-Plage
+T22	name 238 250	Sidi Lakhdar
+T23	name 315 319	Aoua
+T24	geogFeat 342 346	Mina
+T25	name 347 353	Saghir
+T26	name 355 360	Petit
+T27	geogName 24 35	Ras Ouillis
+T28	geogName 47 58	Mina Saghir
+T29	geogName 82 93	Ras Ouillis
+T30	geogName 95 102	cap Ivi
+T31	geogName 105 114	Kef Oumer
+T32	geogName 184 196	Hajadj Plage
+T33	geogName 198 211	Bosquet-Plage
+T34	geogName 221 250	port de pêche de Sidi Lakhdar
+T35	geogName 308 319	Kef el Aoua
+T36	geogName 342 353	Mina Saghir
+T37	geogName 355 365	Petit Port
+T38	geogName 331 353	village de Mina Saghir
+T39	geogName 176 196	côte de Hajadj Plage
+R1	EastNorthEastOf Arg1:T31 Arg2:T29	
+R2	EastOf Arg1:T34 Arg2:T35	

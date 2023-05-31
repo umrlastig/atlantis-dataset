@@ -1,0 +1,357 @@
+T1	geogFeat 53 67	port municipal
+T2	name 71 86	Camaret-sur-Mer
+T3	geogName 53 86	port municipal de Camaret-sur-Mer
+T4	geogFeat 113 119	Goulet
+T5	name 123 128	Brest
+T6	geogName 113 128	Goulet de Brest
+T7	geogFeat 198 202	îlot
+T8	geogFeat 219 223	môle
+T9	geogFeat 244 248	banc
+T10	geogFeat 268 273	Knoll
+T11	geogFeat 375 379	Bank
+T12	geogFeat 401 406	phare
+T13	geogFeat 434 447	château d’eau
+T14	geogFeat 488 509	feu d’obstacle aérien
+T15	geogFeat 538 557	roches découvrantes
+T16	geogFeat 626 631	roche
+T17	geogFeat 660 682	tourelle cardinale Sud
+T18	geogFeat 736 740	port
+T19	geogFeat 759 764	Basse
+T20	geogFeat 801 806	Basse
+T21	geogFeat 852 859	secteur
+T22	geogFeat 883 886	feu
+T23	geogFeat 892 895	Île
+T24	geogFeat 908 919	brise-lames
+T25	geogFeat 941 945	Rock
+T26	geogFeat 957 967	Breakwater
+T27	geogFeat 987 990	île
+T28	geogFeat 1037 1043	pointe
+T29	geogFeat 1127 1133	pointe
+T30	geogFeat 1145 1149	tour
+T31	geogFeat 1153 1160	clocher
+T32	geogFeat 1259 1264	roche
+T33	geogFeat 1278 1282	Bank
+T34	geogFeat 1324 1328	Bank
+T35	geogFeat 1421 1425	Bank
+T36	geogFeat 1520 1529	mouillage
+T37	geogFeat 1708 1713	Roc’h
+T38	geogFeat 1749 1755	rocher
+T39	geogFeat 1764 1769	zones
+T40	geogFeat 1811 1815	baie
+T41	geogFeat 1883 1886	Île
+T42	geogFeat 1902 1908	entrée
+T43	geogFeat 1937 1942	phare
+T44	geogFeat 2015 2021	Chenal
+T45	geogFeat 2035 2043	tourelle
+T46	geogFeat 2114 2118	Anse
+T47	geogFeat 2164 2170	pointe
+T48	geogFeat 2214 2229	port d’échouage
+T49	geogFeat 2271 2279	chaussée
+T50	geogFeat 2367 2398	bouée cardinale Ouest lumineuse
+T51	geogFeat 2452 2455	Île
+T52	geogFeat 2467 2472	Basse
+T53	geogFeat 2505 2536	bouée cardinale Ouest lumineuse
+T54	geogFeat 2606 2613	balises
+T55	geogFeat 2642 2647	Tower
+T56	geogFeat 2722 2727	Point
+T57	geogFeat 2738 2743	Tower
+T58	geogFeat 2811 2817	pointe
+T59	geogFeat 2850 2853	Île
+T60	geogFeat 2861 2866	route
+T61	geogFeat 2887 2892	roche
+T62	geogFeat 2926 2932	entrée
+T63	geogFeat 2947 2952	amers
+T64	geogFeat 2972 2977	phare
+T65	geogFeat 3020 3024	tour
+T66	geogFeat 3104 3109	phare
+T67	geogFeat 3117 3120	Île
+T68	geogFeat 3130 3136	balise
+T69	geogFeat 3216 3224	panneaux
+T70	geogFeat 3244 3249	phare
+T71	geogFeat 3295 3302	clocher
+T72	geogFeat 3344 3353	éoliennes
+T73	geogFeat 3395 3402	clocher
+T74	geogFeat 3421 3426	phare
+T75	geogFeat 3612 3615	île
+T76	geogFeat 3620 3625	bourg
+T77	geogFeat 3653 3659	église
+T78	geogFeat 3697 3710	château d’eau
+T79	geogFeat 3767 3773	pylône
+T80	geogFeat 3880 3887	PLATEAU
+T81	geogFeat 3892 3898	ROCHES
+T82	geogFeat 3826 3848	feux d’obstacle aérien
+T83	geogFeat 3869 3875	église
+T84	geogFeat 3935 3938	île
+T85	geogFeat 4000 4006	pointe
+T86	geogFeat 4023 4028	phare
+T87	geogFeat 4073 4077	tour
+T88	geogFeat 4107 4111	face
+T89	geogFeat 4123 4129	sommet
+T90	geogFeat 4162 4167	plage
+T91	geogFeat 4201 4207	câbles
+T92	geogFeat 4235 4240	plage
+T93	geogFeat 4299 4305	pointe
+T94	geogFeat 4356 4362	pointe
+T95	geogFeat 4585 4591	entrée
+T96	geogFeat 4407 4431	zone de dépôt temporaire
+T97	geogFeat 4633 4645	avant-goulet
+T98	geogFeat 4676 4684	chaussée
+T99	geogFeat 4688 4694	roches
+T100	geogFeat 4735 4741	pointe
+T101	geogFeat 4764 4782	câbles sous-marins
+T102	geogFeat 4902 4907	Point
+T103	geogFeat 5043 5047	port
+T104	geogFeat 5052 5057	basse
+T105	geogFeat 5155 5163	tourelle
+T106	geogFeat 5205 5211	pointe
+T107	geogFeat 5231 5234	cap
+T108	geogFeat 5362 5368	entrée
+T109	geogFeat 5377 5383	chenal
+T110	geogFeat 5422 5428	Pierre
+T111	geogFeat 5475 5479	bloc
+T112	geogFeat 5546 5552	pointe
+T113	geogFeat 5575 5578	Île
+T114	geogFeat 5612 5617	Basse
+T115	geogFeat 5631 5636	bouée
+T116	geogFeat 5718 5731	zone réservée
+T117	geogFeat 5775 5779	baie
+T118	geogFeat 5816 5822	pointe
+T119	geogFeat 5842 5848	pointe
+T120	geogFeat 5897 5906	estuaires
+T121	geogFeat 5914 5919	route
+T122	geogFeat 5952 5959	dangers
+T123	geogFeat 6057 6063	roches
+T124	geogFeat 6102 6113	promontoire
+T125	geogFeat 558 563	Roc’h
+T126	name 203 209	Kéfenn
+T127	geogName 198 209	îlot Kéfenn
+T128	name 249 257	Melville
+T129	geogName 244 257	banc Melville
+T130	name 259 267	Melville
+T131	geogName 259 273	Melville Knoll
+T132	name 369 374	Jones
+T133	geogName 369 379	Jones Bank
+T134	name 410 421	Petit Minou
+T135	geogName 401 421	phare du Petit Minou
+T136	name 564 568	Agou
+T137	geogName 558 568	Roc’h Agou
+T138	name 632 644	Men ar Froud
+T139	geogName 626 644	roche Men ar Froud
+T140	geogName 538 568	roches découvrantes Roc’h Agou
+T141	name 744 754	Douarnenez
+T142	geogName 736 754	port de Douarnenez
+T143	name 765 769	Veur
+T144	geogName 759 769	Basse Veur
+T145	name 807 812	Neuve
+T146	geogName 801 812	Basse Neuve
+T147	name 896 903	Tristan
+T148	geogName 892 903	Île Tristan
+T149	name 931 940	Hermitage
+T150	geogName 931 945	Hermitage Rock
+T151	name 947 956	Hermitage
+T152	geogName 947 967	Hermitage Breakwater
+T153	name 994 1003	Elizabeth
+T154	geogName 987 1010	île de Elizabeth Castle
+T155	geogFeat 1004 1010	Castle
+T156	geogName 994 1010	Elizabeth Castle
+T157	name 1047 1053	Primel
+T158	geogName 1037 1053	pointe de Primel
+T159	name 1164 1189	Saint-Germain-le-Gaillard
+T160	name 1266 1277	Casquet SSE
+T161	geogName 1266 1282	Casquet SSE Bank
+T162	name 1313 1323	Casquet SW
+T163	geogName 1313 1328	Casquet SW Bank
+T164	name 1409 1420	Casquet SSW
+T165	geogName 1409 1425	Casquet SSW Bank
+T166	name 1533 1540	Taureau
+T167	geogName 1520 1540	mouillage du Taureau
+T168	name 1714 1722	Skeiviec
+T169	geogName 1708 1722	Roc’h Skeiviec
+T170	name 1822 1830	Fresnaye
+T171	geogName 1811 1830	baie de la Fresnaye
+T172	name 1887 1893	Vierge
+T173	geogName 1883 1893	Île Vierge
+T174	name 1947 1962	Héaux-de-Bréhat
+T175	geogName 1937 1962	phare des Héaux-de-Bréhat
+T176	name 2009 2014	Grand
+T177	geogName 2009 2021	Grand Chenal
+T178	name 2046 2062	Vieille-du-Tréou
+T179	geogName 2035 2064	tourelle « Vieille-du-Tréou »
+T180	name 2122 2128	Primel
+T181	geogName 2114 2128	Anse de Primel
+T182	name 2283 2287	Sein
+T183	geogName 2271 2287	chaussée de Sein
+T184	name 2456 2462	Grande
+T185	name 2473 2484	Bar ar Gall
+T186	geogName 2467 2484	Basse Bar ar Gall
+T187	geogName 2452 2462	Île Grande
+T188	name 2634 2641	Seymour
+T189	geogName 2634 2647	Seymour Tower
+T190	name 2712 2721	La Rocque
+T191	geogName 2712 2727	La Rocque Point
+T192	name 2733 2737	Icho
+T193	geogName 2733 2743	Icho Tower
+T194	geogName 1153 1189	clocher de Saint-Germain-le-Gaillard
+T195	geogName 883 903	feu de l’Île Tristan
+T196	name 2840 2849	Maîtresse
+T197	geogName 2840 2853	Maîtresse Île
+T198	name 2936 2941	Jaudy
+T199	geogName 2936 2941	Jaudy
+T200	name 2984 2989	Corne
+T201	geogName 2972 2989	phare de la Corne
+T202	name 3123 3125	Er
+T203	geogName 3117 3125	Île d’Er
+T204	name 3140 3152	Men-Noblance
+T205	geogName 3130 3152	balise de Men-Noblance
+T206	name 3366 3375	Plouarzel
+T207	geogName 3366 3375	Plouarzel
+T208	name 3406 3416	Ploumoguer
+T209	geogName 3395 3416	clocher de Ploumoguer
+T210	name 3430 3440	La Vieille
+T211	geogName 3421 3440	phare de La Vieille
+T212	name 3629 3639	Saint Anne
+T213	geogName 3620 3639	bourg de Saint Anne
+T214	name 3899 3906	DOUVRES
+T215	geogName 3892 3906	ROCHES DOUVRES
+T216	geogName 3880 3906	PLATEAU DES ROCHES DOUVRES
+T217	name 3942 3948	Bréhat
+T218	geogName 3935 3948	île de Bréhat
+T219	name 4013 4018	Varde
+T220	geogName 4000 4018	pointe de la Varde
+T221	name 4032 4042	Rochebonne
+T222	geogName 4023 4042	phare de Rochebonne
+T223	name 4171 4178	Minihic
+T224	geogName 4162 4178	plage du Minihic
+T225	name 4186 4192	Paramé
+T226	geogName 4186 4192	Paramé
+T227	name 4244 4250	Verger
+T228	geogName 4235 4250	plage du Verger
+T229	name 4312 4320	Moulière
+T230	geogName 4299 4320	pointe de la Moulière
+T231	name 4366 4369	Nid
+T232	geogName 4356 4369	pointe du Nid
+T233	name 4595 4604	Granville
+T234	geogName 4595 4604	Granville
+T235	name 4745 4755	Toulinguet
+T236	geogName 4735 4755	pointe du Toulinguet
+T237	name 4894 4901	Grosnez
+T238	geogName 4894 4907	Grosnez Point
+T239	name 5061 5067	Founet
+T240	geogName 5052 5067	basse du Founet
+T241	name 5166 5175	Le Pignon
+T242	geogName 5155 5177	tourelle « Le Pignon »
+T243	name 5218 5224	Jersey
+T244	name 5212 5214	NE
+T245	geogName 5205 5214	pointe NE
+T246	name 5238 5246	Carteret
+T247	geogName 5231 5246	cap de Carteret
+T248	name 5429 5435	Pendue
+T249	geogName 5422 5435	Pierre Pendue
+T250	geogName 5218 5224	Jersey
+T251	name 5579 5582	Dhu
+T252	geogName 5575 5582	Île Dhu
+T253	name 5621 5626	Marié
+T254	geogName 5612 5626	Basse le Marié
+T255	name 5639 5644	Int E
+T256	geogName 5631 5646	bouée « Int E »
+T257	name 5783 5790	Daoulas
+T258	geogName 5775 5790	baie de Daoulas
+T259	name 5826 5835	Pen a Lan
+T260	geogName 5816 5835	pointe de Pen a Lan
+T261	name 5852 5857	Bindy
+T262	geogName 5842 5857	pointe du Bindy
+T263	geogName 5997 6011	Platte Fougère
+T264	name 5997 6011	Platte Fougère
+T265	name 6015 6026	Les Lieuses
+T266	geogName 6015 6026	Les Lieuses
+T267	name 1022 1030	Trépieds
+T268	geogName 1022 1030	Trépieds
+T269	name 6117 6128	La Corbière
+T270	geogName 6102 6128	promontoire de La Corbière
+R1	SouthSouthWestOf Arg1:T3 Arg2:T6	
+R2	SouthSouthWestOf Arg1:T129 Arg2:T133	
+R3	EastNorthEastOf Arg1:T13 Arg2:T135	
+R4	ElementOf Arg1:T14 Arg2:T13	
+T271	name 589 598	La Jument
+T272	geogName 589 598	La Jument
+R5	EastNorthEastOf Arg1:T140 Arg2:T272	
+R6	ElementOf Arg1:T17 Arg2:T139	
+R7	ElementOf Arg1:T146 Arg2:T21	
+R8	ElementOf Arg1:T144 Arg2:T21	
+R9	NorthNorthWestOf Arg1:T144 Arg2:T142	
+R10	NorthNorthWestOf Arg1:T146 Arg2:T142	
+R11	ElementOf Arg1:T30 Arg2:T194	
+R12	EastNorthEastOf Arg1:T30 Arg2:T29	
+R13	WestSouthWestOf Arg1:T161 Arg2:T32	
+R14	WestSouthWestOf Arg1:T163 Arg2:T32	
+R15	WestSouthWestOf Arg1:T165 Arg2:T32	
+R16	WestOf Arg1:T167 Arg2:T169	
+R17	WestNorthWestOf Arg1:T167 Arg2:T169	
+R18	ElementOf Arg1:T39 Arg2:T171	
+R19	EastNorthEastOf Arg1:T39 Arg2:T173	
+R20	NorthEastOf Arg1:T42 Arg2:T175	
+R21	SouthSouthWestOf Arg1:T181 Arg2:T47	
+R22	ElementOf Arg1:T48 Arg2:T181	
+R23	NorthNorthWestOf Arg1:T186 Arg2:T187	
+R24	MarkedBy Arg1:T186 Arg2:T53	
+R25	ElementOf Arg1:T189 Arg2:T54	
+R26	ElementOf Arg1:T193 Arg2:T54	
+R27	EastSouthEastOf Arg1:T189 Arg2:T191	
+R28	SouthWestOf Arg1:T193 Arg2:T58	
+R29	NorthNorthWestOf Arg1:T60 Arg2:T197	
+R30	ElementOf Arg1:T201 Arg2:T63	
+R31	ElementOf Arg1:T65 Arg2:T201	
+R32	ElementOf Arg1:T205 Arg2:T203	
+R33	NorthNorthWestOf Arg1:T205 Arg2:T66	
+R34	ElementOf Arg1:T205 Arg2:T63	
+R35	ElementOf Arg1:T69 Arg2:T205	
+R36	EastNorthEastOf Arg1:T71 Arg2:T70	
+R37	EastNorthEastOf Arg1:T72 Arg2:T70	
+R38	ElementOf Arg1:T72 Arg2:T207	
+R39	EastSouthEastOf Arg1:T209 Arg2:T70	
+R40	ElementOf Arg1:T213 Arg2:T75	
+R41	ElementOf Arg1:T77 Arg2:T213	
+R42	WestSouthWestOf Arg1:T78 Arg2:T77	
+R43	ElementOf Arg1:T82 Arg2:T79	
+R44	SouthEastOf Arg1:T79 Arg2:T83	
+R45	ElementOf Arg1:T79 Arg2:T213	
+R46	ElementOf Arg1:T78 Arg2:T213	
+R47	NorthNorthEastOf Arg1:T216 Arg2:T218	
+R48	SouthSouthEastOf Arg1:T222 Arg2:T220	
+R49	ElementOf Arg1:T87 Arg2:T222	
+R50	ElementOf Arg1:T278 Arg2:T87	
+R51	ElementOf Arg1:T89 Arg2:T87	
+R52	SouthSouthWestOf Arg1:T96 Arg2:T95	
+R53	ElementOf Arg1:T99 Arg2:T98	
+R54	SouthOf Arg1:T98 Arg2:T97	
+R55	WestSouthWestOf Arg1:T98 Arg2:T236	
+T275	name 4837 4843	Lancon
+T276	geogName 4828 4843	Grève au Lancon
+R56	EastSouthEastOf Arg1:T240 Arg2:T242	
+R57	ElementOf Arg1:T245 Arg2:T250	
+R58	ElementOf Arg1:T111 Arg2:T112	
+R59	EastSouthEastOf Arg1:T112 Arg2:T252	
+R60	EastNorthEastOf Arg1:T256 Arg2:T254	
+R61	EastOf Arg1:T121 Arg2:T122	
+R62	WestNorthWestOf Arg1:T122 Arg2:T263	
+R63	SouthOf Arg1:T122 Arg2:T263	
+R64	SouthSouthWestOf Arg1:T123 Arg2:T270	
+R65	NorthEastOf Arg1:T139 Arg2:T140	
+R66	SouthSouthEastOf Arg1:T24 Arg2:T154	
+R67	EastOf Arg1:T39 Arg2:T171	
+R68	WestOf Arg1:T53 Arg2:T186	
+R69	ElementOf Arg1:T62 Arg2:T199	
+T277	name 4112 4117	Ouest
+T278	geogName 4107 4117	face Ouest
+R70	NorthNorthWestOf Arg1:T91 Arg2:T228	
+R71	NorthOf Arg1:T91 Arg2:T228	
+R72	ElementOf Arg1:T95 Arg2:T234	
+T273	geogFeat 4828 4833	Grève
+R73	EastSouthEastOf Arg1:T276 Arg2:T238	
+R74	WestNorthWestOf Arg1:T101 Arg2:T276	
+T274	name 5247 5258	Les Écrehou
+T279	geogName 5247 5258	Les Écrehou
+R75	ElementOf Arg1:T108 Arg2:T109	
+R76	MarkedBy Arg1:T116 Arg2:T256	
+R77	EastSouthEastOf Arg1:T262 Arg2:T260	
+R78	NorthOf Arg1:T120 Arg2:T258	

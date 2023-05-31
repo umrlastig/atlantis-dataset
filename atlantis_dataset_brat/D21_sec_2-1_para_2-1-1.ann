@@ -1,0 +1,87 @@
+T1	geogFeat 37 46	frontière
+T2	geogFeat 81 84	cap
+T3	geogFeat 123 128	phare
+T4	geogFeat 138 141	cap
+T5	geogFeat 182 186	côte
+T6	geogFeat 276 284	littoral
+T7	geogFeat 322 328	massif
+T8	geogFeat 356 365	montagnes
+T9	geogFeat 410 413	pic
+T10	geogFeat 447 451	côte
+T11	geogFeat 485 492	falaise
+T12	geogFeat 580 586	étangs
+T13	geogFeat 641 647	canaux
+T14	geogFeat 660 665	graus
+T15	geogFeat 684 687	cap
+T16	geogFeat 700 704	côte
+T17	geogFeat 770 774	mont
+T18	geogFeat 788 796	montagne
+T20	geogFeat 927 931	côte
+T21	geogFeat 954 957	cap
+T22	geogFeat 973 976	cap
+T23	geogFeat 1020 1026	rivage
+T24	geogFeat 1044 1047	cap
+T25	geogFeat 1059 1062	cap
+T26	geogFeat 1096 1099	cap
+T28	geogFeat 1164 1168	côte
+T29	geogFeat 1186 1189	cap
+T30	geogFeat 1201 1204	cap
+T31	geogFeat 1231 1237	rivage
+T32	geogFeat 1250 1253	cap
+T33	geogFeat 1298 1302	côte
+T34	geogFeat 1348 1351	cap
+T36	geogFeat 1437 1445	littoral
+T38	geogFeat 1483 1488	golfe
+T39	geogFeat 1529 1534	ligne
+T40	geogFeat 1547 1550	cap
+T41	geogFeat 1564 1567	cap
+T42	geogFeat 1607 1612	phare
+T43	name 47 56	espagnole
+T44	name 85 92	Cerbère
+T45	name 144 148	Agde
+T46	name 256 271	Argelès-sur-Mer
+T47	name 335 354	Pyrénées orientales
+T48	name 417 424	Canigou
+T49	name 496 503	Leucate
+T50	name 688 695	Leucate
+T51	name 779 783	Agde
+T52	name 803 808	Clape
+T53	name 847 861	Narbonne-Plage
+T55	name 959 963	Béar
+T56	name 980 984	Agde
+T57	name 1063 1070	Leucate
+T58	name 1103 1107	Agde
+T59	name 1190 1194	Béar
+T60	name 1205 1212	Leucate
+T61	name 1254 1261	Leucate
+T62	name 1354 1358	Agde
+T63	name 1492 1496	Lion
+T64	name 1551 1558	Cerbère
+T65	name 1568 1576	Couronne
+T66	geogName 37 56	frontière espagnole
+T67	geogName 81 92	cap Cerbère
+T68	geogName 138 148	cap d’Agde
+T69	geogName 256 271	Argelès-sur-Mer
+T70	geogName 322 354	massif des 😄😍Pyrénées orientales
+T71	geogName 410 424	pic du Canigou
+T72	geogName 485 503	falaise de Leucate
+T73	geogName 684 695	cap Leucate
+T74	geogName 770 783	mont 😄😍d’Agde
+T75	geogName 788 808	montagne de la Clape
+T76	geogName 847 861	Narbonne-Plage
+T77	geogName 954 963	cap 😄Béar
+T78	geogName 973 984	cap 😄d’Agde
+T79	geogName 1059 1070	cap Leucate
+T80	geogName 1186 1194	cap Béar
+T81	geogName 1201 1212	cap Leucate
+T82	geogName 1250 1261	cap Leucate
+T83	geogName 1348 1358	cap d’Agde
+T84	geogName 1483 1496	golfe du Lion
+T85	geogName 1547 1558	cap Cerbère
+T86	geogName 1564 1576	cap Couronne
+T87	name 1048 1052	Béar
+T88	geogName 1044 1052	cap Béar
+T89	geogName 1096 1107	cap 😍d’Agde
+R4	ElementOf Arg1:T85 Arg2:T39	
+R5	ElementOf Arg1:T86 Arg2:T39	
+R1	SouthOf Arg1:T66 Arg2:T67	

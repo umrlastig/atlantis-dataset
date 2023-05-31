@@ -1,0 +1,75 @@
+T1	geogFeat 31 35	port
+T2	geogFeat 68 73	rives
+T3	geogFeat 131 136	ligne
+T4	geogFeat 151 158	musoirs
+T5	geogFeat 165 170	digue
+T6	geogFeat 184 189	digue
+T7	geogFeat 212 217	ponts
+T8	geogFeat 330 334	pont
+T9	geogFeat 375 379	pont
+T10	geogFeat 401 405	port
+T11	geogFeat 419 424	zones
+T12	geogFeat 450 454	rive
+T13	geogFeat 487 491	zone
+T14	geogFeat 531 542	terre-plein
+T15	geogFeat 608 612	zone
+T16	geogFeat 654 665	terre-plein
+T17	geogFeat 707 711	banc
+T18	geogFeat 740 744	rive
+T19	geogFeat 777 781	zone
+T20	geogFeat 851 855	zone
+T21	geogFeat 887 891	abri
+T22	geogFeat 958 962	zone
+T23	geogFeat 977 988	base navale
+T24	geogFeat 1083 1087	zone
+T25	geogFeat 1126 1131	ville
+T26	name 39 46	Bayonne
+T27	name 79 84	Adour
+T28	name 218 230	Saint-Esprit
+T29	name 238 243	Adour
+T30	name 248 253	Mayou
+T31	name 263 267	Nive
+T32	name 335 347	Henri Grenet
+T33	name 380 392	Saint-Esprit
+T34	name 495 508	Boucau-Tarnos
+T35	name 546 564	Banc Saint-Bernard
+T36	name 616 629	Saint-Bernard
+T37	name 785 796	Blancpignon
+T38	name 798 810	Blanc Pignon
+T39	name 859 872	Saint-Bernard
+T40	name 994 999	Adour
+T41	name 1092 1106	Allées Marines
+T42	geogName 31 46	port de Bayonne
+T43	geogName 79 84	Adour
+T45	geogName 212 268	ponts Saint-Esprit (sur l’Adour) et Mayou (sur 😍la Nive)
+T46	geogName 330 347	pont Henri Grenet
+T47	geogName 375 392	pont Saint-Esprit
+T48	geogName 487 508	zone de Boucau-Tarnos
+T49	geogName 531 564	terre-plein du Banc Saint-Bernard
+T50	geogName 608 629	zone de Saint-Bernard
+T51	geogName 777 796	zone de Blancpignon
+T52	geogName 798 810	Blanc Pignon
+T53	geogName 851 872	zone de Saint-Bernard
+T54	geogName 968 999	ancienne base navale de l’Adour
+T55	geogName 1083 1106	zone des Allées Marines
+T56	name 171 174	Sud
+T57	geogName 165 174	digue Sud
+T58	name 190 194	Nord
+T59	geogName 184 194	digue Nord
+R1	ElementOf Arg1:T4 Arg2:T57	
+R2	ElementOf Arg1:T4 Arg2:T3	
+R4	ElementOf Arg1:T11 Arg2:T10	
+R5	ElementOf Arg1:T16 Arg2:T50	
+R6	ElementOf Arg1:T48 Arg2:T11	
+R7	ElementOf Arg1:T50 Arg2:T11	
+R8	ElementOf Arg1:T51 Arg2:T11	
+T62	geogName 958 999	zone de l’ancienne base navale de l’Adour
+R9	ElementOf Arg1:T62 Arg2:T11	
+R10	ElementOf Arg1:T55 Arg2:T11	
+T63	name 455 461	droite
+T64	geogName 450 461	rive droite
+T65	name 745 751	gauche
+T66	geogName 740 751	rive gauche
+T67	name 968 976	ancienne
+T68	geogName 968 988	ancienne base navale
+R3	ElementOf Arg1:T4 Arg2:T59	

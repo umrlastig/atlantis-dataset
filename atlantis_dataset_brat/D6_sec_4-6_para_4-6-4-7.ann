@@ -1,0 +1,47 @@
+T1	geogFeat 94 98	Rade
+T2	geogFeat 162 166	port
+T3	geogFeat 225 231	rivage
+T4	geogFeat 304 308	port
+T5	geogFeat 582 587	Jetée
+T6	geogFeat 648 661	Poste roulier
+T7	geogFeat 671 675	môle
+T8	geogFeat 677 681	Quai
+T9	geogFeat 696 700	môle
+T10	geogFeat 734 747	Poste roulier
+T11	geogFeat 757 761	Quai
+T12	geogFeat 776 789	Port de pêche
+T13	geogFeat 799 815	bassin portuaire
+T14	geogFeat 831 862	tours de chargement de céréales
+T15	geogFeat 889 895	postes
+T16	geogFeat 899 903	Môle
+T17	geogFeat 1001 1009	Aéroport
+T18	geogFeat 1051 1056	Ville
+T19	geogFeat 1076 1083	Hôpital
+T20	geogFeat 1119 1123	port
+T21	geogFeat 1245 1254	FRONTIÈRE
+T22	name 34 39	Ténès
+T23	name 588 593	Ouest
+T24	name 682 685	Sud
+T25	name 904 914	Commercial
+T26	name 1026 1031	Alger
+T27	name 1127 1132	Ténès
+T28	name 1258 1263	MAROC
+T29	name 1266 1271	ALGER
+T30	geogName 34 39	Ténès
+T31	geogName 582 593	Jetée Ouest
+T32	geogName 677 685	Quai Sud
+T33	geogName 899 914	Môle Commercial
+T34	geogName 1026 1031	Alger
+T35	geogName 1119 1132	port de Ténès
+T36	geogName 1245 1263	FRONTIÈRE DU MAROC
+T37	geogName 1266 1271	ALGER
+T38	geogFeat 311 335	Installations portuaires
+T39	geogFeat 565 580	Infrastructures
+T40	name 688 695	nouveau
+T41	geogName 688 700	nouveau môle
+T42	name 763 767	Long
+T43	geogName 757 767	Quai 😍Long
+R1	NorthWestOf Arg1:T6 Arg2:T7	
+R2	NorthEastOf Arg1:T12 Arg2:T13	
+R3	ElementOf Arg1:T15 Arg2:T33	
+R4	ElementOf Arg1:T17 Arg2:T34	

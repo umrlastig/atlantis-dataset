@@ -1,0 +1,128 @@
+T1	geogFeat 6 12	pointe
+T2	geogFeat 48 53	îlots
+T3	geogFeat 61 68	écueils
+T4	geogFeat 96 100	rade
+T5	geogFeat 134 143	quartiers
+T6	geogFeat 168 174	pointe
+T7	geogFeat 213 217	îles
+T8	geogFeat 232 238	Canyon
+T9	geogFeat 256 261	zones
+T10	geogFeat 294 302	tourelle
+T11	geogFeat 321 327	passes
+T12	geogFeat 368 379	brise-lames
+T13	geogFeat 424 430	Bassin
+T14	geogFeat 456 462	Bassin
+T15	geogFeat 506 511	digue
+T16	geogFeat 515 520	canal
+T17	geogFeat 603 607	port
+T18	geogFeat 622 626	port
+T19	geogFeat 667 671	côte
+T20	geogFeat 723 728	anses
+T21	geogFeat 746 750	caps
+T22	geogFeat 765 769	port
+T23	geogFeat 795 799	port
+T25	geogFeat 837 841	côte
+T26	geogFeat 868 873	Passe
+T27	geogFeat 936 941	PASSE
+T28	geogFeat 1005 1010	digue
+T29	geogFeat 1040 1043	feu
+T30	geogFeat 1077 1083	pylône
+T31	geogFeat 1099 1103	haut
+T32	geogFeat 1116 1122	pointe
+T33	geogFeat 1151 1156	phare
+T34	geogFeat 1187 1191	tour
+T35	geogFeat 1209 1217	lanterne
+T36	geogFeat 1228 1233	PASSE
+T37	geogFeat 1290 1308	Terminal pétrolier
+T38	geogFeat 1310 1315	poste
+T39	geogFeat 1371 1376	jetée
+T40	geogFeat 1571 1578	coffres
+T41	geogFeat 1611 1616	phare
+T42	geogFeat 1620 1624	môle
+T43	geogFeat 1645 1650	épave
+T44	geogFeat 1684 1689	PASSE
+T45	geogFeat 1753 1759	jetées
+T46	geogFeat 1794 1797	feu
+T47	geogFeat 1842 1863	bouée cardinale Ouest
+T48	geogFeat 1906 1912	pointe
+T49	geogFeat 1937 1957	bouée cardinale Nord
+T50	geogFeat 2002 2024	zone de fonds moindres
+T51	geogFeat 2036 2040	port
+T52	geogFeat 2073 2092	bassin de plaisance
+T53	geogFeat 2064 2069	accès
+T54	geogFeat 2155 2160	accès
+T55	geogFeat 2164 2170	bassin
+T56	geogFeat 2227 2232	passe
+T57	name 15 22	Endoume
+T58	geogName 6 22	pointe d’Endoume
+T59	name 103 110	Endoume
+T60	geogName 96 110	rade d’Endoume
+T61	name 144 147	Sud
+T62	geogName 134 147	quartiers Sud
+T63	name 151 160	Marseille
+T64	geogName 151 160	Marseille
+T65	name 177 184	Endoume
+T66	geogName 168 184	pointe d’Endoume
+T67	name 220 227	Endoume
+T68	geogName 213 227	îles d’Endoume
+T69	name 242 248	Cassis
+T70	geogName 232 248	Canyon de Cassis
+T71	name 303 314	Cassidaigne
+T72	geogName 294 314	tourelle Cassidaigne
+T73	name 412 422	Vieux-Port
+T74	geogName 412 422	Vieux-Port
+T75	name 431 432	1
+T76	geogName 424 432	Bassin 1
+T77	name 440 454	Nouveau-Bassin
+T78	geogName 440 454	Nouveau-Bassin
+T79	geogName 456 464	Bassin 2
+T80	name 463 464	2
+T81	name 524 542	Marseille au Rhône
+T82	name 611 618	Cerbère
+T83	geogName 515 542	canal de Marseille au Rhône
+T84	geogName 603 618	port de Cerbère
+T85	name 630 645	Banyuls-sur-Mer
+T86	geogName 622 645	port de Banyuls-sur-Mer
+T87	name 773 788	Banyuls-sur-Mer
+T88	geogName 765 788	port de Banyuls-sur-Mer
+T24	name 803 815	Port-Vendres
+T89	geogName 795 815	port de Port-Vendres
+T90	name 942 945	SUD
+T91	geogName 936 945	PASSE SUD
+T92	name 1011 1023	Sainte-Marie
+T93	geogName 1005 1023	digue Sainte-Marie
+T94	name 1129 1137	Désirade
+T95	geogName 1116 1137	pointe de la Désirade
+T96	name 1316 1318	S1
+T97	geogName 1310 1318	poste S1
+T98	name 1377 1380	Sud
+T99	geogName 1371 1380	jetée Sud
+T100	name 1625 1628	Sud
+T101	geogName 1620 1628	môle Sud
+T102	geogName 1611 1628	phare du môle Sud
+T103	name 1918 1928	Espiguette
+T104	geogName 1906 1928	pointe de l’Espiguette
+T105	name 2044 2057	Port-Camargue
+T106	geogName 2036 2057	port de Port-Camargue
+R1	SouthSouthWestOf Arg1:T2 Arg2:T58	
+R2	SouthSouthWestOf Arg1:T3 Arg2:T58	
+R3	NorthOf Arg1:T58 Arg2:T60	
+R4	ElementOf Arg1:T62 Arg2:T64	
+R5	SouthSouthWestOf Arg1:T68 Arg2:T66	
+R6	WestSouthWestOf Arg1:T9 Arg2:T72	
+R7	NorthNorthWestOf Arg1:T86 Arg2:T84	
+R8	ElementOf Arg1:T21 Arg2:T19	
+R9	NorthNorthWestOf Arg1:T89 Arg2:T88	
+R10	MarkedBy Arg1:T93 Arg2:T29	
+R11	ElementOf Arg1:T29 Arg2:T30	
+R12	ElementOf Arg1:T31 Arg2:T30	
+R13	ElementOf Arg1:T33 Arg2:T95	
+R14	ElementOf Arg1:T34 Arg2:T33	
+R15	ElementOf Arg1:T35 Arg2:T34	
+R16	EastNorthEastOf Arg1:T37 Arg2:T99	
+R17	SouthSouthWestOf Arg1:T43 Arg2:T102	
+R18	ElementOf Arg1:T46 Arg2:T45	
+R19	SouthWestOf Arg1:T47 Arg2:T104	
+R20	MarkedBy Arg1:T50 Arg2:T49	
+R21	WestSouthWestOf Arg1:T50 Arg2:T106	
+T107	geogFeat 2112 2117	passe

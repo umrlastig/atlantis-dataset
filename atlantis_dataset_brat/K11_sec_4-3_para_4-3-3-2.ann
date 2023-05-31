@@ -1,0 +1,89 @@
+T1	geogFeat 22 28	lagons
+T2	geogFeat 35 38	île
+T3	geogFeat 75 96	chaîne 😄de 😄montagnes
+T4	geogFeat 120 126	sommet
+T5	geogFeat 133 137	mont
+T6	geogFeat 203 207	mont
+T7	geogFeat 233 239	sommet
+T8	geogFeat 254 275	pylône 😍de télévision
+T9	geogFeat 281 303	feux d’obstacle aérien
+T10	geogFeat 325 328	île
+T11	geogFeat 335 340	ville
+T12	geogFeat 355 362	vallées
+T13	geogFeat 413 417	Côte
+T14	geogFeat 506 510	ÎLES
+T15	geogFeat 530 533	île
+T16	geogFeat 580 584	mont
+T17	geogFeat 760 765	baies
+T18	geogFeat 783 786	île
+T19	geogFeat 825 839	récif-barrière
+T20	geogFeat 908 913	îlots
+T21	geogFeat 925 930	récif
+T22	geogFeat 945 950	côtes
+T23	geogFeat 983 998	lagon intérieur
+T24	geogFeat 1070 1074	îles
+T25	geogFeat 1090 1096	bassin
+T26	geogFeat 1109 1120	hauts-fonds
+T27	geogFeat 1138 1145	chenaux
+T28	geogFeat 1181 1186	récif
+T29	geogFeat 1199 1204	côtes
+T30	geogFeat 1242 1254	récif côtier
+T31	geogFeat 1272 1276	côte
+T32	geogFeat 1336 1342	chenal
+T33	geogFeat 1395 1409	récif-barrière
+T34	geogFeat 1428 1434	passes
+T35	geogFeat 1519 1525	passes
+T36	geogFeat 1548 1552	îles
+T37	geogFeat 1721 1727	passes
+T38	geogFeat 1735 1753	chenaux intérieurs
+T39	geogFeat 1817 1823	récifs
+T40	name 40 47	Raiatea
+T41	name 139 149	Tefatuaiti
+T42	name 208 214	Tapioi
+T43	name 343 349	Uturoa
+T44	name 425 432	Raiatea
+T45	name 418 421	Sud
+T46	name 511 523	SOUS-LE-VENT
+T47	name 534 539	Tahaa
+T48	name 585 593	Vaihaato
+T49	name 809 816	Raiatea
+T50	geogFeat 645 663	système montagneux
+T51	geogFeat 691 702	contreforts
+T52	name 871 876	Tahaa
+T53	name 954 959	Tahaa
+T54	name 1169 1176	Raiatea
+T55	name 1205 1208	Est
+T56	name 1212 1215	Sud
+T57	name 1277 1282	Ouest
+T58	name 1460 1465	Tahaa
+T59	name 1479 1486	Raiatea
+T60	geogName 35 47	île 😄Raiatea
+T61	geogName 133 149	mont 😄Tefatuaiti
+T62	geogName 203 214	mont Tapioi
+T63	geogName 335 349	ville d’Uturoa
+T64	geogName 413 421	Côte Sud
+T65	geogName 425 432	Raiatea
+T66	geogName 506 523	ÎLES SOUS-LE-VENT
+T67	geogName 530 539	île Tahaa
+T68	geogName 580 593	mont Vaihaato
+T69	geogName 809 816	Raiatea
+T70	geogName 871 876	Tahaa
+T71	geogName 945 959	côtes de Tahaa
+T72	geogName 1169 1176	Raiatea
+T73	geogName 1199 1215	côtes Est et Sud
+T74	geogName 1272 1282	côte Ouest
+T75	geogName 1460 1465	Tahaa
+T76	geogName 1479 1486	Raiatea
+T77	geogFeat 891 896	ligne
+R1	ElementOf Arg1:T3 Arg2:T60	
+R2	ElementOf Arg1:T4 Arg2:T3	
+R3	ElementOf Arg1:T61 Arg2:T3	
+R4	ElementOf Arg1:T7 Arg2:T62	
+R5	ElementOf Arg1:T8 Arg2:T7	
+R6	ElementOf Arg1:T9 Arg2:T8	
+R8	ElementOf Arg1:T64 Arg2:T65	
+R9	ElementOf Arg1:T50 Arg2:T67	
+R10	ElementOf Arg1:T51 Arg2:T67	
+R11	ElementOf Arg1:T20 Arg2:T77	
+R12	ElementOf Arg1:T26 Arg2:T25	
+R13	WestOf Arg1:T35 Arg2:T36	

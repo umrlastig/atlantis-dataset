@@ -1,0 +1,66 @@
+T1	geogFeat 98 103	atoll
+T2	geogFeat 146 150	Îles
+T3	geogFeat 169 174	lagon
+T4	geogFeat 220 230	échancrure
+T5	geogFeat 239 244	récif
+T6	geogFeat 291 304	anfractuosité
+T7	geogFeat 313 321	barrière
+T8	geogFeat 367 371	côte
+T9	geogFeat 385 392	village
+T10	geogFeat 433 440	platier
+T11	geogFeat 494 499	passe
+T12	geogFeat 555 560	îlots
+T13	geogFeat 600 605	récif
+T14	geogFeat 615 620	côtes
+T15	geogFeat 656 661	atoll
+T16	geogFeat 686 690	banc
+T17	geogFeat 753 758	récif
+T18	geogFeat 768 773	atoll
+T19	geogFeat 793 813	réserve territoriale
+T20	geogFeat 890 895	atoll
+T21	geogFeat 896 900	Motu
+T22	geogFeat 1019 1022	île
+T23	geogFeat 1063 1070	Islands
+T24	geogFeat 1144 1148	ÎLES
+T25	name 12 18	Manuae
+T26	name 20 26	Scilly
+T27	geogFeat 29 34	Fanua
+T28	name 35 38	Ura
+T29	name 44 50	Manuae
+T30	name 52 58	Scilly
+T31	geogFeat 61 66	Fanua
+T32	name 67 70	Ura
+T33	name 152 164	Sous-le-Vent
+T34	geogFeat 268 274	pointe
+T35	name 275 279	Nord
+T36	name 373 376	Est
+T37	name 621 626	Ouest
+T38	name 630 633	Sud
+T39	name 817 823	Scilly
+T40	name 827 841	Bellingshausen
+T41	name 901 904	One
+T42	name 1033 1039	Manuae
+T43	name 1049 1062	Southern Cook
+T44	name 1149 1158	AUSTRALES
+T45	geogName 12 18	Manuae
+T46	geogName 20 26	Scilly
+T47	geogName 29 38	Fanua Ura
+T48	geogName 44 50	Manuae
+T49	geogName 52 58	Scilly
+T50	geogName 61 70	Fanua Ura
+T51	geogName 146 164	Îles 😍Sous-le-Vent
+T52	geogName 268 279	pointe Nord
+T53	geogName 615 633	côtes Ouest et Sud
+T54	geogName 793 841	réserve territoriale de Scilly et Bellingshausen
+T55	geogName 896 904	Motu One
+T56	geogName 1033 1039	Manuae
+T57	geogName 1049 1070	Southern Cook Islands
+T58	geogName 1144 1158	ÎLES AUSTRALES
+T59	geogName 367 376	côte 😍Est
+T60	geogName 890 904	atoll Motu One
+R1	ElementOf Arg1:T4 Arg2:T5	
+R2	WestSouthWestOf Arg1:T4 Arg2:T52	
+R3	ElementOf Arg1:T6 Arg2:T7	
+R4	ElementOf Arg1:T53 Arg2:T13	
+R5	ElementOf Arg1:T18 Arg2:T54	
+R6	ElementOf Arg1:T56 Arg2:T57	

@@ -1,0 +1,11 @@
+T1	geogFeat 32 36	îles
+T2	geogFeat 87 92	atoll
+T3	geogFeat 206 216	parallèles
+T4	geogFeat 257 266	méridiens
+T5	geogFeat 303 316	zone à éviter
+T6	name 37 44	Aldabra
+T7	name 46 53	Aldabra
+T8	geogFeat 54 59	Group
+T9	geogName 32 44	îles Aldabra
+T10	geogName 46 59	Aldabra Group
+R1	ElementOf Arg1:T2 Arg2:T5	

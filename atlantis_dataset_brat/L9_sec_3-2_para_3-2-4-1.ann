@@ -1,0 +1,25 @@
+T1	geogFeat 30 33	île
+T2	geogFeat 84 90	récifs
+T3	geogFeat 102 107	atoll
+T4	geogFeat 134 137	île
+T5	geogFeat 153 156	île
+T6	geogFeat 294 307	établissement
+T7	geogFeat 352 368	piste d’aviation
+T8	geogFeat 406 409	île
+T9	geogFeat 417 421	ÎLES
+T10	geogFeat 425 432	DANGERS
+T11	geogFeat 450 453	CAP
+T12	name 34 40	Astove
+T13	name 140 149	Cosmoledo
+T14	name 338 342	Mahé
+T15	name 456 461	AMBRE
+T16	geogName 30 40	île Astove
+T17	geogName 134 149	île 😄😍Cosmoledo
+T18	geogName 338 342	Mahé
+T19	geogName 450 461	CAP D’AMBRE
+R1	ElementOf Arg1:T2 Arg2:T3	
+R2	SouthSouthEastOf Arg1:T16 Arg2:T17	
+R3	ElementOf Arg1:T7 Arg2:T8	
+R4	NorthWestOf Arg1:T10 Arg2:T19	
+R5	NorthWestOf Arg1:T9 Arg2:T19	
+R6	ElementOf Arg1:T16 Arg2:T2	

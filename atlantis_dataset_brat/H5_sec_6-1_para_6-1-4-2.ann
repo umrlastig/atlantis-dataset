@@ -1,0 +1,35 @@
+T1	geogFeat 12 29	Réserve naturelle
+T2	geogFeat 106 116	embouchure
+T3	geogFeat 120 126	fleuve
+T4	geogFeat 162 167	îlots
+T5	geogFeat 188 205	réserve naturelle
+T6	geogFeat 257 261	zone
+T7	geogFeat 321 327	sommet
+T8	geogFeat 411 418	réserve
+T9	geogFeat 497 501	CABO
+T10	geogFeat 517 522	PUNTA
+T11	name 34 53	Le Grand Connétable
+T12	name 55 74	Le Petit Connétable
+T13	name 127 137	Approuague
+T14	name 333 350	Grand 😄Connétable
+T15	name 502 508	ORANGE
+T16	name 523 532	BOMBEADOR
+T17	name 533 539	GUYANE
+T18	name 542 550	SURINAME
+T19	name 553 559	GUYANA
+T20	name 562 575	VENEZUELA EST
+T21	geogName 34 53	Le Grand Connétable
+T22	geogName 55 74	Le Petit Connétable
+T23	geogName 120 137	fleuve Approuague
+T24	geogName 333 350	Grand 😄Connétable
+T25	geogName 497 508	CABO ORANGE
+T26	geogName 517 532	PUNTA BOMBEADOR
+T27	geogName 533 539	GUYANE
+T28	geogName 542 550	SURINAME
+T29	geogName 553 559	GUYANA
+T30	geogName 562 575	VENEZUELA EST
+R1	OffTheCoastOf Arg1:T22 Arg2:T2	
+R2	OffTheCoastOf Arg1:T21 Arg2:T2	
+R3	ElementOf Arg1:T7 Arg2:T24	
+R4	ElementOf Arg1:T7 Arg2:T6	
+R5	ElementOf Arg1:T2 Arg2:T23	

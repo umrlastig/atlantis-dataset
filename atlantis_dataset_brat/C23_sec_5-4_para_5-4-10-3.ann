@@ -1,0 +1,9 @@
+T1	geogFeat 61 66	digue
+T2	geogFeat 72 94	balise latérale bâbord
+T3	geogFeat 101 109	panneaux
+T4	geogFeat 138 144	entrée
+T5	geogFeat 148 152	port
+T6	geogFeat 37 45	vestiges
+R2	ElementOf Arg1:T3 Arg2:T2	
+R3	MarkedBy Arg1:T4 Arg2:T2	
+R4	ElementOf Arg1:T4 Arg2:T5	

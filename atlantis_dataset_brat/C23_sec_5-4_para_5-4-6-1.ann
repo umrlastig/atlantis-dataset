@@ -1,0 +1,11 @@
+T1	geogFeat 31 35	port
+T2	geogFeat 47 68	port de pêche côtière
+T3	geogFeat 159 164	canal
+T4	geogFeat 188 194	vannes
+T5	name 39 45	Collet
+T6	name 115 131	Bernerie-en-Retz
+T7	geogName 31 45	port du Collet
+T8	geogName 115 131	Bernerie-en-Retz
+R1	SouthEastOf Arg1:T7 Arg2:T8	
+R2	ElementOf Arg1:T3 Arg2:T7	
+R3	ElementOf Arg1:T4 Arg2:T3	

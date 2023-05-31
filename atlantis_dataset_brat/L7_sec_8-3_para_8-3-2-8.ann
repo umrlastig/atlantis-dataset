@@ -1,0 +1,199 @@
+T1	geogFeat 34 38	port
+T2	geogFeat 100 114	port pétrolier
+T3	geogFeat 368 373	poste
+T4	geogFeat 450 454	Môle
+T5	geogFeat 504 509	jetée
+T6	geogFeat 584 608	Terminal pour conteneurs
+T7	geogFeat 766 771	Jetée
+T8	geogFeat 842 851	Chantiers
+T9	geogFeat 884 888	Quai
+T10	geogFeat 947 951	Quai
+T11	geogFeat 1211 1215	Môle
+T12	geogFeat 1257 1262	Jetée
+T13	geogFeat 1289 1294	épave
+T14	geogFeat 1390 1405	Poste pétrolier
+T15	geogFeat 1410 1421	ducs d’Albe
+T16	geogFeat 1456 1471	Poste pétrolier
+T17	geogFeat 1476 1487	appontement
+T18	geogFeat 1520 1535	Poste pétrolier
+T19	geogFeat 1540 1551	appontement
+T20	geogFeat 1555 1559	Port
+T21	geogFeat 1734 1755	Terminal à conteneurs
+T22	geogFeat 1830 1848	Terminal pétrolier
+T24	geogFeat 2301 2319	Hangars de transit
+T25	geogFeat 2331 2337	postes
+T26	geogFeat 2384 2392	Ateliers
+T27	geogFeat 2396 2410	cale de halage
+T28	geogFeat 2461 2465	Quai
+T29	geogFeat 2481 2486	Jetée
+T30	geogFeat 2664 2668	quai
+T31	geogFeat 2681 2687	postes
+T32	geogFeat 2887 2891	port
+T33	geogFeat 3289 3294	Ville
+T34	geogFeat 3334 3347	port de pêche
+T35	geogFeat 3516 3524	Immeuble
+T36	geogFeat 3531 3551	Capitainerie du port
+T38	geogFeat 3621 3627	postes
+T39	geogFeat 3715 3719	Port
+T40	geogFeat 3804 3809	route
+T41	geogFeat 3857 3868	voie ferrée
+T42	geogFeat 3897 3901	voie
+T43	geogFeat 3965 3987	Aéroport international
+T44	geogFeat 4008 4013	ville
+T45	geogFeat 4066 4074	Capitale
+T46	geogFeat 4081 4091	République
+T47	geogFeat 4105 4114	Ambassade
+T48	geogFeat 4121 4130	boulevard
+T49	geogFeat 4247 4253	avenue
+T50	geogFeat 4230 4235	Villa
+T51	geogFeat 4334 4347	Hôpital civil
+T52	geogFeat 4390 4397	Plateau
+T53	geogFeat 4434 4454	Capitainerie du port
+T37	geogFeat 4475 4492	hôpital militaire
+T54	geogFeat 4497 4502	poste
+T55	geogFeat 4554 4564	cathédrale
+T56	geogFeat 4666 4670	pays
+T57	geogFeat 4737 4744	Plateau
+T58	geogFeat 4761 4766	jetée
+T59	geogFeat 4821 4826	jetée
+T60	geogFeat 4861 4866	Jetée
+T61	geogFeat 4880 4884	môle
+T62	geogFeat 4924 4929	épave
+T63	geogFeat 4980 4984	Môle
+T64	geogFeat 5002 5007	jetée
+T65	geogFeat 5039 5043	Môle
+T66	geogFeat 5196 5200	CÔTE
+T67	geogFeat 5208 5213	GOLFE
+T68	geogFeat 5224 5228	CÔTE
+T69	geogFeat 5245 5248	MER
+T70	geogFeat 5259 5269	RÉPUBLIQUE
+T71	geogFeat 5317 5321	port
+T72	geogFeat 5364 5382	terminal pétrolier
+T73	geogFeat 5389 5410	terminal à conteneurs
+T74	geogFeat 5426 5431	Jetée
+T75	geogFeat 5474 5492	Terminal pétrolier
+T76	geogFeat 5656 5677	Terminal à conteneurs
+T77	name 42 50	Djibouti
+T78	geogFeat 406 410	quai
+T79	name 455 458	Sud
+T80	name 513 521	Marabout
+T81	geogFeat 542 546	face
+T82	name 547 550	Sud
+T83	name 775 783	Marabout
+T84	name 1219 1232	Fontainebleau
+T85	name 1266 1271	Large
+T86	geogFeat 1340 1345	Jetée
+T87	name 1349 1354	Large
+T88	name 1563 1568	Héron
+T89	name 1726 1733	Doraleh
+T90	name 1822 1829	Doraleh
+T91	name 2490 2498	Marabout
+T92	name 3302 3310	DJIBOUTI
+T93	name 3314 3321	BERBERA
+T94	name 3630 3632	12
+T95	name 3640 3642	13
+T96	name 3770 3776	Dikhil
+T97	name 3780 3790	Ali Sabieh
+T98	name 3816 3820	Arta
+T99	name 3832 3843	Addis-Abeba
+T100	name 3874 3885	Addis-Abeba
+T101	name 4095 4103	Djibouti
+T102	name 4134 4147	Maréchal Foch
+T103	name 4236 4245	Normandie
+T104	name 4257 4273	Maréchal Lyautey
+T105	name 4401 4408	Serpent
+T106	geogFeat 4410 4421	dispensaire
+T107	geogFeat 4456 4471	clinique privée
+T108	name 4686 4694	Djibouti
+T109	name 4748 4756	Marabout
+T110	name 4770 4778	Marabout
+T111	name 4830 4835	Large
+T112	name 4870 4875	Large
+T113	name 4888 4901	Fontainebleau
+T114	name 4985 4988	Sud
+T115	name 5011 5023	Gouvernement
+T116	name 5047 5060	Fontainebleau
+T117	name 5201 5204	SUD
+T118	name 5216 5220	ADEN
+T119	name 5229 5238	AFRICAINE
+T120	name 5251 5257	ARABIE
+T121	name 5273 5281	DJIBOUTI
+T122	name 5283 5290	SOMALIE
+T123	name 5325 5330	Héron
+T124	name 5343 5350	Doraleh
+T125	name 5435 5447	Gouvernement
+T126	name 5496 5503	Doraleh
+T127	name 5618 5626	DJIBOUTI
+T128	name 5630 5637	BERBERA
+T129	name 5681 5688	Doraleh
+T130	geogName 34 50	port de Djibouti
+T131	geogName 450 458	Môle Sud
+T132	geogName 504 521	jetée du Marabout
+T133	geogName 542 550	face Sud
+T134	geogName 766 783	Jetée du Marabout
+T135	geogName 1211 1232	Môle du Fontainebleau
+T136	geogName 1257 1271	Jetée du Large
+T137	geogName 1340 1354	Jetée du Large
+T138	geogName 1555 1568	Port du Héron
+T139	geogName 1726 1755	Doraleh Terminal à conteneurs
+T140	geogName 1822 1848	Doraleh Terminal pétrolier
+T141	geogName 2481 2498	Jetée du Marabout
+T142	name 2470 2479	caboteurs
+T143	geogName 2461 2479	Quai des caboteurs
+T144	geogName 3302 3310	DJIBOUTI
+T145	geogName 3314 3321	BERBERA
+T146	geogName 3770 3776	Dikhil
+T147	geogName 3780 3790	Ali Sabieh
+T148	geogName 3816 3820	Arta
+T149	geogName 3832 3843	Addis-Abeba
+T150	geogName 3874 3885	Addis-Abeba
+T151	geogName 4081 4103	République de Djibouti
+T152	geogName 4121 4147	boulevard du Maréchal Foch
+T153	geogName 4230 4245	Villa Normandie
+T154	geogName 4247 4273	avenue du Maréchal Lyautey
+T155	geogName 4390 4408	Plateau du Serpent
+T156	geogName 4686 4694	Djibouti
+T157	geogName 4737 4756	Plateau du Marabout
+T158	geogName 4761 4778	jetée du Marabout
+T159	geogName 4821 4835	jetée du Large
+T160	geogName 4861 4875	Jetée du Large
+T161	geogName 4880 4901	môle du Fontainebleau
+T162	geogName 4980 4988	Môle Sud
+T163	geogName 5002 5023	jetée du Gouvernement
+T164	geogName 5039 5060	Môle du Fontainebleau
+T165	geogName 5196 5204	CÔTE SUD
+T166	geogName 5208 5220	GOLFE D'ADEN
+T167	geogName 5224 5238	CÔTE AFRICAINE
+T168	geogName 5245 5257	MER D'ARABIE
+T169	geogName 5259 5281	RÉPUBLIQUE DE DJIBOUTI
+T170	geogName 5283 5290	SOMALIE
+T171	geogName 5317 5330	port du Héron
+T172	geogName 5343 5350	Doraleh
+T173	geogName 5426 5447	Jetée du Gouvernement
+T174	geogName 5474 5503	Terminal pétrolier de Doraleh
+T175	geogName 5618 5626	DJIBOUTI
+T176	geogName 5630 5637	BERBERA
+T177	geogName 5656 5688	Terminal à conteneurs de Doraleh
+T178	geogFeat 56 80	Installations portuaires
+T179	geogFeat 272 287	Infrastructures
+T23	geogFeat 981 986	Jetée
+T180	name 990 995	Large
+T181	geogName 981 995	Jetée du Large
+T182	geogName 3621 3644	postes « 12 » et « 13 »
+R1	ElementOf Arg1:T133 Arg2:T131	
+R2	ElementOf Arg1:T14 Arg2:T15	
+R3	ElementOf Arg1:T16 Arg2:T17	
+R4	ElementOf Arg1:T18 Arg2:T19	
+R5	SouthOf Arg1:T43 Arg2:T44	
+R6	ElementOf Arg1:T45 Arg2:T151	
+R7	ElementOf Arg1:T47 Arg2:T152	
+R8	ElementOf Arg1:T153 Arg2:T154	
+R9	SouthSouthWestOf Arg1:T54 Arg2:T55	
+R10	WestOf Arg1:T158 Arg2:T157	
+R11	SouthOf Arg1:T163 Arg2:T162	
+R12	SouthWestOf Arg1:T172 Arg2:T171	
+R13	ElementOf Arg1:T72 Arg2:T172	
+R14	ElementOf Arg1:T73 Arg2:T172	
+T183	geogFeat 4211 4227	Consulat Général
+R16	ElementOf Arg1:T183 Arg2:T153	
+R17	ElementOf Arg1:T51 Arg2:T155	

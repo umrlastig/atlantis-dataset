@@ -1,0 +1,123 @@
+T1	geogFeat 96 99	île
+T2	geogFeat 133 140	cratère
+T3	geogFeat 182 196	récif-barrière
+T4	geogFeat 277 282	motus
+T5	geogFeat 300 305	passe
+T6	geogFeat 350 355	PASSE
+T7	geogFeat 377 383	pointe
+T8	geogFeat 398 402	Motu
+T9	geogFeat 417 421	Motu
+T10	geogFeat 433 438	passe
+T11	geogFeat 482 488	entrée
+T12	geogFeat 666 671	passe
+T13	geogFeat 815 834	alignement d’entrée
+T14	geogFeat 865 872	balises
+T15	geogFeat 926 930	Motu
+T16	geogFeat 958 968	alignement
+T17	geogFeat 986 993	balises
+T18	geogFeat 1035 1039	Motu
+T19	geogFeat 1055 1061	chenal
+T20	geogFeat 1128 1132	quai
+T21	geogFeat 1139 1145	pointe
+T22	geogFeat 1168 1171	île
+T23	geogFeat 1229 1248	zone d’interdiction
+T24	geogFeat 1278 1284	Pointe
+T25	geogFeat 1311 1315	zone
+T26	geogFeat 1336 1342	bouées
+T27	geogFeat 1445 1457	HYDROSURFACE
+T28	geogFeat 1465 1477	hydrosurface
+T29	geogFeat 1521 1533	hydrosurface
+T30	geogFeat 1762 1768	chenal
+T31	geogFeat 1803 1807	quai
+T32	geogFeat 1834 1838	quai
+T33	geogFeat 1924 1939	pâtés de corail
+T34	geogFeat 1972 1978	rocher
+T35	geogFeat 2002 2006	quai
+T36	geogFeat 2013 2019	Pointe
+T37	geogFeat 2108 2125	points d’amarrage
+T38	geogFeat 2130 2134	slip
+T39	geogFeat 2174 2178	quai
+T40	geogFeat 2202 2208	Pointe
+T41	geogFeat 2238 2241	île
+T42	geogFeat 2256 2267	appontement
+T43	geogFeat 2318 2322	quai
+T44	geogFeat 2344 2349	darse
+T45	geogFeat 2389 2404	Station essence
+T46	geogFeat 2448 2452	quai
+T47	geogFeat 2459 2465	pointe
+T48	geogFeat 2511 2518	village
+T49	geogFeat 2541 2547	pointe
+T50	geogFeat 2556 2566	infirmerie
+T51	geogFeat 2583 2589	temple
+T52	geogFeat 2649 2658	Aérodrome
+T53	geogFeat 2692 2696	Motu
+T54	name 12 19	Maupiti
+T55	name 44 53	Bora-Bora
+T56	name 55 62	Maupiti
+T57	name 403 410	Pitiahe
+T58	name 422 428	Tiapaa
+T59	name 439 445	Onoiau
+T62	name 931 938	Pitiahe
+T65	name 1040 1046	Tiapaa
+T66	name 1146 1152	Patito
+T67	name 1286 1295	Tamaupiti
+T68	name 1979 1989	Hotuparaoa
+T69	name 2020 2026	Patito
+T70	name 2209 2215	Patito
+T71	geogFeat 2224 2228	côte
+T72	name 2229 2232	Est
+T73	name 2435 2442	Maupiti
+T74	name 2466 2472	Patito
+T75	name 2522 2527	Vaiea
+T76	name 2548 2554	Patito
+T77	name 2697 2703	Tuanai
+T78	name 2729 2736	Papeete
+T79	name 2794 2801	Raiatea
+T80	name 2805 2811	Tahiti
+T81	geogName 12 19	Maupiti
+T82	geogName 44 53	Bora-Bora
+T83	geogName 55 62	Maupiti
+T84	geogName 398 410	Motu Pitiahe
+T85	geogName 417 428	Motu Tiapaa
+T86	geogName 433 445	passe Onoiau
+T88	geogName 926 938	Motu Pitiahe
+T90	geogName 1035 1046	Motu Tiapaa
+T91	geogName 1139 1152	pointe Patito
+T92	geogName 1278 1295	Pointe 😍Tamaupiti
+T93	geogName 1972 1989	rocher Hotuparaoa
+T94	geogName 2013 2026	Pointe Patito
+T95	geogName 2202 2215	Pointe Patito
+T96	geogName 2224 2232	côte Est
+T97	geogName 2435 2442	Maupiti
+T98	geogName 2459 2472	pointe Patito
+T99	geogName 2511 2527	village de Vaiea
+T100	geogName 2541 2554	pointe Patito
+T101	geogName 2692 2703	Motu Tuanai
+T102	geogName 2729 2736	Papeete
+T103	geogName 2794 2801	Raiatea
+T104	geogName 2805 2811	Tahiti
+T105	geogFeat 567 592	balisage latéral lumineux
+T106	geogFeat 1662 1671	MOUILLAGE
+R1	WestOf Arg1:T83 Arg2:T82	
+T107	name 384 387	Sud
+T108	geogName 377 387	pointe Sud
+R2	MarkedBy Arg1:T86 Arg2:T105	
+R3	MarkedBy Arg1:T13 Arg2:T14	
+R4	ElementOf Arg1:T17 Arg2:T16	
+R5	NorthWestOf Arg1:T23 Arg2:T92	
+R6	MarkedBy Arg1:T25 Arg2:T26	
+R7	ElementOf Arg1:T96 Arg2:T41	
+R8	NorthOf Arg1:T42 Arg2:T95	
+R9	EastOf Arg1:T42 Arg2:T41	
+R10	NorthWestOf Arg1:T44 Arg2:T43	
+R11	ElementOf Arg1:T35 Arg2:T94	
+R12	ElementOf Arg1:T46 Arg2:T98	
+R13	NorthEastOf Arg1:T99 Arg2:T100	
+R14	ElementOf Arg1:T50 Arg2:T99	
+R15	ElementOf Arg1:T51 Arg2:T99	
+R16	ElementOf Arg1:T52 Arg2:T101	
+R17	ElementOf Arg1:T11 Arg2:T86	
+R18	EastOf Arg1:T14 Arg2:T88	
+R19	WestOf Arg1:T17 Arg2:T90	
+R20	ElementOf Arg1:T20 Arg2:T91	
+R21	ElementOf Arg1:T37 Arg2:T35	

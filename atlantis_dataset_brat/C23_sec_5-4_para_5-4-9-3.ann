@@ -1,0 +1,35 @@
+T1	geogFeat 85 100	Port d’échouage
+T2	geogFeat 204 210	vannes
+T3	geogFeat 248 252	port
+T4	geogFeat 494 513	appontements privés
+T5	geogFeat 479 485	vannes
+T6	geogFeat 435 439	quai
+T7	geogFeat 462 466	rive
+T8	geogFeat 526 531	rives
+T9	geogFeat 537 542	étier
+T10	geogFeat 600 606	platin
+T11	geogFeat 659 665	vannes
+T12	geogFeat 669 677	ateliers
+T13	geogFeat 811 817	Mairie
+T14	geogFeat 917 931	Bureau du port
+T16	geogFeat 973 977	Port
+T17	geogFeat 1107 1113	POINTE
+T18	geogFeat 1129 1132	ÎLE
+T19	geogFeat 720 738	Poste de carburant
+T15	name 821 826	Bouin
+T22	name 981 989	l’Époids
+T23	name 1117 1124	CROISIC
+T24	name 1136 1147	NOIRMOUTIER
+T25	geogName 811 826	Mairie de Bouin
+T26	geogName 973 989	Port de l’Époids
+T27	geogName 1107 1124	POINTE DU CROISIC
+T28	geogName 1129 1147	ÎLE DE NOIRMOUTIER
+T21	name 934 942	l’Époids
+T29	geogName 934 942	l’Époids
+R1	ElementOf Arg1:T14 Arg2:T29	
+T30	name 467 469	NE
+T31	geogName 462 469	rive NE
+T32	geogFeat 577 582	cales
+T20	geogFeat 287 311	Installations portuaires
+T33	geogFeat 270 285	Infrastructures
+R2	ElementOf Arg1:T2 Arg2:T3	

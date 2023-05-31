@@ -1,0 +1,7 @@
+T1	geogFeat 48 57	mouillage
+T2	geogFeat 130 135	ville
+T3	geogFeat 164 181	zone de mouillage
+T4	geogFeat 254 258	rade
+T5	geogFeat 325 330	jetée
+T6	geogFeat 367 372	ville
+R1	NorthOf Arg1:T1 Arg2:T2	

@@ -1,0 +1,9 @@
+T1	geogFeat 12 22	Mouillages
+T2	geogFeat 96 99	feu
+T3	geogFeat 109 128	brise-lames détaché
+T4	geogFeat 181 187	épaves
+T5	geogFeat 211 215	zone
+T6	name 100 105	Ouest
+T7	geogName 96 105	feu Ouest
+R1	ElementOf Arg1:T7 Arg2:T3	
+R2	SouthOf Arg1:T4 Arg2:T5	

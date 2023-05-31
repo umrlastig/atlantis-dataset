@@ -1,0 +1,38 @@
+T1	geogFeat 12 22	Mouillages
+T2	geogFeat 86 91	récif
+T3	geogFeat 106 119	établissement
+T4	geogFeat 125 128	île
+T5	geogFeat 143 152	mouillage
+T6	geogFeat 303 314	banc côtier
+T7	geogFeat 393 403	alignement
+T8	geogFeat 425 437	construction
+T9	geogFeat 485 493	littoral
+T10	geogFeat 504 508	pieu
+T11	geogFeat 510 515	Espar
+T12	geogFeat 551 556	récif
+T13	geogFeat 611 616	récif
+T14	geogFeat 645 649	pieu
+T15	geogFeat 655 670	têtes de corail
+T16	geogFeat 798 801	Île
+T17	geogFeat 910 913	Île
+T18	geogFeat 1070 1073	île
+T19	geogFeat 1121 1140	postes de mouillage
+T20	geogFeat 1268 1278	mouillages
+T21	name 129 134	Menai
+T22	name 791 797	Grande
+T23	geogFeat 777 781	côte
+T24	name 782 784	SE
+T25	name 903 909	Grande
+T26	geogName 125 134	île Menai
+T27	geogName 777 784	côte SE
+T28	geogName 791 801	Grande Île
+T29	geogName 903 913	Grande Île
+T30	geogFeat 757 761	abri
+R1	OffTheCoastOf Arg1:T2 Arg2:T3	
+R2	OffTheCoastOf Arg1:T30 Arg2:T27	
+R3	ElementOf Arg1:T3 Arg2:T26	
+R4	ElementOf Arg1:T8 Arg2:T7	
+R5	ElementOf Arg1:T8 Arg2:T9	
+R6	ElementOf Arg1:T10 Arg2:T7	
+R7	ElementOf Arg1:T10 Arg2:T12	
+R8	ElementOf Arg1:T27 Arg2:T28	

@@ -1,0 +1,206 @@
+T1	geogFeat 12 53	Zone de mouillage et d’équipements légers
+T2	geogFeat 55 59	ZMEL
+T3	geogFeat 65 106	ZONE DE MOUILLAGE ET D’ÉQUIPEMENTS LÉGERS
+T4	geogFeat 112 116	ANSE
+T5	geogFeat 386 390	zone
+T6	geogFeat 405 409	anse
+T7	geogFeat 537 543	bouées
+T8	geogFeat 641 651	dispositif
+T9	geogFeat 513 523	dispositif
+T10	geogFeat 665 674	flotteurs
+T11	geogFeat 896 918	dispositifs d’amarrage
+T12	geogFeat 1275 1279	ZMEL
+T13	geogFeat 1331 1335	ZMEL
+T14	geogFeat 1429 1470	ZONE DE MOUILLAGE ET D’ÉQUIPEMENTS LÉGERS
+T15	geogFeat 1708 1712	zone
+T16	geogFeat 1743 1747	baie
+T17	geogFeat 1784 1787	cap
+T18	geogFeat 1892 1902	dispositif
+T19	geogFeat 1916 1935	postes de mouillage
+T20	geogFeat 1977 1996	postes de mouillage
+T21	geogFeat 2028 2040	capitainerie
+T22	geogFeat 2044 2048	port
+T23	geogFeat 2458 2500	ZONES DE MOUILLAGE ET D’ÉQUIPEMENTS LÉGERS
+T24	geogFeat 2546 2562	SITE NATURA 2000
+T25	geogFeat 2822 2827	zones
+T26	geogFeat 2847 2852	ports
+T27	geogFeat 2927 2946	postes de mouillage
+T28	geogFeat 2948 2954	bouées
+T29	geogFeat 3005 3009	zone
+T30	geogFeat 3116 3120	zone
+T31	geogFeat 3229 3233	zone
+T32	geogFeat 3074 3098	dispositifs de mouillage
+T33	geogFeat 3187 3211	dispositifs de mouillage
+T34	geogFeat 3395 3419	dispositifs de mouillage
+T35	geogFeat 3438 3442	zone
+T36	geogFeat 3510 3534	dispositifs de mouillage
+T37	geogFeat 3584 3608	dispositifs de mouillage
+T38	geogFeat 4148 4166	zones de mouillage
+T39	geogFeat 4337 4379	ZONES DE MOUILLAGE ET D’ÉQUIPEMENTS LÉGERS
+T40	geogFeat 4383 4386	CAP
+T41	geogFeat 4540 4587	zones 😄de 😄mouillage 😄et 😄d’équipements 😄légers
+T42	geogFeat 4647 4652	sites
+T43	geogFeat 4663 4667	site
+T44	geogFeat 4686 4690	site
+T45	geogFeat 4736 4739	cap
+T46	geogFeat 4800 4804	Site
+T47	geogFeat 4874 4879	zones
+T48	geogFeat 4881 4885	zone
+T49	geogFeat 4909 4913	zone
+T50	geogFeat 4940 4954	chenal d’accès
+T51	geogFeat 5008 5034	bouées 😍de marque latérale
+T52	geogFeat 5144 5150	bouées
+T53	geogFeat 5187 5191	Site
+T54	geogFeat 5326 5331	sites
+T55	geogFeat 5536 5542	ponton
+T56	geogFeat 5507 5529	mouillages écologiques
+T57	geogFeat 5565 5569	ZMEL
+T58	geogFeat 5775 5784	FRONTIÈRE
+T59	geogFeat 5806 5809	CAP
+T60	geogFeat 5902 5906	ZMEL
+T61	geogFeat 5933 5947	chenal d’accès
+T62	geogFeat 6003 6007	ZMEL
+T63	geogFeat 6144 6149	zones
+T64	name 120 129	PEYREFITE
+T65	name 266 278	Méditerranée
+T66	name 296 315	Pyrénées-Orientales
+T67	name 413 422	Peyrefite
+T68	name 1474 1489	BANYULS-SUR-MER
+T69	name 1587 1599	Méditerranée
+T70	name 1621 1640	Pyrénées-Orientales
+T71	name 1753 1768	Banyuls-sur-Mer
+T72	name 1791 1795	Osne
+T73	name 2052 2067	Banyuls-sur-Mer
+T74	name 2565 2603	POSIDONIES 😄DE 😄LA 😄CÔTE 😄DES 😄ALBÈRES
+T75	name 2695 2707	Méditerranée
+T76	name 2730 2749	Pyrénées-Orientales
+T77	name 2856 2863	Cerbère
+T78	name 2869 2884	Argelès-sur-Mer
+T79	geogName 3017 3026	Collioure
+T80	name 3029 3039	La Moulade
+T81	name 3128 3137	Collioure
+T82	name 3140 3152	La Mauresque
+T84	name 3241 3253	Port-Vendres
+T85	geogFeat 3256 3259	cap
+T86	name 3260 3264	Béar
+T87	name 3299 3315	Sainte Catherine
+T88	name 3352 3360	La Llose
+T89	name 3450 3457	Cerbère
+T90	geogFeat 3460 3465	îlots
+T91	name 3466 3475	Canadells
+T92	name 4389 4393	AGDE
+T93	name 4464 4476	Méditerranée
+T94	geogFeat 4668 4671	Roc
+T95	name 4675 4682	Brescou
+T96	name 4695 4701	Tables
+T97	name 4742 4746	Agde
+T98	geogFeat 4810 4813	Roc
+T99	name 4817 4824	Brescou
+T100	name 4899 4906	Brescou
+T101	name 4957 4964	Brescou
+T102	name 5194 5204	des Tables
+T103	name 5785 5794	ESPAGNOLE
+T104	name 5812 5816	AGDE
+T105	name 5951 5958	Brescou
+T106	geogName 112 129	ANSE DE PEYREFITE
+T107	geogName 65 129	ZONE DE MOUILLAGE ET D’ÉQUIPEMENTS LÉGERS DE L’ANSE DE PEYREFITE
+T108	geogName 266 278	Méditerranée
+T109	geogName 296 315	Pyrénées-Orientales
+T110	geogName 405 422	anse de Peyrefite
+T111	geogName 1429 1489	ZONE DE MOUILLAGE ET D’ÉQUIPEMENTS LÉGERS DE BANYULS-SUR-MER
+T112	geogName 1587 1599	Méditerranée
+T113	geogName 1621 1640	Pyrénées-Orientales
+T114	geogName 1743 1768	baie 😄de 😄Banyuls-sur-Mer
+T115	geogName 1784 1795	cap 😄d’Osne
+T116	geogName 2044 2067	port de Banyuls-sur-Mer
+T117	geogName 2028 2067	capitainerie du port de Banyuls-sur-Mer
+T118	geogName 2546 2605	SITE NATURA 2000 « POSIDONIES 😄DE 😄LA 😄CÔTE 😄DES 😄ALBÈRES »
+T119	geogName 2695 2707	Méditerranée
+T120	geogName 2730 2749	Pyrénées-Orientales
+T121	geogName 4383 4393	CAP D’AGDE
+T122	geogName 4337 4393	ZONES DE MOUILLAGE ET D’ÉQUIPEMENTS LÉGERS DU CAP D’AGDE
+T123	geogName 4464 4476	Méditerranée
+T124	geogName 4668 4682	Roc de Brescou
+T125	geogName 4663 4682	site Roc de Brescou
+T126	geogName 4686 4701	site des Tables
+T127	geogName 4736 4746	cap d’Agde
+T128	geogName 4810 4824	Roc de Brescou
+T129	geogName 4800 4826	Site du « Roc de Brescou »
+T130	geogName 4899 4906	Brescou
+T131	geogName 4957 4964	Brescou
+T132	geogName 5187 5206	Site « des Tables »
+T133	geogName 5806 5816	CAP D’AGDE
+T134	geogName 5775 5794	FRONTIÈRE ESPAGNOLE
+T135	geogName 5951 5958	Brescou
+R1	ElementOf Arg1:T5 Arg2:T110	
+R2	ElementOf Arg1:T7 Arg2:T9	
+R3	ElementOf Arg1:T10 Arg2:T8	
+R4	SouthOf Arg1:T15 Arg2:T115	
+R5	ElementOf Arg1:T19 Arg2:T18	
+T136	geogName 2847 2884	ports de Cerbère et d’Argelès-sur-Mer
+R6	ElementOf Arg1:T27 Arg2:T25	
+R7	ElementOf Arg1:T28 Arg2:T27	
+R8	SouthWestOf Arg1:T125 Arg2:T127	
+R9	SouthOf Arg1:T126 Arg2:T127	
+T138	name 4886 4887	1
+T139	geogName 4881 4887	zone 1
+T140	name 4914 4915	2
+T141	geogName 4909 4915	zone 2
+R10	ElementOf Arg1:T139 Arg2:T47	
+R11	ElementOf Arg1:T141 Arg2:T47	
+R12	ElementOf Arg1:T47 Arg2:T129	
+R13	NorthOf Arg1:T139 Arg2:T130	
+R14	SouthOf Arg1:T141 Arg2:T130	
+R15	MarkedBy Arg1:T50 Arg2:T51	
+R16	ElementOf Arg1:T55 Arg2:T57	
+T142	geogFeat 1727 1733	ouvert
+T137	name 3010 3014	nº 1
+T143	geogName 3005 3014	zone nº 1
+T144	name 3017 3026	Collioure
+T145	geogName 3029 3039	La Moulade
+T146	name 3121 3125	nº 2
+T147	geogName 3116 3125	zone nº 2
+T148	geogName 3128 3137	Collioure
+T149	geogName 3140 3152	La Mauresque
+T150	name 3234 3238	nº 3
+T151	geogName 3229 3238	zone nº 3
+T152	geogName 3241 3253	Port-Vendres
+T153	geogName 3256 3264	cap Béar
+T154	geogName 3299 3315	Sainte Catherine
+T155	geogName 3352 3360	La Llose
+T156	name 3443 3447	nº 4
+T157	geogName 3438 3447	zone nº 4
+T158	geogName 3450 3457	Cerbère
+T159	geogName 3460 3475	îlots Canadells
+T160	name 3421 3426	nº 32
+T161	name 3429 3431	36
+T162	geogName 3395 3432	dispositifs de mouillage (nº 32 à 36)
+T163	name 3213 3218	nº 37
+T164	name 3221 3223	39
+T165	geogName 3187 3224	dispositifs de mouillage (nº 37 à 39)
+T166	name 3100 3105	nº 40
+T167	name 3108 3110	43
+T168	geogName 3074 3111	dispositifs de mouillage (nº 40 à 43)
+T169	name 3536 3541	nº 30
+T170	name 3545 3547	31
+T171	geogName 3510 3548	dispositifs de mouillage (nº 30 et 31)
+T172	name 5151 5152	A
+T173	name 5156 5157	C
+T174	name 5159 5160	C
+T175	name 5164 5165	D
+T176	name 5169 5170	D
+T177	name 5174 5175	E
+T178	geogName 5144 5175	bouées A et C, C et D et D et E
+R17	ElementOf Arg1:T15 Arg2:T142	
+R18	ElementOf Arg1:T142 Arg2:T114	
+R19	ElementOf Arg1:T168 Arg2:T143	
+R20	ElementOf Arg1:T165 Arg2:T147	
+R21	ElementOf Arg1:T162 Arg2:T151	
+R22	ElementOf Arg1:T171 Arg2:T157	
+R23	ElementOf Arg1:T143 Arg2:T25	
+R24	ElementOf Arg1:T147 Arg2:T25	
+R25	ElementOf Arg1:T151 Arg2:T25	
+R26	ElementOf Arg1:T157 Arg2:T25	
+R27	ElementOf Arg1:T125 Arg2:T42	
+R28	ElementOf Arg1:T126 Arg2:T42	
+R29	ElementOf Arg1:T41 Arg2:T42	

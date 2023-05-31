@@ -1,0 +1,9 @@
+T1	geogFeat 23 26	Ras
+T2	geogFeat 36 39	cap
+T3	geogFeat 56 59	Ras
+T4	name 27 34	Ouillis
+T5	name 40 43	Ivi
+T6	name 60 65	Ténès
+T7	geogName 23 34	Ras Ouillis
+T8	geogName 36 43	cap Ivi
+T9	geogName 56 65	Ras Ténès

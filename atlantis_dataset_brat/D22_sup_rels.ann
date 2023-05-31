@@ -1,0 +1,299 @@
+T1	geogFeat 5 11	entrée
+T2	geogFeat 18 26	calanque
+T3	geogFeat 97 100	cap
+T4	geogFeat 118 122	port
+T5	geogFeat 144 155	brise-lames
+T6	geogFeat 168 175	passage
+T7	geogFeat 246 252	pointe
+T8	name 258 264	Îlette
+T9	geogFeat 276 280	tour
+T10	geogFeat 349 354	hôtel
+T11	geogFeat 404 409	hôtel
+T12	name 413 416	Cap
+T13	geogFeat 433 437	port
+T14	geogFeat 479 485	pointe
+T15	geogFeat 490 499	réservoir
+T16	geogFeat 591 602	brise-lames
+T17	geogFeat 688 700	contre-jetée
+T18	geogFeat 742 748	musoir
+T19	geogFeat 752 763	brise-lames
+T20	geogFeat 845 850	phare
+T21	geogFeat 884 889	jetée
+T22	geogFeat 900 905	darse
+T23	geogFeat 917 931	chenal d’accès
+T24	geogFeat 1186 1189	cap
+T25	geogFeat 1227 1233	pointe
+T26	geogFeat 1249 1254	hôtel
+T27	geogFeat 1272 1277	épave
+T28	geogFeat 1326 1334	tourelle
+T29	geogFeat 1359 1363	port
+T30	geogFeat 1435 1439	baie
+T31	geogFeat 1463 1469	pointe
+T32	geogFeat 1527 1533	entrée
+T33	geogFeat 1537 1541	port
+T34	geogFeat 1612 1617	plage
+T35	geogFeat 1717 1723	bronde
+T36	geogFeat 1771 1780	haut-fond
+T37	geogFeat 1833 1841	tourelle
+T38	geogFeat 1912 1916	port
+T39	geogFeat 1932 1938	chenal
+T40	geogFeat 2011 2020	émissaire
+T41	geogFeat 2101 2107	pointe
+T42	geogFeat 2130 2139	port-abri
+T43	geogFeat 2187 2192	jetée
+T44	geogFeat 2243 2248	plage
+T45	geogFeat 2287 2293	pointe
+T46	geogFeat 2336 2347	hauts-fonds
+T47	geogFeat 2400 2406	pointe
+T48	geogFeat 2463 2469	entrée
+T49	geogFeat 2473 2477	port
+T50	geogFeat 2504 2508	anse
+T51	geogFeat 2583 2609	zone de câbles sous-marins
+T52	geogFeat 2641 2645	anse
+T53	geogFeat 2652 2658	entrée
+T54	geogFeat 2686 2691	jetée
+T55	geogFeat 2720 2731	terre-plein
+T56	geogFeat 2760 2771	brise-lames
+T57	geogFeat 2810 2814	zone
+T58	geogFeat 2840 2844	port
+T59	geogFeat 2871 2875	port
+T60	geogFeat 2922 2927	Golfe
+T61	geogFeat 2945 2948	île
+T62	geogFeat 2990 2998	faubourg
+T63	geogFeat 3046 3051	villa
+T64	geogFeat 3088 3094	sommet
+T65	geogFeat 3101 3108	colline
+T66	geogFeat 3174 3178	amer
+T67	geogFeat 3201 3207	coffre
+T68	geogFeat 3265 3270	phare
+T69	geogFeat 3307 3313	pointe
+T70	geogFeat 3328 3331	cap
+T71	geogFeat 3347 3352	phare
+T72	geogFeat 3392 3396	toit
+T73	geogFeat 3354 3366	construction
+T74	geogFeat 3452 3457	phare
+T75	geogFeat 3383 3389	maison
+T76	geogFeat 3503 3507	port
+T77	geogFeat 3512 3516	quai
+T78	geogFeat 3544 3548	quai
+T79	geogFeat 3591 3596	passe
+T80	geogFeat 3669 3678	port-abri
+T81	geogFeat 3736 3742	pointe
+T82	geogFeat 3766 3771	passe
+T83	geogFeat 3801 3808	musoirs
+T84	geogFeat 3813 3818	môles
+T85	geogFeat 3835 3838	feu
+T86	geogFeat 3888 3894	coffre
+T87	geogFeat 3967 3975	batterie
+T88	geogFeat 4003 4008	épave
+T89	geogFeat 4043 4051	tourelle
+T90	geogFeat 4058 4063	basse
+T91	geogFeat 4153 4157	zone
+T92	geogFeat 4251 4256	hôtel
+T93	geogFeat 4329 4333	amer
+T94	geogFeat 4361 4365	port
+T95	geogFeat 4384 4390	pointe
+T96	geogFeat 4410 4414	côte
+T97	geogFeat 4440 4446	villas
+T98	geogFeat 4450 4456	hôtels
+T99	geogFeat 4530 4536	pointe
+T100	geogFeat 4554 4562	lieu-dit
+T101	geogFeat 4591 4596	phare
+T102	geogFeat 4608 4617	haut-fond
+T103	geogFeat 4672 4675	feu
+T104	geogFeat 4694 4699	jetée
+T105	geogFeat 4758 4763	Passe
+T106	geogFeat 4781 4801	bouée d’atterrissage
+T107	geogFeat 4811 4815	Rade
+T108	geogFeat 4848 4864	ZONES INTERDITES
+T109	geogFeat 4905 4913	falaises
+T110	geogFeat 5006 5010	zone
+T111	geogFeat 5042 5046	zone
+T112	geogFeat 5105 5108	île
+T113	geogFeat 5144 5147	cap
+T114	geogFeat 5232 5237	ports
+T115	geogFeat 5267 5273	entrée
+T116	geogFeat 5277 5281	baie
+T117	geogFeat 5323 5326	cap
+T118	geogFeat 5344 5350	pointe
+T119	geogFeat 5444 5449	passe
+T120	geogFeat 5460 5469	émissaire
+T121	geogFeat 5584 5588	port
+T122	geogFeat 5623 5628	phare
+T123	geogFeat 5633 5644	débarcadère
+T124	geogFeat 5672 5694	balise cardinale Ouest
+T125	geogFeat 5745 5752	dangers
+T126	geogFeat 5766 5770	côte
+T127	geogFeat 5793 5797	port
+T128	geogFeat 5861 5867	pointe
+T129	geogFeat 5881 5901	chantier naval privé
+T130	geogFeat 5955 5959	port
+T131	geogFeat 6003 6009	bassin
+T132	geogFeat 6017 6021	port
+T133	geogFeat 6074 6089	passerelle fixe
+T134	name 30 41	Callelongue
+T135	geogName 18 41	calanque de Callelongue
+T136	name 101 110	Croisette
+T137	geogName 97 110	cap Croisette
+T138	geogName 246 264	pointe de l’Îlette
+T139	name 281 289	Graillon
+T140	geogName 276 289	tour Graillon
+T141	geogName 404 416	hôtel du Cap
+T142	name 890 893	Est
+T143	name 906 909	Sud
+T144	geogName 884 893	jetée Est
+T145	geogName 900 909	darse Sud
+T146	name 1190 1195	Cépet
+T147	geogName 1186 1195	cap Cépet
+T148	name 1104 1116	Méditerranée
+T149	geogName 1104 1116	Méditerranée
+T150	name 1367 1374	Manteau
+T151	geogName 1359 1374	port du Manteau
+T152	name 1620 1624	Agay
+T153	geogName 1612 1624	plage d’Agay
+T154	name 1727 1736	Batéguier
+T155	geogName 1717 1736	bronde de Batéguier
+T156	name 2024 2037	Sainte-Maxime
+T157	geogName 2011 2037	émissaire de Sainte-Maxime
+T158	name 2112 2117	Sardi
+T159	geogName 2101 2117	pointe des Sardi
+T160	name 2143 2152	Boulouris
+T161	geogName 2130 2152	port-abri de Boulouris
+T162	name 2251 2263	Arène Grosse
+T163	geogName 2243 2263	plage d’Arène Grosse
+T164	name 2298 2303	Lions
+T165	geogName 2287 2303	pointe des Lions
+T166	name 2407 2414	Gaillar
+T167	geogName 2400 2414	pointe Gaillar
+T168	name 2515 2520	Salis
+T169	geogName 2504 2520	anse de la Salis
+T170	name 2692 2695	Est
+T171	geogName 2686 2695	jetée Est
+T172	name 2848 2854	Cannes
+T173	name 2876 2888	Pierre Canto
+T174	geogName 2871 2888	port Pierre Canto
+T175	name 2928 2932	Juan
+T176	geogName 2922 2932	Golfe Juan
+T177	name 2949 2966	Sainte-Marguerite
+T178	geogName 2945 2966	île Sainte-Marguerite
+T179	name 3005 3010	Bocca
+T180	geogName 2990 3010	faubourg de la Bocca
+T181	name 3115 3131	Croix des Gardes
+T182	geogName 3101 3131	colline de la Croix des Gardes
+T183	name 3274 3279	Titan
+T184	geogName 3265 3279	phare du Titan
+T185	name 2834 2839	vieux
+T186	geogName 2834 2844	vieux port
+T187	geogName 2834 2854	vieux port de Cannes
+T188	name 3317 3323	Rascas
+T189	geogName 3307 3323	pointe du Rascas
+T190	name 3332 3337	Cépet
+T191	geogName 3328 3337	cap Cépet
+T192	name 3445 3451	ancien
+T193	geogName 3445 3457	ancien phare
+T194	name 3517 3529	L’Hirondelle
+T195	geogName 3512 3529	quai L’Hirondelle
+T196	name 3549 3560	Rainier 1er
+T197	geogName 3544 3560	quai Rainier 1er
+T198	name 3682 3693	Mouré Rouge
+T199	geogName 3669 3693	port-abri du Mouré Rouge
+T200	name 3749 3758	Croisette
+T201	geogName 3736 3758	pointe de la Croisette
+T202	name 3819 3822	Est
+T203	geogName 3813 3822	môles Est
+T204	name 4064 4070	Rabiou
+T205	geogName 4058 4070	basse Rabiou
+T206	geogName 4043 4070	tourelle de la basse Rabiou
+T207	name 4397 4405	Baumette
+T208	geogName 4384 4405	pointe de la Baumette
+T209	name 4541 4549	Vieilles
+T210	geogName 4530 4549	pointe des Vieilles
+T211	name 4563 4570	Anthéor
+T212	geogName 4554 4570	lieu-dit Anthéor
+T213	name 4599 4603	Agay
+T214	geogName 4591 4603	phare d’Agay
+T215	name 4751 4757	Grande
+T216	geogName 4751 4763	Grande Passe
+T217	name 4804 4810	Grande
+T218	geogName 4804 4815	Grande Rade
+T219	geogName 4781 4817	bouée d’atterrissage « Grande Rade »
+T220	name 5112 5125	Grand Rouveau
+T221	geogName 5105 5125	île du Grand Rouveau
+T222	name 5148 5153	Sicié
+T223	geogName 5144 5153	cap Sicié
+T224	name 5210 5222	Méditerranée
+T225	geogName 5210 5222	Méditerranée
+T226	name 5241 5250	La Ciotat
+T227	geogName 5232 5250	ports de La Ciotat
+T228	name 5285 5294	La Ciotat
+T229	geogName 5277 5294	baie de La Ciotat
+T230	name 5332 5337	Aigle
+T231	geogName 5323 5337	cap de l’Aigle
+T232	name 5354 5360	Défens
+T233	geogName 5344 5360	pointe du Défens
+T234	name 5450 5453	Sud
+T235	geogName 5444 5453	passe Sud
+T236	name 5473 5491	Bormes-Le Lavandou
+T237	geogName 5460 5491	émissaire de Bormes-Le Lavandou
+T238	name 5592 5600	Lavandou
+T239	geogName 5584 5600	port du Lavandou
+T240	name 5698 5702	Voet
+T241	geogName 5672 5702	balise cardinale Ouest le Voet
+T242	name 5801 5811	Bois Sacré
+T243	geogName 5793 5811	port du Bois Sacré
+T244	name 6010 6013	NNW
+T245	geogName 6003 6013	bassin NNW
+R1	EastSouthEastOf Arg1:T1 Arg2:T137	
+R2	NorthOf Arg1:T140 Arg2:T138	
+R3	WestNorthWestOf Arg1:T140 Arg2:T10	
+R4	NorthNorthWestOf Arg1:T15 Arg2:T14	
+R5	ElementOf Arg1:T18 Arg2:T19	
+R6	ElementOf Arg1:T20 Arg2:T144	
+R7	ElementOf Arg1:T144 Arg2:T145	
+R8	WestNorthWestOf Arg1:T26 Arg2:T25	
+R9	EastSouthEastOf Arg1:T27 Arg2:T28	
+R10	NorthOf Arg1:T151 Arg2:T30	
+R11	WestSouthWestOf Arg1:T151 Arg2:T31	
+R12	WestNorthWestOf Arg1:T36 Arg2:T37	
+R13	OffTheCoastOf Arg1:T157 Arg2:T159	
+R14	SouthOf Arg1:T43 Arg2:T161	
+R15	EastNorthEastOf Arg1:T163 Arg2:T165	
+R16	EastSouthEastOf Arg1:T46 Arg2:T167	
+R17	ElementOf Arg1:T51 Arg2:T52	
+R18	NorthOf Arg1:T171 Arg2:T53	
+R19	SouthOf Arg1:T55 Arg2:T53	
+R20	SouthOf Arg1:T57 Arg2:T187	
+R21	WestOf Arg1:T57 Arg2:T174	
+R22	EastNorthEastOf Arg1:T63 Arg2:T180	
+R23	ElementOf Arg1:T63 Arg2:T64	
+R24	ElementOf Arg1:T64 Arg2:T182	
+R25	SouthSouthEastOf Arg1:T67 Arg2:T184	
+R26	EastNorthEastOf Arg1:T191 Arg2:T189	
+R27	ElementOf Arg1:T71 Arg2:T191	
+R28	ElementOf Arg1:T73 Arg2:T75	
+R29	ElementOf Arg1:T72 Arg2:T75	
+R30	SouthWestOf Arg1:T193 Arg2:T71	
+R31	ElementOf Arg1:T195 Arg2:T76	
+R32	ElementOf Arg1:T197 Arg2:T76	
+R33	NorthNorthEastOf Arg1:T199 Arg2:T201	
+R34	ElementOf Arg1:T83 Arg2:T203	
+T246	name 3958 3966	ancienne
+T247	geogName 3958 3975	ancienne batterie
+R35	WestNorthWestOf Arg1:T86 Arg2:T247	
+R36	EastSouthEastOf Arg1:T88 Arg2:T206	
+R37	WestNorthWestOf Arg1:T92 Arg2:T94	
+R38	EastOf Arg1:T96 Arg2:T208	
+R39	WestSouthWestOf Arg1:T102 Arg2:T103	
+R40	ElementOf Arg1:T103 Arg2:T104	
+R41	SouthOf Arg1:T111 Arg2:T221	
+R42	WestNorthWestOf Arg1:T111 Arg2:T223	
+R43	EastSouthEastOf Arg1:T233 Arg2:T231	
+R44	SouthWestOf Arg1:T237 Arg2:T239	
+R45	NorthNorthWestOf Arg1:T123 Arg2:T122	
+R46	NorthOf Arg1:T123 Arg2:T241	
+R47	MarkedBy Arg1:T125 Arg2:T241	
+R48	WestNorthWestOf Arg1:T243 Arg2:T128	
+R49	ElementOf Arg1:T32 Arg2:T33	
+R50	ElementOf Arg1:T48 Arg2:T49	
+R51	ElementOf Arg1:T73 Arg2:T71	
+R52	OffTheCoastOf Arg1:T237 Arg2:T239	

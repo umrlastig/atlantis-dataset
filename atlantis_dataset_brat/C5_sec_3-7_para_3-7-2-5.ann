@@ -1,0 +1,26 @@
+T1	geogFeat 61 66	jetée
+T2	geogFeat 85 102	îlots artificiels
+T4	geogFeat 181 192	ducs d’Albe
+T5	geogFeat 238 243	jetée
+T6	geogFeat 253 260	coffres
+T7	geogFeat 294 311	poste à phosphate
+T8	geogFeat 320 325	poste
+T10	geogFeat 801 819	oléoduc sous-marin
+T11	geogFeat 844 849	jetée
+T12	geogFeat 855 870	poste pétrolier
+T13	geogFeat 892 897	poste
+T14	geogFeat 923 941	coffres d’amarrage
+T15	geogFeat 952 957	bouée
+T16	geogFeat 975 982	oléoduc
+T17	geogFeat 991 1006	poste pétrolier
+T18	geogFeat 1193 1199	postes
+T19	geogFeat 1362 1379	poste à phosphate
+T20	geogFeat 1399 1410	plate-forme
+T22	geogFeat 12 36	Installations portuaires
+T3	geogFeat 165 170	ligne
+R1	ElementOf Arg1:T4 Arg2:T3	
+R2	EastOf Arg1:T3 Arg2:T5	
+R3	ElementOf Arg1:T14 Arg2:T13	
+R4	ElementOf Arg1:T15 Arg2:T13	
+T9	geogFeat 277 290	installations
+R5	ElementOf Arg1:T9 Arg2:T7	

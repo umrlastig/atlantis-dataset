@@ -1,0 +1,79 @@
+T1	geogFeat 90 94	port
+T3	geogFeat 223 227	quai
+T4	geogFeat 313 317	quai
+T5	geogFeat 464 468	rade
+T6	geogFeat 498 502	port
+T7	geogFeat 861 866	CÔTES
+T8	geogFeat 888 893	zones
+T9	geogFeat 1069 1080	Base navale
+T10	geogFeat 1099 1109	plan d’eau
+T11	geogFeat 1168 1173	ligne
+T12	geogFeat 1201 1207	musoir
+T13	geogFeat 1213 1230	port de plaisance
+T14	geogFeat 1252 1258	pointe
+T15	geogFeat 1267 1271	îlot
+T17	geogFeat 1327 1331	rade
+T18	geogFeat 1371 1375	baie
+T19	geogFeat 1403 1409	pointe
+T20	geogFeat 1438 1442	îlot
+T21	geogFeat 1468 1482	zone interdite
+T22	geogFeat 1536 1540	baie
+T23	geogFeat 1558 1562	baie
+T24	geogFeat 1690 1694	pont
+T25	geogFeat 1706 1712	pointe
+T26	geogFeat 1726 1730	îlot
+T27	geogFeat 1660 1672	fausse passe
+T16	geogFeat 1286 1298	zone côtière
+T28	geogFeat 1784 1790	chenal
+T29	geogFeat 1819 1835	zones interdites
+T30	geogFeat 1854 1860	bouées
+T31	geogFeat 2106 2111	passe
+T32	geogFeat 2128 2132	port
+T33	geogFeat 646 656	République
+T34	name 660 678	Nouvelle-Calédonie
+T35	name 841 859	NOUVELLE-CALÉDONIE
+T36	name 867 870	SUD
+T37	name 874 879	OUEST
+T38	name 1084 1090	Nouméa
+T39	geogFeat 1130 1136	pointe
+T40	name 1137 1144	Chaleix
+T41	name 1259 1261	NE
+T42	name 1272 1276	Brun
+T43	name 1320 1326	Petite
+T44	name 1380 1387	Citrons
+T45	name 1410 1417	Chaleix
+T46	name 1443 1447	Brun
+T47	name 1545 1552	Citrons
+T48	name 1568 1578	Orphelinat
+T49	name 1731 1735	Brun
+T50	name 1713 1720	Chaleix
+T51	name 2115 2121	Dumbéa
+T52	name 2136 2142	Nouméa
+T53	geogName 660 678	Nouvelle-Calédonie
+T54	geogName 841 859	NOUVELLE-CALÉDONIE
+T55	geogName 861 879	CÔTES SUD ET OUEST
+T56	geogName 1130 1144	pointe Chaleix
+T57	geogName 1069 1090	Base navale de Nouméa
+T58	geogName 1252 1261	pointe NE
+T59	geogName 1267 1276	îlot Brun
+T60	geogName 1320 1331	Petite rade
+T61	geogName 1371 1387	baie des Citrons
+T62	geogName 1438 1447	îlot Brun
+T63	geogName 1403 1417	pointe Chaleix
+T64	geogName 1536 1552	baie des Citrons
+T65	geogName 1558 1578	baie de l’Orphelinat
+T66	geogName 1726 1735	îlot Brun
+T67	geogName 2106 2121	passe de Dumbéa
+T68	geogName 2128 2142	port de Nouméa
+T69	geogName 1706 1720	pointe Chaleix
+T70	geogFeat 100 120	capitainerie du port
+R1	ElementOf Arg1:T10 Arg2:T8	
+R2	ElementOf Arg1:T16 Arg2:T8	
+R3	NorthOf Arg1:T10 Arg2:T56	
+R4	ElementOf Arg1:T12 Arg2:T11	
+R5	ElementOf Arg1:T12 Arg2:T13	
+R6	ElementOf Arg1:T58 Arg2:T11	
+R7	ElementOf Arg1:T58 Arg2:T59	
+R8	SouthOf Arg1:T61 Arg2:T63	
+R9	MarkedBy Arg1:T28 Arg2:T30	
+R10	NorthOf Arg1:T11 Arg2:T10	

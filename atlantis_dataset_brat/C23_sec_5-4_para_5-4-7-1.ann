@@ -1,0 +1,29 @@
+T1	geogFeat 32 36	port
+T2	geogFeat 74 78	rive
+T3	geogFeat 94 99	étier
+T4	geogFeat 125 133	tourelle
+T5	geogFeat 191 205	feu à secteurs
+T6	geogFeat 229 233	port
+T7	geogFeat 250 255	étier
+T8	geogFeat 304 309	digue
+T9	geogFeat 339 343	côte
+T10	geogFeat 373 383	embouchure
+T11	geogFeat 410 414	rive
+T12	geogFeat 398 403	perré
+T13	geogFeat 427 434	perches
+T14	geogFeat 450 461	hauts-fonds
+T15	name 43 51	Brochets
+T16	geogName 32 51	port 😄des 😄Brochets
+T17	name 238 246	Brochets
+T18	geogName 229 246	port des Brochets
+T19	name 262 269	Louippe
+T20	geogName 250 269	étier de la Louippe
+R1	ElementOf Arg1:T5 Arg2:T4	
+R2	ElementOf Arg1:T12 Arg2:T22	
+R3	MarkedBy Arg1:T14 Arg2:T13	
+R4	ElementOf Arg1:T4 Arg2:T24	
+T21	name 415 419	Nord
+T22	geogName 410 419	rive Nord
+T23	name 80 86	gauche
+T24	geogName 74 86	rive 😄gauche
+R5	SouthOf Arg1:T13 Arg2:T14	

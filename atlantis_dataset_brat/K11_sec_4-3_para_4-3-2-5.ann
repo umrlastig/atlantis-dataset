@@ -1,0 +1,53 @@
+T1	geogFeat 12 16	Port
+T2	geogFeat 45 50	passe
+T3	geogFeat 76 92	chenal intérieur
+T4	geogFeat 215 219	Motu
+T5	geogFeat 230 234	port
+T6	geogFeat 246 256	plan d’eau
+T7	geogFeat 315 319	motu
+T8	geogFeat 355 378	obstruction découvrante
+T9	geogFeat 490 494	quai
+T10	geogFeat 516 520	côte
+T11	geogFeat 527 531	Motu
+T12	geogFeat 592 596	baie
+T13	geogFeat 679 683	baie
+T14	geogFeat 688 695	passage
+T15	geogFeat 720 726	espars
+T16	geogFeat 792 796	Baie
+T17	geogFeat 824 840	chenal intérieur
+T18	geogFeat 891 895	baie
+T19	geogFeat 921 927	récifs
+T20	geogFeat 953 957	baie
+T21	geogFeat 985 996	hauts-fonds
+T22	name 17 25	Bourayne
+T23	name 51 58	Avapehi
+T24	name 220 227	Vaiorea
+T25	name 235 243	Bourayne
+T26	name 532 539	Vaiorea
+T27	name 521 523	NW
+T28	name 696 703	Honoava
+T29	name 797 802	Maroe
+T30	name 896 902	Teapaa
+T31	name 958 963	Haapu
+T32	geogName 12 25	Port Bourayne
+T33	geogName 45 58	passe Avapehi
+T34	geogName 215 227	Motu Vaiorea
+T35	geogName 230 243	port Bourayne
+T36	geogName 516 523	côte NW
+T37	geogName 527 539	Motu Vaiorea
+T38	geogName 688 703	passage Honoava
+T39	geogName 792 802	Baie Maroe
+T40	geogName 891 902	baie Teapaa
+T41	geogName 953 963	baie Haapu
+T42	geogFeat 144 161	balisage lumineux
+T43	geogFeat 294 301	passage
+T44	geogFeat 545 554	Mouillage
+R1	MarkedBy Arg1:T3 Arg2:T42	
+R2	ElementOf Arg1:T6 Arg2:T35	
+R3	SouthEastOf Arg1:T43 Arg2:T7	
+R4	ElementOf Arg1:T36 Arg2:T37	
+R5	ElementOf Arg1:T44 Arg2:T12	
+R6	ElementOf Arg1:T38 Arg2:T13	
+R7	MarkedBy Arg1:T38 Arg2:T15	
+R8	ElementOf Arg1:T19 Arg2:T40	
+R9	ElementOf Arg1:T9 Arg2:T36	

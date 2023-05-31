@@ -1,0 +1,17 @@
+T1	geogFeat 14 18	Îles
+T2	geogFeat 20 25	bancs
+T3	geogFeat 27 34	dangers
+T4	geogFeat 51 55	banc
+T5	geogFeat 192 195	Île
+T6	geogFeat 234 252	zone d’eau trouble
+T7	geogFeat 350 353	île
+T8	geogFeat 391 402	hauts-fonds
+T9	geogFeat 419 424	passe
+T10	geogFeat 494 499	lagon
+T11	name 185 191	Grande
+T12	name 354 363	Sud-Ouest
+T13	name 425 434	Sud-Ouest
+T14	geogName 185 195	Grande Île
+T15	geogName 350 363	île Sud-Ouest
+T16	geogName 419 434	passe Sud-Ouest
+R1	WestOf Arg1:T6 Arg2:T15	

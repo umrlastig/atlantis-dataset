@@ -1,0 +1,275 @@
+T1	geogFeat 97 100	île
+T2	geogFeat 131 138	sommets
+T3	geogFeat 152 156	mont
+T4	geogFeat 177 181	mont
+T5	geogFeat 202 206	mont
+T6	geogFeat 233 238	îlots
+T7	geogFeat 282 287	motus
+T8	geogFeat 325 339	récif-barrière
+T9	geogFeat 443 446	île
+T10	geogFeat 466 475	chef lieu
+T11	geogFeat 495 499	côte
+T12	geogFeat 569 573	Mont
+T13	geogFeat 583 587	Mont
+T14	geogFeat 604 608	CÔTE
+T15	geogFeat 612 617	AMERS
+T16	geogFeat 624 638	récif-barrière
+T17	geogFeat 655 660	îlots
+T18	geogFeat 780 785	passe
+T19	geogFeat 807 821	récif-barrière
+T20	geogFeat 844 849	lagon
+T21	geogFeat 857 861	îles
+T22	geogFeat 866 872	pylône
+T23	geogFeat 891 897	sommet
+T24	geogFeat 901 905	mont
+T25	geogFeat 946 949	île
+T26	geogFeat 968 974	pylône
+T27	geogFeat 1021 1026	amers
+T28	geogFeat 1049 1063	récif barrière
+T29	geogFeat 1068 1074	pointe
+T30	geogFeat 1096 1101	phare
+T31	geogFeat 1184 1188	ÎLES
+T32	geogFeat 1217 1231	récif-barrière
+T33	geogFeat 1236 1240	Motu
+T34	geogFeat 1256 1265	aérodrome
+T35	geogFeat 1292 1310	phare aéronautique
+T36	geogFeat 1340 1345	piste
+T37	geogFeat 1400 1403	axe
+T38	geogFeat 1410 1415	passe
+T39	geogFeat 1487 1506	alignement lumineux
+T40	geogFeat 1522 1529	pylônes
+T41	geogFeat 1568 1575	village
+T42	geogFeat 1618 1637	Alignement d’entrée
+T43	geogFeat 1640 1645	Passe
+T44	geogFeat 1681 1686	passe
+T45	geogFeat 1925 1935	alignement
+T46	geogFeat 1951 1957	passes
+T47	geogFeat 1963 1970	CHENAUX
+T48	geogFeat 1991 1996	lagon
+T49	geogFeat 2070 2073	île
+T50	geogFeat 2168 2173	lagon
+T51	geogFeat 2179 2186	dangers
+T52	geogFeat 2202 2209	chenaux
+T53	geogFeat 2231 2249	balises lumineuses
+T54	geogFeat 2264 2267	île
+T55	geogFeat 2401 2430	ZONES INTERDITES AU MOUILLAGE
+T56	geogFeat 2458 2463	lagon
+T57	geogFeat 2488 2494	câbles
+T59	geogFeat 2580 2613	zones d’interdiction de mouillage
+T60	geogFeat 2677 2687	MOUILLAGES
+T61	geogFeat 2694 2698	rade
+T62	geogFeat 2713 2732	points de mouillage
+T63	geogFeat 3081 3099	point de mouillage
+T64	geogFeat 3235 3254	points de mouillage
+T65	geogFeat 2977 2983	points
+T66	geogFeat 3376 3380	baie
+T67	geogFeat 3429 3439	mouillages
+T68	geogFeat 3471 3475	baie
+T69	geogFeat 3582 3588	bandes
+T70	geogFeat 3674 3685	hauts-fonds
+T71	geogFeat 3727 3738	obstruction
+T72	geogFeat 3910 3914	port
+T73	geogFeat 3963 3969	pointe
+T74	geogFeat 4236 4242	Pointe
+T75	geogFeat 4255 4259	quai
+T76	geogFeat 4387 4391	ÎLES
+T77	geogFeat 4402 4406	ÎLES
+T78	geogFeat 4422 4426	ÎLES
+T79	geogFeat 4441 4445	port
+T80	geogFeat 4459 4463	quai
+T81	geogFeat 4525 4536	appontement
+T82	geogFeat 4492 4507	têtes de corail
+T83	geogFeat 4557 4574	points d’amarrage
+T84	geogFeat 4587 4592	poste
+T85	geogFeat 4652 4658	marina
+T86	geogFeat 4734 4738	côte
+T87	geogFeat 4746 4750	Motu
+T88	geogFeat 4761 4772	appontement
+T89	geogFeat 4846 4856	alignement
+T90	geogFeat 4864 4867	feu
+T91	geogFeat 4873 4881	aéroport
+T92	geogFeat 4886 4889	feu
+T93	geogFeat 4895 4906	appontement
+T94	geogFeat 4915 4919	rive
+T95	geogFeat 4931 4935	baie
+T96	geogFeat 4949 4954	darse
+T97	geogFeat 4962 4966	slip
+T98	geogFeat 5023 5027	côte
+T99	geogFeat 5048 5059	appontement
+T100	geogFeat 5088 5094	temple
+T101	geogFeat 5270 5274	quai
+T102	geogFeat 5349 5361	Capitainerie
+T103	geogFeat 5469 5488	Station de pilotage
+T104	geogFeat 5526 5534	Aéroport
+T105	geogFeat 5554 5557	île
+T106	geogFeat 5647 5652	Ville
+T107	geogFeat 5663 5686	chef lieu administratif
+T108	geogFeat 5739 5743	Port
+T109	geogFeat 5815 5819	Quai
+T110	geogFeat 5823 5829	marina
+T111	name 12 21	Bora-Bora
+T112	name 42 47	Tahaa
+T113	name 49 58	Bora-Bora
+T114	name 157 164	Otemanu
+T115	name 182 187	Pahia
+T116	name 207 210	Hue
+T117	name 261 267	Toopua
+T118	name 479 486	Vaitape
+T119	name 557 566	Bora-Bora
+T120	name 574 579	Pahia
+T121	name 588 591	Hue
+T122	name 906 912	Pahonu
+T123	name 1075 1086	Te Turi Roa
+T124	name 1189 1201	SOUS-LE-VENT
+T125	name 1241 1245	Mute
+T126	geogFeat 1377 1382	PASSE
+T127	name 1386 1394	TEAVANUI
+T128	name 1416 1424	Teavanui
+T129	name 1579 1586	Vaitape
+T132	name 1606 1615	Bora-Bora
+T133	name 1646 1654	Teavanui
+T134	name 2702 2709	Vaitape
+T135	name 2736 2740	BO-1
+T136	name 2746 2750	BO-2
+T137	name 2758 2762	BO-3
+T138	name 3102 3106	BO-3
+T139	name 3257 3261	BO-1
+T140	name 3269 3273	BO-2
+T141	name 3384 3389	Povai
+T142	name 3406 3413	Vaitape
+T143	name 3476 3482	Faanui
+T144	name 3503 3510	Vaitape
+T145	name 3918 3925	Vaitape
+T146	name 3970 3978	Farepiti
+T147	name 4243 4251	Farepiti
+T148	name 4395 4399	VENT
+T149	name 4407 4419	SOUS-LE-VENT
+T150	name 4427 4436	AUSTRALES
+T151	name 4449 4456	Vaitape
+T152	geogFeat 4644 4648	quai
+T153	name 4739 4742	Sud
+T154	name 4751 4757	Tehotu
+T155	name 4920 4924	Nord
+T156	name 4939 4945	Faanui
+T157	name 5035 5044	Bora-Bora
+T158	name 5098 5102	Anau
+T159	name 5627 5633	Uturoa
+T160	name 5637 5644	Papeete
+T161	name 5687 5696	Bora-Bora
+T162	name 5654 5661	Vaitape
+T163	name 5727 5736	Bora-Bora
+T164	name 5747 5754	Vaitape
+T165	name 5803 5812	Bora-Bora
+T166	name 5833 5840	Vaitape
+T167	geogName 12 21	Bora-Bora
+T168	geogName 42 47	Tahaa
+T169	geogName 49 58	Bora-Bora
+T170	geogName 152 164	mont Otemanu
+T171	geogName 177 187	mont Pahia
+T172	geogName 202 210	mont Hue
+T173	geogName 261 267	Toopua
+T174	geogName 479 486	Vaitape
+T175	geogName 557 566	Bora-Bora
+T176	geogName 569 579	Mont Pahia
+T177	geogName 583 591	Mont Hue
+T178	geogName 901 912	mont Pahonu
+T179	geogName 1068 1086	pointe Te Turi Roa
+T180	geogName 1184 1201	ÎLES SOUS-LE-VENT
+T181	geogName 1236 1245	Motu Mute
+T183	geogName 1377 1394	PASSE DE TEAVANUI
+T184	geogName 1410 1424	passe Teavanui
+T185	geogName 1568 1586	village de Vaitape
+T186	geogName 1606 1615	Bora-Bora
+T187	geogName 1640 1654	Passe Teavanui
+T188	geogName 2694 2709	rade de Vaitape
+T189	geogName 3081 3108	point de mouillage « BO-3 »
+T190	geogName 3235 3275	points de mouillage « BO-1 » et « BO-2 »
+T194	geogName 2713 2764	points de mouillage (« BO-1 », « BO-2 » et « BO-3 »
+T195	geogName 3376 3389	baie de Povai
+T196	geogName 3406 3413	Vaitape
+T197	geogName 3471 3482	baie Faanui
+T198	geogName 3503 3510	Vaitape
+T199	geogName 3910 3925	port de Vaitape
+T200	geogName 3963 3978	pointe Farepiti
+T201	geogName 4236 4251	Pointe Farepiti
+T202	geogName 4387 4399	ÎLES DU VENT
+T203	geogName 4402 4419	ÎLES SOUS-LE-VENT
+T204	geogName 4422 4436	ÎLES AUSTRALES
+T205	geogName 4441 4456	port de Vaitape
+T206	geogName 4734 4742	côte Sud
+T207	geogName 4746 4757	Motu Tehotu
+T208	geogName 4915 4924	rive Nord
+T209	geogName 4931 4945	baie de Faanui
+T210	geogName 5035 5044	Bora-Bora
+T211	name 5028 5031	Est
+T212	geogName 5023 5031	côte Est
+T213	geogName 5088 5102	temple de Anau
+T214	geogName 5627 5633	Uturoa
+T215	geogName 5637 5644	Papeete
+T216	geogName 5654 5661	Vaitape
+T217	geogName 5687 5696	Bora-Bora
+T218	geogName 5727 5736	Bora-Bora
+T219	geogName 5739 5754	Port de Vaitape
+T220	geogName 5803 5812	Bora-Bora
+T221	geogName 5815 5840	Quai et marina de Vaitape
+T222	geogFeat 1708 1733	balisage latéral lumineux
+T223	geogFeat 2305 2321	balisage latéral
+T224	geogFeat 4080 4104	Installations portuaires
+T225	geogFeat 5494 5498	îles
+T226	name 5502 5506	vent
+T227	geogName 5494 5506	îles du vent
+T228	geogName 5469 5506	Station de pilotage des 😍îles du vent
+T229	geogFeat 3801 3827	INFRASTRUCTURES PORTUAIRES
+T230	geogFeat 3866 3892	infrastructures portuaires
+T231	geogFeat 4214 4229	Infrastructures
+T58	geogName 3866 3906	infrastructures portuaires de Bora-😍Bora
+T191	name 3896 3906	Bora-😍Bora
+R2	ElementOf Arg1:T1 Arg2:T169	
+R3	ElementOf Arg1:T6 Arg2:T169	
+R4	ElementOf Arg1:T7 Arg2:T169	
+R5	ElementOf Arg1:T170 Arg2:T2	
+R6	ElementOf Arg1:T171 Arg2:T2	
+R7	ElementOf Arg1:T172 Arg2:T2	
+R8	ElementOf Arg1:T173 Arg2:T6	
+R9	ElementOf Arg1:T7 Arg2:T8	
+T192	name 500 505	Ouest
+T193	geogName 495 505	côte Ouest
+R10	ElementOf Arg1:T17 Arg2:T16	
+R11	ElementOf Arg1:T22 Arg2:T23	
+R12	MarkedBy Arg1:T23 Arg2:T178	
+R13	ElementOf Arg1:T26 Arg2:T27	
+R14	ElementOf Arg1:T22 Arg2:T27	
+R15	ElementOf Arg1:T30 Arg2:T179	
+R16	NorthOf Arg1:T181 Arg2:T32	
+R17	SouthWestOf Arg1:T35 Arg2:T36	
+R18	ElementOf Arg1:T37 Arg2:T184	
+R19	MarkedBy Arg1:T37 Arg2:T39	
+R20	ElementOf Arg1:T40 Arg2:T39	
+R21	NorthOf Arg1:T40 Arg2:T185	
+R22	MarkedBy Arg1:T44 Arg2:T222	
+R23	MarkedBy Arg1:T51 Arg2:T53	
+R24	ElementOf Arg1:T51 Arg2:T50	
+R26	ElementOf Arg1:T194 Arg2:T188	
+R27	SouthEastOf Arg1:T195 Arg2:T196	
+R28	ElementOf Arg1:T67 Arg2:T195	
+R29	NorthOf Arg1:T197 Arg2:T198	
+R30	ElementOf Arg1:T69 Arg2:T197	
+R31	ElementOf Arg1:T58 Arg2:T199	
+R32	ElementOf Arg1:T58 Arg2:T200	
+R33	ElementOf Arg1:T75 Arg2:T201	
+R34	NorthOf Arg1:T85 Arg2:T152	
+R35	ElementOf Arg1:T206 Arg2:T207	
+R36	ElementOf Arg1:T90 Arg2:T91	
+R37	ElementOf Arg1:T92 Arg2:T93	
+R38	ElementOf Arg1:T90 Arg2:T89	
+R39	ElementOf Arg1:T92 Arg2:T89	
+R40	NorthOf Arg1:T208 Arg2:T209	
+R41	ElementOf Arg1:T212 Arg2:T210	
+R42	SouthOf Arg1:T88 Arg2:T207	
+R43	ElementOf Arg1:T96 Arg2:T209	
+R44	ElementOf Arg1:T97 Arg2:T209	
+R45	EastOf Arg1:T99 Arg2:T210	
+R1	ElementOf Arg1:T10 Arg2:T9	
+R46	ElementOf Arg1:T174 Arg2:T193	
+R47	ElementOf Arg1:T178 Arg2:T25	
+R25	ElementOf Arg1:T80 Arg2:T205	

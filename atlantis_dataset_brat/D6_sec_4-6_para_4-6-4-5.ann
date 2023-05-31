@@ -1,0 +1,46 @@
+T1	geogFeat 29 43	passe d’entrée
+T2	geogFeat 72 77	passe
+T3	geogFeat 94 113	brise-lames détaché
+T4	geogFeat 120 125	jetée
+T5	geogFeat 145 150	passe
+T6	geogFeat 209 214	passe
+T7	geogFeat 266 273	secteur
+T8	geogFeat 297 311	feu de guidage
+T9	geogFeat 350 355	route
+T10	geogFeat 398 403	passe
+T11	geogFeat 438 452	passe d’entrée
+T12	geogFeat 566 569	RAS
+T13	geogFeat 579 582	CAP
+T14	geogFeat 599 602	RAS
+T15	geogFeat 684 688	port
+T16	geogFeat 715 729	feu de guidage
+T17	geogFeat 768 773	route
+T18	geogFeat 789 795	djebel
+T19	geogFeat 835 841	sommet
+T20	geogFeat 873 892	brise-lames détaché
+T21	geogFeat 941 948	musoirs
+T22	geogFeat 953 959	jetées
+T23	geogFeat 1136 1142	épaves
+T24	geogFeat 1164 1170	entrée
+T25	geogFeat 1174 1178	port
+T26	name 78 83	Ouest
+T27	name 126 136	Nord-Ouest
+T28	name 404 409	Ouest
+T29	name 570 577	OUILLIS
+T30	name 583 586	IVI
+T31	name 603 608	TÉNÈS
+T32	name 800 806	Zerfet
+T33	geogName 72 83	passe Ouest
+T34	geogName 120 136	jetée Nord-Ouest
+T35	geogName 398 409	passe Ouest
+T36	geogName 566 577	RAS OUILLIS
+T37	geogName 579 586	CAP IVI
+T38	geogName 599 608	RAS TÉNÈS
+T39	geogName 789 806	djebel ach Zerfet
+T40	name 215 218	Est
+T41	geogName 209 218	passe Est
+T42	geogFeat 415 420	sonde
+R1	ElementOf Arg1:T9 Arg2:T7	
+R2	ElementOf Arg1:T42 Arg2:T11	
+R3	ElementOf Arg1:T21 Arg2:T22	
+R4	ElementOf Arg1:T24 Arg2:T25	

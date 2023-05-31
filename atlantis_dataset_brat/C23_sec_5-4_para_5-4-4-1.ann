@@ -1,0 +1,52 @@
+T1	geogFeat 59 63	côte
+T2	geogFeat 75 79	baie
+T3	geogFeat 124 130	pointe
+T4	geogFeat 169 175	pointe
+T5	geogFeat 197 212	port d’échouage
+T6	geogFeat 237 241	port
+T7	geogFeat 292 296	côte
+T8	geogFeat 333 346	port de pêche
+T9	geogFeat 377 381	Port
+T10	geogFeat 475 492	port de plaisance
+T11	geogFeat 548 551	mer
+T12	geogFeat 567 573	entrée
+T13	geogFeat 663 669	POINTE
+T14	geogFeat 685 688	ÎLE
+T15	geogFeat 711 715	port
+T16	geogFeat 389 396	vannage
+T17	name 83 92	Bourgneuf
+T18	name 179 188	Gourmalon
+T19	name 216 222	Pornic
+T20	name 245 254	Gourmalon
+T21	name 350 356	Pornic
+T22	name 371 376	Vieux
+T23	name 424 436	Haute-Perche
+T24	name 496 510	La Noëveillard
+T25	name 577 583	Pornic
+T26	name 673 680	CROISIC
+T27	name 692 703	NOIRMOUTIER
+T28	name 719 725	Pornic
+T29	geogName 75 92	baie de Bourgneuf
+T30	geogName 169 188	pointe de Gourmalon
+T31	geogName 197 222	port d’échouage de Pornic
+T32	geogName 237 254	port de Gourmalon
+T33	geogName 333 356	port de pêche de Pornic
+T34	geogName 371 381	Vieux Port
+T35	geogName 424 436	Haute-Perche
+T36	geogName 475 510	port de plaisance de La Noëveillard
+T37	geogName 577 583	Pornic
+T38	geogName 663 680	POINTE DU CROISIC
+T39	geogName 685 703	ÎLE DE NOIRMOUTIER
+T40	geogName 711 725	port de Pornic
+R1	WestOf Arg1:T36 Arg2:T12	
+T41	name 134 148	Saint- 😍Gildas
+T42	geogName 124 148	pointe de Saint- 😍Gildas
+T43	name 64 68	Nord
+T44	geogName 59 68	côte Nord
+R2	NorthOf Arg1:T44 Arg2:T29	
+T45	geogFeat 275 285	échancrure
+R3	ElementOf Arg1:T45 Arg2:T7	
+R4	ElementOf Arg1:T31 Arg2:T45	
+R5	ElementOf Arg1:T33 Arg2:T45	
+R6	ElementOf Arg1:T16 Arg2:T45	
+R7	ElementOf Arg1:T12 Arg2:T37	

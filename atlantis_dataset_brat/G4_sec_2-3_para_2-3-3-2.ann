@@ -1,0 +1,84 @@
+T1	geogFeat 67 77	presqu’île
+T2	geogFeat 118 124	isthme
+T3	geogFeat 192 195	île
+T4	geogFeat 221 225	anse
+T5	geogFeat 277 281	côte
+T6	geogFeat 318 321	cap
+T7	geogFeat 342 345	cap
+T8	geogFeat 419 423	anse
+T9	geogFeat 476 505	zones d’élevages de coquilles
+T10	geogFeat 534 540	bouées
+T11	geogFeat 631 637	danger
+T12	geogFeat 675 686	hauts-fonds
+T13	geogFeat 752 759	secteur
+T14	geogFeat 769 774	phare
+T15	geogFeat 812 817	amers
+T16	geogFeat 849 856	colline
+T17	geogFeat 934 941	colline
+T18	geogFeat 1015 1021	pointe
+T19	geogFeat 914 921	colline
+T20	geogFeat 1046 1052	statue
+T21	geogFeat 1142 1147	morne
+T22	geogFeat 1164 1171	colline
+T23	geogFeat 1228 1233	croix
+T24	geogFeat 1314 1319	phare
+T25	geogFeat 1323 1326	Cap
+T26	geogFeat 1349 1355	sommet
+T27	geogFeat 1417 1423	pylône
+T28	geogFeat 1638 1641	ÎLE
+T29	geogFeat 1665 1670	Amers
+T30	geogFeat 1677 1684	colline
+T31	geogFeat 1705 1711	pointe
+T32	geogFeat 1746 1751	Amers
+T33	geogFeat 1768 1772	anse
+T34	name 43 58	Grande Miquelon
+T35	name 229 237	Miquelon
+T36	name 291 306	Grande Miquelon
+T37	name 327 340	Nid à l’Aigle
+T38	name 346 354	Miquelon
+T39	name 373 392	bature de la Chatte
+T40	name 427 435	Miquelon
+T41	name 705 724	bature de la Chatte
+T42	name 778 786	Miquelon
+T43	name 841 847	Le Cap
+T44	name 925 932	Chapeau
+T45	name 1025 1032	Chapeau
+T46	name 1153 1161	Calvaire
+T47	name 1327 1332	Blanc
+T48	name 1642 1650	MIQUELON
+T49	name 1688 1695	Chapeau
+T50	name 1715 1722	Chapeau
+T51	name 1776 1784	Miquelon
+T52	geogName 43 58	Grande Miquelon
+T53	geogName 221 237	anse de Miquelon
+T54	geogName 291 306	Grande Miquelon
+T55	geogName 342 354	cap Miquelon
+T56	geogName 318 340	cap du 😄😍Nid à l’Aigle
+T57	geogName 373 392	bature de la Chatte
+T58	geogName 419 435	anse de Miquelon
+T59	geogName 705 724	bature de la Chatte
+T60	geogName 769 786	phare de Miquelon
+T61	geogName 841 847	Le Cap
+T62	geogName 914 932	colline du Chapeau
+T63	geogName 1015 1032	pointe du Chapeau
+T64	geogName 1142 1161	morne 😄du 😄Calvaire
+T65	geogName 1323 1332	Cap Blanc
+T66	geogName 1314 1332	phare du Cap Blanc
+T67	geogName 1638 1650	ÎLE MIQUELON
+T68	geogName 1677 1695	colline du Chapeau
+T69	geogName 1705 1722	pointe du Chapeau
+T70	geogName 1768 1784	anse de Miquelon
+T71	name 282 284	NE
+T72	geogName 277 284	côte NE
+R1	ElementOf Arg1:T72 Arg2:T54	
+R2	NorthEastOf Arg1:T53 Arg2:T54	
+R3	SouthOf Arg1:T53 Arg2:T56	
+R4	NorthOf Arg1:T53 Arg2:T57	
+R5	ElementOf Arg1:T9 Arg2:T58	
+R6	MarkedBy Arg1:T9 Arg2:T10	
+R7	ElementOf Arg1:T12 Arg2:T13	
+R8	ElementOf Arg1:T20 Arg2:T63	
+R9	ElementOf Arg1:T23 Arg2:T64	
+R10	ElementOf Arg1:T26 Arg2:T66	
+R11	ElementOf Arg1:T29 Arg2:T68	
+R12	ElementOf Arg1:T29 Arg2:T69	

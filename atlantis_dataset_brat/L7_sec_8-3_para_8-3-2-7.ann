@@ -1,0 +1,24 @@
+T1	geogFeat 434 438	zone
+T2	geogFeat 462 478	port de commerce
+T3	geogFeat 719 723	CÔTE
+T4	geogFeat 731 736	GOLFE
+T5	geogFeat 747 751	CÔTE
+T6	geogFeat 768 771	MER
+T7	geogFeat 782 792	RÉPUBLIQUE
+T8	geogFeat 136 140	port
+T9	name 724 727	SUD
+T10	name 739 743	ADEN
+T11	name 752 761	AFRICAINE
+T12	name 774 780	ARABIE
+T13	name 796 804	DJIBOUTI
+T14	name 806 813	SOMALIE
+T15	geogName 719 727	CÔTE SUD
+T16	geogName 731 743	GOLFE D'ADEN
+T17	geogName 747 761	CÔTE AFRICAINE
+T18	geogName 768 780	MER D'ARABIE
+T19	geogName 782 804	RÉPUBLIQUE DE DJIBOUTI
+T20	geogName 806 813	SOMALIE
+R1	ElementOf Arg1:T2 Arg2:T1	
+T21	geogFeat 335 339	rade
+T22	geogFeat 377 381	quai
+R2	SouthOf Arg1:T15 Arg2:T16	

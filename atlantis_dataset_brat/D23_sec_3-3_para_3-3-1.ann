@@ -1,0 +1,24 @@
+T1	geogFeat 10 13	Île
+T2	geogFeat 38 41	Île
+T3	geogFeat 66 69	île
+T4	geogFeat 176 179	île
+T5	geogFeat 209 214	îlots
+T6	geogFeat 219 226	rochers
+T7	geogFeat 232 239	écueils
+T8	geogFeat 323 330	passage
+T9	geogFeat 356 359	île
+T10	geogFeat 416 420	ÎLES
+T11	name 14 23	Porraggia
+T12	name 42 51	Porraggia
+T13	name 70 79	Porraggia
+T14	name 180 187	Cavallo
+T15	name 337 348	Piantarella
+T16	name 421 428	LAVEZZI
+T17	geogName 10 23	Île Porraggia
+T18	geogName 38 51	Île Porraggia
+T19	geogName 66 79	île Porraggia
+T20	geogName 176 187	île Cavallo
+T21	geogName 323 348	passage de la Piantarella
+T22	geogName 416 428	ÎLES LAVEZZI
+R1	NorthOf Arg1:T19 Arg2:T20	
+T23	geogFeat 400 408	balisage

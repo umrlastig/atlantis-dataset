@@ -1,0 +1,20 @@
+T1	geogFeat 28 32	anse
+T2	geogFeat 277 295	câbles sous-marins
+T3	geogFeat 330 334	anse
+T4	geogFeat 380 401	appontement pétrolier
+T5	geogFeat 453 462	mouillage
+T6	geogFeat 509 513	anse
+T7	name 36 44	Miquelon
+T8	name 492 500	Langlade
+T9	name 519 528	Sud-Ouest
+T10	name 618 642	SAINT-PIERRE-ET-MIQUELON
+T11	geogName 28 44	anse de Miquelon
+T12	geogName 492 500	Langlade
+T13	geogName 618 642	SAINT-PIERRE-ET-MIQUELON
+T14	geogName 509 528	anse 😄😍du Sud-Ouest
+T16	name 338 347	Mi😍quelon
+T17	geogName 330 347	anse de Mi😍quelon
+R1	ElementOf Arg1:T2 Arg2:T17	
+R2	SouthWestOf Arg1:T5 Arg2:T12	
+R3	ElementOf Arg1:T5 Arg2:T14	
+R4	SouthOf Arg1:T2 Arg2:T4	

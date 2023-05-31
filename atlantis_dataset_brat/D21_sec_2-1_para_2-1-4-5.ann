@@ -1,0 +1,53 @@
+T1	geogFeat 12 31	Zones d’aquaculture
+T2	geogFeat 36 53	ZONES EN ACTIVITÉ
+T3	geogFeat 62 87	zones de cultures marines
+T4	geogFeat 314 365	balises à flotteur cardinales Est et Sud lumineuses
+T5	geogFeat 374 407	bouées cardinales 😄😍Ouest et Nord
+T6	geogFeat 448 454	bouées
+T7	geogFeat 508 513	zones
+T8	geogFeat 536 543	dangers
+T9	geogFeat 809 814	zones
+T10	geogFeat 930 935	sites
+T11	geogFeat 1006 1009	cap
+T12	geogFeat 1065 1068	cap
+T13	geogFeat 1114 1118	anse
+T14	geogFeat 1165 1169	anse
+T16	geogFeat 1335 1345	structures
+T17	geogFeat 873 890	ZONES DÉSACTIVÉES
+T18	name 145 157	Méditerranée
+T19	name 600 608	Gruissan
+T20	name 656 670	Narbonne-Plage
+T22	name 1010 1018	Canadell
+T23	name 1069 1080	Oullestrell
+T24	name 1122 1131	Paulilles
+T25	name 1176 1185	Mauresque
+T26	name 1232 1243	Grau-d’Agde
+T27	geogName 145 157	Méditerranée
+T28	geogName 600 608	Gruissan
+T29	geogName 656 670	Narbonne-Plage
+T30	geogName 1006 1018	cap Canadell
+T31	geogName 1065 1080	cap Oullestrell
+T32	geogName 1114 1131	anse de Paulilles
+T33	geogName 1165 1185	anse de la Mauresque
+T34	geogName 1232 1243	Grau-d’Agde
+R1	MarkedBy Arg1:T3 Arg2:T4	
+R2	MarkedBy Arg1:T3 Arg2:T5	
+R3	ElementOf Arg1:T6 Arg2:T7	
+T35	geogFeat 898 910	obstructions
+R6	ElementOf Arg1:T35 Arg2:T15	
+R4	SouthEastOf Arg1:T8 Arg2:T28	
+R5	EastOf Arg1:T8 Arg2:T29	
+R7	EastOf Arg1:T35 Arg2:T30	
+R8	SouthEastOf Arg1:T35 Arg2:T31	
+R9	ElementOf Arg1:T35 Arg2:T32	
+R10	ElementOf Arg1:T35 Arg2:T33	
+R11	SouthWestOf Arg1:T35 Arg2:T34	
+T36	geogFeat 948 961	exploitations
+T37	name 938 947	anciennes
+T38	geogName 938 961	anciennes exploitations
+T39	geogFeat 836 841	bande
+T40	geogFeat 465 478	installations
+R13	ElementOf Arg1:T40 Arg2:T7	
+R14	ElementOf Arg1:T6 Arg2:T8	
+R15	ElementOf Arg1:T40 Arg2:T8	
+T15	geogName 930 961	sites d’anciennes exploitations

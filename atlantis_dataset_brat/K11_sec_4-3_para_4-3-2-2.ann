@@ -1,0 +1,35 @@
+T1	geogFeat 12 16	Côte
+T2	geogFeat 20 25	amers
+T3	geogFeat 33 39	massif
+T4	geogFeat 59 63	mont
+T5	geogFeat 142 146	mont
+T7	geogFeat 284 287	île
+T8	geogFeat 293 299	plaine
+T9	geogFeat 323 329	lagune
+T10	geogFeat 360 368	aéroport
+T11	geogFeat 400 405	récif
+T12	geogFeat 414 428	récif-barrière
+T13	geogFeat 435 439	côte
+T14	geogFeat 460 465	îlots
+T15	geogFeat 502 506	Motu
+T16	geogFeat 526 530	Motu
+T17	name 43 47	Nord
+T18	name 64 68	Turi
+T19	name 147 151	Paeo
+T6	name 440 443	Est
+T20	name 507 517	Murimahora
+T21	name 531 540	Vavaratea
+T22	geogName 33 47	massif du Nord
+T23	geogName 59 68	mont Turi
+T24	geogName 142 151	mont Paeo
+T25	geogName 435 443	côte Est
+T26	geogName 502 517	Motu Murimahora
+T27	geogName 526 540	Motu Vavaratea
+R1	ElementOf Arg1:T23 Arg2:T22	
+R2	SouthWestOf Arg1:T24 Arg2:T23	
+R3	ElementOf Arg1:T8 Arg2:T7	
+R4	ElementOf Arg1:T9 Arg2:T7	
+R5	ElementOf Arg1:T12 Arg2:T25	
+R6	ElementOf Arg1:T14 Arg2:T12	
+R7	ElementOf Arg1:T26 Arg2:T14	
+R8	ElementOf Arg1:T27 Arg2:T14	

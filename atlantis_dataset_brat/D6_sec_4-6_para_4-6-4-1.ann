@@ -1,0 +1,11 @@
+T1	geogFeat 56 61	ville
+T2	geogFeat 75 79	port
+T3	geogFeat 96 111	port artificiel
+T4	geogFeat 275 291	bassin portuaire
+T5	geogFeat 311 330	brise-lames détaché
+T6	geogFeat 339 345	jetées
+T7	name 65 70	Ténès
+T8	name 83 88	Ténès
+T9	geogName 56 70	ville de Ténès
+T10	geogName 75 88	port de Ténès
+R1	NorthEastOf Arg1:T10 Arg2:T9	

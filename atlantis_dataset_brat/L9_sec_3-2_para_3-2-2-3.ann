@@ -1,0 +1,14 @@
+T1	geogFeat 12 16	Côte
+T2	geogFeat 73 82	mouillage
+T3	name 128 138	Sand 😄Dune
+T4	geogFeat 217 221	ÎLES
+T5	geogFeat 225 232	DANGERS
+T6	geogFeat 250 253	CAP
+T7	name 17 20	Est
+T8	name 256 261	AMBRE
+T9	geogName 12 20	Côte Est
+T10	geogName 128 138	Sand 😄Dune
+T11	geogName 250 261	CAP D’AMBRE
+R1	EastOf Arg1:T2 Arg2:T10	
+R2	NorthWestOf Arg1:T5 Arg2:T11	
+R3	NorthWestOf Arg1:T4 Arg2:T11	

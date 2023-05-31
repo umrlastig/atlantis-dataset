@@ -1,0 +1,32 @@
+T1	geogFeat 33 42	mouillage
+T3	geogFeat 102 109	Channel
+T4	geogFeat 175 179	rade
+T5	geogFeat 231 236	Shaab
+T6	geogFeat 206 211	ligne
+T7	geogFeat 306 313	dangers
+T8	geogFeat 381 387	balise
+T9	geogFeat 441 447	balise
+T10	geogFeat 525 532	Channel
+T11	geogFeat 700 718	point de mouillage
+T12	geogFeat 807 813	balise
+T13	geogFeat 860 866	balise
+T14	geogFeat 886 896	relèvement
+T15	geogFeat 949 954	route
+T16	name 46 52	Saylac
+T17	name 110 114	Reef
+T18	name 221 228	Ceebaad
+T19	name 238 244	Filfil
+T20	name 391 398	Ceebaad
+T21	name 533 537	Reef
+T22	name 643 655	Saacada 😍Din
+T23	name 817 824	Ceebaad
+T24	geogName 33 52	mouillage de Saylac
+T25	geogName 102 114	Channel Reef
+T26	geogName 221 228	Ceebaad
+T27	geogName 231 244	Shaab 😍Filfil
+T28	geogName 381 398	balise de Ceebaad
+T29	geogName 525 537	Channel Reef
+T30	geogName 643 655	Saacada 😍Din
+T31	geogName 807 824	balise de Ceebaad
+R1	ElementOf Arg1:T26 Arg2:T6	
+R2	ElementOf Arg1:T27 Arg2:T6	

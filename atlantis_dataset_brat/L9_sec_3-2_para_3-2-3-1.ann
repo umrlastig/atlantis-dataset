@@ -1,0 +1,24 @@
+T1	geogFeat 32 36	îles
+T2	geogFeat 97 102	atoll
+T3	geogFeat 140 143	île
+T4	geogFeat 162 167	atoll
+T5	geogFeat 183 196	établissement
+T6	geogFeat 227 230	île
+T7	geogFeat 343 356	établissement
+T8	name 37 46	Cosmoledo
+T9	name 48 57	Cosmoledo
+T10	geogFeat 58 63	Group
+T11	name 144 154	Assomption
+T12	name 211 216	Menai
+T13	name 387 391	Mahé
+T14	name 393 403	Seychelles
+T15	geogName 32 46	îles Cosmoledo
+T16	geogName 48 63	Cosmoledo Group
+T17	geogName 140 154	île Assomption
+T18	geogName 211 216	Menai
+T19	geogName 387 391	Mahé
+T20	geogName 393 403	Seychelles
+R1	EastOf Arg1:T15 Arg2:T17	
+R2	ElementOf Arg1:T5 Arg2:T18	
+T21	geogFeat 254 260	groupe
+R3	ElementOf Arg1:T6 Arg2:T21	

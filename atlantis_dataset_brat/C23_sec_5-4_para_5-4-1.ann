@@ -1,0 +1,80 @@
+T1	geogFeat 29 33	baie
+T2	geogFeat 66 72	chenal
+T3	geogFeat 121 124	île
+T4	geogFeat 147 156	continent
+T5	geogFeat 170 174	baie
+T7	geogFeat 312 316	côte
+T8	geogFeat 352 357	bancs
+T9	geogFeat 420 424	baie
+T10	geogFeat 523 529	fosses
+T11	geogFeat 546 552	chenal
+T12	geogFeat 625 640	parcs à huîtres
+T13	geogFeat 648 656	bouchots
+T14	geogFeat 674 680	estran
+T15	geogFeat 717 721	baie
+T16	geogFeat 729 732	île
+T17	geogFeat 769 773	baie
+T18	geogFeat 805 814	continent
+T19	geogFeat 842 849	passage
+T20	geogFeat 854 860	goulet
+T21	geogFeat 906 909	île
+T22	geogFeat 940 948	chaussée
+T23	geogFeat 993 997	baie
+T24	geogFeat 1388 1394	chenal
+T25	geogFeat 1418 1424	goulet
+T26	geogFeat 1485 1489	côte
+T27	geogFeat 1609 1613	baie
+T28	geogFeat 1697 1701	baie
+T29	geogFeat 1786 1790	côte
+T6	geogFeat 489 494	bancs
+T30	geogFeat 1303 1310	rivages
+T31	name 37 46	Bourgneuf
+T32	name 93 98	Loire
+T33	name 128 139	Noirmoutier
+T34	name 736 747	Noirmoutier
+T35	name 777 786	Bourgneuf
+T36	name 864 874	Fromentine
+T37	name 913 919	Pilier
+T38	name 954 959	Bœufs
+T39	name 1001 1010	Bourgneuf
+T40	name 1092 1105	Saint-Nazaire
+T41	name 1199 1212	Saint-Nazaire
+T42	name 1401 1406	Grise
+T43	name 1428 1438	Fromentine
+T44	name 1591 1604	Saint-Nazaire
+T45	name 1791 1807	Ouest 😍de France
+T46	name 1812 1825	Saint-Nazaire
+T47	name 1828 1833	Royan
+T48	geogName 29 46	baie de Bourgneuf
+T49	geogName 121 139	île de Noirmoutier
+T50	geogName 93 98	Loire
+T51	geogName 546 562	chenal du Centre
+T52	name 591 595	Fain
+T53	geogName 729 747	île de Noirmoutier
+T54	geogName 769 786	baie de Bourgneuf
+T55	geogName 854 874	goulet de Fromentine
+T56	geogName 906 919	île du Pilier
+T57	geogName 993 1010	baie de Bourgneuf
+T58	geogName 1092 1105	Saint-Nazaire
+T59	geogName 1199 1212	Saint-Nazaire
+T60	geogName 1388 1406	chenal de la Grise
+T61	geogName 1418 1438	goulet de Fromentine
+T62	geogName 1591 1604	Saint-Nazaire
+T63	geogName 1786 1807	côte Ouest 😍de France
+T64	geogName 1812 1825	Saint-Nazaire
+T65	geogName 1828 1833	Royan
+T66	name 556 562	Centre
+T67	geogName 591 595	Fain
+T68	name 76 79	Sud
+T69	geogName 66 79	chenal du Sud
+T70	name 1490 1502	continentale
+T71	geogName 1485 1502	côte continentale
+R1	EastOf Arg1:T48 Arg2:T69	
+R2	ElementOf Arg1:T14 Arg2:T15	
+R3	ElementOf Arg1:T13 Arg2:T14	
+R4	ElementOf Arg1:T12 Arg2:T14	
+R6	NorthWestOf Arg1:T56 Arg2:T53	
+R7	WestOf Arg1:T72 Arg2:T53	
+T72	geogName 940 959	chaussée 😍des Bœufs
+R5	SouthWestOf Arg1:T53 Arg2:T54	
+R8	SouthEastOf Arg1:T18 Arg2:T53	

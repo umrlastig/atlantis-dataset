@@ -1,0 +1,106 @@
+T1	geogFeat 72 81	montagnes
+T2	geogFeat 97 106	frontière
+T3	geogFeat 194 201	sommets
+T4	geogFeat 222 228	sommet
+T5	geogFeat 247 259	pylône radio
+T6	geogFeat 378 387	FRONTIÈRE
+T7	geogFeat 421 431	embouchure
+T8	geogFeat 455 463	falaises
+T9	geogFeat 504 509	phare
+T10	geogFeat 512 516	tour
+T11	geogFeat 527 533	sommet
+T12	geogFeat 651 656	digue
+T13	geogFeat 670 690	bouée d’atterrissage
+T14	geogFeat 738 741	AIS
+T15	geogFeat 780 783	feu
+T16	geogFeat 790 795	digue
+T17	geogFeat 830 833	feu
+T18	geogFeat 846 859	château d’eau
+T19	geogFeat 878 884	entrée
+T20	geogFeat 904 908	rive
+T21	geogFeat 932 950	tourelle lumineuse
+T22	geogFeat 972 977	digue
+T23	geogFeat 994 1001	pylônes
+T24	geogFeat 1007 1026	alignement lumineux
+T25	geogFeat 1040 1059	ensemble industriel
+T26	geogFeat 1122 1135	silo à grains
+T27	geogFeat 1178 1182	rive
+T29	geogFeat 1211 1229	tour 😄des 😄signaux
+T30	geogFeat 1314 1319	jetée
+T31	geogFeat 1329 1334	digue
+T32	geogFeat 1374 1378	côte
+T33	geogFeat 1424 1429	jetée
+T34	geogFeat 1455 1458	feu
+T35	geogFeat 1466 1487	pylône cardinal Ouest
+T36	name 137 146	Couronnée
+T37	name 156 159	Aya
+T38	name 205 213	La Rhune
+T39	name 163 175	La Batallera
+T40	name 367 372	ADOUR
+T41	name 388 397	ESPAGNOLE
+T42	name 437 442	Adour
+T43	name 477 489	Saint-Martin
+T44	geogFeat 470 476	pointe
+T45	name 862 868	Ondres
+T46	name 890 895	Adour
+T47	name 1030 1036	Boucau
+T48	name 1063 1076	Boucau-Tarnos
+T50	name 107 116	espagnole
+T51	geogName 97 116	frontière espagnole
+T52	geogName 137 146	Couronnée
+T53	geogName 148 159	Peña de Aya
+T54	geogName 163 175	La Batallera
+T55	geogName 205 213	La Rhune
+T56	geogName 367 372	ADOUR
+T57	geogName 378 397	FRONTIÈRE ESPAGNOLE
+T59	geogName 470 489	pointe Saint-Martin
+T60	name 693 695	BA
+T61	geogName 670 697	bouée d’atterrissage « BA »
+T62	geogName 846 868	château d’eau d’Ondres
+T63	geogName 890 895	Adour
+T64	geogName 1007 1036	alignement lumineux du Boucau
+T65	geogName 1040 1076	ensemble industriel de Boucau-Tarnos
+R1	ElementOf Arg1:T4 Arg2:T55	
+R2	ElementOf Arg1:T3 Arg2:T52	
+R3	ElementOf Arg1:T5 Arg2:T4	
+R5	ElementOf Arg1:T8 Arg2:T59	
+R6	ElementOf Arg1:T9 Arg2:T59	
+R7	ElementOf Arg1:T10 Arg2:T9	
+R8	ElementOf Arg1:T11 Arg2:T10	
+R9	ElementOf Arg1:T14 Arg2:T77	
+R10	NorthWestOf Arg1:T61 Arg2:T15	
+R12	ElementOf Arg1:T19 Arg2:T63	
+R15	ElementOf Arg1:T29 Arg2:T80	
+R13	SouthOf Arg1:T31 Arg2:T33	
+R14	ElementOf Arg1:T34 Arg2:T35	
+R16	ElementOf Arg1:T34 Arg2:T31	
+R17	ElementOf Arg1:T21 Arg2:T69	
+R18	ElementOf Arg1:T23 Arg2:T49	
+R19	ElementOf Arg1:T23 Arg2:T64	
+T28	name 909 915	droite
+T49	geogName 904 915	rive droite
+T66	name 1184 1190	gauche
+T67	geogName 1178 1190	rive 😄gauche
+R21	ElementOf Arg1:T65 Arg2:T49	
+R22	ElementOf Arg1:T26 Arg2:T49	
+R23	ElementOf Arg1:T29 Arg2:T67	
+T68	name 978 982	Nord
+T69	geogName 972 982	digue Nord
+T70	name 657 661	Nord
+T71	geogName 651 661	digue Nord
+T72	name 796 800	Nord
+T73	geogName 790 800	digue Nord
+T58	geogFeat 1080 1087	Aciérie
+T75	name 1093 1103	Atlantique
+T76	geogName 1093 1103	Atlantique
+T77	geogFeat 699 729	marque d’eaux saines lumineuse
+T78	geogFeat 148 152	Peña
+R4	SouthWestOf Arg1:T8 Arg2:T7	
+R24	EastNorthEastOf Arg1:T62 Arg2:T17	
+R25	ElementOf Arg1:T21 Arg2:T49	
+R20	ElementOf Arg1:T58 Arg2:T49	
+T74	geogName 437 442	Adour
+R26	ElementOf Arg1:T7 Arg2:T74	
+T79	name 1320 1323	Sud
+T80	geogName 1314 1323	jetée Sud
+T81	geogName 780 800	feu de la digue Nord

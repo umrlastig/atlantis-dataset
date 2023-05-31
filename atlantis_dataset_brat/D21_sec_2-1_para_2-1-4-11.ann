@@ -1,0 +1,13 @@
+T1	geogFeat 13 40	Zones de protection d’épave
+T3	name 61 73	Port-Vendres
+T4	geogName 61 73	Port-Vendres
+T5	geogFeat 92 110	zones réglementées
+T6	geogFeat 159 164	épave
+T7	geogFeat 339 344	zones
+T8	geogFeat 645 654	FRONTIÈRE
+T9	geogFeat 676 679	CAP
+T10	name 655 664	ESPAGNOLE
+T11	name 682 686	AGDE
+T12	geogName 676 686	CAP D’AGDE
+T13	geogName 645 664	FRONTIÈRE ESPAGNOLE
+R1	NorthNorthEastOf Arg1:T5 Arg2:T4	

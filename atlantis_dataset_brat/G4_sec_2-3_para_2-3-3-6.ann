@@ -1,0 +1,40 @@
+T1	geogFeat 88 92	côte
+T2	geogFeat 141 145	port
+T3	geogFeat 236 247	APPONTEMENT
+T4	geogFeat 288 302	Quai intérieur
+T5	geogFeat 334 338	Quai
+T6	geogFeat 388 399	Appontement
+T7	geogFeat 465 476	APPONTEMENT
+T8	geogFeat 578 582	Quai
+T9	geogFeat 625 629	Quai
+T10	geogFeat 765 779	Bureau du port
+T11	geogFeat 901 910	aérodrome
+T12	geogFeat 928 936	aéroport
+T13	geogFeat 1009 1013	port
+T14	geogFeat 1029 1033	port
+T15	geogFeat 1099 1104	Ville
+T16	geogFeat 1139 1143	Port
+T17	name 343 351	Pêcheurs
+T18	name 635 643	Avel Mad
+T19	name 914 922	Miquelon
+T20	name 941 953	Saint-Pierre
+T21	name 1017 1025	Miquelon
+T22	name 1037 1049	Saint-Pierre
+T23	name 1147 1155	Miquelon
+T24	geogName 334 351	Quai des Pêcheurs
+T25	geogName 625 643	Quai de l’Avel Mad
+T26	geogName 901 922	aérodrome de Miquelon
+T27	geogName 928 953	aéroport de 😍Saint-Pierre
+T28	geogName 1009 1025	port de Miquelon
+T29	geogName 1029 1049	port de Saint-Pierre
+T30	geogName 1139 1155	Port de Miquelon
+T31	geogFeat 210 234	Installations portuaires
+T32	geogFeat 193 208	Infrastructures
+T33	name 248 256	EN « L »
+T34	geogName 236 256	APPONTEMENT EN « L »
+T35	name 400 409	pétrolier
+T36	geogName 388 409	Appontement pétrolier
+T37	name 477 485	EN « L »
+T38	geogName 465 485	APPONTEMENT EN « L »
+T39	name 583 592	principal
+T40	geogName 578 592	Quai principal

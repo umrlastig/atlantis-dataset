@@ -1,0 +1,65 @@
+T1	geogFeat 12 15	Île
+T2	geogFeat 29 32	île
+T3	geogFeat 93 98	atoll
+T4	geogFeat 103 109	pointe
+T6	geogFeat 181 186	phare
+T7	geogFeat 219 225	pylône
+T8	geogFeat 263 276	château d’eau
+T9	geogFeat 286 295	bâtiments
+T10	geogFeat 301 321	centre de recherches
+T11	geogFeat 357 362	phare
+T12	geogFeat 383 389	centre
+T13	geogFeat 413 424	habitations
+T14	geogFeat 492 498	Pointe
+T15	geogFeat 545 560	mât de pavillon
+T16	geogFeat 656 662	pointe
+T17	geogFeat 690 701	habitations
+T18	geogFeat 809 812	île
+T19	geogFeat 834 854	centre de recherches
+T20	geogFeat 895 905	MOUILLAGES
+T21	geogFeat 1032 1038	Pointe
+T22	geogFeat 1327 1336	mouillage
+T23	geogFeat 1546 1563	mât 😄de 😄pavillon
+T24	geogFeat 1573 1579	Pointe
+T25	geogFeat 1601 1610	mouillage
+T26	geogFeat 1699 1708	mouillage
+T27	geogFeat 1886 1891	Passe
+T28	geogFeat 1954 1959	récif
+T29	geogFeat 1801 1806	récif
+T30	geogFeat 2124 2130	coffre
+T31	geogFeat 2246 2261	mât de pavillon
+T32	geogFeat 2301 2306	plage
+T33	geogFeat 2321 2327	Pointe
+T34	geogFeat 2360 2365	récif
+T35	geogFeat 2462 2482	centre de recherches
+T36	name 16 22	Picard
+T37	name 33 39	Picard
+T38	name 116 121	Femme
+T5	name 885 889	Mahé
+T39	name 813 819	Picard
+T40	name 500 510	dans 😄Nord
+T41	name 1039 1048	dans Nord
+T42	name 1581 1592	dans 😄😍Nord
+T43	name 1892 1897	Femme
+T44	name 2328 2337	dans Nord
+T45	geogName 12 22	Île Picard
+T46	geogName 29 39	île Picard
+T47	geogName 103 121	pointe Passe Femme
+T48	geogName 492 510	Pointe 😄dans 😄Nord
+T49	geogName 809 819	île Picard
+T50	geogName 885 889	Mahé
+T51	geogName 1032 1048	Pointe dans Nord
+T52	geogName 1886 1897	Passe Femme
+T53	geogName 2321 2337	Pointe dans Nord
+T54	geogName 1573 1592	Pointe 😄dans 😄😍Nord
+T55	geogFeat 1424 1429	récif
+T56	geogFeat 110 115	Passe
+T57	geogName 110 121	Passe Femme
+R1	ElementOf Arg1:T6 Arg2:T47	
+R2	ElementOf Arg1:T7 Arg2:T8	
+R3	ElementOf Arg1:T9 Arg2:T10	
+R4	NorthOf Arg1:T9 Arg2:T11	
+R5	ElementOf Arg1:T15 Arg2:T16	
+R6	ElementOf Arg1:T23 Arg2:T54	
+R7	SouthOf Arg1:T32 Arg2:T53	
+R8	ElementOf Arg1:T46 Arg2:T3	

@@ -1,0 +1,22 @@
+T1	geogFeat 42 46	port
+T2	geogFeat 79 84	digue
+T3	geogFeat 124 128	port
+T4	geogFeat 158 161	feu
+T5	geogFeat 171 176	digue
+T6	geogFeat 203 210	bassins
+T7	geogFeat 223 228	jetée
+T8	geogFeat 262 268	bassin
+T9	geogFeat 287 293	entrée
+T10	geogFeat 305 309	port
+T11	geogFeat 340 346	jetées
+T12	geogFeat 364 368	feux
+T13	name 50 58	Lavandou
+T14	name 272 279	Château
+T15	geogName 42 58	port du Lavandou
+T16	geogName 262 279	bassin du Château
+R1	ElementOf Arg1:T9 Arg2:T10	
+R2	MarkedBy Arg1:T11 Arg2:T12	
+R3	ElementOf Arg1:T4 Arg2:T2	
+R4	WestOf Arg1:T7 Arg2:T16	
+T17	name 116 123	nouveau
+T18	geogName 116 128	nouveau port

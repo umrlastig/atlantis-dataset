@@ -1,0 +1,135 @@
+T1	geogFeat 72 76	rade
+T2	geogFeat 122 128	rivage
+T3	geogFeat 173 177	rade
+T4	geogFeat 279 290	hauts-fonds
+T5	geogFeat 318 328	plan d’eau
+T6	geogFeat 488 498	MOUILLAGES
+T7	geogFeat 562 580	câbles sous-marins
+T8	geogFeat 631 635	zone
+T9	geogFeat 689 693	îlot
+T10	geogFeat 729 734	Bancs
+T11	geogFeat 798 818	conduite sous-marine
+T12	geogFeat 839 866	câble électrique sous-marin
+T13	geogFeat 905 909	zone
+T14	geogFeat 966 970	îlot
+T15	geogFeat 984 990	pointe
+T16	geogFeat 1242 1246	rade
+T17	geogFeat 1266 1270	baie
+T18	geogFeat 1308 1320	zone balisée
+T19	geogFeat 1371 1389	poste de mouillage
+T20	geogFeat 1457 1475	poste de mouillage
+T21	geogFeat 1535 1539	port
+T22	geogFeat 1565 1577	zone balisée
+T23	geogFeat 1636 1640	zone
+T24	geogFeat 1671 1678	oléoduc
+T25	geogFeat 1701 1719	coffres d’amarrage
+T26	geogFeat 1805 1811	pointe
+T27	geogFeat 1834 1850	récif découvrant
+T28	geogFeat 1866 1872	balise
+T29	geogFeat 1898 1904	pointe
+T30	geogFeat 1742 1758	zone réglementée
+T31	geogFeat 1769 1796	base de la marine nationale
+T32	geogFeat 1913 1930	coffre d’amarrage
+T33	geogFeat 1957 1961	anse
+T34	geogFeat 1995 2001	pointe
+T35	geogFeat 2108 2112	Îles
+T36	geogFeat 2130 2133	Île
+T37	geogFeat 2148 2174	MOUILLAGE 😄DE 😄QUARANTAINE
+T38	geogFeat 2184 2210	mouillage 😄de 😄quarantaine
+T39	geogFeat 2234 2238	baie
+T40	geogFeat 2290 2294	rade
+T41	geogFeat 2300 2322	MOUILLAGES RÉGLEMENTÉS
+T42	geogFeat 2334 2338	baie
+T43	geogFeat 2356 2385	zone de mouillage réglementée
+T44	geogFeat 2524 2528	zone
+T45	geogFeat 2580 2590	MOUILLAGES
+T46	geogFeat 2621 2626	passe
+T47	geogFeat 2682 2685	île
+T48	geogFeat 2799 2808	Mouillage
+T50	geogFeat 3239 3243	Rade
+T51	geogFeat 3359 3363	port
+T52	geogFeat 3337 3358	Mouillages extérieurs
+T53	geogFeat 3404 3413	Mouillage
+T54	geogFeat 3773 3824	Mouillage d’attente minéraliers et porte-conteneurs
+T55	geogFeat 3826 3848	Mouillage longue durée
+T56	geogFeat 3850 3889	Mouillage d’attente tout type de navire
+T57	geogFeat 3891 3929	Mouillage d’attente navires pétroliers
+T58	geogFeat 4120 4124	PORT
+T59	geogFeat 4150 4159	Mouillage
+T60	geogFeat 4292 4302	Mouillages
+T61	geogFeat 4310 4314	Rade
+T62	geogFeat 4378 4387	mouillage
+T63	geogFeat 4471 4493	mouillages cycloniques
+T64	geogFeat 4530 4534	port
+T65	geogFeat 4601 4607	postes
+T66	geogFeat 4635 4644	Mouillage
+T68	geogFeat 5442 5470	Mouillages alerte cyclonique
+T69	geogFeat 10 20	Mouillages
+T70	name 65 71	Grande
+T71	name 166 172	Petite
+T72	geogFeat 751 771	MOUILLAGES INTERDITS
+T73	name 740 745	Ouest
+T74	name 991 996	Bagay
+T75	name 971 977	Maître
+T76	geogFeat 1040 1050	République
+T77	name 1054 1072	Nouvelle-Calédonie
+T78	geogFeat 1134 1142	Province
+T79	name 1143 1146	Sud
+T80	name 1276 1286	Orphelinat
+T81	name 1235 1241	Petite
+T82	name 1390 1392	A9
+T83	name 1812 1819	Chaleix
+T84	name 1968 1976	Vacherie
+T85	name 2002 2008	Adrien
+T86	name 2069 2075	Nouméa
+T87	name 2113 2120	Loyauté
+T88	name 2138 2142	Pins
+T89	name 2283 2289	Grande
+T90	name 2248 2254	Dumbéa
+T91	name 2343 2350	Citrons
+T92	name 2614 2620	Petite
+T93	name 2686 2689	Nou
+T49	name 3232 3238	Grande
+T94	name 3367 3373	Nouméa
+T95	name 4128 4134	NOUMÉA
+T96	name 4303 4309	Grande
+T97	name 4388 4390	A8
+T67	geogName 65 76	Grande rade
+T98	geogName 166 177	Petite rade
+T99	geogName 729 745	Bancs de l’Ouest
+T100	geogName 1054 1072	Nouvelle-Calédonie
+T101	geogName 966 977	îlot Maître
+T102	geogName 984 996	pointe Bagay
+T103	geogName 1134 1146	Province Sud
+T104	geogName 1235 1246	Petite rade
+T105	geogName 1266 1286	baie de l’Orphelinat
+T106	geogName 1371 1392	poste de mouillage A9
+T107	geogName 1805 1819	pointe Chaleix
+T108	geogName 1957 1976	anse de la Vacherie
+T109	geogName 1995 2008	pointe Adrien
+T110	geogName 2069 2075	Nouméa
+T111	geogName 2108 2120	Îles Loyauté
+T112	geogName 2130 2142	Île des Pins
+T113	geogName 2234 2254	baie 😄de 😄la 😄Dumbéa
+T114	geogName 2283 2294	Grande rade
+T115	geogName 2334 2350	baie des Citrons
+T116	geogName 2614 2626	Petite passe
+T117	geogName 2682 2689	île Nou
+T118	geogName 3232 3243	Grande Rade
+T119	geogName 3359 3373	port de Nouméa
+T120	geogName 4120 4134	PORT DE NOUMÉA
+T121	geogName 4303 4314	Grande Rade
+T122	geogName 4378 4390	mouillage A8
+T123	name 695 701	Amédée
+T124	geogName 689 701	îlot 😍Amédée
+T125	geogName 1769 1819	base de la marine nationale de la 😄😍pointe Chaleix
+T126	geogName 3337 3373	Mouillages extérieurs port de Nouméa
+T127	geogName 4292 4314	Mouillages Grande Rade
+R1	ElementOf Arg1:T25 Arg2:T30	
+R2	EastOf Arg1:T25 Arg2:T27	
+R3	MarkedBy Arg1:T27 Arg2:T28	
+R4	NorthOf Arg1:T28 Arg2:T29	
+R5	ElementOf Arg1:T32 Arg2:T108	
+R6	ElementOf Arg1:T38 Arg2:T113	
+R7	NorthNorthWestOf Arg1:T38 Arg2:T114	
+R8	ElementOf Arg1:T43 Arg2:T115	

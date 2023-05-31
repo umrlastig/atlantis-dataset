@@ -1,0 +1,62 @@
+T1	geogFeat 70 74	port
+T2	geogFeat 79 87	marabout
+T3	geogFeat 151 157	sommet
+T4	geogFeat 164 172	éminence
+T5	geogFeat 191 195	port
+T6	geogFeat 197 200	Ras
+T7	geogFeat 234 245	promontoire
+T8	geogFeat 269 275	sommet
+T9	geogFeat 302 306	tour
+T10	geogFeat 319 324	vigie
+T11	geogFeat 367 373	sommet
+T12	geogFeat 401 404	cap
+T13	geogFeat 414 419	phare
+T14	geogFeat 448 452	tour
+T15	geogFeat 484 490	maison
+T16	geogFeat 495 504	sémaphore
+T17	geogFeat 554 559	phare
+T18	geogFeat 598 609	promontoire
+T19	geogFeat 633 639	sommet
+T20	geogFeat 667 672	piton
+T21	geogFeat 730 737	rochers
+T22	geogFeat 745 751	roches
+T23	geogFeat 763 774	promontoire
+T24	geogFeat 835 838	Ras
+T25	geogFeat 880 883	pic
+T26	geogFeat 861 867	djebel
+T27	geogFeat 931 935	silo
+T28	geogFeat 972 983	terre-plein
+T29	geogFeat 997 1002	jetée
+T30	geogFeat 1009 1013	port
+T31	geogFeat 1018 1022	silo
+T32	geogFeat 1047 1051	tour
+T34	name 91 103	Sidi el Fedj
+T35	name 201 206	Ténès
+T36	name 276 289	Sidi Merouane
+T37	name 839 844	Ténès
+T38	name 872 878	Zerfet
+T33	name 887 891	Port
+T39	geogName 79 103	marabout de Sidi el Fedj
+T40	geogName 197 206	Ras Ténès
+T41	geogName 269 289	sommet Sidi Merouane
+T42	geogName 835 844	Ras Ténès
+T43	geogName 861 878	djebel ach Zerfet
+T44	geogName 880 891	pic du Port
+R1	SouthWestOf Arg1:T39 Arg2:T1	
+R2	ElementOf Arg1:T3 Arg2:T4	
+R3	ElementOf Arg1:T39 Arg2:T3	
+R4	NorthEastOf Arg1:T40 Arg2:T5	
+R5	ElementOf Arg1:T40 Arg2:T7	
+R6	ElementOf Arg1:T9 Arg2:T10	
+R7	WestOf Arg1:T9 Arg2:T11	
+R8	ElementOf Arg1:T13 Arg2:T12	
+R9	ElementOf Arg1:T14 Arg2:T13	
+R10	ElementOf Arg1:T14 Arg2:T15	
+R11	EastSouthEastOf Arg1:T16 Arg2:T17	
+R12	ElementOf Arg1:T19 Arg2:T18	
+R13	ElementOf Arg1:T20 Arg2:T19	
+R14	SouthOf Arg1:T43 Arg2:T42	
+R15	ElementOf Arg1:T27 Arg2:T28	
+T45	name 1003 1005	SW
+T46	geogName 997 1005	jetée SW
+R16	ElementOf Arg1:T46 Arg2:T30	

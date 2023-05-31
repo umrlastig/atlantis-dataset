@@ -1,0 +1,226 @@
+T1	geogFeat 83 87	Baie
+T2	geogFeat 169 173	rade
+T3	geogFeat 261 266	passe
+T4	geogFeat 273 276	île
+T5	geogFeat 284 288	îlot
+T6	geogFeat 380 400	Capitainerie du port
+T7	geogFeat 439 443	Port
+T8	geogFeat 494 514	Station de sauvetage
+T9	geogFeat 793 797	RADE
+T10	geogFeat 804 808	quai
+T11	geogFeat 810 814	quai
+T12	geogFeat 832 838	postes
+T13	geogFeat 927 931	Quai
+T14	geogFeat 945 949	Anse
+T15	geogFeat 988 992	Quai
+T16	geogFeat 1011 1016	quais
+T17	geogFeat 1071 1077	postes
+T18	geogFeat 1099 1112	gare maritime
+T19	geogFeat 1125 1130	docks
+T20	geogFeat 1132 1139	bureaux
+T21	geogFeat 1143 1151	ateliers
+T22	geogFeat 1158 1175	zone sous douanes
+T23	geogFeat 1261 1284	parc produits dangereux
+T24	geogFeat 1184 1208	docks compagnie maritime
+T25	geogFeat 1224 1242	docks transitaires
+T26	geogFeat 1290 1299	minoterie
+T27	geogFeat 1304 1309	silos
+T28	geogFeat 1400 1404	ZONE
+T29	geogFeat 1421 1427	POINTE
+T30	geogFeat 1439 1443	Quai
+T31	geogFeat 1482 1500	postes d’accostage
+T33	geogFeat 1553 1565	terre-pleins
+T34	geogFeat 1581 1585	Quai
+T35	geogFeat 1640 1644	Quai
+T36	geogFeat 1699 1710	ducs d’Albe
+T37	geogFeat 1745 1753	Héliport
+T38	geogFeat 1757 1761	Quai
+T39	geogFeat 1861 1865	Quai
+T40	geogFeat 1891 1895	Quai
+T41	geogFeat 1955 1968	Gare maritime
+T42	geogFeat 1973 1977	Îles
+T43	geogFeat 1988 1992	Quai
+T44	geogFeat 2015 2019	Quai
+T45	geogFeat 2062 2077	cales de halage
+T46	geogFeat 2102 2106	îlot
+T47	geogFeat 2265 2269	PORT
+T48	geogFeat 2327 2331	PORT
+T49	geogFeat 2344 2348	Quai
+T50	geogFeat 2421 2425	Quai
+T51	geogFeat 2505 2509	BAIE
+T52	geogFeat 2528 2532	Port
+T53	geogFeat 2550 2554	Port
+T54	geogFeat 2587 2601	PORT MILITAIRE
+T55	geogFeat 2605 2609	Quai
+T56	geogFeat 2647 2654	pontons
+T57	geogFeat 2657 2675	coffres d'amarrage
+T58	geogFeat 2685 2690	darse
+T59	geogFeat 2713 2730	Parking à bateaux
+T60	geogFeat 2753 2757	Quai
+T61	geogFeat 2877 2881	Quai
+T62	geogFeat 2886 2905	Terminal minéralier
+T63	geogFeat 2909 2915	Postes
+T64	geogFeat 2978 2982	Quai
+T65	geogFeat 3013 3017	BAIE
+T66	geogFeat 3038 3062	Installations cimentiers
+T67	geogFeat 3067 3078	ducs d’Albe
+T68	geogFeat 3083 3090	coffres
+T69	geogFeat 3104 3113	coffre AV
+T70	geogFeat 3117 3126	coffre AR
+T71	geogFeat 3129 3133	BAIE
+T72	geogFeat 3160 3175	Poste pétrolier
+T73	geogFeat 3238 3249	ducs d’Albe
+T74	geogFeat 3277 3293	Poste de pompage
+T75	geogFeat 3305 3312	coffres
+T76	geogFeat 3341 3348	coffres
+T77	geogFeat 3612 3625	Port Autonome
+T78	geogFeat 3653 3659	avenue
+T79	geogFeat 3703 3707	Quai
+T80	geogFeat 3730 3743	gare maritime
+T81	geogFeat 3745 3775	Bureau de l’Office du Tourisme
+T83	geogFeat 3944 3948	quai
+T84	geogFeat 4026 4036	Presqu’île
+T85	geogFeat 4114 4118	îles
+T86	geogFeat 4200 4205	Ville
+T87	geogFeat 4232 4241	chef-lieu
+T88	geogFeat 4295 4302	Hôpital
+T89	geogFeat 4323 4329	avenue
+T90	geogFeat 4356 4369	Port Autonome
+T91	geogFeat 4373 4385	Capitainerie
+T92	geogFeat 4387 4393	Pointe
+T93	geogFeat 4403 4409	avenue
+T94	geogFeat 4454 4458	port
+T95	geogFeat 4677 4682	CÔTES
+T96	geogFeat 2320 2325	cales
+T97	name 92 97	Dames
+T98	name 254 260	Petite
+T99	name 277 280	Nou
+T100	name 289 293	Brun
+T101	name 521 527	Nouméa
+T102	name 444 451	Moselle
+T103	name 786 792	GRANDE
+T104	name 798 803	Grand
+T105	name 935 943	Batelage
+T106	name 953 956	Tir
+T107	name 997 1006	Caboteurs
+T108	name 1428 1434	ADRIEN
+T109	name 1447 1452	pêche
+T110	name 1650 1656	Europe
+T111	name 1766 1781	Longs Courriers
+T112	name 1870 1879	Caboteurs
+T113	name 1999 2010	Capricieuse
+T114	name 2022 2029	charbon
+T115	name 2107 2110	Nou
+T116	name 2273 2279	NOUMÉA
+T117	name 2332 2339	MOSELLE
+T118	name 2353 2366	scientifiques
+T119	name 2430 2439	Pilotines
+T120	name 2515 2525	ORPHELINAT
+T121	name 2533 2546	Sud Plaisance
+T122	name 2579 2585	Nouméa
+T123	name 2614 2622	frégates
+T124	name 3021 3026	NUMBO
+T126	name 3138 3143	DAMES
+T125	name 3629 3647	Nouvelle-Calédonie
+T127	name 3660 3670	James Cook
+T128	name 3673 3679	Nouméa
+T129	geogFeat 3777 3782	poste
+T130	geogFeat 3784 3790	banque
+T82	name 4037 4042	Ducos
+T131	name 4123 4127	Pins
+T132	name 4131 4138	Loyauté
+T133	name 4242 4260	Nouvelle-Calédonie
+T134	name 4305 4319	Gaston Bourret
+T135	name 4330 4341	Paul-Doumer
+T136	name 4394 4401	Lambert
+T137	name 4410 4420	James Cook
+T138	name 4462 4468	Nouméa
+T139	name 4657 4675	NOUVELLE-CALÉDONIE
+T140	name 4683 4686	SUD
+T141	name 4690 4695	OUEST
+T142	geogName 83 97	Baie des Dames
+T143	geogName 254 266	Petite passe
+T144	geogName 273 280	île Nou
+T145	geogName 284 293	îlot Brun
+T146	geogName 439 451	Port Moselle
+T147	geogName 521 527	Nouméa
+T148	geogName 786 797	GRANDE RADE
+T149	geogName 798 808	Grand quai
+T150	geogName 927 943	Quai de Batelage
+T151	geogName 988 1006	Quai des Caboteurs
+T152	geogName 945 956	Anse du Tir
+T153	geogName 1421 1434	POINTE ADRIEN
+T154	geogName 1439 1452	Quai de pêche
+T155	geogName 1640 1656	Quai de l’Europe
+T156	geogName 1757 1781	Quai des Longs Courriers
+T157	geogName 1861 1879	Quai des Caboteurs
+T158	geogName 1988 2010	Quai de la Capricieuse
+T159	geogName 2015 2029	Quai à charbon
+T160	geogName 2102 2110	îlot Nou
+T161	geogName 2265 2279	PORT DE NOUMÉA
+T162	geogName 2327 2339	PORT MOSELLE
+T163	geogName 2344 2366	Quai des scientifiques
+T164	geogName 2421 2439	Quai des Pilotines
+T165	geogName 2505 2525	BAIE DE L'ORPHELINAT
+T166	geogName 2528 2546	Port Sud Plaisance
+T167	geogName 2579 2585	Nouméa
+T168	geogName 2605 2622	Quai des frégates
+T169	geogName 3013 3026	BAIE DE NUMBO
+T170	geogName 3129 3143	BAIE DES DAMES
+T171	geogName 3612 3647	Port Autonome de Nouvelle-Calédonie
+T172	geogName 3653 3670	avenue James Cook
+T173	geogName 3673 3679	Nouméa
+T174	geogName 4026 4042	Presqu’île Ducos
+T175	geogName 4114 4127	îles des Pins
+T176	geogName 4131 4138	Loyauté
+T177	geogName 4295 4321	Hôpital « Gaston Bourret »
+T178	geogName 4323 4341	avenue Paul-Doumer
+T179	geogName 4387 4401	Pointe Lambert
+T180	geogName 4403 4420	avenue James Cook
+T181	geogName 4454 4468	port de Nouméa
+T182	geogName 4657 4675	NOUVELLE-CALÉDONIE
+T183	geogName 4677 4695	CÔTES SUD ET OUEST
+T184	geogFeat 590 614	Installations portuaires
+T185	geogFeat 628 643	Infrastructures
+T186	geogFeat 356 374	Station de signaux
+T187	name 818 826	commerce
+T188	geogName 810 826	quai de commerce
+T189	name 1900 1924	Navires à Grande Vitesse
+T190	geogName 1891 1924	Quai des Navires à Grande Vitesse
+T191	name 2692 2700	NOUVILLE
+T192	geogName 2692 2700	NOUVILLE
+T193	name 2761 2771	réparation
+T194	geogName 2753 2771	Quai de réparation
+T195	name 2882 2884	NW
+T196	geogName 2877 2884	Quai NW
+T197	name 2916 2917	1
+T198	name 2919 2920	3
+T199	name 2922 2923	4
+T200	name 2927 2928	5
+T201	geogName 2909 2928	Postes 1, 3, 4 et 5
+T202	name 2983 2986	Sud
+T203	geogName 2978 2986	Quai Sud
+T204	name 3712 3727	longs courriers
+T205	geogName 3703 3727	Quai des longs courriers
+T206	geogFeat 4000 4025	installations pétrolières
+T207	geogFeat 4262 4293	centre commercial et industriel
+T208	geogFeat 1329 1346	zone AR portuaire
+T209	name 1409 1418	PÊCHERIES
+T210	geogName 1400 1418	ZONE DES PÊCHERIES
+T32	name 1589 1599	remorquage
+T211	geogName 1581 1599	Quai de remorquage
+T212	name 1624 1630	PETITE
+T213	geogFeat 1631 1635	RADE
+T214	geogName 1624 1635	PETITE RADE
+T215	geogFeat 3910 3915	quais
+T216	geogFeat 3954 3959	usine
+T217	name 3962 3971	Le Nickel
+T218	geogName 3954 3973	usine « Le Nickel »
+T219	geogName 3944 3973	quai de l’usine « Le Nickel »
+T220	geogFeat 1020 1024	épis
+R1	ElementOf Arg1:T171 Arg2:T172	
+R2	ElementOf Arg1:T172 Arg2:T173	
+T221	geogName 4242 4260	Nouvelle-Calédonie
+R3	ElementOf Arg1:T177 Arg2:T178	
+R14	ElementOf Arg1:T41 Arg2:T42	
+R23	ElementOf Arg1:T87 Arg2:T221	

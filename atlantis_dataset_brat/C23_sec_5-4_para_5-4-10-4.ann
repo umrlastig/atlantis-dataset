@@ -1,0 +1,16 @@
+T1	geogFeat 86 101	Port d’échouage
+T2	geogFeat 296 315	appontements privés
+T3	geogFeat 330 335	rives
+T4	geogFeat 341 346	étier
+T5	geogFeat 388 403	Bloc sanitaires
+T6	geogFeat 454 460	Mairie
+T7	geogFeat 629 633	Port
+T9	geogFeat 749 752	ÎLE
+T8	name 467 481	Barre-de-Monts
+T11	name 637 646	Pont-Neuf
+T12	name 756 767	NOIRMOUTIER
+T13	geogName 454 481	Mairie de la Barre-de-Monts
+T14	geogName 629 646	Port du Pont-Neuf
+T15	geogName 749 767	ÎLE DE NOIRMOUTIER
+T10	geogFeat 127 151	Installations portuaires
+T16	geogFeat 272 287	Infrastructures

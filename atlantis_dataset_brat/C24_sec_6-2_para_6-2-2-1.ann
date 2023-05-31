@@ -1,0 +1,16 @@
+T1	geogFeat 31 48	port de plaisance
+T2	geogFeat 71 75	port
+T3	geogFeat 110 114	rive
+T4	geogFeat 159 165	fleuve
+T5	geogFeat 149 155	entrée
+T6	name 51 57	Anglet
+T7	name 79 90	Brise-Lames
+T8	name 127 132	Adour
+T9	name 241 246	ADOUR
+T10	geogName 31 57	port de plaisance d’Anglet
+T11	geogName 71 90	port du Brise-Lames
+T12	geogName 127 132	Adour
+T13	geogName 241 246	ADOUR
+R1	ElementOf Arg1:T5 Arg2:T4	
+T14	name 115 121	gauche
+T15	geogName 110 121	rive gauche

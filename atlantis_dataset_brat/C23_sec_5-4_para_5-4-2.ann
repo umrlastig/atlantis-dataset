@@ -1,0 +1,50 @@
+T1	geogFeat 55 61	entrée
+T2	geogFeat 66 70	banc
+T3	geogFeat 159 176	roche découvrante
+T4	geogFeat 277 283	entrée
+T5	geogFeat 302 307	phare
+T6	geogFeat 313 316	île
+T7	geogFeat 361 378	roche découvrante
+T9	geogFeat 513 521	tourelle
+T10	geogFeat 549 557	tourelle
+T11	geogFeat 584 588	banc
+T12	geogFeat 655 660	bouée
+T13	geogFeat 727 732	bouée
+T14	geogFeat 739 758	tourelle 😍lumineuse
+T15	geogFeat 832 845	tête de roche
+T16	geogFeat 911 926	tête 😄de 😄roche
+T18	geogFeat 969 974	basse
+T8	geogFeat 400 423	tourelle cardinale Nord
+T17	geogFeat 934 955	bouée 😄cardinale 😄Est
+T19	name 74 82	Kerouars
+T20	name 177 189	La Couronnée
+T21	name 320 326	Pilier
+T22	name 379 389	Grand Sécé
+T23	name 560 570	Grand Sécé
+T24	name 595 602	Blanche
+T25	name 663 681	Banc de la Blanche
+T26	name 761 773	Pierre-Moine
+T27	name 981 986	Pères
+T28	geogName 66 82	banc de Kerouars
+T29	geogName 313 326	île du Pilier
+T30	geogName 302 326	phare de l’île du Pilier
+T31	geogName 549 572	tourelle « Grand Sécé »
+T32	geogName 584 602	banc de la Blanche
+T33	geogName 655 683	bouée « Banc de la Blanche »
+T34	geogName 159 189	roche découvrante La Couronnée
+T35	geogName 361 389	roche découvrante Grand Sécé
+T36	geogName 739 775	tourelle 😍lumineuse « Pierre-Moine »
+R1	NorthEastOf Arg1:T35 Arg2:T30	
+R2	ElementOf Arg1:T8 Arg2:T35	
+R3	EastOf Arg1:T32 Arg2:T31	
+R4	MarkedBy Arg1:T32 Arg2:T33	
+R5	SouthOf Arg1:T17 Arg2:T16	
+T37	geogName 969 986	basse 😄des 😍Pères
+R6	MarkedBy Arg1:T37 Arg2:T17	
+T38	geogFeat 458 470	hauts-😍fonds
+R7	ElementOf Arg1:T28 Arg2:T1	
+R8	EastOf Arg1:T28 Arg2:T34	
+R9	ElementOf Arg1:T35 Arg2:T4	
+R10	NorthOf Arg1:T38 Arg2:T9	
+R11	NorthWestOf Arg1:T38 Arg2:T9	
+R12	NorthOf Arg1:T33 Arg2:T32	

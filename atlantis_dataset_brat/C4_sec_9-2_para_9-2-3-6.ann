@@ -1,0 +1,68 @@
+T1	geogFeat 29 33	banc
+T2	geogFeat 269 272	cap
+T3	geogFeat 289 294	épave
+T4	geogFeat 376 387	obstruction
+T5	geogFeat 457 461	baie
+T6	geogFeat 489 492	cap
+T7	geogFeat 561 584	bouées latérales bâbord
+T8	geogFeat 617 620	île
+T9	geogFeat 683 713	point d’embarquement du pilote
+T10	geogFeat 743 758	bouée lumineuse
+T11	geogFeat 835 850	bouée lumineuse
+T12	geogFeat 935 938	île
+T13	geogFeat 960 967	secteur
+T14	geogFeat 977 991	feu auxiliaire
+T15	geogFeat 995 998	cap
+T16	geogFeat 1019 1026	secteur
+T17	geogFeat 1036 1039	feu
+T18	geogFeat 1045 1048	île
+T19	geogFeat 1078 1083	bouée
+T21	geogFeat 1137 1141	port
+T22	geogFeat 1183 1186	île
+T23	geogFeat 1222 1237	bouée lumineuse
+T24	geogFeat 1266 1271	bouée
+T25	geogFeat 1306 1320	passe d’entrée
+T26	geogFeat 1344 1354	plan d’eau
+T27	geogFeat 1401 1407	chenal
+T28	geogFeat 1464 1468	port
+T29	name 37 45	Séminole
+T30	name 273 279	Manuel
+T31	name 465 470	Gorée
+T32	name 493 499	Manuel
+T33	name 624 629	Gorée
+T34	name 999 1005	Manuel
+T35	name 1052 1057	Gorée
+T36	name 1190 1195	Gorée
+T37	name 1242 1248	Tacoma
+T38	name 587 588	4
+T39	geogName 561 599	bouées latérales bâbord « 4 » et « 8 »
+T40	name 1086 1088	12
+T41	geogName 1078 1090	bouée « 12 »
+T42	name 1274 1276	12
+T43	geogName 1266 1278	bouée « 12 »
+T44	geogName 1222 1250	bouée lumineuse 😄😍« Tacoma »
+T45	geogName 29 45	banc du Séminole
+T46	geogName 269 279	cap Manuel
+T47	geogName 457 470	baie de Gorée
+T48	geogName 489 499	cap Manuel
+T49	geogName 617 629	île de Gorée
+T50	geogName 995 1005	cap Manuel
+T51	geogName 1045 1057	île de Gorée
+T52	geogName 1183 1195	île de Gorée
+T53	name 761 763	12
+T54	geogName 743 765	bouée lumineuse « 12 »
+T55	name 853 854	1
+T56	geogName 835 856	bouée lumineuse « 1 »
+T57	geogFeat 169 174	épave
+T58	geogFeat 444 450	ouvert
+T59	name 596 597	8
+T60	geogName 977 1005	feu auxiliaire du cap Manuel
+T61	geogName 1036 1057	feu de l’île de Gorée
+T62	geogFeat 110 115	sonde
+R1	ElementOf Arg1:T58 Arg2:T47	
+R2	ElementOf Arg1:T3 Arg2:T58	
+R3	EastOf Arg1:T3 Arg2:T48	
+R4	EastOf Arg1:T9 Arg2:T54	
+R5	SouthSouthWestOf Arg1:T45 Arg2:T46	
+R6	SouthOf Arg1:T62 Arg2:T46	
+R7	SouthOf Arg1:T57 Arg2:T46	

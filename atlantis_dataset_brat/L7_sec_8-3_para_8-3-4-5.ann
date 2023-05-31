@@ -1,0 +1,20 @@
+T1	geogFeat 12 17	Ville
+T2	geogFeat 222 226	pays
+T3	geogFeat 235 240	ville
+T4	geogFeat 271 278	maisons
+T5	geogFeat 377 382	ville
+T6	geogFeat 392 407	mât de pavillon
+T7	geogFeat 437 444	hôpital
+T8	geogFeat 468 487	bureau de la douane
+T9	geogFeat 521 526	jetée
+T10	geogFeat 552 557	route
+T11	geogFeat 451 462	dispensaire
+T12	name 22 28	Saylac
+T13	name 560 568	Djibouti
+T14	name 575 582	Berbera
+T15	name 528 534	Saylac
+T16	geogName 22 28	Saylac
+T17	geogName 528 534	Saylac
+T18	geogName 560 568	Djibouti
+T19	geogName 575 582	Berbera
+R1	ElementOf Arg1:T4 Arg2:T3	

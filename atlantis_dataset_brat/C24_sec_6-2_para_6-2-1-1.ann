@@ -1,0 +1,61 @@
+T1	geogFeat 62 68	fleuve
+T2	geogFeat 209 233	installations portuaires
+T3	geogFeat 117 127	embouchure
+T4	geogFeat 246 250	rive
+T5	geogFeat 281 293	appontements
+T6	geogFeat 369 373	rive
+T7	geogFeat 385 402	port de plaisance
+T8	geogFeat 485 491	jetées
+T9	geogFeat 497 503	entrée
+T10	geogFeat 888 893	digue
+T11	geogFeat 923 926	axe
+T12	geogFeat 933 938	passe
+T13	geogFeat 991 997	jetées
+T14	geogFeat 1062 1067	jetée
+T15	geogFeat 1103 1109	jetées
+T16	geogFeat 1115 1132	ÉCHELLES DE MARÉE
+T17	geogFeat 1147 1155	échelles
+T18	geogFeat 1276 1281	golfe
+T19	name 30 44	Adour maritime
+T20	name 144 156	Henri Grenet
+T21	name 159 166	Bayonne
+T22	geogFeat 139 143	pont
+T23	name 262 275	Boucau-Tarnos
+T26	name 405 411	Anglet
+T27	name 416 427	Blancpignon
+T28	name 433 447	Allées Marines
+T29	name 449 456	Bayonne
+T30	name 509 514	Adour
+T31	name 614 620	Boucau
+T32	name 745 750	Adour
+T33	name 1285 1293	Gascogne
+T34	geogName 30 44	Adour maritime
+T35	geogName 139 156	pont Henri Grenet
+T36	geogName 159 166	Bayonne
+T37	geogName 262 275	Boucau-Tarnos
+T38	geogName 385 411	port de plaisance d’Anglet
+T39	geogName 416 427	Blancpignon
+T40	geogName 433 447	Allées Marines
+T41	geogName 449 456	Bayonne
+T42	geogName 509 514	Adour
+T43	geogName 614 620	Boucau
+T44	geogName 745 750	Adour
+T45	geogName 1276 1293	golfe de Gascogne
+R1	ElementOf Arg1:T35 Arg2:T36	
+R7	ElementOf Arg1:T40 Arg2:T41	
+R8	ElementOf Arg1:T9 Arg2:T42	
+R10	ElementOf Arg1:T11 Arg2:T12	
+T46	name 374 380	gauche
+T47	geogName 369 380	rive gauche
+T48	name 251 257	droite
+T49	geogName 246 257	rive droite
+T24	name 341 356	Saint- 😍Bernard
+T25	geogName 341 356	Saint- 😍Bernard
+T50	name 298 317	Raffineries du Midi
+T51	name 324 336	Saint-Gobain
+T52	geogName 281 336	appontements des Raffineries du Midi et de Saint-Gobain
+T53	name 894 898	Nord
+T54	geogName 888 898	digue Nord
+T55	name 1068 1072	Nord
+T56	geogName 1062 1072	jetée Nord
+R12	ElementOf Arg1:T34 Arg2:T1	

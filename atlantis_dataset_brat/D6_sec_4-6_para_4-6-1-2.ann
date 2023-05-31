@@ -1,0 +1,9 @@
+T1	geogFeat 30 33	Ras
+T2	geogFeat 45 48	Ras
+T3	geogFeat 168 171	Kef
+T4	name 34 41	Ouillis
+T5	name 49 54	Ténès
+T6	name 175 179	Aoua
+T7	geogName 30 41	Ras Ouillis
+T8	geogName 45 54	Ras Ténès
+T9	geogName 168 179	Kef el Aoua

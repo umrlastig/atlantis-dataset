@@ -1,0 +1,9 @@
+T1	geogFeat 10 16	Routes
+T2	geogFeat 22 27	océan
+T3	geogFeat 60 63	Pas
+T4	name 28 38	Atlantique
+T5	name 47 53	Manche
+T6	name 67 73	Calais
+T7	geogName 22 38	océan Atlantique
+T8	geogName 47 53	Manche
+T9	geogName 60 73	Pas de Calais

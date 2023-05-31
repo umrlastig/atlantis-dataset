@@ -1,0 +1,16 @@
+T1	geogFeat 85 100	Port d’échouage
+T2	geogFeat 307 312	quais
+T3	geogFeat 322 341	appontements privés
+T4	geogFeat 352 357	rives
+T5	geogFeat 363 368	étier
+T6	geogFeat 378 384	vannes
+T7	geogFeat 389 398	déversoir
+T8	geogFeat 435 441	Mairie
+T9	geogFeat 552 556	Port
+T11	name 445 450	Bouin
+T12	name 561 567	Champs
+T13	geogName 435 450	Mairie de Bouin
+T14	geogName 552 567	Port des Champs
+T10	geogFeat 126 150	Installations portuaires
+T15	geogFeat 167 182	Infrastructures
+R1	ElementOf Arg1:T6 Arg2:T7	

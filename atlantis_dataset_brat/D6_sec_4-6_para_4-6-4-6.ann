@@ -1,0 +1,16 @@
+T1	geogFeat 25 28	feu
+T2	geogFeat 56 75	brise-lames détaché
+T3	geogFeat 82 88	musoir
+T4	geogFeat 109 127	jetées brise-lames
+T5	geogFeat 141 147	bassin
+T6	geogFeat 151 155	port
+T7	geogFeat 160 165	ville
+T8	geogFeat 191 195	port
+T9	geogFeat 213 221	remparts
+T10	name 169 174	Ténès
+T11	geogName 160 174	ville de Ténès
+R1	MarkedBy Arg1:T2 Arg2:T1	
+R2	ElementOf Arg1:T3 Arg2:T4	
+R3	MarkedBy Arg1:T3 Arg2:T1	
+R4	ElementOf Arg1:T5 Arg2:T6	
+R5	SouthWestOf Arg1:T11 Arg2:T8	

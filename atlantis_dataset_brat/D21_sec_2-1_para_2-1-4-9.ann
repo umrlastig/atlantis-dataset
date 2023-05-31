@@ -1,0 +1,15 @@
+T1	geogFeat 37 43	forêts
+T2	geogFeat 91 97	forêts
+T4	geogFeat 220 231	plans d’eau
+T5	geogFeat 236 242	étangs
+T6	geogFeat 130 143	bande côtière
+T8	name 150 162	Port-Vendres
+T9	name 167 182	Argelès-sur-Mer
+T10	name 191 203	Valras-Plage
+T11	name 246 252	Salses
+T12	name 259 264	Bages
+T13	geogName 150 162	Port-Vendres
+T14	geogName 167 182	Argelès-sur-Mer
+T15	geogName 191 203	Valras-Plage
+T16	geogName 236 264	étangs de Salses et de Bages
+R1	ElementOf Arg1:T4 Arg2:T16	

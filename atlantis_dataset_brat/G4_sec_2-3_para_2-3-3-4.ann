@@ -1,0 +1,29 @@
+T1	geogFeat 43 59	zone de pilotage
+T2	geogFeat 178 182	port
+T3	geogFeat 233 237	quai
+T4	geogFeat 241 245	port
+T5	geogFeat 273 304	bouée de 😄😍marque d’eaux saines
+T6	geogFeat 395 399	port
+T7	geogFeat 440 444	quai
+T8	geogFeat 448 452	port
+T9	geogFeat 509 529	marque d’eaux saines
+T10	geogFeat 689 709	bouée cardinale Nord
+T11	geogFeat 834 839	Océan
+T12	name 186 194	Miquelon
+T13	name 249 261	Saint-Pierre
+T14	name 310 318	Nord-Est
+T15	name 403 411	Miquelon
+T16	name 458 470	Saint-Pierre
+T17	name 532 540	Nord-Est
+T18	name 715 724	La Chatte
+T19	name 842 852	Atlantique
+T20	geogName 178 194	port de Miquelon
+T21	geogName 241 261	port de Saint-Pierre
+T22	geogName 273 320	bouée de 😄😍marque d’eaux saines du « Nord-Est »
+T23	geogName 395 411	port de Miquelon
+T24	geogName 448 470	port de 😄😍Saint-Pierre
+T25	geogName 509 542	marque d’eaux saines « Nord-Est »
+T26	geogName 689 726	bouée cardinale Nord de « La Chatte »
+T27	geogName 834 852	Océan 😄😍Atlantique
+R1	ElementOf Arg1:T3 Arg2:T21	
+R2	ElementOf Arg1:T7 Arg2:T24	

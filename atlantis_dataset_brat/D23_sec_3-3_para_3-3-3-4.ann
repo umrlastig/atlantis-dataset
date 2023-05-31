@@ -1,0 +1,120 @@
+T1	geogFeat 74 88	Chenal d’accès
+T2	geogFeat 112 128	bouées latérales
+T3	geogFeat 131 140	Sémaphore
+T4	geogFeat 182 203	Stations de sauvetage
+T6	geogFeat 397 403	places
+T7	geogFeat 425 432	bassins
+T8	geogFeat 435 459	Installations portuaires
+T9	geogFeat 472 476	ÎLES
+T10	geogFeat 529 535	Bassin
+T11	geogFeat 568 579	appontement
+T12	geogFeat 630 635	rives
+T13	geogFeat 641 646	quais
+T14	geogFeat 678 683	jetée
+T15	geogFeat 729 735	Bassin
+T16	geogFeat 773 778	jetée
+T17	geogFeat 797 808	appontement
+T18	geogFeat 824 831	pontons
+T19	geogFeat 863 868	jetée
+T20	geogFeat 874 881	pontons
+T21	geogFeat 919 930	appontement
+T22	geogFeat 1035 1041	ponton
+T23	geogFeat 1070 1076	ponton
+T24	geogFeat 1121 1128	pontons
+T25	geogFeat 1135 1141	bassin
+T26	geogFeat 1143 1161	Coffres d’amarrage
+T27	geogFeat 1222 1228	bassin
+T28	geogFeat 1349 1360	supermarché
+T29	geogFeat 1367 1370	île
+T30	geogFeat 1395 1402	pontons
+T31	geogFeat 1404 1414	Sanitaires
+T32	geogFeat 1431 1443	capitainerie
+T33	geogFeat 1456 1468	capitainerie
+T34	geogFeat 1505 1508	Île
+T35	geogFeat 1534 1541	commune
+T36	geogFeat 1626 1638	Capitainerie
+T37	geogFeat 1844 1848	port
+T38	geogFeat 1850 1854	Port
+T39	geogFeat 1946 1958	capitainerie
+T40	geogFeat 2066 2077	débarcadère
+T41	geogFeat 2187 2199	capitainerie
+T42	geogFeat 2214 2218	Port
+T43	geogFeat 2353 2356	CAP
+T44	geogFeat 2368 2373	GOLFE
+T45	geogFeat 2390 2397	BOUCHES
+T46	name 142 151	Pertusato
+T47	name 243 252	Bonifacio
+T48	name 204 213	Propriano
+T49	name 282 295	Porto-Vecchio
+T50	name 477 484	LAVEZZI
+T51	name 536 540	Nord
+T52	name 736 739	Sud
+T53	name 1042 1043	C
+T54	name 1077 1078	E
+T55	name 1512 1519	Cavallo
+T56	name 1545 1554	Bonifacio
+T57	name 2052 2059	Cavallo
+T58	name 2082 2093	Piantarella
+T59	name 2222 2229	Cavallo
+T60	name 2360 2364	FENO
+T61	name 2377 2388	SANT’AMANZA
+T62	name 2401 2410	BONIFACIO
+T63	geogName 131 151	Sémaphore 😍Pertusato
+T65	geogName 472 484	ÎLES LAVEZZI
+T66	geogName 529 540	Bassin Nord
+T67	geogName 729 739	Bassin Sud
+T68	geogName 1505 1519	Île de Cavallo
+T69	geogName 1534 1554	commune de Bonifacio
+T70	geogName 2214 2229	Port de Cavallo
+T71	geogName 2353 2364	CAP DE FENO
+T72	geogName 2368 2388	GOLFE DE SANT’AMANZA
+T73	geogName 2390 2410	BOUCHES DE BONIFACIO
+T74	geogName 182 295	Stations de sauvetage Propriano (41° 40,56' N — 8° 54,09' E) Bonifacio (41° 23,31' N — 9° 09,73' E) Porto-Vecchio
+T76	geogName 2052 2059	Cavallo
+T77	geogName 2066 2093	débarcadère 😍de Piantarella
+T78	geogName 1070 1078	ponton E
+T79	geogName 1035 1043	ponton C
+R1	MarkedBy Arg1:T1 Arg2:T2	
+R2	ElementOf Arg1:T28 Arg2:T29	
+T80	geogFeat 1287 1299	Shipchandler
+R3	ElementOf Arg1:T68 Arg2:T69	
+T81	geogFeat 1418 1425	douches
+R4	ElementOf Arg1:T81 Arg2:T32	
+R5	ElementOf Arg1:T31 Arg2:T32	
+T75	name 581 582	G
+T82	geogName 568 583	appontement (G)
+T83	name 648 649	H
+T84	geogName 641 650	quais (H)
+T85	name 685 686	I
+T86	geogName 678 687	jetée (I)
+T88	name 833 834	A
+T89	name 838 839	B
+T90	geogName 824 840	pontons (A et B)
+T91	geogName 797 820	appontement central (F)
+T92	name 883 884	C
+T93	name 886 887	D
+T94	name 891 892	E
+T95	geogName 874 893	pontons (C, D et E)
+T96	name 809 820	central (F)
+T97	name 931 938	central
+T98	geogName 919 938	appontement central
+T99	geogFeat 1021 1025	face
+T100	name 1026 1031	Ouest
+T101	geogName 1021 1031	face Ouest
+T102	geogFeat 1050 1066	face 😍extérieure
+T103	name 1229 1232	Sud
+T104	geogName 1222 1232	bassin Sud
+T105	geogFeat 376 391	Infrastructures
+R6	SouthOf Arg1:T82 Arg2:T66	
+R7	EastOf Arg1:T12 Arg2:T66	
+R8	NorthOf Arg1:T84 Arg2:T66	
+R9	WestOf Arg1:T86 Arg2:T66	
+R10	SouthOf Arg1:T16 Arg2:T67	
+R11	EastOf Arg1:T16 Arg2:T67	
+R12	NorthOf Arg1:T91 Arg2:T67	
+R13	ElementOf Arg1:T101 Arg2:T79	
+R14	ElementOf Arg1:T102 Arg2:T78	
+R15	ElementOf Arg1:T24 Arg2:T25	
+R16	ElementOf Arg1:T26 Arg2:T104	
+R17	NorthOf Arg1:T12 Arg2:T66	
+R18	EastOf Arg1:T84 Arg2:T66	
