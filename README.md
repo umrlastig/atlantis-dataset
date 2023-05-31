@@ -42,12 +42,14 @@ The [our_split_jsonl](our_split_jsonl) directory contains the train, development
 | Entity labels          | 13582     | 1476    | 1719     | 16777     |
 | Relation labels        | 2507      | 222     | 322      | 3051      |
 
+### Entity Label Count
 | Label              | Train nb. | Dev nb. | Test nb. | Total nb. |
 |--------------------|-----------|---------|----------|-----------|
 | geographic feature | 6602      | 692     | 801      | 8095      |
 | name               | 3486      | 391     | 462      | 4339      |
 | geographic name    | 3494      | 393     | 456      | 4343      |
 
+### Relation Label Count
 | Label               | Train nb. | Dev nb. | Test nb. | Total nb. |
 |---------------------|-----------|---------|----------|-----------|
 | is an element of    | 1300      | 109     | 190      | 1599      |
