@@ -16,6 +16,7 @@ We use three labels to annotate unnamed and named nested spatial entities:
 - **geographic feature** refers to common nouns that represent types of spatial entities
 - **name** refers to pure proper nouns
 - **geographic name** refers to the full name associated with a geographic feature
+
 A token cannot be annotated only with the **name** label. A token cannot be annotated with both the **geographic feature** label and the **name** label. Any token can be annotated zero or more times with the **geographic name**.
 
 ### Binary Spatial Relations
@@ -23,7 +24,8 @@ We use 19 labels to annotate binary spatial relations:
 - **is off the coast of** refers to an entity that is off the coast of another (it is always referred to using the same words in French in our dataset: ``au large de'')
 - **is marked by** refers to an entity that is marked by another (usually a sea mark such as a buoy or a beacon)
 - **is an element of** refers to an entity that is situated on or in another such that a bird's eye view shows the spatial footprint of one as being within or partly within the other
-- **is [direction] of** refers to an entity that is in any one of 16 cardinal directions with respect to another (the 16 relations include four that use the cardinal directions (N, E, S, W), four that use the intercardinal directions (NE, SE, SW, NW) and eight that use the secondary intercardinal directions (NNE, ENE, ESE, SSE, SSW, WSW, NWN, NNW))
+- **is [direction] of** refers to an entity that is in any one of 16 cardinal directions with respect to another: the 16 relations include four that use the cardinal directions (N, E, S, W), four that use the intercardinal directions (NE, SE, SW, NW) and eight that use the secondary intercardinal directions (NNE, ENE, ESE, SSE, SSW, WSW, NWN, NNW)
+
 All relation annotations must link two entity annotations with the exception of **name** entity labels, which cannot be part of relation annotations. All relation annotations must have a direction.
 
 ## Repository Content
