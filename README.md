@@ -93,7 +93,7 @@ This work was granted access to the HPC resources of IDRIS under the allocation 
 ### Results
 Mean micro F1-score with standard deviation over five runs for varying context window ($W$) sizes for: entity extraction [ent], relation extraction [rel] from gold entity annotations, and end-to-end entity and relation extraction [e2e] from best predicted entity annotations ($W=248$ for monolingual, $W=200$ for multilingual). For each task, the highest F1-score over all context window sizes for each base encoder is in **bold**, and the overall highest F1-score over all context window sizes and both base encoders is underlined.
 
-| Context Window | F1 [ent] / Mono.         | F1 [ent] / Multi.                    | F1 [rel] / Mono.                     | F1 [rel] / Multi.        | F1 [e2e] / Mono.                     | F1 [e2e] / Multi.        |
+| Context Window | Entity / Mono.        | Entity / Multi.                   | Relation / Mono.                  | Relation / Multi.     | e2e / Mono.                       | e2e / Multi.          |
 |----------------|-----------------------|-----------------------------------|-----------------------------------|-----------------------|-----------------------------------|-----------------------|
 | $W=0$          | $91.1\pm0.3$          | $91.9\pm0.2$                      | $\underline{\textbf{64.2}}\pm2.2$ | $\textbf{63.2}\pm1.0$ | $\underline{\textbf{63.9}}\pm2.2$ | $\textbf{63.2}\pm1.2$ |
 | $W=50$         | $92.1\pm0.2$          | $92.3\pm0.3$                      | $64.2\pm1.4$                      | $63.0\pm1.7$          | $63.8\pm1.4$                      | $63.1\pm1.7$          |
@@ -101,9 +101,13 @@ Mean micro F1-score with standard deviation over five runs for varying context w
 | $W=150$        | $91.9\pm0.2$          | $92.2\pm0.2$                      | -                                 | -                     | -                                 | -                     |
 | $W=200$        | $92.0\pm0.2$          | $\underline{\textbf{92.3}}\pm0.2$ | -                                 | -                     | -                                 | -                     |
 | $W=248$        | $\textbf{92.2}\pm0.2$ | $92.3\pm0.2$                      | -                                 | -                     | -                                 | -                     |
-[Prec.|Rec.|F1] [ent] gives the mean [precision|recall|micro F1-score] over five runs for entity extraction for each entity label using the context window that gives the best overall results ($W=248$ for monolingual, $W=200$ for multilingual). [Prec.|Rec.|F1] [rel] gives the mean [precision|recall|micro F1-score] over five runs for relation extraction for each relation label from gold entity annotations using the context window that gives the best overall results ($W=0$ for monolingual and for multilingual). For each task, the highest precision, recall and F1-score over both base encoders is in **bold**.
 
-| Label                 | Prec. [ent|rel] / Mono. | Prec. [ent|rel] / Multi. | Rec. [ent|rel] / Mono. | Rec. [ent|rel] / Multi. | F1 [ent|rel] / Mono. | F1 [ent/rel] Multi. |
+[Prec.|Rec.|F1] [Mono.|Multi] gives the mean [precision|recall|micro F1-score] for the [monolingual|multilingual] model over five runs for:
+- entity extraction for each entity label using the context window that gives the best overall results ($W=248$ for monolingual, $W=200$ for multilingual)
+- relation extraction for each relation label from gold entity annotations using the context window that gives the best overall results ($W=0$ for monolingual and for multilingual)
+For each task, the highest precision, recall and micro F1-score over both base encoders is in **bold**.
+
+| Label                 | Prec. / Mono. | Prec. / Multi. | Rec. / Mono. | Rec. / Multi. | F1 / Mono. | F1 / Multi. |
 |-----------------------|-------------------------|--------------------------|-------------------------|------------------|------------------|-------------------|
 | _all entity labels_   | 94.6                    | **95.2**                     | **89.8**                    | 89.6             | 92.2             | **92.3**              |
 | geographic feature    | 94.1                    | 94.4                     | 95.8                    | 95.1             | 95.0             | 94.8              |
@@ -130,9 +134,9 @@ Mean micro F1-score with standard deviation over five runs for varying context w
 | is NW of              | 67.3                    | 87.4                     | 35.0                    | 50.0             | 45.7             | 63.0              |
 | is NNW of             | 61.7                    | 64.1                     | 44.0                    | 40.0             | 51.1             | 49.0              |
 
- [Prec.|Rec.|F1] [e2e] gives the mean [precision|recall|micro F1-score] over five runs for end-to-end entity and relation extraction for each relation label from the best predicted entity annotations using the context window that gives the best overall results ($W=0$ for monolingual and for multilingual). The highest precision, recall and F1-score over both base encoders is in **bold**.
+ [Prec.|Rec.|F1] [Mono.|Multi] gives the mean [precision|recall|micro F1-score] for the [monolingual|multilingual] model over five runs for end-to-end entity and relation extraction for each relation label from the best predicted entity annotations using the context window that gives the best overall results ($W=0$ for monolingual and for multilingual). The highest precision, recall and F1-score over both base encoders is in **bold**.
 
-| Label                 | Prec. [e2e] / Mono. | Prec. [e2e] / Multi. | Rec. [e2e] / Mono. | Rec. [e2e] / Multi. | F1 [e2e] / Mono. | F1 [e2e] / Multi. |
+| Label                 | Prec. / Mono. | Prec. / Multi. | Rec. / Mono. | Rec. / Multi. | F1 / Mono. | F1 / Multi. |
 |-----------------------|---------------------|----------------------|--------------------|---------------------|------------------|-------------------|
 | _all relation labels_ | **70.2**            | 67.3                 | 58.8               | **59.8**            | **63.9**             | 63.2              |
 | is an element of      | 70.2                | 68.2                 | 60.2               | 60.2                | 64.8             | 63.9              |
