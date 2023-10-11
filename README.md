@@ -91,50 +91,50 @@ This work was granted access to the HPC resources of IDRIS under the allocation 
 | Train batch size   | 16           | 32             |
 | Training epochs    | 100          | 10             |
 ### Results
-Mean micro F1-score with standard deviation over five runs for varying context window ($W$) sizes for: entity extraction [ent], relation extraction [rel] from gold entity annotations, and end-to-end entity and relation extraction [e2e] from best predicted entity annotations ($W=248$ for monolingual, $W=200$ for multilingual). For each task, the highest F1-score over all context window sizes for each base encoder is in **bold**, and the overall highest F1-score over all context window sizes and both base encoders is underlined.
+Mean micro F1-score with standard deviation over five runs for varying context window ($W$) sizes for: entity extraction [ent], relation extraction [rel] from gold entity annotations, and end-to-end entity and relation extraction [e2e] from best predicted entity annotations ($W=248$ for monolingual, $W=200$ for multilingual). For each task, the highest F1-score over all context window sizes for each base encoder is in **bold**, and the overall highest F1-score over all context window sizes and both base encoders is indicated with an asterisk (*).
 
-| Context Window | Entity / Mono.        | Entity / Multi.                   | Relation / Mono.                  | Relation / Multi.     | e2e / Mono.                       | e2e / Multi.          |
-|----------------|-----------------------|-----------------------------------|-----------------------------------|-----------------------|-----------------------------------|-----------------------|
-| $W=0$          | $91.1\pm0.3$          | $91.9\pm0.2$                      | $\underline{\textbf{64.2}}\pm2.2$ | $\textbf{63.2}\pm1.0$ | $\underline{\textbf{63.9}}\pm2.2$ | $\textbf{63.2}\pm1.2$ |
-| $W=50$         | $92.1\pm0.2$          | $92.3\pm0.3$                      | $64.2\pm1.4$                      | $63.0\pm1.7$          | $63.8\pm1.4$                      | $63.1\pm1.7$          |
-| $W=100$        | $91.9\pm0.2$          | $92.3\pm0.2$                      | $63.7\pm0.7$                      | $62.9\pm0.7$          | $63.6\pm0.7$                      | $62.9\pm0.8$          |
-| $W=150$        | $91.9\pm0.2$          | $92.2\pm0.2$                      | -                                 | -                     | -                                 | -                     |
-| $W=200$        | $92.0\pm0.2$          | $\underline{\textbf{92.3}}\pm0.2$ | -                                 | -                     | -                                 | -                     |
-| $W=248$        | $\textbf{92.2}\pm0.2$ | $92.3\pm0.2$                      | -                                 | -                     | -                                 | -                     |
-
-[Prec.|Rec.|F1] [Mono.|Multi] gives the mean [precision|recall|micro F1-score] for the [monolingual|multilingual] model over five runs for:
+| Context Window | Entity / Mono. | Entity / Multi. | Relation / Mono. | Relation / Multi. | e2e / Mono.     | e2e / Multi.   |
+|----------------|----------------|-----------------|------------------|-------------------|-----------------|----------------|
+| $W$=0          | 91.1±0.3     | 91.9±0.2      | **64.2***±2.2  | **63.2**±1.0    | **63.9***±2.2 | **63.2**±1.2 |
+| $W$=50         | 92.1±0.2     | 92.3±0.3      | 64.2±1.4       | 63.0±1.7        | 63.8±1.4      | 63.1±1.7     |
+| $W$=100        | 91.9±0.2     | 92.3±0.2      | 63.7±0.7       | 62.9±0.7        | 63.6±0.7      | 62.9±0.8     |
+| $W$=150        | 91.9±0.2     | 92.2±0.2      | -                | -                 | -               | -              |
+| $W$=200        | 92.0±0.2     | **92.3***±0.2 | -                | -                 | -               | -              |
+| $W$=248        | **92.2**±0.2 | 92.3±0.2      | -                | -                 | -               | -              |
+\[Prec.|Rec.|F1\] \[Mono.|Multi\] gives the mean [precision|recall|micro F1-score] for the [monolingual|multilingual] model over five runs for:
 - entity extraction for each entity label using the context window that gives the best overall results ($W=248$ for monolingual, $W=200$ for multilingual)
 - relation extraction for each relation label from gold entity annotations using the context window that gives the best overall results ($W=0$ for monolingual and for multilingual)
+
 For each task, the highest precision, recall and micro F1-score over both base encoders is in **bold**.
 
 | Label                 | Prec. / Mono. | Prec. / Multi. | Rec. / Mono. | Rec. / Multi. | F1 / Mono. | F1 / Multi. |
-|-----------------------|-------------------------|--------------------------|-------------------------|------------------|------------------|-------------------|
-| _all entity labels_   | 94.6                    | **95.2**                     | **89.8**                    | 89.6             | 92.2             | **92.3**              |
-| geographic feature    | 94.1                    | 94.4                     | 95.8                    | 95.1             | 95.0             | 94.8              |
-| name                  | 97.7                    | 97.4                     | 78.0                    | 78.4             | 86.7             | 86.9              |
-| geographic name       | 92.9                    | 94.9                     | 91.3                    | 91.4             | 92.1             | 93.1              |
-| _all relation labels_ | **70.8**                    | 67.2                     | 58.8                    | **59.9**             | **64.2**             | 63.2              |
-| is an element of      | 70.5                    | 67.9                     | 60.2                    | 60.3             | 64.9             | 63.8              |
-| is marked by          | 64.9                    | 55.1                     | 51.8                    | 49.4             | 57.5             | 50.8              |
-| is off the coast of   | 100.0                   | 100.0                    | 100.0                   | 100.0            | 100.0            | 100.0             |
-| is N of               | 48.6                    | 39.8                     | 52.5                    | 50.0             | 49.9             | 44.2              |
-| is NNE of             | 76.7                    | 37.3                     | 73.3                    | 53.3             | 74.1             | 43.3              |
-| is NE of              | 95.0                    | 100.0                    | 64.0                    | 60.0             | 76.1             | 75.0              |
-| is ENE of             | 83.0                    | 93.3                     | 63.3                    | 83.3             | 71.6             | 87.9              |
-| is E of               | 62.5                    | 57.1                     | 45.5                    | 41.8             | 52.6             | 48.1              |
-| is ESE of             | 73.4                    | 71.1                     | 55.4                    | 66.2             | 62.6             | 67.8              |
-| is SE of              | 90.0                    | 60.0                     | 100.0                   | 100.0            | 93.3             | 73.3              |
-| is SSE of             | 73.7                    | 81.3                     | 73.3                    | 66.7             | 68.8             | 69.3              |
-| is S of               | 84.7                    | 82.1                     | 71.7                    | 81.7             | 77.3             | 81.1              |
-| is SSW of             | 87.4                    | 74.1                     | 68.6                    | 85.7             | 76.0             | 79.3              |
-| is SW of              | 0.0                     | 0.0                      | 0.0                     | 0.0              | 0.0              | 0.0               |
-| is WSW of             | 92.0                    | 83.6                     | 66.7                    | 70.0             | 77.1             | 75.3              |
-| is W of               | 79.3                    | 80.4                     | 65.5                    | 60.0             | 71.3             | 68.0              |
-| is WNW of             | 100.0                   | 89.3                     | 88.0                    | 88.0             | 93.3             | 87.9              |
-| is NW of              | 67.3                    | 87.4                     | 35.0                    | 50.0             | 45.7             | 63.0              |
-| is NNW of             | 61.7                    | 64.1                     | 44.0                    | 40.0             | 51.1             | 49.0              |
+|-----------------------|---------------|----------------|--------------|---------------|------------|-------------|
+| _all entity labels_   | 94.6          | **95.2**       | **89.8**     | 89.6          | 92.2       | **92.3**    |
+| geographic feature    | 94.1          | 94.4           | 95.8         | 95.1          | 95.0       | 94.8        |
+| name                  | 97.7          | 97.4           | 78.0         | 78.4          | 86.7       | 86.9        |
+| geographic name       | 92.9          | 94.9           | 91.3         | 91.4          | 92.1       | 93.1        |
+| _all relation labels_ | **70.8**      | 67.2           | 58.8         | **59.9**      | **64.2**   | 63.2        |
+| is an element of      | 70.5          | 67.9           | 60.2         | 60.3          | 64.9       | 63.8        |
+| is marked by          | 64.9          | 55.1           | 51.8         | 49.4          | 57.5       | 50.8        |
+| is off the coast of   | 100.0         | 100.0          | 100.0        | 100.0         | 100.0      | 100.0       |
+| is N of               | 48.6          | 39.8           | 52.5         | 50.0          | 49.9       | 44.2        |
+| is NNE of             | 76.7          | 37.3           | 73.3         | 53.3          | 74.1       | 43.3        |
+| is NE of              | 95.0          | 100.0          | 64.0         | 60.0          | 76.1       | 75.0        |
+| is ENE of             | 83.0          | 93.3           | 63.3         | 83.3          | 71.6       | 87.9        |
+| is E of               | 62.5          | 57.1           | 45.5         | 41.8          | 52.6       | 48.1        |
+| is ESE of             | 73.4          | 71.1           | 55.4         | 66.2          | 62.6       | 67.8        |
+| is SE of              | 90.0          | 60.0           | 100.0        | 100.0         | 93.3       | 73.3        |
+| is SSE of             | 73.7          | 81.3           | 73.3         | 66.7          | 68.8       | 69.3        |
+| is S of               | 84.7          | 82.1           | 71.7         | 81.7          | 77.3       | 81.1        |
+| is SSW of             | 87.4          | 74.1           | 68.6         | 85.7          | 76.0       | 79.3        |
+| is SW of              | 0.0           | 0.0            | 0.0          | 0.0           | 0.0        | 0.0         |
+| is WSW of             | 92.0          | 83.6           | 66.7         | 70.0          | 77.1       | 75.3        |
+| is W of               | 79.3          | 80.4           | 65.5         | 60.0          | 71.3       | 68.0        |
+| is WNW of             | 100.0         | 89.3           | 88.0         | 88.0          | 93.3       | 87.9        |
+| is NW of              | 67.3          | 87.4           | 35.0         | 50.0          | 45.7       | 63.0        |
+| is NNW of             | 61.7          | 64.1           | 44.0         | 40.0          | 51.1       | 49.0        |
 
- [Prec.|Rec.|F1] [Mono.|Multi] gives the mean [precision|recall|micro F1-score] for the [monolingual|multilingual] model over five runs for end-to-end entity and relation extraction for each relation label from the best predicted entity annotations using the context window that gives the best overall results ($W=0$ for monolingual and for multilingual). The highest precision, recall and F1-score over both base encoders is in **bold**.
+\[Prec.|Rec.|F1\] \[Mono.|Multi\] gives the mean \[precision|recall|micro F1-score\] for the \[monolingual|multilingual\] model over five runs for end-to-end entity and relation extraction for each relation label from the best predicted entity annotations using the context window that gives the best overall results ($W$=0 for monolingual and for multilingual). The highest precision, recall and F1-score over both base encoders is in **bold**.
 
 | Label                 | Prec. / Mono. | Prec. / Multi. | Rec. / Mono. | Rec. / Multi. | F1 / Mono. | F1 / Multi. |
 |-----------------------|---------------------|----------------------|--------------------|---------------------|------------------|-------------------|
