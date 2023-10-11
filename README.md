@@ -101,6 +101,7 @@ Mean micro F1-score with standard deviation over five runs for varying context w
 | $W$=150        | 91.9±0.2     | 92.2±0.2      | -                | -                 | -               | -              |
 | $W$=200        | 92.0±0.2     | **92.3***±0.2 | -                | -                 | -               | -              |
 | $W$=248        | **92.2**±0.2 | 92.3±0.2      | -                | -                 | -               | -              |
+
 \[Prec.|Rec.|F1\] \[Mono.|Multi\] gives the mean [precision|recall|micro F1-score] for the [monolingual|multilingual] model over five runs for:
 - entity extraction for each entity label using the context window that gives the best overall results ($W=248$ for monolingual, $W=200$ for multilingual)
 - relation extraction for each relation label from gold entity annotations using the context window that gives the best overall results ($W=0$ for monolingual and for multilingual)
