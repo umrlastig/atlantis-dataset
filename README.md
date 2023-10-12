@@ -91,7 +91,8 @@ This work was granted access to the HPC resources of IDRIS under the allocation 
 | Train batch size   | 16           | 32             |
 | Training epochs    | 100          | 10             |
 ### Results
-Mean micro F1-score with standard deviation over five runs for varying context window ($W$) sizes for: entity extraction, relation extraction from gold entity annotations, and end-to-end entity and relation extraction (e2e) from best predicted entity annotations ($W=248$ for monolingual, $W$ =200 for multilingual). For each task, the highest F1-score over all context window sizes for each base encoder is in **bold**, and the overall highest F1-score over all context window sizes and both base encoders is indicated with an asterisk (*).
+#### F1-Scores for Varying Context Window Sizes
+Mean micro F1-score with standard deviation over five runs for varying context window ($W$) sizes for: entity extraction, relation extraction from gold entity annotations, and end-to-end entity and relation extraction (e2e) from best predicted entity annotations ($W$ = 248 for monolingual, $W$ = 200 for multilingual). For each task, the highest F1-score over all context window sizes for each base encoder is in **bold**, and the overall highest F1-score over all context window sizes and both base encoders is indicated with an asterisk (*).
 
 | Context Window | Entity / Mono. | Entity / Multi. | Relation / Mono. | Relation / Multi. | e2e / Mono.     | e2e / Multi.   |
 |----------------|----------------|-----------------|------------------|-------------------|-----------------|----------------|
@@ -102,11 +103,8 @@ Mean micro F1-score with standard deviation over five runs for varying context w
 | $W$=200        | 92.0 ± 0.2     | **92.3*** ± 0.2 | -                | -                 | -               | -              |
 | $W$=248        | **92.2** ± 0.2 | 92.3 ± 0.2      | -                | -                 | -               | -              |
 
-\[Prec.|Rec.|F1\] / \[Mono.|Multi\] gives the mean [precision|recall|micro F1-score] for the [monolingual|multilingual] model over five runs for:
-- entity extraction for each entity label using the context window that gives the best overall results ($W$ = 248 for monolingual, $W$ = 200 for multilingual)
-- relation extraction for each relation label from gold entity annotations using the context window that gives the best overall results ($W$ = 0 for monolingual and for multilingual)
-
-For each task, the highest precision, recall and micro F1-score for all entity labels and for all relation labels over both base encoders is in **bold**.
+#### Detailed Nested Entity Extraction Results
+\[Prec.|Rec.|F1\] / \[Mono.|Multi\] gives the mean [precision|recall|micro F1-score] for the [monolingual|multilingual] model over five runs for entity extraction for each entity label using the context window that gives the best overall results ($W$ = 248 for monolingual, $W$ = 200 for multilingual). For each task, the highest precision, recall and micro F1-score for all entity labels and for all relation labels over both base encoders is in **bold**.
 
 | Label                 | Prec. / Mono. | Prec. / Multi. | Rec. / Mono. | Rec. / Multi. | F1 / Mono. | F1 / Multi. |
 |-----------------------|---------------|----------------|--------------|---------------|------------|-------------|
@@ -114,6 +112,11 @@ For each task, the highest precision, recall and micro F1-score for all entity l
 | geographic feature    | 94.1          | 94.4           | 95.8         | 95.1          | 95.0       | 94.8        |
 | name                  | 97.7          | 97.4           | 78.0         | 78.4          | 86.7       | 86.9        |
 | geographic name       | 92.9          | 94.9           | 91.3         | 91.4          | 92.1       | 93.1        |
+#### Detailed Binary Relation Extraction Results
+\[Prec.|Rec.|F1\] / \[Mono.|Multi\] gives the mean [precision|recall|micro F1-score] for the [monolingual|multilingual] model over five runs for relation extraction for each relation label from gold entity annotations using the context window that gives the best overall results ($W$ = 0 for monolingual and for multilingual). For each task, the highest precision, recall and micro F1-score for all entity labels and for all relation labels over both base encoders is in **bold**.
+
+| Label                 | Prec. / Mono. | Prec. / Multi. | Rec. / Mono. | Rec. / Multi. | F1 / Mono. | F1 / Multi. |
+|-----------------------|---------------|----------------|--------------|---------------|------------|-------------|
 | _all relation labels_ | **70.8**      | 67.2           | 58.8         | **59.9**      | **64.2**   | 63.2        |
 | is an element of      | 70.5          | 67.9           | 60.2         | 60.3          | 64.9       | 63.8        |
 | is marked by          | 64.9          | 55.1           | 51.8         | 49.4          | 57.5       | 50.8        |
@@ -134,7 +137,7 @@ For each task, the highest precision, recall and micro F1-score for all entity l
 | is WNW of             | 100.0         | 89.3           | 88.0         | 88.0          | 93.3       | 87.9        |
 | is NW of              | 67.3          | 87.4           | 35.0         | 50.0          | 45.7       | 63.0        |
 | is NNW of             | 61.7          | 64.1           | 44.0         | 40.0          | 51.1       | 49.0        |
-
+#### Detailed End-to-End Entity and Relation Extraction Results
 \[Prec.|Rec.|F1\] / \[Mono.|Multi\] gives the mean \[precision|recall|micro F1-score\] for the \[monolingual|multilingual\] model over five runs for end-to-end entity and relation extraction for each relation label from the best predicted entity annotations using the context window that gives the best overall results ($W$ = 0 for monolingual and for multilingual). The highest precision, recall and F1-score for all relation labels over both base encoders is in **bold**.
 
 | Label                 | Prec. / Mono. | Prec. / Multi. | Rec. / Mono. | Rec. / Multi. | F1 / Mono. | F1 / Multi. |
