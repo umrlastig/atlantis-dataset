@@ -1,7 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10568801.svg)](https://doi.org/10.5281/zenodo.10568801)
+
 # ATLANTIS Dataset
 This repository contains the ATLANTIS (coAsTaL mAritime NavigaTion InstructionS) dataset files and our benchmark results on this dataset.
-
-This work is co-financed by the Shom and the IGN and is being carried out at the LASTIG, a research unit at Université Gustave Eiffel.
 
 Under no circumstances should any part of this work be used for real-life navigation.
 
@@ -162,6 +162,9 @@ Mean micro F1-score with standard deviation over five runs for varying context w
 | is WNW of             | 100.0               | 89.3                 | 88.0               | 88.0                | 93.3             | 87.9              |
 | is NW of              | 80.0                | 87.4                 | 35.0               | 50.0                | 47.0             | 63.0              |
 | is NNW of             | 63.5                | 64.1                 | 44.0               | 40.0                | 51.8             | 49.0              |
+
+## Acknowledgements
+This work was co-financed by the Shom and the IGN and was carried out at the LASTIG, a research unit at Université Gustave Eiffel.
 
 ## Licence
 The content of this repository is licenced under the Etalab Open License Version 2.0 and the CC BY 4.0 licence.
